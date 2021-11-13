@@ -8,7 +8,7 @@ https://cast.requestradio.in.th:840/;?_=0.3042229349087462
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/mv.png" group-title="ຊ່ອງລາວ Lao TV", MVLAO
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/mv.png" group-title="ຊ່ອງລາວ Lao TV", MVLAO (720p)
 https://edge6a.v2h-cdn.com/m2h7/MVLAO.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01.png" group-title="ວິທະຍຸລາວ Lao Radio", FM94
@@ -28,67 +28,67 @@ https://rfahls-i.akamaihd.net/hls/live/226234/RFALive_3/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch5.jpg" group-title="DigitalTV, TV5 HD1
-http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch5.jpg" group-title="DigitalTV, TV5 HD1 (720p)
+https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/nbt2hd.png" group-title="DigitalTV, NBT 2
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/nbt2hd.png" group-title="DigitalTV, NBT 2 (1080p)
 https://thainews.prd.go.th/lv/live/ch1_L.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/thaipbs.jpg" group-title="DigitalTV, TPBS 3
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/thaipbs.jpg" group-title="DigitalTV, TPBS 3 (1080p)
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/altv.png" group-title="DigitalTV, ALTV 4
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/altv.png" group-title="DigitalTV, ALTV 4 (1080p)
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/tptv.png" group-title="DigitalTV, TPTV รัฐสภา  10
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/tptv.png" group-title="DigitalTV, TPTV 10 (576p)
 http://host4.dynns.com/stream/e1464d4ef4aa4bbc972073bb4ebe17fd.m3u8
 
-#EXTINF:-1 tvg-logo="http://mplandtvguide.nbtc.go.th/mplan/img/logo/logo_16.jpg" group-title="DigitalTV, TNN 16 
+#EXTINF:-1 tvg-logo="http://mplandtvguide.nbtc.go.th/mplan/img/logo/logo_16.jpg" group-title="DigitalTV, TNN 16 (540)
 https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png" group-title="DigitalTV, JKN 18 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png" group-title="DigitalTV, JKN 18 (720p)
 https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/nation-tv.jpg" group-title="DigitalTV, Nation TV 22
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/nation-tv.jpg" group-title="DigitalTV, Nation TV 22 (720p)
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/workpoint-tv.jpg" group-title="DigitalTV, Workpoint 23
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/workpoint-tv.jpg" group-title="DigitalTV, Workpoint 23 (720p)
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/true4u.jpg" group-title="DigitalTV, True4U 24
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/true4u.jpg" group-title="DigitalTV, True4U 24 (720p)
 https://tnnthailand-msqo7x.cdn.byteark.com/live/pl_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/gmm25.jpg" group-title="DigitalTV, GMM 25
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/gmm25.jpg" group-title="DigitalTV, GMM 25 (720p)
 http://live2.dootvde.com/live/50018_gmm.stream.smil/chunklist_w642395843_b4692000_slThai.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg" group-title="DigitalTV, CH8 27
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg" group-title="DigitalTV, CH8 27 (540p)
 https://freelive2.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/mono29.jpg" group-title="DigitalTV, MONO 29
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/mono29.jpg" group-title="DigitalTV, MONO 29 (720p)
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/chunklist_w1617953411.m3u8
 
-#EXTINF:-1  tvg-id="MONO29 EN" group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29 EN
+#EXTINF:-1  tvg-id="MONO29 EN" group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29 EN (480p)
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080EN.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch9.jpg" group-title="DigitalTV, MCOTHD 30
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch9.jpg" group-title="DigitalTV, MCOTHD 30 (720p)
 http://live2.dootvde.com/live/50004_ch9.stream.smil/chunklist_w1187984951_b4692000_slThai.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/gmm-one.jpg" group-title="DigitalTV, ONE 31 
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/gmm-one.jpg" group-title="DigitalTV, ONE 31 (720p)
+http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/thairath-tv.jpg" group-title="DigitalTV,ไทยรัฐทีวี  32
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/thairath-tv.jpg" group-title="DigitalTV,ไทยรัฐทีวี   32 (240p)
 https://live.thairath.co.th/trtv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/3hd.png" group-title="DigitalTV, CH3HD 33
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/3hd.png" group-title="DigitalTV, CH3HD 33 (720p)
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/amarin-tv.jpg" group-title="DigitalTV, AmarinHD TV 34
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/amarin-tv.jpg" group-title="DigitalTV, AmarinHD TV 34 (720p)
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/chunklist_w1526294582_b4692000_slThai.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch7hd.jpg" group-title="DigitalTV, CH7HD 35
-https://bcovlive-a.akamaihd.net/efdfa4b2dfc54cb38fdb120d52973e95/ap-southeast-1/5282994675001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch7hd.jpg" group-title="DigitalTV, CH7HD 35 (720p)
+https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/pptv-hd.jpg" group-title="DigitalTV, PPTVHD 36
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/pptv-hd.jpg" group-title="DigitalTV, PPTVHD 36 (720p)
 
 http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8
 
