@@ -14,81 +14,81 @@ https://edge6a.v2h-cdn.com/m2h7/MVLAO.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01.png" group-title="ວິທະຍຸລາວ Lao Radio", FM94
 https://radio.lnr.org.la/fm94
 
-#EXTINF:-1 tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01.png" group-title="ວິທະຍຸລາວ Lao Radio, FM103
+#EXTINF:-1 tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01.png" group-title="ວິທະຍຸລາວ Lao Radio", FM103
 https://radio.lnr.org.la/fm103
 
-#EXTINF:-1 tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01.png" group-title="ວິທະຍຸລາວ Lao Radio, AM 567-6130 KHZ
+#EXTINF:-1 tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01.png" group-title="ວິທະຍຸລາວ Lao Radio", AM 567-6130 KHZ
 https://radio.lnr.org.la/am
 
-#EXTINF:-1 tvg-logo="http://lsr.com.la/wp-content/uploads/2013/04/lsr-logo.png" group-title="ວິທະຍຸລາວ Lao Radio, ວິທະຍຸ ປກສ
+#EXTINF:-1 tvg-logo="http://lsr.com.la/wp-content/uploads/2013/04/lsr-logo.png" group-title="ວິທະຍຸລາວ Lao Radio", ວິທະຍຸ ປກສ
 http://lnwradio.hostsevenplus.com/9654/player.php?1634745597447
 
-#EXTINF:-1 tvg-logo="https://www.rfa.org/++theme++lao/rfalogo.png" group-title="ວິທະຍຸລາວ Lao Radio,  ວິທະຍຸ ເອເຊຍເສຣີ
+#EXTINF:-1 tvg-logo="https://www.rfa.org/++theme++lao/rfalogo.png" group-title="ວິທະຍຸລາວ Lao Radio",  ວິທະຍຸ ເອເຊຍເສຣີ
 https://rfahls-i.akamaihd.net/hls/live/226234/RFALive_3/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch5.jpg" group-title="DigitalTV, TV5 HD1 (720p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch5.jpg" group-title="DigitalTV", TV5 HD1 (720p)
 https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/nbt2hd.png" group-title="DigitalTV, NBT 2 (1080p)
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/nbt2hd.png" group-title="DigitalTV", NBT 2 (1080p)
 https://thainews.prd.go.th/lv/live/ch1_L.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/thaipbs.jpg" group-title="DigitalTV, TPBS 3 (1080p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/thaipbs.jpg" group-title="DigitalTV", TPBS 3 (1080p)
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/altv.png" group-title="DigitalTV, ALTV 4 (1080p)
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/altv.png" group-title="DigitalTV", ALTV 4 (1080p)
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/tptv.png" group-title="DigitalTV, TPTV 10 (576p)
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/tptv.png" group-title="DigitalTV", TPTV 10 (576p)
 http://host4.dynns.com/stream/e1464d4ef4aa4bbc972073bb4ebe17fd.m3u8
 
-#EXTINF:-1 tvg-logo="http://mplandtvguide.nbtc.go.th/mplan/img/logo/logo_16.jpg" group-title="DigitalTV, TNN 16 (540)
+#EXTINF:-1 tvg-logo="http://mplandtvguide.nbtc.go.th/mplan/img/logo/logo_16.jpg" group-title="DigitalTV", TNN 16 (540)
 https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png" group-title="DigitalTV, JKN 18 (720p)
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png" group-title="DigitalTV", JKN 18 (720p)
 https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/nation-tv.jpg" group-title="DigitalTV, Nation TV 22 (720p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/nation-tv.jpg" group-title="DigitalTV", Nation TV 22 (720p)
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/workpoint-tv.jpg" group-title="DigitalTV, Workpoint 23 (720p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/workpoint-tv.jpg" group-title="DigitalTV", Workpoint 23 (720p)
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/true4u.jpg" group-title="DigitalTV, True4U 24 (720p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/true4u.jpg" group-title="DigitalTV", True4U 24 (720p)
 https://tnnthailand-msqo7x.cdn.byteark.com/live/pl_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/gmm25.jpg" group-title="DigitalTV, GMM 25 (720p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/gmm25.jpg" group-title="DigitalTV", GMM 25 (720p)
 http://live2.dootvde.com/live/50018_gmm.stream.smil/chunklist_w642395843_b4692000_slThai.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg" group-title="DigitalTV, CH8 27 (540p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg" group-title="DigitalTV", CH8 27 (540p)
 https://freelive2.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/mono29.jpg" group-title="DigitalTV, MONO 29 (720p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/mono29.jpg" group-title="DigitalTV", MONO 29 (720p)
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/chunklist_w1617953411.m3u8
 
-#EXTINF:-1  tvg-id="MONO29 EN" group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29 EN (480p)
+#EXTINF:-1  tvg-id="MONO29 EN" group-title="DigitalTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29 EN (480p)
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080EN.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch9.jpg" group-title="DigitalTV, MCOTHD 30 (720p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch9.jpg" group-title="DigitalTV", MCOTHD 30 (720p)
 http://live2.dootvde.com/live/50004_ch9.stream.smil/chunklist_w1187984951_b4692000_slThai.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/gmm-one.jpg" group-title="DigitalTV, ONE 31 (720p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/gmm-one.jpg" group-title="DigitalTV", ONE 31 (720p)
 http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/thairath-tv.jpg" group-title="DigitalTV,ไทยรัฐทีวี   32 (240p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/thairath-tv.jpg" group-title="DigitalTV",ไทยรัฐทีวี   32 (240p)
 https://live.thairath.co.th/trtv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/3hd.png" group-title="DigitalTV, CH3HD 33 (720p)
+#EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/3hd.png" group-title="DigitalTV", CH3HD 33 (720p)
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/amarin-tv.jpg" group-title="DigitalTV, AmarinHD TV 34 (720p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/amarin-tv.jpg" group-title="DigitalTV", AmarinHD TV 34 (720p)
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/chunklist_w1526294582_b4692000_slThai.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch7hd.jpg" group-title="DigitalTV, CH7HD 35 (720p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/ch7hd.jpg" group-title="DigitalTV", CH7HD 35 (720p)
 https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/pptv-hd.jpg" group-title="DigitalTV, PPTVHD 36 (720p)
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/pptv-hd.jpg" group-title="DigitalTV", PPTVHD 36 (720p)
 
 http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8
 
@@ -123,22 +123,75 @@ https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 #EXTINF:-1  tvg-id="DLTV15" group-title="Digital.TV" tvg-logo="https://dltv.ac.th/upload/data/channels/15_channel_logo.png",DLTV15 ภาษาต่างประเทศ
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
+#EXTINF:-1  tvg-id="N/A" group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/3/35/ETV_Logo.jpg",ETV SD
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-id="TOPNEWS" group-title="Thai TV" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR2v30.md.png",TOPNEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="Thai TV" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxmWne.md.png",NEWS1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",VoiceTV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u
 
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/new-tv.jpg" group-title="DigitalTV, TOPNEW
-https://scontent.fvte1-2.fna.fbcdn.net/v/t66.36240-6/10000000_210054397881181_6227226884273857101_n.mp4?_nc_cat=101&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6MjIyMywidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=Y6AZXZZpThYAX88c7I7&rl=1500&vabr=230&_nc_ht=scontent.fvte1-2.fna&oh=f30bc2beb12a1a77106ffa1e2009fd8c&oe=6176791F
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxembZ.md.png",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F19%2F2171eaf4-036c-4958-ac0f-9d170d1faedf.png&w=100&h=75" group-title="ຊ່ອງໜັງ, M Chanel
-http://27.254.142.207:8080/live/web.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://dl.dropbox.com/s/gi9xnnuhc5xw8hi/FWmov.png?dl=0",Fwmov
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ຊ່ອງໜັງ, Mix Major
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://dl.dropbox.com/s/5w0s0b4gnn7y05u/FWson.png?dl=0",Fwsov
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://sv1.picz.in.th/images/2021/10/03/CFS5Sq.png",Channel8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-024952.jpg",Warner TV
+http://203.154.243.89:1205
+
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062407.jpg",Zeenung
+https://freelive.inwstream.com:1936/freelive-edge/zeenang/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Movie", Mix Major
 https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="ກາຕູນ Kid" tvg-logo="N/A",BBC CBEEBIES
-https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="N/A" group-title="Movie", AsiChannel 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist_w1127755900.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="ກາຕູນ Kid" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif",Cartoon Club
+#EXTINF:-1 tvg-logo="N/A" group-title="Movie", AsiChannel 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8
+
+
+#EXTINF:-1 tvg-logo="N/A" group-title="Movie", AsiSeries 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8
+
+#EXTINF:-1 tvg-logo="N/A" group-title="Movie", AsiSeries 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist_w1310036100.m3u8
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກາຕູນ Kid" tvg-logo="http://www.onlinethailand.net/tv_online/images/boomerang.jpg",Boomerang (1080p)
+http://916309128f3e.sn.mynetname.net:1935/aslive/boomerang/chunklis_w157982604.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກາຕູນ Kid" tvg-logo="http://www.aiiztv.com/images/toonee.jpg",toonee (1080p)
+http://916309128f3e.sn.mynetname.net:1935/aslive/toonee/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກາຕູນ Kid" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif",Cartoon Club (272p)
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກາຕູນ Kid" tvg-logo=" ",EBD Kids TV (360p)
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກາຕູນ Kid" tvg-logo="N/A",BBC CBEEBIES (7020p)
+https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="ກາຕູນ Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-070534.jpg",Kuriakos kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
@@ -176,46 +229,34 @@ https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ກາຕູນ Kid" tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTAJaD.jpg",Nick Jr. Dora TV
 https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 15
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 15
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 1
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 2
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 3
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 4
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 5
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 6
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 7
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 8
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 9
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 10
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 11
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 12
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 13
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 14
-#EXTINF:-1 tvg-logo=" " group-title="DigitalTV, DLTV 15
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://  "group-title="ກາຕູນ Kid, KAKU
 http://223.110.243.239:80/PLTV/4/224/3221226305/index.m3u8?servicetype=1&icpid=88888888&from=1&hms_devid=6451
 
 
 
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://sv1.picz.in.th/images/2021/08/17/2HTU7l.jpg",animal
+http://916309128f3e.sn.mynetname.net:1935/aslive/news1/chunklist_Fuso_Uhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="ກິລາ Sports,bein SPORT1
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-110959.png",Discovery HD
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",CABLE 37 HD
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-23-112305.png",Smithsoniun
+http://203.154.177.124:8899/live/ch23/chunks.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-27-073833.jpg",Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://sv1.picz.in.th/images/2020/09/26/OPn0AQ.jpg",PSI SARADEE(สาระดี)
+https://freelive2.inwstream.com:1936/freelive-edge/saradee99/chunks.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="N/A",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8pHY8.jpg",สำรวจโลก
+http://203.159.95.172:8081/live/explore/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein1.jpg" group-title="ກິລາ Sports",bein SPORT1
 https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/bein2.jpg" group-title="ກິລາ Sports,bein SPORT2
@@ -285,6 +326,10 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct3dzb.jpg",Sony Ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 
 
 
