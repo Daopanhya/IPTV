@@ -369,6 +369,34 @@ https://live.goalclublive.com/goalclub_p4/foxsports1nl/chunks.m3u8?nimblesession
 #EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1232.png", Espn brazil
 https://live.goalclublive.com/goalclub_p4/espnbrazil/chunks.m3u8?nimblesessionid=17741190&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMToxOTo1NSBBTSZoYXNoX3ZhbHVlPWU2N2JGQ051UlNpVThyQThDQWEzV1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMiZpZD0xNzA2Nzc=
 
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--286.png", ZiggosportVoetbal
+https://live.goalclublive.com/goalclub_p4/ziggosportvoetbal/chunks.m3u8?nimblesessionid=17749167&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMjo1MzoyMSBQTSZoYXNoX3ZhbHVlPWNhaVhxRVNHcXNONFBieEo4OEkxaWc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOSZpZD0zODIyOTM=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--482.png", CmoreFootball
+https://live.goalclublive.com/goalclub_p4/cmorefootball/chunks.m3u8?nimblesessionid=17749553&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMjo1NzoxNyBQTSZoYXNoX3ZhbHVlPVpiMytvemVCc3RoNStKNjlpUjVRbVE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNSZpZD04MTE4ODc=
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--880.png", DigiSport1 romania
+https://live.goalclublive.com/goalclub_p4/digisport1romania/chunks.m3u8?nimblesessionid=17749894&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxOjAwOjE5IFBNJmhhc2hfdmFsdWU9MytqWExFRWtTSERpLzl2bXNHUXlzUT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI5JmlkPTg4Mzg4Nw==
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--881.png", DigiSport2 romania
+https://live.goalclublive.com/goalclub_p4/digisport2romania/chunks.m3u8?nimblesessionid=17750321&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxOjAzOjU1IFBNJmhhc2hfdmFsdWU9cDJCVXFseEZpYXFldEkwVjQ2MWlPdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI5JmlkPTYxODU4Mg==
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--882.png", DigiSport3 romania
+https://live.goalclublive.com/goalclub_p4/digisport3romania/chunks.m3u8?nimblesessionid=17750479&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxOjA2OjI5IFBNJmhhc2hfdmFsdWU9NWlURmxURVp5Z1IvUU1mVmpZMTBCdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI5JmlkPTI3MjUzNg==
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--882.png", DigiSport3 romania
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png", Sportklub1 slovenia
+https://live.goalclublive.com/goalclub_p4/sportklub1slovenia/chunks.m3u8?nimblesessionid=17750739&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxOjExOjMwIFBNJmhhc2hfdmFsdWU9bUdvc0ZRd1BQUU1uMmZNQUZzN2FxZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMwJmlkPTcwOTAxOQ==
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--334.png", Sportklub1 sloveni2 slovenia
+https://live.goalclublive.com/goalclub_p4/sportklub2slovenia/chunks.m3u8?nimblesessionid=17750918&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxOjE1OjQzIFBNJmhhc2hfdmFsdWU9dnlzbm54bUI3czVlTDlyNk5uL2dKdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMwJmlkPTQxMjM4MA==
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--335.png", Sportklub1 sloveni3 slovenia
+https://live.goalclublive.com/goalclub_p4/sportklub3slovenia/chunks.m3u8?nimblesessionid=17751043&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxOjE4OjI0IFBNJmhhc2hfdmFsdWU9ei9reXNseXAwMTVINWVHSlU2UDFhZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMwJmlkPTU0MjkwNQ==
+
 #EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--253.png", Astro supersport
 https://live.goalclublive.com/goalclub_p4/astrosupersport/chunks.m3u8?nimblesessionid=17738457&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMDo0NjoyMSBBTSZoYXNoX3ZhbHVlPTdxTm9pRVZIOU1GME9Kd0VRdEkwR0E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNyZpZD0zMDg4NDI=
 
