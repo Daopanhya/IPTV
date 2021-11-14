@@ -76,8 +76,8 @@ http://live2.dootvde.com/live/50004_ch9.stream.smil/chunklist_w1187984951_b46920
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/gmm-one.jpg" group-title="DigitalTV", ONE 31 (720p)
 http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/thairath-tv.jpg" group-title="DigitalTV",ไทยรัฐทีวี   32 (240p)
-https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/thairath-tv.jpg" group-title="DigitalTV",ไทยรัฐทีวี   32 (720p)
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvjaa.com/storage/tv-channels/3hd.png" group-title="DigitalTV", CH3HD 33 (720p)
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
@@ -174,6 +174,9 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w193628251
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Movie", AsiSeries 2
 http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist_w1310036100.m3u8
+
+#EXTINF:-1 tvg-logo="N/A" group-title="Movie", Cinemax
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="ກາຕູນ Kid" tvg-logo="http://www.onlinethailand.net/tv_online/images/boomerang.jpg",Boomerang (1080p)
@@ -302,20 +305,14 @@ https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ກິລາ Sports,SPOTV2
 https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ກິລາ Sports,sport tv1
-https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png" group-title="ກິລາ Sports,sport tv1
+https://live.goalclublive.com/goalclub_p4/sporttv1/chunks.m3u8?nimblesessionid=17741025&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMToxNzo1MCBBTSZoYXNoX3ZhbHVlPUg2bVZaUVhjTHQyMkY0SmJ4bWh6c0E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMCZpZD0xMTE4Njg=
 
-#EXTINF:-1 tvg-logo=" " group-title="ກິລາ Sports,sport tv2
-https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png" group-title="ກິລາ Sports,sport tv2
+https://live.goalclublive.com/goalclub_p4/sporttv2/chunks.m3u8?nimblesessionid=17741098&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMToxODo0MCBBTSZoYXNoX3ZhbHVlPXpjSGs1RmNvM2J6UWowM2tmbHFWZkE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMCZpZD00NjMyMjI=
 
-#EXTINF:-1 tvg-logo=" " group-title="ກິລາ Sports,sport tv3
-https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ກິລາ Sports,sport tv4
-https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ກິລາ Sports,sport tv5
-https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png" group-title="ກິລາ Sports,sport tv3
+https://live.goalclublive.com/goalclub_p4/sporttv3/chunks.m3u8?nimblesessionid=17741139&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMToxOTowOSBBTSZoYXNoX3ZhbHVlPTJEbnRuT2s5ZS9qVk14eVJXdnIwQ1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMCZpZD03NTU3MDM=
 
 #EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtkmLy.jpg",Sony Ten 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
@@ -329,8 +326,60 @@ https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4511.png", Tsports
+https://live.goalclublive.com/goalclub_p2/tsports_480p/chunks.m3u8?nimblesessionid=17738424&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMDozNDowNiBBTSZoYXNoX3ZhbHVlPTNUdytaQkVaN3BmWWpuVjJ3aDdXdFE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNCZpZD01MDEzMjQ=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4514.png", Baygonhero1
+https://live.goalclublive.com/goalclub_p6/baygonhero1/chunks.m3u8?nimblesessionid=17738516&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMDo1NjozMCBBTSZoYXNoX3ZhbHVlPWtQNXg3QTJjNTZHeXNyNVBNbE84U1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMyZpZD0zNjkyNDQ=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4515.png", Baygonhero2
+https://live.goalclublive.com/goalclub_p6/baygonhero2/chunks.m3u8?nimblesessionid=17738558&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMDo1NzozNiBBTSZoYXNoX3ZhbHVlPWJDaWwrczBrSmw3UytLelVwVGg5Umc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMyZpZD01NTQ2OTA=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4516.png", Baygonhero3
+https://live.goalclublive.com/goalclub_p6/baygonhero3/chunks.m3u8?nimblesessionid=17738621&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMDo1ODo1NiBBTSZoYXNoX3ZhbHVlPTcrbld3NTJBNmZma0pHeG5ManArNUE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMyZpZD05NDk1MTM=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4542.png", Baygonhero4
+https://live.goalclublive.com/goalclub_p6/baygonhero4/chunks.m3u8?nimblesessionid=17738656&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMDo1OTozNCBBTSZoYXNoX3ZhbHVlPVJWdndWR2s0SWJLUTNWNnBWMjVHUVE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMyZpZD03MzcxMDA=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4543.png", Baygonhero5
+https://live.goalclublive.com/goalclub_p6/baygonhero5/chunks.m3u8?nimblesessionid=17738700&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMTowMDozMCBBTSZoYXNoX3ZhbHVlPVhaMkxtUmZFVW5jT0cyUnlpeHpHdEE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMyZpZD03NzYxNDU=
 
 
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4544.png", Baygonhero6
+https://live.goalclublive.com/goalclub_p6/baygonhero6/chunks.m3u8?nimblesessionid=17738775&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMTowMToxOCBBTSZoYXNoX3ZhbHVlPVBpV2J2VHovTm5QYlU3cmtBbDl5V3c9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMyZpZD00MzAwOTQ=
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4545.png", Baygonhero7
+https://live.goalclublive.com/goalclub_p6/baygonhero7/chunks.m3u8?nimblesessionid=17738848&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMTowMjowMyBBTSZoYXNoX3ZhbHVlPVlXTVdqOWxmdnI3SFpuQkg4NGtWdlE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMyZpZD00NTQzOTg=
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4546.png", Baygonhero8
+https://live.goalclublive.com/goalclub_p6/baygonhero8/chunks.m3u8?nimblesessionid=17738928&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMTowMjozOCBBTSZoYXNoX3ZhbHVlPXBmRnhqcXozR24vOHFrdTVmekE5Zmc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMyZpZD0xNzc1MDY=
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--91.png", Skysport football
+https://live.goalclublive.com/goalclub_p4/skysportfootball/chunks.m3u8?nimblesessionid=17740557&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMToxMjoyNSBBTSZoYXNoX3ZhbHVlPUFnWVk0NHgveHFyelZqU3hXZTBPOUE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOCZpZD04MTY2NTM=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--90.png", Skysport premiere
+https://live.goalclublive.com/goalclub_p4/skysportpremiere/chunks.m3u8?nimblesessionid=17740840&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMToxNTozMCBBTSZoYXNoX3ZhbHVlPU1FTjZxTG1ORkNBcXNMdDZaOGNyM1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOCZpZD0xMjg4MjM=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--241.png", Foxsport1nl
+https://live.goalclublive.com/goalclub_p4/foxsports1nl/chunks.m3u8?nimblesessionid=17738427&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMDozNjoyOCBBTSZoYXNoX3ZhbHVlPTRZQ2xLTVBUTUkwZGEvblJkSk9wOGc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNCZpZD05MDc0ODA=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1232.png", Espn brazil
+https://live.goalclublive.com/goalclub_p4/espnbrazil/chunks.m3u8?nimblesessionid=17741190&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMToxOTo1NSBBTSZoYXNoX3ZhbHVlPWU2N2JGQ051UlNpVThyQThDQWEzV1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMiZpZD0xNzA2Nzc=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--253.png", Astro supersport
+https://live.goalclublive.com/goalclub_p4/astrosupersport/chunks.m3u8?nimblesessionid=17738457&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMDo0NjoyMSBBTSZoYXNoX3ZhbHVlPTdxTm9pRVZIOU1GME9Kd0VRdEkwR0E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNyZpZD0zMDg4NDI=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--254.png", Astro supersport2
+https://live.goalclublive.com/goalclub_p4/astrosupersport2/chunks.m3u8?nimblesessionid=17738452&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMDo0MzozNSBBTSZoYXNoX3ZhbHVlPWhIaHcrMTk4YmNCcGt0cHJUZU04enc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOCZpZD01ODQ2MTM=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--255.png", Astro supersport3
+https://live.goalclublive.com/goalclub_p4/astrosupersport3/chunks.m3u8?nimblesessionid=17738454&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMDo0NToyNSBBTSZoYXNoX3ZhbHVlPW5Hdlc0b0R3UWNiVFhGbEkyeStYTnc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOCZpZD04OTI1NjA=
+
+#EXTINF:-1  tvg-id="N/A" group-title="ກິລາ Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--256.png", Astro supersport4
+https://live.goalclublive.com/goalclub_p4/astrosupersport4/chunks.m3u8?nimblesessionid=17738463&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxMDo0ODo0NSBBTSZoYXNoX3ZhbHVlPUFqVG9xTmFOd3hPRGVGR0E5amkzemc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOCZpZD0xOTc2Njc=
 
 #EXTINF:-1  tvg-id="N/A" group-title="RadioThai" tvg-logo="https://static.mytuner.mobi/media/radios-150px/FRgnKAsHgV.jpg",Chill Online
 https://atimeonline.smartclick.co.th/chill
