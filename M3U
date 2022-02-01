@@ -358,6 +358,7 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="Bein2" group-title="Sports" tvg-logo="http://udoofree.com/images/channels/beinsport2.png",Bein2 Th (VIP)
+https://www.li.m3u8
 
 #EXTINF:-1  tvg-id="Premier HD1" group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",Premier HD1
 https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
