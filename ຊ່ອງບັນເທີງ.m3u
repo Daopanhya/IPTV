@@ -12,9 +12,6 @@ https://mediasv.online/stream_live/340_Xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3RPhKP9TvzYKL2p3jMFSKOYZzFCUseC55w&usqp=CAU",tvN
 https://mediasv.online/stream_live/241_tvN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMDoxOCBQTSZoYXNoX3ZhbHVlPStXSVZ5a2loL09rZDJab2paczRETVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNTMxMDU=
 
-#EXTINF:-1  tvg-id="TPTV.th"tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw-KzD_bLUExn8SfXuClJ36PWkjxM190K9kpeGx965ACbITSWg",CCM
-https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NjoyNiBQTSZoYXNoX3ZhbHVlPWJiSG9VWlp0Qm5SbnVHWDdxdGhzZVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNjI5ODI=
-
 #EXTINF:-1  tvg-id="TNN16.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0aHjGU-gfJUIy_FBPxiAeUpDze9vFaOBYw&usqp=CAU",GEM
 https://mediasv.online/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMDo0OSBQTSZoYXNoX3ZhbHVlPTFndXJXdEpZT1E0NytNbkw1QXJaVEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNTY3MTU=
 
@@ -24,13 +21,10 @@ https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkZDeBql7MeoWAvaB8V1yT6CCaVROFNVDdw&usqp=CAU",Rock Extreme
 https://mediasv.online/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzowMSBQTSZoYXNoX3ZhbHVlPUVkSEJkRUxqKzROVEVzRE80WEdzRnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNjM5MTE=
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://bit.ly/3Hk7HKd",Rock_Entertainment
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",AXN
 https://mediasv.online/stream_live/336_AXN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMjoxMyBQTSZoYXNoX3ZhbHVlPXR0dzdoNHczVS9CcFlyTHM2UFRTV0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfMjM5Njc=
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXYImGQgwhRQh4V054OIBCVNBDpaRc4ojdQ&usqp=CAU",Food Network
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PewDk8NKPwC6HnNQdt8T4Z_WYvOMNZEa8Q&usqp=CAU",Food Network
 https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDk6MTQ6NDEgQU0maGFzaF92YWx1ZT1vNkowTFE3Zlg4TlpoZWpRa0NCWk53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzYwMzcx
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://dl.dropbox.com/s/tf8x87z6be2yjsz/arirang.png",Arirang World
@@ -41,5 +35,4 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://play-lh.googleusercontent.com/JJCapRrKimC5Jjxw3V3PvZUqA4ZOwFK1JofXPQwMwVBkUzvsxafyc0bbt5JM7KyjqI4",Codefashion
 https://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
-
 
