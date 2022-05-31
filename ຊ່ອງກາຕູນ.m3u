@@ -1,4 +1,3 @@
-
 #EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cartoonnetwork.png",Cartoon Network
@@ -11,9 +10,6 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/303/303.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/304/304.mpd
 
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2L4FBQUdMn1JeU_tSCML04fMsOsxHLLOwQ&usqp=CAU",SparkJump
-https://mediasv.online/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo1Mjo0NCBQTSZoYXNoX3ZhbHVlPVdHOHFlOEFURXhwcG43NllQbytyTWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfOTAyMjc=
-
-#EXTINF:-1  tvg-id="TSports7.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2L4FBQUdMn1JeU_tSCML04fMsOsxHLLOwQ&usqp=CAU", Cartoon Club
 https://mediasv.online/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo1Mjo0NCBQTSZoYXNoX3ZhbHVlPVdHOHFlOEFURXhwcG43NllQbytyTWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfOTAyMjc=
 
 #EXTINF:-1  tvg-id="TPTV.th"tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/CartoonClub.png",Cartoon Club
