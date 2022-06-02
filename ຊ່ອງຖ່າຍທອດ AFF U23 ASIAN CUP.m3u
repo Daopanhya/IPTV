@@ -8,3 +8,6 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/36/36.mpd
 https://www.goalclublive.com/LiveTable/channel/sportdigital
 
 
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv6.png",Vtv6
+http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
