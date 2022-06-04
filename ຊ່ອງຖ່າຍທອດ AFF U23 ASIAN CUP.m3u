@@ -1,6 +1,4 @@
-
-
-
+#EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",sportdigital
 #EXTVLCOPT:http-referrer=https://live.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/sportdigital
