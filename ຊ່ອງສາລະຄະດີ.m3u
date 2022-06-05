@@ -1,1 +1,11 @@
 
+#EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-history.png",HISTORY HD
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_HISTORYHD_720p/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-history.png",HISTORY HD
+https://youdooball.livedoomovies.com:4432/02_HISTORYHD_720p/chunklist.m3u8
+
+
