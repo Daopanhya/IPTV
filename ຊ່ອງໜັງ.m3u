@@ -64,6 +64,12 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/MANGORN.png",MANGORN
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/121/121.mpd
 
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593553878925322/d4bd8b0f3839244c29e4feaa98f40533.png",Hero
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://mediasv.online/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNDowMSBBTSZoYXNoX3ZhbHVlPUJOenluWVI4ZTV4MUFHUWxTaW1vYVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfMzg2NTg=
+
+
+
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU",FwMov
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
 
