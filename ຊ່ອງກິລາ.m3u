@@ -93,6 +93,35 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
 #EXTVLCOPT:http-referrer=https://dooball2you.com
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/403/403.mpd
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9XDI3kb0Gv5gNHzIqR14LQd7gnsbwov3qww&usqp=CAU",ELEVEN 1
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=oxoo/1.3.8 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/19.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_320.png",TURE ID
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=oxoo/1.3.8 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/26.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gamingup.png",Gaming Up
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=oxoo/1.3.8 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/13.m3u8
+
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://play-lh.googleusercontent.com/JwQoRdrZ-Ciu-YmHyea8Kli_wE4F6KuVMNq3x9ftk2epRO1ryJGLhIgiO_yhnbZGiw",MONO MAX
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=oxoo/1.3.8 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/25.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",sportdigital
+#EXTVLCOPT:http-referrer=https://live.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/sportdigital
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv6.png",Vtv6
+http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport1.png",BT Sport1
 #EXTVLCOPT:http-referrer=https://dooball2you.com
 https://dooball2you.com/bt-sport-1/
