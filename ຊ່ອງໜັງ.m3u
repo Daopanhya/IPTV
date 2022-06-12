@@ -41,13 +41,17 @@ https://mediasv.online/stream_live/225_TrueChinessMore/playlist.m3u8?wmsAuthSign
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe8TsQ5nAmYLfntgsD2IPWghztwIcHRw8mw&usqp=CAU",True Korean More
-https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NDoxNCBQTSZoYXNoX3ZhbHVlPXBleDRmT0hXNS8zMUQzbmV4MWVSNkE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfMjYwNzI=
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115675
 
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iuJcQj9KANvnb70DczICyb7AYWnzcw_3Vw&usqp=CAU",True Series
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeK0ZqvvctIZ71ivLoRd6J1ZzdlvoawSX3fg&usqp=CAU",Lifetime
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBsUGajVE-MjLvrdrJ8w&usqp=CAU",UNIVERSAL
 http://203.154.243.89:28010/pa/universal.ts
@@ -77,6 +81,7 @@ http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.
 http://freelive2.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2021/01/26/lVgBqD.png",SUN
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2021/01/26/lVg0Fg.png",SAMURAI
