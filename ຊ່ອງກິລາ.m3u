@@ -58,8 +58,9 @@ https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 https://youdooball.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",SPOTV 2
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",TRUE TENNIS
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -70,8 +71,9 @@ https://youdooball.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 https://youdooball.livedoomovies.com:4432/02_nbahd_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjcF5xUf34CjKnvfwIcyjwgLQd3M3f6tWSrw&usqp=CAU",NFL NETWORK
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87nfl/
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/nfl/playlist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=100&h=75",GOLF CHANNEL
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -81,18 +83,6 @@ https://youdooball.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://dooball2you.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",GOLF CHANNEL PLUS
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",GOLF CHANNEL PLUS
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",GOLF CHANNEL PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
-
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUpbkOSoMG_5JSsRAnhdwewnQ7qZD4-ZguQ&usqp=CAU",MOTORVISION
 #EXTVLCOPT:http-referrer=https://freetvdd.com
@@ -219,6 +209,15 @@ https://www.xn--72czp5emaz0ab6b.com/player/c/76/SKYNET-SPORT-5-76/37874.html
 #EXTINF:-1  tvg-id="2" tvg-logo="https://www.xn--72czp5emaz0ab6b.com/uploads/png/sd-skynetsports6.png",SKY NET SPORTS 6
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://www.xn--72czp5emaz0ab6b.com/player/c/75/SKYNET-SPORT-6-75/37873.html
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4568.png",Astroarena
+#EXTVLCOPT:http-referrer=https://goalclublive.com/
+https://www.goalclublive.com/LiveTable/channel/astroarena
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4568.png",Astroarena
+#EXTVLCOPT:http-referrer=https://goalclublive.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+https://r3-sn-5fo-c37ed3.googleuservideo.com/goalclub_p4/astroarena/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIyIDI6NTg6NTkgUE0maGFzaF92YWx1ZT1BczJGYnQxUThzNVY0ZC9sblpsSVJnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjImaWQ9MTM5NDYy
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at1.png",Astro Supersport 1
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
