@@ -3,8 +3,13 @@
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",HBO
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",HBO
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115714
+
 #EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09O5ynHfI9H3pDVYQX_c7FcMmbFwDq7r1hg&usqp=CAU",HBO SIGNATURE
 
+#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09O5ynHfI9H3pDVYQX_c7FcMmbFwDq7r1hg&usqp=CAU",HBO HITS
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115710
 
 #EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU", HBO FAMILY
 
@@ -18,11 +23,14 @@ http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJTF_ZB3NAXGQolQOpGotSF8Q7ejzi2oYyw&usqp=CAU",True Movie His
 
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",True Film 1
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",True Film 1 HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115667
 
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",True Film 2 HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115415
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdapmNP-C0b9EIe12AbdqfxxWMc0AXOCPyw&usqp=CAU",True Asian Film
-
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdapmNP-C0b9EIe12AbdqfxxWMc0AXOCPyw&usqp=CAU",True Asian Film HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115665
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",True Thai Film
 
@@ -30,21 +38,26 @@ http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SoYof.png" ,TRUE ASIAN MORE
 
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPYEg27GYxxBuRk1ceiInzwK7nRSRUI8f2w&usqp=CAU",True Chinese More
-
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPYEg27GYxxBuRk1ceiInzwK7nRSRUI8f2w&usqp=CAU",True Chinese More HD
 
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe8TsQ5nAmYLfntgsD2IPWghztwIcHRw8mw&usqp=CAU",True Korean More
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115675
 
-
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe8TsQ5nAmYLfntgsD2IPWghztwIcHRw8mw&usqp=CAU",True Korean More HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115675
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iuJcQj9KANvnb70DczICyb7AYWnzcw_3Vw&usqp=CAU",True Series
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeK0ZqvvctIZ71ivLoRd6J1ZzdlvoawSX3fg&usqp=CAU",Lifetime
 
+#EXTINF:-1 tvg-id="" tvg-logo=" ",CCM
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115635
+
+#EXTINF:-1 tvg-id="" tvg-logo=" ",HITS MOVIES HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115679
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBsUGajVE-MjLvrdrJ8w&usqp=CAU",UNIVERSAL
 http://203.154.243.89:28010/pa/universal.ts
@@ -153,6 +166,10 @@ http://203.159.95.172:8081/live/banner003/playlist.m3u8
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 3
 http://203.159.95.172:8081/live/comedy1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 1 HD TH" tvg-logo="" group-title="Thailand",CABLE SERIES 1 HD TH
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115598
 
+#EXTINF:-1 tvg-id="" tvg-name="CableMovie TH [Thai]" tvg-logo="" group-title="Thailand",Cable 37
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115655
 
 
