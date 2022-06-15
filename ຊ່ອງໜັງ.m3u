@@ -17,6 +17,7 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115710
 
 
 #EXTINF:-1  tvg-id="TNN16.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",WARNER TV
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115823
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthBgkyHvR3UoAALXugrhmu6Q4Qo-PQo_E8w&usqp=CAU",Paramount
 
@@ -32,8 +33,11 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115415
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdapmNP-C0b9EIe12AbdqfxxWMc0AXOCPyw&usqp=CAU",True Asian Film HD
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115665
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",True Thai Film
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",True Thai Film HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115416
 
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",True Thai Film
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115417
 
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SoYof.png" ,TRUE ASIAN MORE
 
@@ -58,6 +62,9 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115635
 
 #EXTINF:-1 tvg-id="" tvg-logo=" ",HITS MOVIES HD
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115679
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,KMTV
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115721
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBsUGajVE-MjLvrdrJ8w&usqp=CAU",UNIVERSAL
 http://203.154.243.89:28010/pa/universal.ts
