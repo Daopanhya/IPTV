@@ -173,10 +173,10 @@ http://203.159.95.172:8081/live/banner003/playlist.m3u8
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 3
 http://203.159.95.172:8081/live/comedy1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 1 HD TH" tvg-logo="" group-title="Thailand",CABLE SERIES 1 HD TH
+#EXTINF:-1 tvg-id="" tvg-logo="" ,CABLE SERIES 1 HD TH
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115598
 
-#EXTINF:-1 tvg-id="" tvg-name="CableMovie TH [Thai]" tvg-logo="" group-title="Thailand",Cable 37
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Cable 37
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115655
 
 
