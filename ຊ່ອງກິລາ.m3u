@@ -90,7 +90,7 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://dl.dropboxusercontent.com/s/l9iapetf6bjt8i6/ky1wbvdh.png",3BB Sport One
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
-http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/11.m3u8
+http://tvthai.googlestream.xyz:8899/live/sport/l7pNrXgDlv/20.m3u8
 
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpekgnLjfDZZUVCXqHSCv1ABivsI78HdBFFw&usqp=CAU",EDGE Sport
@@ -100,12 +100,12 @@ https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/edge-sport/#
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9XDI3kb0Gv5gNHzIqR14LQd7gnsbwov3qww&usqp=CAU",ELEVEN 1
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
-http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/19.m3u8
+http://tvthai.googlestream.xyz:8899/live/sport/l7pNrXgDlv/23.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_320.png",TURE ID
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
-http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/26.m3u8
+http://tvthai.googlestream.xyz:8899/live/sport/l7pNrXgDlv/19.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gamingup.png",Gaming Up
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
@@ -117,11 +117,13 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115621
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://play-lh.googleusercontent.com/JwQoRdrZ-Ciu-YmHyea8Kli_wE4F6KuVMNq3x9ftk2epRO1ryJGLhIgiO_yhnbZGiw",MONO MAX
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
-http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/25.m3u8
+http://tvthai.googlestream.xyz:8899/live/sport/l7pNrXgDlv/21.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",sportdigital
-#EXTVLCOPT:http-referrer=https://live.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/sportdigital
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8899/live/sport/l7pNrXgDlv/24.m3u8
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv6.png",Vtv6
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
