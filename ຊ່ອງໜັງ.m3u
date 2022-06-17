@@ -37,16 +37,16 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115665
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115416
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",True Thai Film
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
-#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
-http://tvthai.googlestream.xyz:8899/live/movies/WlVaYWqgrs/9.m3u8
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115417
 
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SoYof.png" ,TRUE ASIAN MORE
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPYEg27GYxxBuRk1ceiInzwK7nRSRUI8f2w&usqp=CAU",True Chinese More HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115673
 
-
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPYEg27GYxxBuRk1ceiInzwK7nRSRUI8f2w&usqp=CAU",True Chinese More
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115420
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe8TsQ5nAmYLfntgsD2IPWghztwIcHRw8mw&usqp=CAU",True Korean More
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115675
@@ -81,7 +81,7 @@ https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F5nlb1-dCVsYYkj9ERFyKyprKn3xVxtSng&usqp=CAU",3BB Asian
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
-http://tvthai.googlestream.xyz:8899/live/movies/WlVaYWqgrs/9.m3u8
+http://tvthai.googlestream.xyz:8899/live/movies/dBYQY4VOPJ/14.m3u8
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/MANGORN.png",MANGORN
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
