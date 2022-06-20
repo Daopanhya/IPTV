@@ -165,9 +165,9 @@ https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/playlist.m
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/chunks.m3u8
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/6zb17wcsozzfhhe/ky1vmtx3.png",WWE 4K
+#EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/6zb17wcsozzfhhe/ky1vmtx3.png",WWE
 #EXTVLCOPT:http-referrer=https://freetvdd.com
-http://93.152.174.144:4000/play/WWE/index.m3u8
+http://139.99.27.33:9998/wwe/index.m3u8?token=9b98e770fb6e2fb8e2ad8a66481cc1e499fb737e-110ee2bb8d24df3f5629801c477a5981-1655709987-1655699187
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/590vldbnjffzi1p/ky1vs7pj.png",MUTV
 #EXTVLCOPT:http-referrer=https://freetvdd.com
@@ -175,7 +175,40 @@ https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/o3wpww9a26fxnof/ky1vs20q.png",LFCTV
 #EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8
+http://139.99.27.33:9998/lfc/index.m3u8?token=894b5333a2aee8c03f4477d33e49633130aba491-207724aba1f0815f0dbf0de3aae2e9d8-1655710055-1655699255
+
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/ESPN_Africa.png",ESPN
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+http://139.99.27.33:9998/espn/index.m3u8?token=1d0dde0cb5be02aa460bacf2776519d7358abc69-c8e250f73bb90f2ef49ed6ac399cc226-1655710208-1655699408
+
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/ESPN_2_Africa.png",ESPN 2
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+http://139.99.27.33:9998/espn2/index.m3u8?token=f08b236e78cd2c6b704fd67c77b5758946dee87e-da68e946b533757d3618b0a51184f390-1655710235-1655699435
+
+
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/cctv-5.png",CCTV 5
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+http://139.99.27.33:9998/espn2/index.m3u8?token=f08b236e78cd2c6b704fd67c77b5758946dee87e-da68e946b533757d3618b0a51184f390-1655710235-1655699435
+
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/cctv-5-plus.png",CCTV 5+
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+http://139.99.27.33:9998/espn2/index.m3u8?token=f08b236e78cd2c6b704fd67c77b5758946dee87e-da68e946b533757d3618b0a51184f390-1655710235-1655699435
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRob-gnhH-YkE5vCj7aOuOcTWIlpFmiN--htA&usqp=CAU",SONY TEN 1
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+http://103.55.144.46/hls/sonyten1.m3u8
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTABX9WQyTHJIKL9HCWs44aovqgixIrUkwA&usqp=CAU",SONY TEN 2
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+http://103.55.144.46/hls/sonyten2.m3u8
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/06/09/sony.jpg?itok=nAu-3HU9",SONY TEN 3
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+http://103.55.144.46/hls/sonyten3.m3u8
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iHaciK_Uv-h2_mXEpfxh4_Wr9q0h_7z-aA&usqp=CAU",SONY SIX
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+http://103.55.144.46/hls/sonysix.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/6cubwmmfkcinr1l/ky21u5bo.png",Premier Sports
 #EXTVLCOPT:http-referrer=https://freetvdd.com
@@ -222,19 +255,19 @@ http://139.99.27.33:9998/astro-arena/index.m3u8?token=c895c9c53d0393c0ad827293ed
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 http://139.99.27.33:9998/assp1/index.m3u8?token=7106ee66953617fe87bda8d8696c0aa730bd1910-3ad7ed2f21fe4a765f07e09985d5392d-1655709243-1655698443
 
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport2-.jpg",Astro Supersport 2
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport-2.jpg",Astro Supersport 2
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 http://139.99.27.33:9998/assp2/index.m3u8?token=0f6ac1ed9e647f5274fbfecf7be0a99901e16f8b-5e1c6bd9580ec26702a386b44f43d051-1655709289-1655698489
 
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport3-.jpg",Astro Supersport 3
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport-3.jpg",Astro Supersport 3
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 http://139.99.27.33:9998/assp3/index.m3u8?token=678913046c6db30ab367cf498d75877c641eef51-608a6f916e935399529c12b37d32378b-1655709336-1655698536
 
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport4-.jpg",Astro Supersport 4
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport-4.jpg",Astro Supersport 4
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 http://139.99.27.33:9998/assp4_720/index.m3u8?token=5f61daec813e82e798f74cd54a09057153393da5-832c8e7fb885faa0bb0a00442d0e5833-1655709375-1655698575
 
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport5-.jpg",Astro Supersport 5
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport-5.jpg",Astro Supersport 5
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 http://139.99.27.33:9998/assp5/index.m3u8?token=294d5fd3536a0a97c640db4db1c73b9300529a19-94f1513096074481350bc698da3cb1ac-1655709405-1655698605
 
