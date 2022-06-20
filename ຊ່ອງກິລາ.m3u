@@ -129,16 +129,17 @@ http://tvthai.googlestream.xyz:8899/live/sport/l7pNrXgDlv/24.m3u8
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport1.png",BT Sport1
-#EXTVLCOPT:http-referrer=https://udoofree.com
-http://udoofree.com/movie2/165/single-live?watch=1
+#EXTVLCOPT:http-referrer=https://http://udoofree.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux, Android 10; vivo 1935 Build/QP1A . 190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+http://139.99.27.33:9998/bt-sport1/index.m3u8?token=c9e992376765b66bfb4c3f2a7eeb0ac67d62cf57-4e37343ce63655b32d40d04fc2494602-1655707083-1655696283
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport2.png",BT Sport2
-#EXTVLCOPT:http-referrer=https://udoofree.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-http://udoofree.com/movie2/166/single-live?watch=1
+#EXTVLCOPT:http-referrer=https://http://udoofree.com
+http://139.99.27.33:9998/bt-sport1/index.m3u8?token=c9e992376765b66bfb4c3f2a7eeb0ac67d62cf57-4e37343ce63655b32d40d04fc2494602-1655707083-1655696283
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport3.png",BT Sport3
-http://udoofree.com/movie2/167/single-live?watch=1
+http://139.99.27.33:9998/bt-sport1/index.m3u8?token=c9e992376765b66bfb4c3f2a7eeb0ac67d62cf57-4e37343ce63655b32d40d04fc2494602-1655707083-1655696283
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",premiersports
 #EXTVLCOPT:http-referrer=https://freetvdd.com
