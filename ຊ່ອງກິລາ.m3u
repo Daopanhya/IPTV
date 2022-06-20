@@ -129,16 +129,16 @@ http://tvthai.googlestream.xyz:8899/live/sport/l7pNrXgDlv/24.m3u8
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport1.png",BT Sport1
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/bt-sports/#
+#EXTVLCOPT:http-referrer=https://udoofree.com
+http://udoofree.com/movie2/165/single-live?watch=1
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport2.png",BT Sport2
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://dooball2you.com/bt-sport-2/
+#EXTVLCOPT:http-referrer=https://udoofree.com
+http://udoofree.com/movie2/166/single-live?watch=1
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport3.png",BT Sport3
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://dooball2you.com/bt-sport-3/
+#EXTVLCOPT:http-referrer=https://udoofree.com
+http://udoofree.com/movie2/167/single-live?watch=1
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",premiersports
 #EXTVLCOPT:http-referrer=https://freetvdd.com
