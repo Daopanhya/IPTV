@@ -135,11 +135,11 @@ http://139.99.27.33:9998/bt-sport1/index.m3u8?token=c9e992376765b66bfb4c3f2a7eeb
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport2.png",BT Sport2
 #EXTVLCOPT:http-referrer=https://http://udoofree.com
-http://139.99.27.33:9998/bt-sport1/index.m3u8?token=c9e992376765b66bfb4c3f2a7eeb0ac67d62cf57-4e37343ce63655b32d40d04fc2494602-1655707083-1655696283
+http://139.99.27.33:9998/bt-sport2/index.m3u8?token=223c144431028bd6fe78a5a6805b95d43c9abbc1-c12ac1dcce43eed311d8e2e18ca99ecd-1655708252-1655697452
 
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport3.png",BT Sport3
-http://139.99.27.33:9998/bt-sport1/index.m3u8?token=c9e992376765b66bfb4c3f2a7eeb0ac67d62cf57-4e37343ce63655b32d40d04fc2494602-1655707083-1655696283
+http://139.99.27.33:9998/bt-sport3/index.m3u8?token=f62d6bb70db1af4418ea2680db8e2ef3da5c5c26-7d85dda9d523c52ce7f4c44ba207542f-1655708284-1655697484
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",premiersports
 #EXTVLCOPT:http-referrer=https://freetvdd.com
