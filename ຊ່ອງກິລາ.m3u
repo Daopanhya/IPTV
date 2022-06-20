@@ -128,17 +128,17 @@ http://tvthai.googlestream.xyz:8899/live/sport/l7pNrXgDlv/24.m3u8
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv6.png",Vtv6
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport1.png",BT Sport1
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/uk-btsport1hd.jpg",BT Sport1
 #EXTVLCOPT:http-referrer=https://http://udoofree.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux, Android 10; vivo 1935 Build/QP1A . 190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
 http://139.99.27.33:9998/bt-sport1/index.m3u8?token=c9e992376765b66bfb4c3f2a7eeb0ac67d62cf57-4e37343ce63655b32d40d04fc2494602-1655707083-1655696283
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport2.png",BT Sport2
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/uk-btsport2hd.jpg",BT Sport2
 #EXTVLCOPT:http-referrer=https://http://udoofree.com
 http://139.99.27.33:9998/bt-sport2/index.m3u8?token=223c144431028bd6fe78a5a6805b95d43c9abbc1-c12ac1dcce43eed311d8e2e18ca99ecd-1655708252-1655697452
 
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport3.png",BT Sport3
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/uk-btsport3hd.jpg",BT Sport3
+#EXTVLCOPT:http-referrer=https://http://udoofree.com
 http://139.99.27.33:9998/bt-sport3/index.m3u8?token=f62d6bb70db1af4418ea2680db8e2ef3da5c5c26-7d85dda9d523c52ce7f4c44ba207542f-1655708284-1655697484
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",premiersports
@@ -214,21 +214,29 @@ https://www.xn--72czp5emaz0ab6b.com/player/c/76/SKYNET-SPORT-5-76/37874.html
 https://www.xn--72czp5emaz0ab6b.com/player/c/75/SKYNET-SPORT-6-75/37873.html
 
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at1.png",Astro Supersport 1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115615
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_arena.png",Astro Arana
+#EXTVLCOPT:http-referrer=https://udoofree.com/
+http://139.99.27.33:9998/astro-arena/index.m3u8?token=c895c9c53d0393c0ad827293eda4c3a98a48ca3c-9cb838ed184cfb38e5a83ebc997491b6-1655708822-1655698022
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at2.png",Astro Supersport 2
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport1-.jpg",Astro Supersport
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/astro-supersport-2/
+http://139.99.27.33:9998/assp1/index.m3u8?token=7106ee66953617fe87bda8d8696c0aa730bd1910-3ad7ed2f21fe4a765f07e09985d5392d-1655709243-1655698443
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at3.png",Astro Supersport 3
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport2-.jpg",Astro Supersport 2
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/astro-supersport-3/
+http://139.99.27.33:9998/assp2/index.m3u8?token=0f6ac1ed9e647f5274fbfecf7be0a99901e16f8b-5e1c6bd9580ec26702a386b44f43d051-1655709289-1655698489
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at3.png",Astro Supersport 4
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport3-.jpg",Astro Supersport 3
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115618
+http://139.99.27.33:9998/assp3/index.m3u8?token=678913046c6db30ab367cf498d75877c641eef51-608a6f916e935399529c12b37d32378b-1655709336-1655698536
+
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport4-.jpg",Astro Supersport 4
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+http://139.99.27.33:9998/assp4_720/index.m3u8?token=5f61daec813e82e798f74cd54a09057153393da5-832c8e7fb885faa0bb0a00442d0e5833-1655709375-1655698575
+
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport5-.jpg",Astro Supersport 5
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+http://139.99.27.33:9998/assp5/index.m3u8?token=294d5fd3536a0a97c640db4db1c73b9300529a19-94f1513096074481350bc698da3cb1ac-1655709405-1655698605
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi1.png",DigiSport1
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
