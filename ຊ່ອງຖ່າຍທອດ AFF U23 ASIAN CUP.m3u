@@ -6,11 +6,96 @@ http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",sportdigital
+#EXTVLCOPT:http-referrer=https://live.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/sportdigital
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gamingup.png",Gaming Up
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=oxoo/1.3.8 (Linux;Android 10) ExoPlayerLib/2.14.1
-http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/22.m3u8
+http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/13.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9XDI3kb0Gv5gNHzIqR14LQd7gnsbwov3qww&usqp=CAU",ELEVEN 1
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=oxoo/1.3.8 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/19.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",DreamWorks
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=oxoo/1.3.8 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8899/live/kids/3dmEacVW4O/15.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",sportdigital
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=oxoo/1.3.8 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8899/live/sport/1nCv9wgVj1/22.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://play-lh.googleusercontent.com/JwQoRdrZ-Ciu-YmHyea8Kli_wE4F6KuVMNq3x9ftk2epRO1ryJGLhIgiO_yhnbZGiw",MONO MAX
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=oxoo/1.3.8 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/25.m3u8
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_320.png",TURE ID
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=oxoo/1.3.8 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8899/live/sport/xzYuNhyJaK/26.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_320.png",Discovery
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=oxoo/1.3.8 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8899/live/discovery/1nCv9wgVj1/1.m3u8
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_320.png",Ture AsianMore
+#EXTVLCOPT:http-referrer=http://xtream01.ddns.net:25461/
+#EXTVLCOPT:http-user-agent=oxoo/1.3.8 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://xtream01.ddns.net:25461/live/test/1234/175.m3u8
+
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.dooball2you.com/wp-content/uploads/2021/04/sport1.png",Sport tv1
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux, Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 Mobile Safari/537.36
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/playlist.m3u8
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.dooball2you.com/wp-content/uploads/2021/04/sport2.png",Sport tv2
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux, Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 Mobile Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/playlist.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.dooball2you.com/wp-content/uploads/2021/04/sport3.png",Sport tv3
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux, Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 Mobile Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv3/playlist.m3u8
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.dooball2you.com/wp-content/uploads/2021/04/sport4.png",Sport tv4
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux, Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 Mobile Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv4/playlist.m3u8
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.dooball2you.com/wp-content/uploads/2021/04/sport5.png",Sport tv5
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux, Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 Mobile Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv5/playlist.m3u8
+
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",ziggosportselect
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/ziggosportselect
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",ziggosportvoetbal
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/ziggosportvoetbal
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",premiersports1
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/premiersports1
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",supersportfootball
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/supersportfootball
