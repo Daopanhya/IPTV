@@ -323,52 +323,15 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s2/index.m3u8
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",sportdigital
-#EXTVLCOPT:http-referrer=https://live.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/sportdigital
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",ziggosportselect
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/ziggosportselect
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",ziggosportvoetbal
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/ziggosportvoetbal
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",premiersports1
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/premiersports1
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",supersportfootball
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/supersportfootball
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",astrosupersport
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/astrosupersport
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",astrosupersport2
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/astrosupersport2
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",astrosupersport3
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/astrosupersport3
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",astrosupersport4
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/astrosupersport4
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",epl1
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/epl1
 
-
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",epl2
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/epl2
-
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",epl3
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
@@ -412,11 +375,11 @@ https://www.goalclublive.com/LiveTable/channel/bein1
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/bein3
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",bein1englisharab
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1166.png",bein1englisharab
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/bein1englisharab
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",bein2englisharab
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1167.png",bein2englisharab
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/bein2englisharab
 
@@ -454,42 +417,79 @@ https://www.goalclublive.com/LiveTable/channel/beinsports1tu
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/beinsports2tu
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",beinsportsarabia1hd
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--752.png",beinsportsarabia1hd
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/beinsportsarabia1hd
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",beinsportsarabia2hd
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--753.png",beinsportsarabia2hd
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/beinsportsarabia2hd
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",beinsportsarabia3hd
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--754.png",beinsportsarabia3hd
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/beinsportsarabia3hd
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",diemasport1
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1059.png",diemasport1
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/diemasport1
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",diemasport2
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1060.png",diemasport2
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/diemasport2
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--295.png",supersportfootball
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/supersportfootball
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png",sportklub1slovenia
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/sportklub1slovenia
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--334.png",sportklub2slovenia
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/sportklub2slovenia
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--335.png",sportklub3slovenia
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/sportklub3slovenia
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--336.png",sportklub4slovenia
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/sportklub4slovenia
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",sportdigital
+#EXTVLCOPT:http-referrer=https://live.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/sportdigital
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",ziggosportselect
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/ziggosportselect
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",ziggosportvoetbal
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/ziggosportvoetbal
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",premiersports1
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/premiersports1
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",supersportfootball
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/supersportfootball
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",sportklub1slovenia
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--253.png",astrosupersport
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/sportklub1slovenia
+https://www.goalclublive.com/LiveTable/channel/astrosupersport
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",sportklub2slovenia
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--254.png",astrosupersport2
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/sportklub2slovenia
+https://www.goalclublive.com/LiveTable/channel/astrosupersport2
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",sportklub3slovenia
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--255.png",astrosupersport3
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/sportklub3slovenia
+https://www.goalclublive.com/LiveTable/channel/astrosupersport3
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",sportklub4slovenia
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--256.png",astrosupersport4
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/sportklub4slovenia
+https://www.goalclublive.com/LiveTable/channel/astrosupersport4
