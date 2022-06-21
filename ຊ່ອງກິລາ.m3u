@@ -86,6 +86,8 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUpbkOSoMG_5JSsRAnhdwewnQ7qZD4-ZguQ&usqp=CAU",MOTORVISION
 #EXTVLCOPT:http-referrer=https://freetvdd.com
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87motorvision/
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://dl.dropboxusercontent.com/s/l9iapetf6bjt8i6/ky1wbvdh.png",3BB Sport One
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
@@ -188,11 +190,13 @@ http://139.99.27.33:9998/espn2/index.m3u8?token=f08b236e78cd2c6b704fd67c77b57589
 
 #EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/cctv-5.png",CCTV 5
 #EXTVLCOPT:http-referrer=https://freetvdd.com
-http://139.99.27.33:9998/espn2/index.m3u8?token=f08b236e78cd2c6b704fd67c77b5758946dee87e-da68e946b533757d3618b0a51184f390-1655710235-1655699435
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/cctv-5-plus.png",CCTV 5+
 #EXTVLCOPT:http-referrer=https://freetvdd.com
-http://139.99.27.33:9998/espn2/index.m3u8?token=f08b236e78cd2c6b704fd67c77b5758946dee87e-da68e946b533757d3618b0a51184f390-1655710235-1655699435
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRob-gnhH-YkE5vCj7aOuOcTWIlpFmiN--htA&usqp=CAU",SONY TEN 1
 #EXTVLCOPT:http-referrer=https://freetvdd.com
