@@ -7,13 +7,16 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115324
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115819
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_111.jpg",DreamWorks
+#EXTVLCOPT:http-user-agent=exoplayer_video
 https://mediasv.online/stream_live/DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDE6MzM6MzcgUE0maGFzaF92YWx1ZT1ydDFiNlRwb2diRVhYaTlIL3ZUa2dRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIyJmlkPWNoXzU1OTg2
 
 #EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nickelodeon.png",Nickelodeon
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://mediasv.online/stream_live/AIS-Nickelodeon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDE6NTA6MzQgUE0maGFzaF92YWx1ZT1neW5LL29RdXVVUjREOG8ydkFNUWZ3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzE4NjIz
 
 #EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nick-Jr.png", Nick Jr
-
+#EXTVLCOPT:http-user-agent=exoplayer_video
+https://mediasv.online/stream_live/AIS-NickJr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDE6MzQ6NTYgUE0maGFzaF92YWx1ZT1MMEZ0RGV6YUV0dnU3NkxhSkhJd053PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIyJmlkPWNoXzMzMTk2
 
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2L4FBQUdMn1JeU_tSCML04fMsOsxHLLOwQ&usqp=CAU",SparkJump
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115529
@@ -30,11 +33,13 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115784
 http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://i.imgur.com/gu2KjYv.png",Boomerang (Thai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+https://cdn6.goprimetime.info/feed/202105171329/chboomberang/index.m3u8
 
 
 #EXTINF:-1  tvg-id="NationTV.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510270734386/810a5fa68863efb67e7db2d6037c165a.jpg",NextKid
 #EXTVLCOPT:http-user-agent=exoplayer_video
-https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozOToxMyBBTSZoYXNoX3ZhbHVlPUVVVUhMbVUvYkpxRzB2QzRNbER1bmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfMjgxNzU=
+https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDQ6NTE6MTkgUE0maGFzaF92YWx1ZT1QeFQ3YVRHWC9qK1FyZGRMU0l5M053PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI5JmlkPWNoXzc3NDEw
 
 #EXTINF:-1  tvg-id="Workpoint23.th" tvg-logo="https://drive.google.com/uc?export=download&id=1XAzyXQTcICMjP2v2H3b1iWoA_d14Uhbu",FwToon
 http://freelive2.inwstream.com:1935/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
@@ -42,8 +47,11 @@ http://freelive2.inwstream.com:1935/freelive-edge/fwtoon_fw-iptv.stream/playlist
 #EXTINF:-1  tvg-id="True4U.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgx88SLFLFuXVeoDoXO0uwnZtjyPmSq6EOQ&usqp=CAU",Animation World
 http://203.154.243.89:28010/pa/umi.ts
 
-#EXTINF:-1  tvg-id="GMM25.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Boomerang.png",Boomerang (Asian)
+#EXTINF:-1  tvg-id="GMM25.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DuFIRZurVRaqEH1I2dQhPLqxJ31IYamkAA&usqp=CAU",sanook
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+https://cdn6.goprimetime.info/feed/202105171329/LC53/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1  tvg-id="GMM25.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Boomerang.png",Boomerang (Asian)
 
 #EXTINF:-1  tvg-id="CH8.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcTupLAfPxyrlpCeCfnTEw4fB9yzvGQDbCA&usqp=CAU",Aniplus
 http://45.126.83.51/session/c0d1e304-00e2-11ec-a2d0-b36b8a6007c6/dr9445/h/h02/index.m3u8
