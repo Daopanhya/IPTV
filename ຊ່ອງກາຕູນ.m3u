@@ -6,6 +6,9 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115324
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cartoonnetwork.png",Cartoon Network
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115819
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_111.jpg",DreamWorks
+https://mediasv.online/stream_live/DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDE6MzM6MzcgUE0maGFzaF92YWx1ZT1ydDFiNlRwb2diRVhYaTlIL3ZUa2dRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIyJmlkPWNoXzU1OTg2
+
 #EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nickelodeon.png",Nickelodeon
 
 
@@ -30,6 +33,7 @@ http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="NationTV.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510270734386/810a5fa68863efb67e7db2d6037c165a.jpg",NextKid
+#EXTVLCOPT:http-user-agent=exoplayer_video
 https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozOToxMyBBTSZoYXNoX3ZhbHVlPUVVVUhMbVUvYkpxRzB2QzRNbER1bmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfMjgxNzU=
 
 #EXTINF:-1  tvg-id="Workpoint23.th" tvg-logo="https://drive.google.com/uc?export=download&id=1XAzyXQTcICMjP2v2H3b1iWoA_d14Uhbu",FwToon
