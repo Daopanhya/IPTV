@@ -1,56 +1,59 @@
 #EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
 
-#EXTINF:-1  tvg-id="1" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",TRUE PREMIUM FOOTBALL 1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",TRUE PREMIUM FOOTBALL 2
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",epl1
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/epl1
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",TRUE PREMIUM FOOTBALL 3
-#EXTVLCOPT:http-referrer=https://www.udoofree.com/
-http://udoofree.com/movie2/200/single-live?watch=1
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",epl2
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/epl2
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",TRUE PREMIUM FOOTBALL 4
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://www.dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87tpf4/
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",epl3
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/epl3
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",TRUE PREMIUM FOOTBALL 5
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",epl4
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/epl4
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",TRUE SPORTS 1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",epl5
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/epl5
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",TRUE SPORTS 2
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",TRUE SPORTS 3
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",truesporthd
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/truesporthd
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",TRUE SPORTS 4
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",truesporthd2
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/truesporthd2
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",TRUE SPORTS 5
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",truesporthd3
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/truesporthd3
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",TRUE SPORTS 7
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",truesporthd4
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/truesporthd4
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png",BEIN SPORTS 1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",truesport5
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/truespor5
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png",BEIN SPORTS 3
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",truesport7
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/truesport7
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",bein1
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/bein1
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1079.png",bein3
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/bein3
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",SPOTV 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -93,6 +96,21 @@ https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87motorvision/
 #EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
 http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/20.m3u8
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_320.png",TURE ID
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
+#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gamingup.png",Gaming Up
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
+#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115621
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://play-lh.googleusercontent.com/JwQoRdrZ-Ciu-YmHyea8Kli_wE4F6KuVMNq3x9ftk2epRO1ryJGLhIgiO_yhnbZGiw",MONO MAX
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
+#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/21.m3u8
+
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpekgnLjfDZZUVCXqHSCv1ABivsI78HdBFFw&usqp=CAU",EDGE Sport
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 
@@ -101,146 +119,12 @@ http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/20.m3u8
 #EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
 http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/23.m3u8
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_320.png",TURE ID
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
-#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
-http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/19.m3u8
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gamingup.png",Gaming Up
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
-#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115621
-
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://play-lh.googleusercontent.com/JwQoRdrZ-Ciu-YmHyea8Kli_wE4F6KuVMNq3x9ftk2epRO1ryJGLhIgiO_yhnbZGiw",MONO MAX
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
-#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
-http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/21.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",sportdigital
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
-#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
-http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/24.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv5.png",Vtv5
 http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv6.png",Vtv6
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
-
-
-
-
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi1.png",DigiSport1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/digi-sport-1/
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi2.png",DigiSport2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/digi-sport-2/
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi3.png",DigiSport3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/digi-sport-3/
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi4.png",DigiSport4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/digi-sport-4/
-
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",SPORTTV 1
-#EXTVLCOPT:http-referrer=https://youdooball.com
-https://www.goalclublive.com/LiveTable/channel/sporttv1
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",SPORTTV 2
-#EXTVLCOPT:http-referrer=https://youdooball.com
-https://www.goalclublive.com/LiveTable/channel/sporttv2
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",SPORTTV 3
-#EXTVLCOPT:http-referrer=https://youdooball.com
-https://www.goalclublive.com/LiveTable/channel/sporttv3
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--453.png",SPORTTV 4
-#EXTVLCOPT:http-referrer=https://youdooball.com
-https://www.goalclublive.com/LiveTable/channel/sporttv4
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--454.png",SPORTTV 5
-#EXTVLCOPT:http-referrer=https://youdooball.com
-https://www.goalclublive.com/LiveTable/channel/sporttv5
-
-
-
-
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",epl1
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/epl1
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",epl2
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/epl2
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",epl3
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/epl3
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",epl4
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/epl4
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",epl5
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/epl5
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",truesporthd
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/truesporthd
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",truesporthd2
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/truesporthd2
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",truesporthd3
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/truesporthd3
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",truesporthd4
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/truesporthd4
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",truesport5
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/truespor5
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",truesport7
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/truesport7
-
-
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",bein1
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/bein1
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1079.png",bein3
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/bein3
-
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1166.png",bein1englisharab
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
@@ -309,7 +193,6 @@ https://www.goalclublive.com/LiveTable/channel/beinsportsarabia2hd
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/beinsportsarabia3hd
 
-
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",ziggosportselect
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/ziggosportselect
@@ -322,7 +205,7 @@ https://www.goalclublive.com/LiveTable/channel/ziggosportvoetbal
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/premiersports1
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--100.png",btsport1
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--99.png",btsport1
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/btsport1
 
@@ -330,10 +213,13 @@ https://www.goalclublive.com/LiveTable/channel/btsport1
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/btsport2
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--100.png",btsport3
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--101.png",btsport3
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/btsport3
 
+EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--102.png",btsportespn
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/btsportespn
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--29.png",espnus
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
@@ -355,9 +241,89 @@ https://www.goalclublive.com/LiveTable/channel/espnbr
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/espnbrazil
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",cmorefootball
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/cmorefootball
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--817.png",freesportuk
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/freesportuk
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--95.png",premiersports1
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/premiersports1
+
+
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--733.png",matchfootball1
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/matchfootball1
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",sportdigital
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
+#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/24.m3u8
+
+
+
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",SPORTTV 1
+#EXTVLCOPT:http-referrer=https://youdooball.com
+https://www.goalclublive.com/LiveTable/channel/sporttv1
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",SPORTTV 2
+#EXTVLCOPT:http-referrer=https://youdooball.com
+https://www.goalclublive.com/LiveTable/channel/sporttv2
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",SPORTTV 3
+#EXTVLCOPT:http-referrer=https://youdooball.com
+https://www.goalclublive.com/LiveTable/channel/sporttv3
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--453.png",SPORTTV 4
+#EXTVLCOPT:http-referrer=https://youdooball.com
+https://www.goalclublive.com/LiveTable/channel/sporttv4
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--454.png",SPORTTV 5
+#EXTVLCOPT:http-referrer=https://youdooball.com
+https://www.goalclublive.com/LiveTable/channel/sporttv5
+
+
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi1.png",DigiSport1
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://dooball2you.com/digi-sport-1/
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi2.png",DigiSport2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://dooball2you.com/digi-sport-2/
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi3.png",DigiSport3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://dooball2you.com/digi-sport-3/
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi4.png",DigiSport4
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://dooball2you.com/digi-sport-4/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--734.png",matchfootball2
@@ -464,15 +430,3 @@ https://www.goalclublive.com/LiveTable/channel/supersport1al
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/supersport2al
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",cmorefootball
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/cmorefootball
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--817.png",freesportuk
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/freesportuk
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--95.png",premiersports1
-#EXTVLCOPT:http-referrer=https://www.goalclublive.com
-https://www.goalclublive.com/LiveTable/channel/premiersports1
