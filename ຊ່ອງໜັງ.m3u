@@ -18,6 +18,10 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115710
 
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU",CINEMAX
 
+#EXTINF:-1  tvg-id="TNN16.th" tvg-logo="https://www.iptv4k.tv/images/tv/6GtIueXI8Si1ueLO1xDKfVsTIfCEWAxthrill.png",thrill
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+http://61.19.242.134/feed/202105171329/LC26/index.m3u8
 
 #EXTINF:-1  tvg-id="TNN16.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",WARNER TV
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115823
@@ -47,7 +51,7 @@ http://150.95.25.221:8000/True%20MoviesHit?u=covid19:p=AS15788947
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",True Thai Film
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115417
 
-#EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SoYof.png" ,TRUE ASIAN MORE
+#EXTINF:-1 tvg-id="JKN18.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_158.jpg" ,TRUE ASIAN MORE
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
 https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDU6MDM6MzggUE0maGFzaF92YWx1ZT16RG01MEwyU0xadkxmOWltb0NNb1VBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI1JmlkPWNoXzcyODI4
@@ -74,7 +78,13 @@ https://mediasv.online/stream_live/True_Series/playlist.m3u8?wmsAuthSign=c2VydmV
 #EXTINF:-1 tvg-id="" tvg-logo=" ",CCM
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115635
 
-#EXTINF:-1 tvg-id="" tvg-logo=" ",HITS MOVIES HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png",HITS
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+https://mediasv.online/stream_live/AIS-HITS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDk6MTA6MzYgQU0maGFzaF92YWx1ZT1tRVgzNkQwdEFxL2FUclFEVkhIcENRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIwJmlkPWNoXzY1NjAy
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png",HITS MOVIES HD
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115679
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,KMTV
@@ -99,6 +109,48 @@ http://tvthai.googlestream.xyz:8888/live/movies/WlVaYWqgrs/9.m3u8
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDC5rLR4tldirGZU9m3r-yoZDqa4Y6IHwPAA&usqp=CAU",SKY 1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+http://116.204.181.238:9981/stream/service/caa71a06631b879a0ca36d77c3b1a5e5?ticket=13AC33B05A9923540DA6036420643D3F815815AD
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/cover/channels/live-sky-2-th.png",SKY 2
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+http://116.204.181.238:9981/stream/service/857df9578d2b6f7b62631aa38f4d07fd?ticket=459ECD2FB86E01265F074BFEF1995833CC1B6616
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/cover/channels/live-sky-3-th.png",SKY 3
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+http://116.204.181.238:9981/stream/service/206d3dd84bacc81918f4a82de3fa0ccc?ticket=FCCB620BF2E6F0198513F62C946098C30BA3D0EE
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/cover/channels/live-sky-4-th.png",SKY 4
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+http://116.204.181.238:9981/stream/service/f7d627646a74f532576a0815ffd20a5a?ticket=6E2E56A5AD7CB5C790EEF4D113093BB6717D9311
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/images/channels/a_film.png",A-Film
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11?ticket=6FC9BAB537E100512D508A92161443105F07A3D9
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/images/channels/i_movie.png",I-MOVIE
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+http://116.204.181.238:9981/stream/service/7babe92e152f805a524c1c2e33226ea2?ticket=3F024579E1D6FC541462866B30C4A0F22DCC6E46
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/images/channels/i_asia.png",I-ASIA
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+http://150.95.25.221:8000/i%2D%20Asia%20HD?u=covid19:p=AS15788947
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/images/channels/ipm_series_plus.png",Series Plus
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+http://150.95.25.221:8000/Series%2B%20HD?u=covid19:p=AS15788947
+
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593553878925322/d4bd8b0f3839244c29e4feaa98f40533.png",Hero
 
