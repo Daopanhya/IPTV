@@ -205,6 +205,26 @@ https://www.goalclublive.com/LiveTable/channel/ziggosportvoetbal
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/premiersports1
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",sport1plus
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/sport1plus
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",skysportpremiere
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/skysportpremiere
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",skysportfootball
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/skysportfootball
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",skysportmainevent
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/skysportmainevent
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",skysportarena
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/skysportarena
+
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--97.png",btsport1
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/btsport1
@@ -244,6 +264,16 @@ https://www.goalclublive.com/LiveTable/channel/espnbrazil
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",cmorefootball
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/cmorefootball
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",cmorelivehd
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/cmorelivehd
+
+EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",sport1plus
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/sport1plus
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--817.png",freesportuk
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
@@ -414,3 +444,27 @@ https://www.goalclublive.com/LiveTable/channel/supersport1al
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/supersport2al
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",tv3max
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/tv3max
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",viasatfotboll
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/viasatfotboll
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",novasport
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/novasport
+
+https://www.goalclublive.com/LiveTable/channel/gol#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",gol
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/gol
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",elevensports1pt
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/elevensports1pt
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",canal11pt
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/canal11pt
