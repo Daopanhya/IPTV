@@ -1,20 +1,19 @@
 #EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",HBO
-ip2121.com:8081/web1/hbo/playlist.m3u8
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.dropbox.com/s/t60hdc6z0fzflii/20220204_044602.png?dl=1",HBO
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png",HBO
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115714
 
-#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://www.dropbox.com/s/cbkqz9nog1f50x0/20220204_044914.png?dl=1",HBO SIGNATURE
+#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png",HBO SIGNATURE
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
 https://mediasv.online/stream_live/hbos/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDk6MTc6MTYgQU0maGFzaF92YWx1ZT1UVEt3b0toaER0KzkwaWJCd0RWaXlBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzE4OTg3
 
-#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://www.dropbox.com/s/29k3u8srr4yit97/20220204_044744.png?dl=1",HBO HITS
+#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",HBO HITS
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115710
 
-#EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://www.dropbox.com/s/eo7uxefnuyabp3s/20220204_043821.png?dl=1", HBO FAMILY
+#EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png", HBO FAMILY
 
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU",CINEMAX
 
@@ -75,7 +74,7 @@ https://mediasv.online/stream_live/True_Series/playlist.m3u8?wmsAuthSign=c2VydmV
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeK0ZqvvctIZ71ivLoRd6J1ZzdlvoawSX3fg&usqp=CAU",Lifetime
 
-#EXTINF:-1 tvg-id="" tvg-logo=" ",CCM
+#EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/sm_CMC.png",CCM
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115635
 
 
@@ -87,7 +86,7 @@ https://mediasv.online/stream_live/AIS-HITS/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png",HITS MOVIES HD
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115679
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,KMTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/sm_KMTV.jpg" ,KMTV
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115721
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBsUGajVE-MjLvrdrJ8w&usqp=CAU",UNIVERSAL
@@ -172,15 +171,12 @@ https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
 https://cdn6.goprimetime.info/feed/202105171329/LC2/index.m3u8
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.dropbox.com/s/qeqd2ymbon57u5u/IMG_20210603_034035.png?dl=1",BOX FILM
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.iptv4k.tv/images/tv/XHDn8pu5wHwg9gI2rWmSuxqVsGfSMXMqk9u3jer8FLhWtXPivL-o.jpg",BOX FILM
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
 https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.dropbox.com/s/rx92n7jjorl8hsf/lVgd2n.png?dl=1",sanook
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-https://cdn6.goprimetime.info/feed/202105171329/LC53/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://drive.google.com/uc?export=download&id=1CESyG6cfFw3sgDixf768mwRnKJXf0CtD",MOVIES WORLD
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
