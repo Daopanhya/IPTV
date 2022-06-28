@@ -162,24 +162,23 @@ https://dooball2you.com/digi-sport-4/
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",SPORTTV 1
 #EXTVLCOPT:http-referrer=https://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_SPORTTV_1_720p/chunklist.m3u8
+https://www.goalclublive.com/LiveTable/channel/sporttv1
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",SPORTTV 2
 #EXTVLCOPT:http-referrer=https://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_SPORTTV_2_720p/chunklist.m3u8
+https://www.goalclublive.com/LiveTable/channel/sporttv2
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",SPORTTV 3
 #EXTVLCOPT:http-referrer=https://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_SPORTTV_3_720p/chunklist.m3u8
+https://www.goalclublive.com/LiveTable/channel/sporttv3
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--453.png",SPORTTV 4
 #EXTVLCOPT:http-referrer=https://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_SPORTTV_4_720p/chunklist.m3u8
+https://www.goalclublive.com/LiveTable/channel/sporttv4
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--454.png",SPORTTV 5
 #EXTVLCOPT:http-referrer=https://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_SPORTTV_5_720p/chunklist.m3u8
-
+https://www.goalclublive.com/LiveTable/channel/sporttv5
 
 
 
@@ -277,6 +276,17 @@ https://www.goalclublive.com/LiveTable/channel/beinmax5fr
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/beinmax6fr
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--138.png",beinsports1au
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/beinsports1au
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--139.png",beinsports2au
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/beinsports2au
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--140.png",bein3au
+#EXTVLCOPT:http-referrer=https://www.goalclublive.com
+https://www.goalclublive.com/LiveTable/channel/bein3au
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",beinsports1tu
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
@@ -300,7 +310,7 @@ https://www.goalclublive.com/LiveTable/channel/beinsportsarabia2hd
 https://www.goalclublive.com/LiveTable/channel/beinsportsarabia3hd
 
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png ",ziggosportselect
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",ziggosportselect
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/ziggosportselect
 
@@ -333,7 +343,7 @@ https://www.goalclublive.com/LiveTable/channel/espnus
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/foxsport1nl
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--32.png ",espn2
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--32.png",espn2
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/foxsport2nl
 
@@ -458,11 +468,11 @@ https://www.goalclublive.com/LiveTable/channel/supersport2al
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/cmorefootball
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--817.png ",freesportuk
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--817.png",freesportuk
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/freesportuk
 
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--95.png ",premiersports1
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--95.png",premiersports1
 #EXTVLCOPT:http-referrer=https://www.goalclublive.com
 https://www.goalclublive.com/LiveTable/channel/premiersports1
