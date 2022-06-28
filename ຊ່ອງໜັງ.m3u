@@ -1,20 +1,20 @@
 #EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",HBO
-http://ip2121.com:8081/web1/hbo/playlist.m3u8
+ip2121.com:8081/web1/hbo/playlist.m3u8
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",HBO
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.dropbox.com/s/t60hdc6z0fzflii/20220204_044602.png?dl=1",HBO
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115714
 
-#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09O5ynHfI9H3pDVYQX_c7FcMmbFwDq7r1hg&usqp=CAU",HBO SIGNATURE
+#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://www.dropbox.com/s/cbkqz9nog1f50x0/20220204_044914.png?dl=1",HBO SIGNATURE
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
 https://mediasv.online/stream_live/hbos/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDk6MTc6MTYgQU0maGFzaF92YWx1ZT1UVEt3b0toaER0KzkwaWJCd0RWaXlBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzE4OTg3
 
-#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09O5ynHfI9H3pDVYQX_c7FcMmbFwDq7r1hg&usqp=CAU",HBO HITS
+#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://www.dropbox.com/s/29k3u8srr4yit97/20220204_044744.png?dl=1",HBO HITS
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115710
 
-#EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU", HBO FAMILY
+#EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://www.dropbox.com/s/eo7uxefnuyabp3s/20220204_043821.png?dl=1", HBO FAMILY
 
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU",CINEMAX
 
@@ -35,21 +35,22 @@ https://mediasv.online/stream_live/224_MovieHit/playlist.m3u8?wmsAuthSign=c2Vydm
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",True Film 1 HD
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115667
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",True Film 2 HD
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_221.jpg",True Film 2 HD
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
 https://mediasv.online/stream_live/True_Film_HD2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDk6MTI6MDEgQU0maGFzaF92YWx1ZT1OeU1WMTJpcmJvalU1U1JmV3hPKzNnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI1JmlkPWNoXzMyMTA1
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdapmNP-C0b9EIe12AbdqfxxWMc0AXOCPyw&usqp=CAU",True Asian Film HD
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115665
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",True Thai Film HD
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115416
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+http://150.95.25.221:8000/True%20MoviesHit?u=covid19:p=AS15788947
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",True Thai Film
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115417
 
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SoYof.png" ,TRUE ASIAN MORE
-
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDU6MDM6MzggUE0maGFzaF92YWx1ZT16RG01MEwyU0xadkxmOWltb0NNb1VBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI1JmlkPWNoXzcyODI4
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPYEg27GYxxBuRk1ceiInzwK7nRSRUI8f2w&usqp=CAU",True Chinese More HD
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115673
