@@ -209,40 +209,25 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png",Mix Major
 https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2022/04/01/8KZv8n.png",FSTVMOV HD1
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/hi_channel.jpg",H Channel
 http://203.154.243.89:28010/pa/hchannel.ts
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2022/04/01/8KZv8n.png",FSTVMOV HD2
-http://203.154.243.89:28010/pa/hinews.ts
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2022/04/01/8KZv8n.png",FSTVMOV HD3
-http://203.154.243.89:28010/pa/universal.ts
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2022/04/01/8KZv8n.png",FSTVMOV HD4
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/zaa_network.jpg",IZAA
 http://203.154.243.89:28007/mss/izaa
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2022/04/01/8KZv8n.png",FSTVMOV HD5
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/ping_channel_th.jpg",Ping
 http://203.154.243.89:28010/pa/ping.ts
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2021/12/13/6CQcK1.png",FSTVSerie 1
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/cth_c_series_th.jpg",series
 http://203.154.243.89:28007/mss/series
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2021/12/13/6CQcK1.png",FSTVSerie 2
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/series_th.jpg",series
 http://203.154.243.89:28008/nakhon/series
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 1
-http://203.159.95.172:8081/live/action001/playlist.m3u8
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 2
-http://203.159.95.172:8081/live/banner003/playlist.m3u8
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 3
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://entertainmentstudios.com/wp-content/uploads/2020/08/comedy_tv_logo_sq.png",comedy
 http://203.159.95.172:8081/live/comedy1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,CABLE SERIES 1 HD TH
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115598
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Cable 37
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115655
 
 
