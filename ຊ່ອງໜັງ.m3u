@@ -92,7 +92,7 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115721
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBsUGajVE-MjLvrdrJ8w&usqp=CAU",UNIVERSAL
 http://203.154.243.89:28010/pa/universal.ts
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5jIlD89Lzt1yUUho9-EuasDFBD8N6t-u7A&usqp=CAU",TVB
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_048.jpg",TRUE TVB
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
 https://mediasv.online/stream_live/235_TVB/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIyIDEwOjUwOjIxIEFNJmhhc2hfdmFsdWU9RGRLMHc3Uy9lTE1zMno2MUQ1SXdQdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xOSZpZD1jaF8yOTk5Mg==
@@ -152,9 +152,10 @@ http://150.95.25.221:8000/Series%2B%20HD?u=covid19:p=AS15788947
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593553878925322/d4bd8b0f3839244c29e4feaa98f40533.png",Hero
+https://mediasv.online/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDQ6NDY6MDkgUE0maGFzaF92YWx1ZT05L3JDUnEwdXBlMExwOStrM3dPTzhRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI2JmlkPWNoXzQ3OTE0
 
-
-
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaoD3s40rTlomTjhXuiTDBEnJCji00oO-cw&usqp=CAU",NK TV
+http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU",FwMov
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
@@ -205,21 +206,18 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png",Mix Major
 https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/hi_channel.jpg",H Channel
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGzwguuA5j16SzL5XenC7j5PmKAKUudgFUmw&usqp=CAU",CINEMA 1
 http://203.154.243.89:28010/pa/hchannel.ts
 
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/zaa_network.jpg",IZAA
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW0DgmuBPD53WGfW3XItyhucS0ArqbGKsDVA&usqp=CAU",STAR MOVIES
 http://203.154.243.89:28007/mss/izaa
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/ping_channel_th.jpg",Ping
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRycyqEkh-i5Yv_JNvsWzXm4-1ScPH4lvSfZg&usqp=CAU",PING
 http://203.154.243.89:28010/pa/ping.ts
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/cth_c_series_th.jpg",series
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqP2HEiy7D2EfRVFUfEhMdtMAPRqY0RT5CYA&usqp=CAU",U series
 http://203.154.243.89:28007/mss/series
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/series_th.jpg",series
-http://203.154.243.89:28008/nakhon/series
 
 
 
