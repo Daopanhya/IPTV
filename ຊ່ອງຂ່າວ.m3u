@@ -9,6 +9,13 @@ http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBT World HD TH" tvg-logo="" ,NBT World HD TH
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/38094
 
+#EXTINF:-1,VoiceTV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w430436438.m3u8
+
+#EXTINF:-1,TGN 
+http://110.170.117.27:1935/apptv5hd1live/tgn/playlist.m3u8
+
+
 
 #EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://bit.ly/3LY7LCQ", BBC WORLD NEWS
 
