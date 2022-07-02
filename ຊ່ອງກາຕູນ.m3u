@@ -7,12 +7,10 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115324
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115819
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_111.jpg",DreamWorks
-#EXTVLCOPT:http-user-agent=exoplayer_video
-https://mediasv.online/stream_live/DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDE6MzM6MzcgUE0maGFzaF92YWx1ZT1ydDFiNlRwb2diRVhYaTlIL3ZUa2dRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIyJmlkPWNoXzU1OTg2
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115439
 
 #EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nickelodeon.png",Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://mediasv.online/stream_live/AIS-Nickelodeon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDE6NTA6MzQgUE0maGFzaF92YWx1ZT1neW5LL29RdXVVUjREOG8ydkFNUWZ3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzE4NjIz
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115748
 
 #EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nick-Jr.png", Nick Jr
 #EXTVLCOPT:http-user-agent=exoplayer_video
