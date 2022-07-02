@@ -88,7 +88,8 @@ https://mediasv.online/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSig
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593508764995624/7eb06119adfc77ee068cfafb1f0c7927.png",MYSCI
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNzoxNCBBTSZoYXNoX3ZhbHVlPXEvb0JGOFVTYmZWc3o3dTlZeWRmVFE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfNTg3MzU=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://61.19.242.134/feed/202105171329/LC37/index.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593508559454288/6a48e0c5d526324012e5dc58b3b62526.png",New Exploer
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -99,17 +100,6 @@ https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://61.19.242.134/feed/202105171329/LC8/index.m3u8
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510493061171/05636ed570352d41af1a75c472f37552.jpg",สำรวจโล
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-http://61.19.242.134/feed/202105171329/LC8/index.m3u8
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510493061171/05636ed570352d41af1a75c472f37552.jpg",สำรวจโล
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-http://61.19.242.134/feed/202105171329/LC8/index.m3u8
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510493061171/05636ed570352d41af1a75c472f37552.jpg",สำรวจโล
-http://61.19.242.134/feed/202105171329/LC8/index.m3u8
 
 
 
