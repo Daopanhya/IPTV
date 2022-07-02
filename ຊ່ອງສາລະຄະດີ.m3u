@@ -31,7 +31,7 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115724
 https://mediasv.online/stream_live/558_Nationnal_geographic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0ODo0NSBQTSZoYXNoX3ZhbHVlPUZBaHVsNUJXeVgxbTQ5RTh3VDA5UWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzYmaWQ9Y2hfODg0MTM=
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU",NAT GEO WILD
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115735
+http://203.154.243.88:11088/hi/natgeo
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",TRUE EXPLORE WILD
 #EXTVLCOPT:http-referrer=https://www.nasa.gov/
@@ -44,7 +44,7 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115659
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115660
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="",Inwild DH
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5ITsKR544CllUWlGpXoO_B-f8oax7G81zg&usqp=CAU",Inwild DH
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115663
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",Animal Planet
@@ -79,8 +79,7 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115624
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115625
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3MFrl6yuo-VinAgLtt78i-Lq8gn18ZX22A&usqp=CAU",DOONEE
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-
+http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593509490589696/65f0371282e145d42326b240c6d5e60a.png",ANIMAL SHOW
@@ -96,8 +95,9 @@ https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2V
 https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozODoxNyBBTSZoYXNoX3ZhbHVlPVBiN3FzU3IvcWJ5YVdvV0VjMko3MEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzQmaWQ9Y2hfNTQxNjg=
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510493061171/05636ed570352d41af1a75c472f37552.jpg",สำรวจโล
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMTo1MzowNCBQTSZoYXNoX3ZhbHVlPVlKd1lzUHE4N1VWSmNrZVhzV1hGQWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzEmaWQ9Y2hfMTg5MTI=
+http://61.19.242.134/feed/202105171329/LC8/index.m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://61.19.242.134/feed/202105171329/LC8/index.m3u8
 
 
 
