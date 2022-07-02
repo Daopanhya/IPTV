@@ -102,6 +102,9 @@ http://203.154.243.89:28010/pa/universal.ts
 https://mediasv.online/stream_live/235_TVB/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIyIDEwOjUwOjIxIEFNJmhhc2hfdmFsdWU9RGRLMHc3Uy9lTE1zMno2MUQ1SXdQdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xOSZpZD1jaF8yOTk5Mg==
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpLGDPDLfKxb9HKqCcPOB-FAqG__jMZJtxg&usqp=CAU",MONO PLUS
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
+#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8888/live/variety/QdavVJDKxI/10.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F5nlb1-dCVsYYkj9ERFyKyprKn3xVxtSng&usqp=CAU",3BB Asian
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
