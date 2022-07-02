@@ -139,12 +139,10 @@ http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/21.m3u8
 http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/23.m3u8
 
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv5.png",Vtv5
-http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv6.png",Vtv6
-http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
-
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",sportdigital
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
+#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/24.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--97.png",btsport1
@@ -164,10 +162,7 @@ https://www.dooball2you.com/bt-sport-2/
 http://93.152.174.144:4000/play/btsport3/13870420.m3u8
 
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",sportdigital
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
-#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
-http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/24.m3u8
+
 
 
 
@@ -250,63 +245,12 @@ https://www.dooball2you.com/arenasport-4/
 
 
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv5.png",Vtv5
+http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
 
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/uk-btsport1hd.jpg",BT Sport1
-#EXTVLCOPT:http-referrer=https://http://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv6.png",Vtv6
+http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/uk-btsport2hd.jpg",BT Sport2
-#EXTVLCOPT:http-referrer=https://http://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/uk-btsport3hd.jpg",BT Sport3
-#EXTVLCOPT:http-referrer=https://http://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_BTSPORTHD_3_720p/chunklist.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",premiersports
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/o4f34qisqk8cvuu/ky1vtz0g.png",SKYSPORT MAINEVENT
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/chunks.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/cd7gk32phh4qjz9/ky1vvwkl.png",SKYSPORT ACTION
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/qclcz8t9sf2856f/ky1vt6pl.png",SKYSPORT EPL
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/5r97g7d89z2m6wf/ky1vuxpo.png",SKYSPORT FOOTBALL
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/c3pvlqhzjcdyybk/ky1vtmph.png",SKYSPORT MIX
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/chunks.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/6zb17wcsozzfhhe/ky1vmtx3.png",WWE
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-http://139.99.27.33:9998/wwe/index.m3u8?token=9b98e770fb6e2fb8e2ad8a66481cc1e499fb737e-110ee2bb8d24df3f5629801c477a5981-1655709987-1655699187
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/590vldbnjffzi1p/ky1vs7pj.png",MUTV
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/o3wpww9a26fxnof/ky1vs20q.png",LFCTV
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-http://139.99.27.33:9998/lfc/index.m3u8?token=894b5333a2aee8c03f4477d33e49633130aba491-207724aba1f0815f0dbf0de3aae2e9d8-1655710055-1655699255
-
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/ESPN_Africa.png",ESPN
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-http://139.99.27.33:9998/espn/index.m3u8?token=1d0dde0cb5be02aa460bacf2776519d7358abc69-c8e250f73bb90f2ef49ed6ac399cc226-1655710208-1655699408
-
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/ESPN_2_Africa.png",ESPN 2
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-http://139.99.27.33:9998/espn2/index.m3u8?token=f08b236e78cd2c6b704fd67c77b5758946dee87e-da68e946b533757d3618b0a51184f390-1655710235-1655699435
 
 
 #EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/cctv-5.png",CCTV 5
@@ -320,133 +264,26 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRob-gnhH-YkE5vCj7aOuOcTWIlpFmiN--htA&usqp=CAU",SONY TEN 1
-#EXTVLCOPT:http-referrer=https://freetvdd.com
 http://103.55.144.46/hls/sonyten1.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTABX9WQyTHJIKL9HCWs44aovqgixIrUkwA&usqp=CAU",SONY TEN 2
-#EXTVLCOPT:http-referrer=https://freetvdd.com
 http://103.55.144.46/hls/sonyten2.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/06/09/sony.jpg?itok=nAu-3HU9",SONY TEN 3
-#EXTVLCOPT:http-referrer=https://freetvdd.com
 http://103.55.144.46/hls/sonyten3.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iHaciK_Uv-h2_mXEpfxh4_Wr9q0h_7z-aA&usqp=CAU",SONY SIX
-#EXTVLCOPT:http-referrer=https://freetvdd.com
 http://103.55.144.46/hls/sonysix.m3u8
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/6cubwmmfkcinr1l/ky21u5bo.png",Premier Sports
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/uk-premiersports.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMI_bYnrnoLLI0yetJW79arIwA5nhavaDJA&usqp=CAU",WWE
+http://93.152.174.144:4000/play/WWE/index.m3u8
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dl.dropboxusercontent.com/s/d2qwv01k1qf8sgl/ky21zr3u.png",DE Sky Bundesliga
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8
+#EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZA7AGKLVtENn45qStuzKz0Z4Tmnq-NUokQ&usqp=CAU",FIGHT SPORTS
+http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/01.m3u8
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://www.xn--72czp5emaz0ab6b.com/uploads/png/sd-skynetsportshd.png",SKY NET SPORTS HD
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://www.xn--72czp5emaz0ab6b.com/player/c/81/SKYNET-SPORT-HD-81/37879.html
+#EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYbTaX64_bWUp85QdDBoWnreEsFKp1SuicQ&usqp=CAU",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://www.xn--72czp5emaz0ab6b.com/uploads/png/sd-skynetsports1.png",SKY NET SPORTS 1
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://www.xn--72czp5emaz0ab6b.com/player/c/80/SKYNET-SPORT-1-80/37878.html
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://www.xn--72czp5emaz0ab6b.com/uploads/png/sd-skynetsports2.png",SKY NET SPORTS 2
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://www.xn--72czp5emaz0ab6b.com/player/c/79/SKYNET-SPORT-2-79/37877.html
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://www.xn--72czp5emaz0ab6b.com/uploads/png/sd-skynetsports3.png",SKY NET SPORTS 3
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://www.xn--72czp5emaz0ab6b.com/player/c/78/SKYNET-SPORT-3-78/37876.html
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://www.xn--72czp5emaz0ab6b.com/uploads/png/sd-skynetsports4.png",SKY NET SPORTS 4
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://www.xn--72czp5emaz0ab6b.com/player/c/77/SKYNET-SPORT-4-77/37875.html
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://www.xn--72czp5emaz0ab6b.com/uploads/png/sd-skynetsports5.png",SKY NET SPORTS 5
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://www.xn--72czp5emaz0ab6b.com/player/c/76/SKYNET-SPORT-5-76/37874.html
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://www.xn--72czp5emaz0ab6b.com/uploads/png/sd-skynetsports6.png",SKY NET SPORTS 6
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://www.xn--72czp5emaz0ab6b.com/player/c/75/SKYNET-SPORT-6-75/37873.html
-
-
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_arena.png",Astro Arana
-#EXTVLCOPT:http-referrer=https://udoofree.com/
-http://139.99.27.33:9998/astro-arena/index.m3u8?token=c895c9c53d0393c0ad827293eda4c3a98a48ca3c-9cb838ed184cfb38e5a83ebc997491b6-1655708822-1655698022
-
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport1-.jpg",Astro Supersport
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-http://139.99.27.33:9998/assp1/index.m3u8?token=7106ee66953617fe87bda8d8696c0aa730bd1910-3ad7ed2f21fe4a765f07e09985d5392d-1655709243-1655698443
-
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport-2.jpg",Astro Supersport 2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-http://139.99.27.33:9998/assp2/index.m3u8?token=0f6ac1ed9e647f5274fbfecf7be0a99901e16f8b-5e1c6bd9580ec26702a386b44f43d051-1655709289-1655698489
-
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport-3.jpg",Astro Supersport 3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-http://139.99.27.33:9998/assp3/index.m3u8?token=678913046c6db30ab367cf498d75877c641eef51-608a6f916e935399529c12b37d32378b-1655709336-1655698536
-
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport-4.jpg",Astro Supersport 4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-http://139.99.27.33:9998/assp4_720/index.m3u8?token=5f61daec813e82e798f74cd54a09057153393da5-832c8e7fb885faa0bb0a00442d0e5833-1655709375-1655698575
-
-#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/astro_supersport-5.jpg",Astro Supersport 5
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-http://139.99.27.33:9998/assp5/index.m3u8?token=294d5fd3536a0a97c640db4db1c73b9300529a19-94f1513096074481350bc698da3cb1ac-1655709405-1655698605
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi1.png",DigiSport1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/digi-sport-1/
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi2.png",DigiSport2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/digi-sport-2/
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi3.png",DigiSport3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/digi-sport-3/
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi4.png",DigiSport4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/digi-sport-4/
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an1.png",ArenaSport1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/arenasport-1/
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an2.png",ArenaSport2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/arenasport-2/
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an3.png",ArenaSport3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/arenasport-3/
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an4.png",ArenaSport4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/arenasport-4/
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an4.png",SPORTTV 1
-#EXTVLCOPT:http-referrer=https://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an4.png",SPORTTV 2
-#EXTVLCOPT:http-referrer=https://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an4.png",SPORTTV 3
-#EXTVLCOPT:http-referrer=https://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an4.png",SPORTTV 4
-#EXTVLCOPT:http-referrer=https://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an4.png",SPORTTV 5
-#EXTVLCOPT:http-referrer=https://youdooball.com
-https://youdooball.livedoomovies.com:4432/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/15_f6a8241e.jpg",sctv15
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
