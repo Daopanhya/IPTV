@@ -16,12 +16,12 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115711
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_DiscoveryHDWorld/chunklist.m3u8
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-discovery.png",Discovery Channel
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-discovery.png",Discovery Asia HD
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115650
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvh2lpyd8bx6SpHnaHLv5kjFdJfs5hcPOFA&usqp=CAU",Love Nature (Thai)
-https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0OToyMiBQTSZoYXNoX3ZhbHVlPWR0OGgycFRjL01CaGlzYUMvY0UxK2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfNjY1MTU=
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-discovery.png",Discovery Channel
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115399
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvh2lpyd8bx6SpHnaHLv5kjFdJfs5hcPOFA&usqp=CAU",Love Nature
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115724
@@ -31,31 +31,34 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115724
 https://mediasv.online/stream_live/558_Nationnal_geographic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0ODo0NSBQTSZoYXNoX3ZhbHVlPUZBaHVsNUJXeVgxbTQ5RTh3VDA5UWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzYmaWQ9Y2hfODg0MTM=
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU",NAT GEO WILD
-#EXTVLCOPT:http-referrer=https://www.nasa.gov/
-https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0MzoxOCBQTSZoYXNoX3ZhbHVlPTl4V2FXdjAvenl3Qm1sZTVqQmZra1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfMjc1ODI=
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115735
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",TRUE EXPLORE WILD
 #EXTVLCOPT:http-referrer=https://www.nasa.gov/
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115408
 
-#EXTINF:-1 tvg-id="" tvg-logo=" ", Explore Life TH 
+#EXTINF:-1 tvg-id="" tvg-logo=" ", Explore Life TH
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115659
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Explore Science HD TH 
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115660
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="",Inwild DH
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115663
+
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",Animal Planet
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",Animal Planet HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115610
 
 #EXTINF:-1 tvg-id=""  tvg-logo="" ,Food Network
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115672
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzDCv_5-6J41TBcMvLFJJwrKaYbaphFajVxw&usqp=CAU",OUTDOOR
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://mediasv.online/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1MzoxNiBQTSZoYXNoX3ZhbHVlPVJxRlZ4RVF2U2pHelNtdDRPdWhaM2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjMmaWQ9Y2hfNTA3MjY=
-
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115749
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",Love Nature
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -64,13 +67,15 @@ https://mediasv.online/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2VydmV
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpfPRrXubIxPR4apcIjWmqLBXh5F34dCL6w&usqp=CAU",Global trekker
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC earth HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115622
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC earth
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115624
 
+
+
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg",BBC Lifestye
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115625
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3MFrl6yuo-VinAgLtt78i-Lq8gn18ZX22A&usqp=CAU",DOONEE
