@@ -11,3 +11,12 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://www.img.in.th/images/c8ef08c634451d41986695965e588ffb.png",TV KPOP
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://www.img.in.th/images/c8ef08c634451d41986695965e588ffb.png",TV KPOP HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115599
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV YO! TH" tvg-logo="" ,MTV YO! TH
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115323
+
+#EXTINF:-1 tvg-id="" tvg-name="Music4U TH" tvg-logo="" ,Music4U TH
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115731
