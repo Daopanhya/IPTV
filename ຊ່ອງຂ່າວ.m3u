@@ -6,6 +6,10 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115818
 #EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxmWne.md.png",NEWS1
 http://news1.live14.com/stream/news1_hi.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBT World HD TH" tvg-logo="" ,NBT World HD TH
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/38094
+
+
 #EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://bit.ly/3LY7LCQ", BBC WORLD NEWS
 
 
