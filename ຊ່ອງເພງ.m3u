@@ -1,7 +1,9 @@
 #EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510027477062/83bcb737ec4ff125f02a56bc9fe279da.png",Sweet
-https://mediasv.online/stream_live/goodtv42_Sweet./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDo0MTowMCBBTSZoYXNoX3ZhbHVlPTdHQVF3WmlYellsdHUzRnQ2NTlPUkE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfMzY1MTU=
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://61.19.242.134/feed/202105171329/LC36/index.m3u8
 
 #EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://bit.ly/3JPtgUp",ToplineChannel
 https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/chunklist.m3u8
@@ -15,8 +17,26 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://www.img.in.th/images/c8ef08c634451d41986695965e588ffb.png",TV KPOP HD
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115599
 
+#EXTINF:1,MTV Spankin New
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:1,MTV Block Party
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:1,MTV Biggest Pop
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV YO! TH" tvg-logo="" ,MTV YO! TH
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115323
 
 #EXTINF:-1 tvg-id="" tvg-name="Music4U TH" tvg-logo="" ,Music4U TH
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115731
+
+#EXTINF:-1,CH V
+http://61.19.242.134/feed/202105171329/LC14/index.m3u8
+
+#EXTINF:1,CMT Music
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:1,A3Bikini TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
