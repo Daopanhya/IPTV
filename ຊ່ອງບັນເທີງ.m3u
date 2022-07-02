@@ -5,16 +5,18 @@
 #EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYrHO0BKlxdFooaj8vocKhdYd95VdaVp75w&usqp=CAU",RUSH STORIES
 
 #EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWjF4Uuo8Kpr1Q9sq3HpQJaTZXcG2WkgO5w&usqp=CAU", True Xzyte
-https://mediasv.online/stream_live/340_Xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzozMSBQTSZoYXNoX3ZhbHVlPURzSmtMcjFuYVYycEIyY0IvbXk2cmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjEmaWQ9Y2hfNDE5OTk=
 
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3RPhKP9TvzYKL2p3jMFSKOYZzFCUseC55w&usqp=CAU",tvN
-https://mediasv.online/stream_live/241_tvN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMDoxOCBQTSZoYXNoX3ZhbHVlPStXSVZ5a2loL09rZDJab2paczRETVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNTMxMDU=
+=
 
 #EXTINF:-1  tvg-id="TNN16.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0aHjGU-gfJUIy_FBPxiAeUpDze9vFaOBYw&usqp=CAU",GEM
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115600
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXYImGQgwhRQh4V054OIBCVNBDpaRc4ojdQ&usqp=CAU",Kbs World
-https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDg6NTE6MzcgQU0maGFzaF92YWx1ZT10Y3prd2FWdU4zbS93UUUzSFc1bm9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzkyNzM5
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115723
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo=" ",Lifetime
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115629
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkZDeBql7MeoWAvaB8V1yT6CCaVROFNVDdw&usqp=CAU",Rock Entertainment
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115628
@@ -25,14 +27,33 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115629
 #EXTINF:-1 tvg-id=""  tvg-logo="",TLC HD
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115402
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",AXN
-https://mediasv.online/stream_live/336_AXN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMjoxMyBQTSZoYXNoX3ZhbHVlPXR0dzdoNHczVS9CcFlyTHM2UFRTV0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfMjM5Njc=
+#EXTINF:-1 tvg-id="" tvg-name="Inside HD TH " tvg-logo="" ,Inside HD TH 
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115721
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PewDk8NKPwC6HnNQdt8T4Z_WYvOMNZEa8Q&usqp=CAU",Food Network
-https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDk6MTQ6NDEgQU0maGFzaF92YWx1ZT1vNkowTFE3Zlg4TlpoZWpRa0NCWk53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzYwMzcx
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",AXN HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115619
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",AXN
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115620
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PewDk8NKPwC6HnNQdt8T4Z_WYvOMNZEa8Q&usqp=CAU",Asian Food Channel
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115611
+
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD TH" tvg-logo="" ,Food Network HD TH
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115672
+
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://dl.dropbox.com/s/tf8x87z6be2yjsz/arirang.png",Arirang World
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://dl.dropbox.com/s/tf8x87z6be2yjsz/arirang.png",Arirang World  HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115308
+
+
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo=" ",One HD
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115600
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://img.utdstc.com/icon/6d1/481/6d14811c694dcd71bd8409ca6bd0883c52f846f5b4b7aea294afc6d2db12c5ac:200",FashionTV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
