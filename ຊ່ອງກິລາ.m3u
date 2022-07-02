@@ -22,12 +22,12 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 https://www.goalclublive.com/LiveTable/channel/epl3
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",epl3
-#EXTVLCOPT:http-referrer=http://139.99.80.237:9998/epl3a/embed.html?autoplay=false&token= bad0dc3de08ebb7d4716562e6ecad33de0e872f8-2556cd22e7653627c4ab64a1afa50aa2-1656742362-1656731562&remote=202.62.102.247
+#EXTVLCOPT:http-referrer=http://139.99.80.237:9998
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux, Android 10; vivo 1935 Build/ QP1A.190711.020) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
 http://139.99.80.237:9998/epl3a/index.m3u8?token=bad0dc3de08ebb7d4716562e6ecad33de0e872f8-2556cd22e7653627c4ab64a1afa50aa2-1656742362-165673
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",epl3
-#EXTVLCOPT:http-referrer=http://139.99.80.237:9998/epl3a/embed.html?autoplay=false&token= bad0dc3de08ebb7d4716562e6ecad33de0e872f8-2556cd22e7653627c4ab64a1afa50aa2-1656742362-1656731562&remote=202.62.102.247
+#EXTVLCOPT:http-referrer=http://139.99.80.237:9998
 http://139.99.80.237:9998/epl3a/index.m3u8?token=bad0dc3de08ebb7d4716562e6ecad33de0e872f8-2556cd22e7653627c4ab64a1afa50aa2-1656742362-165673
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",epl3
@@ -35,6 +35,7 @@ http://139.99.80.237:9998/epl3a/index.m3u8?token=bad0dc3de08ebb7d4716562e6ecad33
 http://139.99.80.237:9998/epl3a/index.m3u8?token=bad0dc3de08ebb7d4716562e6ecad33de0e872f8-2556cd22e7653627c4ab64a1afa50aa2-1656742362-165673
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",epl3
+#EXTVLCOPT:http-referrer=http://udoofree.com/
 http://139.99.80.237:9998/epl3a/index.m3u8?token=bad0dc3de08ebb7d4716562e6ecad33de0e872f8-2556cd22e7653627c4ab64a1afa50aa2-1656742362-165673
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",epl4
