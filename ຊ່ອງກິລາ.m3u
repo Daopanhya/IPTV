@@ -13,8 +13,7 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",epl3
-#EXTVLCOPT:http-referrer=https://www.udoofree.com/
-http://udoofree.com/movie2/200/single-live?watch=1
+https://mediasv.online/stream_live/603_eng3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjIgODozMjowMSBBTSZoYXNoX3ZhbHVlPTdkZm0wditJWU5yenpGNWhDNXRnV1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjAmaWQ9Y2hfNjc3NTc=
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",epl4
@@ -48,9 +47,7 @@ https://youdooball.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",truesporthd4
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://youdooball.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
-
+https://mediasv.online/stream_live/669_Ts_HD4/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjIgODo0NToyMyBBTSZoYXNoX3ZhbHVlPWFNT2g0Q3VsQlBCNU5RQ1RBNmk0Rnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjImaWQ9Y2hfNTQwNDM=
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",truesport5
@@ -101,14 +98,10 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/nfl/playlist.m3u8
 https://youdooball.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",GOLF CHANNEL PLUS
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
+https://mediasv.online/stream_live/golf2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjIgODo0OToyNSBBTSZoYXNoX3ZhbHVlPXRGamlXWVcrejU2SWg2RTB4ZjA3NGc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTcmaWQ9Y2hfNDAyMjA=
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUpbkOSoMG_5JSsRAnhdwewnQ7qZD4-ZguQ&usqp=CAU",MOTORVISION
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87motorvision/
-
+https://mediasv.online/stream_live/687_motorvision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjIgODo0OTowMiBBTSZoYXNoX3ZhbHVlPUVuS2VabWFrUytLQk1PZGFFN0N3Mnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfNjIwMDA=
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://dl.dropboxusercontent.com/s/l9iapetf6bjt8i6/ky1wbvdh.png",3BB Sport One
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
@@ -180,12 +173,13 @@ http://venomtt.com:8000/50094427459308/05077140030836/22314
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",SPORTTV 1
 #EXTVLCOPT:http-referrer=https://ufacompany.com
-https://ufacompany.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux, Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.125 Mobile Safari/537.36
+https://streaming.iamtheme.com:30443/cloudstreaming/SPORT%20TV%201%20Portugal_720p/playlist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",SPORTTV 2
 #EXTVLCOPT:http-referrer=https://ufacompany.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux, Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.125 Mobile Safari/537.36
-https://streaming.iamtheme.com:30443/cloudstreaming/SPORT%20TV%201%20Portugal_720p/playlist.m3u8
+https://streaming.iamtheme.com:30443/cloudstreaming/SPORT%20TV%202%20Portugal_720p/playlist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",SPORTTV 3
 #EXTVLCOPT:http-referrer=https://youdooball.com
