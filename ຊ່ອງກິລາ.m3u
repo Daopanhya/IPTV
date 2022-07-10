@@ -123,6 +123,11 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115621
 #EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
 http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/21.m3u8
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR---cSTfLDxxwJz88iPMVZI_K6Z2D8HjVugw&usqp=CAU",AFF U19 2022
+#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
+#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
+http://tvthai.googlestream.xyz:8888/live/sport/l7pNrXgDlv/37.m3u8
+
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpekgnLjfDZZUVCXqHSCv1ABivsI78HdBFFw&usqp=CAU",EDGE Sport
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 
@@ -147,8 +152,9 @@ http://venomtt.com:8000/50094427459308/05077140030836/156446
 http://venomtt.com:8000/50094427459308/05077140030836/158822
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--97.png",btsport1
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com
-https://www.dooball2you.com/bt-sport-1/
+#EXTVLCOPT:http-referrer=https://93.152.174.144:4000
+#EXTVLCOPT:http-user-agent=utv/1.3.9 (Linux;Android 10) ExoPlayerLib/2.14.1
+https://93.152.174.144:4000/play/btsport1/39699044.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--100.png",btsport2
