@@ -277,6 +277,8 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115617
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--256.png",astrosupersport4
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115618
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--256.png",astrosupersport5
+http://n2086.securepoint.io:25461/bGHneAydPw/HIYbObxdD1/197518
 
 
 
@@ -296,6 +298,11 @@ https://www.dooball2you.com/arenasport-3/
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--322.png",arenasport4serbia
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com
 https://www.dooball2you.com/arenasport-4/
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--322.png",arenasport5serbia
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/628
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 1
 http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/629
