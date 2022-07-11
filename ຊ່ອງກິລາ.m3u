@@ -197,6 +197,20 @@ http://venomtt.com:8000/50094427459308/05077140030836/22317
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--90.png",Sky Sports EPL
 http://venomtt.com:8000/50094427459308/05077140030836/22314
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://thefriscobowl.com/wp-content/uploads/2021/08/ESPN-logo.png",ESPN
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/682
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",ESPN 2
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/683
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png",ESPN 3
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/684
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/684
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.warpfootball.games/wp-content/themes/Divi/logo/espnbrazil.png",ESPN Brazil
+http://dns.acaidopara.net:8080/dolamee1496/gl1mLidJRr/40620
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",SPORTTV 1
 http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/607
