@@ -151,13 +151,11 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=11364&extension=t
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_2tQWT30zcHWVCXSUjGkGgM4k5a24SlVCOA&usqp=CAU",Premier sports 2(UK)
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=39095&extension=ts&play_token
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMen-_kHqrMfZhO3vaepSkfor89UuMrF464A&usqp=CAU",
-"url",Euro Sport 1
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMen-_kHqrMfZhO3vaepSkfor89UuMrF464A&usqp=CAU",Euro Sport 1
 http://dns.acaidopara.net:8080/dolamee1496/gl1mLidJRr/47323http://dns.acaidopara.net:8080/dolamee1496/gl1mLidJRr/47323
 
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf86FjdMA5vVjdN1dJnkJCMEQRFdc4qDLMLA&usqp=CAU",
-"url",Euro Sport 2
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf86FjdMA5vVjdN1dJnkJCMEQRFdc4qDLMLA&usqp=CAU",Euro Sport 2
 http://dns.acaidopara.net:8080/dolamee1496/gl1mLidJRr/47324
 
 
