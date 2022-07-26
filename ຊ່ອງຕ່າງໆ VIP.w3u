@@ -1,0 +1,166 @@
+{
+  "name": "IPTV WISEPLAY VIP",
+  "author": "IPTV WISEPLAY",
+  "info": "ລາຄາ 500 ກີບ ຕໍ່ວັນ ຊ່ອງມີປັນຫາພ້ອມແກ້ໄຂ 24 ຊົ່ວໂມງ",
+  "image": "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
+"groups": [
+{
+"name": "ຊ່ອງດີຈີຕ້ອນທີວີ",
+"image":"https://s.isanook.com/mn/0/rp/rc/w850h510/yatxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL21uLzAvdWQvMzUvMTc4ODY3LzYwNTMzNy5qcGc=.jpg",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%94%E0%BA%B5%E0%BA%88%E0%BA%B5%E0%BA%95%E0%BB%89%E0%BA%AD%E0%BA%99%E0%BA%97%E0%BA%B5%E0%BA%A7%E0%BA%B5.m3u",
+"referer": "xxx",
+"info": " IPTV WISEPLAY ",
+"import": false
+},
+
+{
+"name": "ຊ່ອງລາວ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDEaXX-k-pGjF42ZXE8SEKwNf6dozWv05iA&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%A5%E0%BA%B2%E0%BA%A7.m3u",
+"referer": "xxx",
+"info": " IPTV WISEPLAY ",
+"import": false
+},
+{
+"name": "ຊ່ອງກິລາ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCf1XExWu3C_3nszOj_Rz8nc7FOy5vHuPFty_Ry4g3aDNI-UdBDVw&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%81%E0%BA%B4%E0%BA%A5%E0%BA%B2.m3u",
+"referer": "xxx",
+"info": " IPTV WISEPLAY ",
+"import": false
+},
+{
+"name": "ຊ່ອງສາລະຄະດີ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgux1OcfXc2r1rWcbnWacC2-Bxn-6W7kXJ-Q&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%AA%E0%BA%B2%E0%BA%A5%E0%BA%B0%E0%BA%84%E0%BA%B0%E0%BA%94%E0%BA%B5.m3u",
+"referer": "xxx",
+"info": " IPTV WISEPLAY ",
+"import": false
+},
+{
+"name": "ຊ່ອງໜັງ",
+"image":"https://archive.org/download/movie-hd-507_20210719_1836/movie-hd.jpg",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BB%9C%E0%BA%B1%E0%BA%87.m3u",
+"referer": "xxx",
+"info": " IPTV WISEPLAY ",
+"import": false
+},
+{
+"name": "ຊ່ອງກາຕູນ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFf2bRknprpPBWeOllFdoqoPeYWb2AyGTFQ&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%81%E0%BA%B2%E0%BA%95%E0%BA%B9%E0%BA%99.m3u",
+"referer": "xxx",
+"info": " IPTV WISEPLAY ",
+"import": false
+},
+{
+"name": "ຊ່ອງບັນເທີງ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyBgZ3OSe3SUN9wlFpUpfEGiGvMNZ1iZi8pA&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%9A%E0%BA%B1%E0%BA%99%E0%BB%80%E0%BA%97%E0%BA%B5%E0%BA%87.m3u",
+"referer": "xxx",
+"info": " IPTV WISEPLAY ",
+"import": false
+},
+
+{
+"name": "ຊ່ອງເພງ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXXUUV2VvmTGIg_G9D5J3wkcNgigvZK3X2Jg&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BB%80%E0%BA%9E%E0%BA%87.m3u",
+"referer": "xxx",
+"info": " IPTV WISEPLAY ",
+"import": false
+},
+
+{
+"name": "ໜັງ & ຊີຣີ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vFV1kEiL2sl00dlDfLzeB48_v89Yow7aug&usqp=CAU",
+"url": "https://yamcode.com/raw/w3u-78882",
+"referer": "xxx",
+"info": " IPTV WISEPLAY ",
+"import": false
+},
+
+{
+"name": "ຂໍ້ມູນອັບເດດ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHpYM8rG1m2fyRCDUOVLL5oPO5W5CbCIOMKw&usqp=CAU",
+"url": "https://yamcode.com/raw/untitled-61193",
+"referer": "xxx",
+"info": " IPTV WISEPLAY ",
+"import": true
+},
+]
+}
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<body bgcolor="000000">
+<center>
+  <h2>
+  <font color="FF00FF">
+    <b>
+   </b>
+    </font>
+    </h2>
+  </center>
+  </body>
+  <script language="JavaScript">
+
+       window.onload = function () {
+           document.addEventListener("contextmenu", function (e) {
+               e.preventDefault();
+           }, false);
+           document.addEventListener("keydown", function (e) {
+               //document.onkeydown = function(e) {
+               // "I" key
+               if (e.ctrlKey && e.shiftKey && e.keyCode == 73) {
+                   disabledEvent(e);
+               }
+               // "J" key
+               if (e.ctrlKey && e.shiftKey && e.keyCode == 74) {
+                   disabledEvent(e);
+               }
+               // "S" key + macOS
+               if (e.keyCode == 83 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+                   disabledEvent(e);
+               }
+               // "U" key
+               if (e.ctrlKey && e.keyCode == 85) {
+                   disabledEvent(e);
+               }
+               // "F12" key
+               if (event.keyCode == 123) {
+                   disabledEvent(e);
+               }
+           }, false);
+           function disabledEvent(e) {
+               if (e.stopPropagation) {
+                   e.stopPropagation();
+               } else if (window.event) {
+                   window.event.cancelBubble = true;
+               }
+               e.preventDefault();
+               return false;
+           }
+       }
+//edit: removed ";" from last "}" because of javascript error
+</script>
+<script language="JavaScript1.2">
+function disableselect(e){
+return false
+}
+
+function reEnable(){
+return true
+}
+
+//if IE4+
+document.onselectstart=new Function ("return false")
+
+//if NS6
+if (window.sidebar){
+document.onmousedown=disableselect
+document.onclick=reEnable
+}
+</script>
+</html>
