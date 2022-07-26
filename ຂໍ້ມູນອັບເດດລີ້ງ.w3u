@@ -1,0 +1,39 @@
+{
+"name": "ຂໍ້ມູນອັບເດດລີ້ງ",
+"author": "DAO-IPTV",
+"groups": [
+{
+"name": "ວັນທີ 25/5/2022",
+"author": "DAO-IPTV",
+"image":"https://cdn.icon-icons.com/icons2/1918/PNG/512/iconfinder-document09-1622827_121958.png",
+"stations": [
+{
+"name": "1.ໜ້າຫຼັກ",
+"image":"https://www.stabil.co.th/wp-content/uploads/2019/08/upd.png",
+"info": "ເພີ່ີມໜວດໝູ່ ໜັງ & ຊີຣີ",
+"emble": "true"
+},
+{
+"name": "2.ໜ້າຫຼັກ",
+"image":"https://www.stabil.co.th/wp-content/uploads/2019/08/upd.png",
+"info": "ເພີ່ມຊ່ອງໃໝ່",
+"emble": "true"
+},
+]
+},
+
+{
+"name": "ວັນທີ 10/5/2022",
+"author": "DAO-IPTV",
+"image":"https://cdn.icon-icons.com/icons2/1918/PNG/512/iconfinder-document09-1622827_121958.png",
+"stations": [
+{
+"name": "1.ໜ້າຫຼັກ",
+"image":"https://www.stabil.co.th/wp-content/uploads/2019/08/upd.png",
+"info": "ເພີ່ມຊ່ອງທີ່ວີດີຈີຕ້ອນ",
+"emble": "true"
+},
+]
+},
+]
+}
