@@ -1,0 +1,57 @@
+{
+  "name": "ໜັງ & ຊີຣີ",
+  "author": "DAO-IPTV",
+  "info": "ລາຄາ 30 ພັນ ຕໍ່ເດືອນ ຊ່ອງມີປັນຫາພ້ອມແກ້ໄຂ 24 ຊົ່ວໂມງ",
+  "image": "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
+"groups": [
+{
+"name": "ໜັງ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vFV1kEiL2sl00dlDfLzeB48_v89Yow7aug&usqp=CAU",
+"url": "https://docs.google.com/uc?export=download&id=1VcbOBo8rj9SV4LD7ArNrve6U9IZwOJRf",
+"referer": "xxx",
+"info": " DAO-IPTV ",
+"import": false
+},
+{
+"name": "ຊີຣີ",
+"image":"https://pbs.twimg.com/profile_images/1255796144757772288/SDaaVh35_400x400.png",
+"url": "https://docs.google.com/uc?export=download&id=1Mm8OmqDj-gyEIpx9FWj8WA-_oYyQF3zL",
+"referer": "xxx",
+"info": " DAO-IPTV ",
+"import": false
+},
+
+{
+"name": "ໜັງເອເຊຍ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCUOJKslOyXx6esVDun338XKlDn_Od5ASdg&usqp=CAU",
+"url": "https://docs.google.com/uc?export=download&id=1-zbE8ZT_RYteJU60RjtjxtGWWywaS2od",
+"referer": "xxx",
+"info": " DAO-IPTV ",
+"import": false
+},
+{
+"name": "ໜັງ Marvel",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQhDiSFuw2enR68UFp69a_BYoqvw7UCBNfqo9U8Q&usqp=CAU",
+"url": "https://bit.ly/38DKeYT",
+"referer": "xxx",
+"info": " DAO-IPTV ",
+"import": false
+},
+{
+"name": "ໜັງກາຕູນ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2GxsRIUIA7AyhOfmGTxt2CGzWPbbg5dATvg&usqp=CAU",
+"url": "https://bit.ly/3z2Ax1h",
+"referer": "xxx",
+"info": " DAO-IPTV ",
+"import": false
+},
+{
+"name": "ໜັງ AV",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3WJhZ5X5TajBp-Z04q7zyAm0cfr3jbhoBoA&usqp=CAU",
+"url": "https://drive.google.com/uc?id=15FFy3uDkwFdp0WR6Mzq2GNFCV6L_crhH",
+"referer": "xxx",
+"info": " DAO-IPTV ",
+"import": false
+},
+]
+}
