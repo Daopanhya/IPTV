@@ -1,22 +1,13 @@
 {
 "name": "ຂໍ້ມູນອັບເດດລີ້ງ",
 "author": "IPTV Wiseplay",
-"groups": [
-{
-"name": "ວັນທີ 1/8/2022",
-"author": "IPTV Wiseplay",
-"image":"https://cdn.icon-icons.com/icons2/1918/PNG/512/iconfinder-document09-1622827_121958.png",
+.icon-icons.com/icons2/1918/PNG/512/iconfinder-document09-1622827_121958.png",
 "stations": [
 {
-"name": "ອັບເດດລ່າສຸດ",
+"name": "ອັບເດດລ່າສຸດ 11/8/2022",
 "image":"https://www.stabil.co.th/wp-content/uploads/2019/08/upd.png",
-"info": "ແກ້ໄຂຊ່ອງດັບ",
+"info": "ແກ້ໄຂຊ່ອງດັບ ເພີ່ມໃໝ່ ລົບຊ່ອງດັບ",
 "emble": "true"
-},
-
-
-
-]
 },
 ]
 }
