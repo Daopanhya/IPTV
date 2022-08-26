@@ -13,12 +13,13 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",epl3
-https://mediasv.online/stream_live/603_eng3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjIgODozMjowMSBBTSZoYXNoX3ZhbHVlPTdkZm0wditJWU5yenpGNWhDNXRnV1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjAmaWQ9Y2hfNjc3NTc=
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",epl4
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com
-https://www.dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87tpf4/
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 
 
 
@@ -47,7 +48,7 @@ https://youdooball.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",truesporthd4
-https://mediasv.online/stream_live/669_Ts_HD4/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjIgODo0NToyMyBBTSZoYXNoX3ZhbHVlPWFNT2g0Q3VsQlBCNU5RQ1RBNmk0Rnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjImaWQ9Y2hfNTQwNDM=
+
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",truesport5
