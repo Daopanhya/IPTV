@@ -191,62 +191,63 @@ https://www.dooball2you.com/bt-sport-2/
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--108.png",btsport3
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com
 https://www.dooball2you.com/bt-sport-3
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--92.png",Sky Sports Arena
-http://venomtt.com:8000/50094427459308/05077140030836/22308
+
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--91.png",Sky Sports Football
-http://venomtt.com:8000/50094427459308/05077140030836/22317
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--90.png",Sky Sports EPL
-http://venomtt.com:8000/50094427459308/05077140030836/22314
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://thefriscobowl.com/wp-content/uploads/2021/08/ESPN-logo.png",ESPN
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/682
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",ESPN 2
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/683
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png",ESPN 3
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/684
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/684
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.warpfootball.games/wp-content/themes/Divi/logo/espnbrazil.png",ESPN Brazil
-http://dns.acaidopara.net:8080/dolamee1496/gl1mLidJRr/40620
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",SPORTTV 1
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/607
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",SPORTTV 2
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/608
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",SPORTTV 3
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/609
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--453.png",SPORTTV 4
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/610
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--454.png",SPORTTV 5
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/611
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 1
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/612
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 2
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/613
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 3
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/614
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 4
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/615
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 5
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/616
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi1.png",DigiSport1
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
@@ -254,15 +255,15 @@ https://dooball2you.com/digi-sport-1/
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi2.png",DigiSport2
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/digi-sport-2/
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi3.png",DigiSport3
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/digi-sport-3/
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi4.png",DigiSport4
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/digi-sport-4/
+
 
 
 
@@ -271,17 +272,17 @@ https://dooball2you.com/digi-sport-4/
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--253.png",astrosupersport
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115615
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--254.png",astrosupersport2
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115616
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--255.png",astrosupersport3
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115617
+
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--256.png",astrosupersport4
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115618
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--256.png",astrosupersport5
 http://n2086.securepoint.io:25461/bGHneAydPw/HIYbObxdD1/197518
@@ -291,51 +292,51 @@ http://n2086.securepoint.io:25461/bGHneAydPw/HIYbObxdD1/197518
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--319.png",arenasport1serbia
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com
-https://www.dooball2you.com/arenasport-1/
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--320.png",arenasport2serbia
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com
-https://www.dooball2you.com/arenasport-2/
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--321.png",arenasport3serbia
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com
-https://www.dooball2you.com/arenasport-3/
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--322.png",arenasport4serbia
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com
-https://www.dooball2you.com/arenasport-4/
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--322.png",arenasport5serbia
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/628
+
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 1
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/629
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 2
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/630
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 3
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/631
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 4
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/632
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 5
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/633
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 6
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/634
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tricolor-38.ru/KANALY_4/matsh-fytbol-1hd.png",Match Footbol 1
-https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/612
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tricolor-38.ru/KANALY_4/matsh-fytbol-2hd.png",Match Footbol 2
-https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/614
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tricolor-38.ru/KANALY_4/matsh-fytbol-3hd.png",Match Footbol 3
-https://srv1.exyu.cc:443/qcrSJQiwvk/GYnGyl949T/617
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein sport 1(UK)
 http://mag.you24.online:8080/sans546/j6mri3euxh/689287
@@ -347,55 +348,55 @@ http://mag.you24.online:8080/sans546/j6mri3euxh/689288
 http://mag.you24.online:8080/sans546/j6mri3euxh/689289
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png",Bein sport 1(FR)
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/580
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png",Bein sport 2(FR)
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/581
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png",Bein sport 3(FR)
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/582
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1yZ7_oBv4nQzqlbzqst0NIlczwCxzWUDTA&usqp=CAU",bein 1 (ตุรก)
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/675
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1yZ7_oBv4nQzqlbzqst0NIlczwCxzWUDTA&usqp=CAU",bein 2 (ตุรก)
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/676
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1yZ7_oBv4nQzqlbzqst0NIlczwCxzWUDTA&usqp=CAU",bein 3 (ตุรก)
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/677
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1yZ7_oBv4nQzqlbzqst0NIlczwCxzWUDTA&usqp=CAU",bein 4 (ตุรก)
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/678
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxk46HkJ0Dbo7k4SuxRllrtfRj9F7MxlS-4g&usqp=CAU",bein sport 1
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/661
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSOkph-2UYotaV90PdiryaSQcDMsQHN92tQ&usqp=CAU",bein sport 2
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/662
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdGKiLDuNCbsjIh2-JrzPusGKazRQWjNM3Fg&usqp=CAU",bein sport 3
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/663
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ILCGobMYdd0zsXHc6pIxZONnsiLyopz8Ow&usqp=CAU",bein sport 4
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/664
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSEgwh2JQ8ebeCf9Z64Wy7aAqPx2l0B5TTA&usqp=CAU",bein sport 5
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/665
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1fGrJejHFQEvfXugvxj-FE0BauVn3A3CatQ&usqp=CAU",bein sport 6
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/666
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9QVWlVkLLkI18ri13O4FnJmO24V8IHNTnmg&usqp=CAU",bein sport 7
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/667
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png",bein sport PREMIUM 1
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/668
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png",bein sport PREMIUM 2
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/669
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122252312.png",bein sport PREMIUM 3
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/670
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61ehNq.png",bein sports Xtra
 https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
@@ -435,16 +436,16 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRob-gnhH-YkE5vCj7aOuOcTWIlpFmiN--htA&usqp=CAU",SONY TEN 1
-http://103.55.144.46/hls/sonyten1.m3u8
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTABX9WQyTHJIKL9HCWs44aovqgixIrUkwA&usqp=CAU",SONY TEN 2
-http://103.55.144.46/hls/sonyten2.m3u8
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/06/09/sony.jpg?itok=nAu-3HU9",SONY TEN 3
-http://103.55.144.46/hls/sonyten3.m3u8
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iHaciK_Uv-h2_mXEpfxh4_Wr9q0h_7z-aA&usqp=CAU",SONY SIX
-http://103.55.144.46/hls/sonysix.m3u8
+
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMI_bYnrnoLLI0yetJW79arIwA5nhavaDJA&usqp=CAU",WWE
 http://93.152.174.144:4000/play/WWE/index.m3u8
