@@ -99,7 +99,8 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/nfl/playlist.m3u8
 https://youdooball.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",GOLF CHANNEL PLUS
-
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com
+https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87golf-channel-thailand-2/
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUpbkOSoMG_5JSsRAnhdwewnQ7qZD4-ZguQ&usqp=CAU",MOTORVISION
 
@@ -220,19 +221,24 @@ https://www.dooball2you.com/bt-sport-3
 
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",SPORTTV 1
-
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com
+https://dooball2you.com/sport-tv-1/
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",SPORTTV 2
-
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com
+https://dooball2you.com/sport-tv-2/
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",SPORTTV 3
-
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com
+https://dooball2you.com/sport-tv-3/
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--453.png",SPORTTV 4
-
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com
+https://dooball2you.com/sport-tv-4/
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--454.png",SPORTTV 5
-
+#EXTVLCOPT:http-referrer=https://www.dooball2you.com
+https://dooball2you.com/sport-tv-5/
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 1
 
