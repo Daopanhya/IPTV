@@ -2,11 +2,13 @@
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-history.png",HISTORY HD
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://youdooball.livedoomovies.com:4432/02_HISTORYHD_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-history2.png",H2 
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://youdooball.livedoomovies.com:4432/02_H2HD_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-history2.png",H2 HD
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -82,7 +84,8 @@ https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg",BBC Lifestye
-
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://mediasv.online/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE3OjA3IEFNJmhhc2hfdmFsdWU9OFJZVW04MEYvK2RaeFM4R3JOWDRlZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMCZpZD1jaF85NTgyMQ==
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3MFrl6yuo-VinAgLtt78i-Lq8gn18ZX22A&usqp=CAU",DOONEE
 http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
