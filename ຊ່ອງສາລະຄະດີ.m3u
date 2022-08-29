@@ -24,7 +24,9 @@
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvh2lpyd8bx6SpHnaHLv5kjFdJfs5hcPOFA&usqp=CAU",Love Nature
-
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MzEgUE0maGFzaF92YWx1ZT1Wc0QybzAxOE5Eak5NdVZkbDBtMC9BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzIyOTM5
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNZFpMWynbl3M_AlHqXAwmXRRxGDXjH4GmQ&usqp=CAU",National Geographic
 #EXTVLCOPT:http-referrer=https://www.nasa.gov/
@@ -34,14 +36,17 @@
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",TRUE EXPLORE WILD
-#EXTVLCOPT:http-referrer=https://www.nasa.gov/
-
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MTMgUE0maGFzaF92YWx1ZT1IZWtPTjNBOXVaOEpkcFVSUEd6a2x3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzkwNzE4
 
 #EXTINF:-1 tvg-id="" tvg-logo=" ", Explore Life TH
-
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/TRUE_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTE6MDUgUE0maGFzaF92YWx1ZT1uNlR2Unl3dWY5TEplMGt5VlJpblJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI5JmlkPWNoXzQwNTAw
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Explore Science HD TH 
-
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+http://clientsportals.com:2095/live/sDxJCkFF/pJxGhpDp/115660.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5ITsKR544CllUWlGpXoO_B-f8oax7G81zg&usqp=CAU",Inwild DH
@@ -109,7 +114,8 @@ http://61.19.242.134/feed/202105171329/LC37/index.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://sv1.picz.in.th/images/2022/04/04/8ioRSt.png",ANIMAL
-#EXTVLCOPT:http-referrer=https://www.nasa.gov/
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://mediasv.online/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjU1IEFNJmhhc2hfdmFsdWU9SndOUUdOMjhIUHlqWTcrcHlCam0vQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMiZpZD1jaF83NTQ1MA==
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJGgIGh5rnNjZS6QoXXmpdj-e0UcJi5FbTg&usqp=CAU",เจริญเคเบิ้ล
