@@ -39,12 +39,12 @@ https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2V
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MTMgUE0maGFzaF92YWx1ZT1IZWtPTjNBOXVaOEpkcFVSUEd6a2x3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzkwNzE4
 
-#EXTINF:-1 tvg-id="" tvg-logo=" ", Explore Life TH
+#EXTINF:-1 tvg-id="" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/9t2wnd88kmkogwooow.png", Explore Life TH
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://mediasv.online/stream_live/TRUE_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTE6MDUgUE0maGFzaF92YWx1ZT1uNlR2Unl3dWY5TEplMGt5VlJpblJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI5JmlkPWNoXzQwNTAw
 
-#EXTINF:-1 tvg-id="" tvg-logo="",Explore Science HD TH 
+#EXTINF:-1 tvg-id="" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2b62ptfyvvvoks08go.png",Explore Science HD TH 
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 http://clientsportals.com:2095/live/sDxJCkFF/pJxGhpDp/115660.m3u8
 
@@ -89,8 +89,8 @@ http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593509490589696/65f0371282e145d42326b240c6d5e60a.png",ANIMAL SHOW
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://mediasv.online/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjU1IEFNJmhhc2hfdmFsdWU9SndOUUdOMjhIUHlqWTcrcHlCam0vQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMiZpZD1jaF83NTQ1MA==
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593508764995624/7eb06119adfc77ee068cfafb1f0c7927.png",MYSCI
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -115,7 +115,7 @@ http://61.19.242.134/feed/202105171329/LC37/index.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://sv1.picz.in.th/images/2022/04/04/8ioRSt.png",ANIMAL
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://mediasv.online/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjU1IEFNJmhhc2hfdmFsdWU9SndOUUdOMjhIUHlqWTcrcHlCam0vQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMiZpZD1jaF83NTQ1MA==
+
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJGgIGh5rnNjZS6QoXXmpdj-e0UcJi5FbTg&usqp=CAU",เจริญเคเบิ้ล
