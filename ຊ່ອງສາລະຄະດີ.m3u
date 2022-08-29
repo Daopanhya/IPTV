@@ -45,7 +45,8 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5ITsKR544CllUWlGpXoO_B-f8oax7G81zg&usqp=CAU",Inwild DH
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",Animal Planet
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -58,7 +59,7 @@
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzDCv_5-6J41TBcMvLFJJwrKaYbaphFajVxw&usqp=CAU",OUTDOOR
-
+https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",Love Nature
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
