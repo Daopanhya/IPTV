@@ -308,6 +308,16 @@ https://live.vip-streaming.com:30443/cloudstreaming/youtube-1/playlist.m3u8?wmsA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.79 Mobile Safari/537.36
 https://live.vip-streaming.com:30443/cloudstreaming/youtube-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIyIDI6MDA6MTYgUE0maGFzaF92YWx1ZT1aV1NDcjVaOHlTZ0lYSHZOaCtRUllRPT0mdmFsaWRtaW51dGVzPTIw
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api-soccer.iamtheme.com/images/tv/8MyEHmmhXy9RKLtyDCuEUSoXfRERFmpa1787.png", 11
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.79 Mobile Safari/537.36
+https://streaming.iamtheme.com:30443/cloudstreaming/Canal%2011%20(Por)_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIyIDI6MTI6MDkgUE0maGFzaF92YWx1ZT11M2VtZFd0UUpMN2VUZ3NHNERWaVJnPT0mdmFsaWRtaW51dGVzPTIw
+
+
+
+
+
+
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv5.png",Vtv5
 http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
 
