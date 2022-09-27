@@ -2,6 +2,7 @@
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo=" ",ຕາລາງຖ່າຍຖອດສົດ
+#EXTVLCOPT:http-embed=true
 https://livesod88.com/
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",epl1
