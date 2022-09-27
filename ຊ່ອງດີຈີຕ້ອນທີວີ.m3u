@@ -15,7 +15,7 @@ https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
 
 
 #EXTINF:-1  tvg-id="TSports7.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png", T Sports7
-http://udn-streamer1.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+http://61.19.242.134/feed/202205171329/chtsport/index.m3u8
 
 #EXTINF:-1  tvg-id="TPTV.th"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tptv.png",TPTV
 https://freelive.inwstream.com:1936/freelive-edge/tptv/playlist.m3u8
@@ -48,7 +48,7 @@ https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 http://freelive2.inwstream.com:1935/freelive-edge/mcothd/playlist.m3u8
 
 #EXTINF:-1  tvg-id="OneHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gmmone.png",ONE HD
-https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+http://61.19.242.134/feed/202205171329/chonehd/index.m3u8
 
 #EXTINF:-1  tvg-id="AmarinTVHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png",Thairath TV HD
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
