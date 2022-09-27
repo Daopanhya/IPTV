@@ -232,19 +232,23 @@ https://dooball2you.com/sport-tv-5/
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi1.png",DigiSport1
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://dooball2you.com/digi-sport-1/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport1/playlist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi2.png",DigiSport2
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport2/playlist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi3.png",DigiSport3
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport3/playlist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi4.png",DigiSport4
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport4/playlist.m3u8
 
 
 
