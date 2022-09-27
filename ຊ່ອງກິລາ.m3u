@@ -206,19 +206,6 @@ https://www.dooball2you.com/bt-sport-3
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--90.png",Sky Sports EPL
 
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://thefriscobowl.com/wp-content/uploads/2021/08/ESPN-logo.png",ESPN
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",ESPN 2
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png",ESPN 3
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.warpfootball.games/wp-content/themes/Divi/logo/espnbrazil.png",ESPN Brazil
 
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",SPORTTV 1
@@ -241,19 +228,6 @@ https://dooball2you.com/sport-tv-4/
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com
 https://dooball2you.com/sport-tv-5/
 
-#EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 1
-
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 2
-
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 3
-
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 4
-
-
-#EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 5
 
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi1.png",DigiSport1
@@ -279,17 +253,17 @@ https://dooball2you.com/digi-sport-1/
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--253.png",astrosupersport
-
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115615&extension=ts&play_token
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--254.png",astrosupersport2
-
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115616&extension=ts&play_token
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--255.png",astrosupersport3
-
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115617&extension=ts&play_token
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--256.png",astrosupersport4
-
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115618&extension=ts&play_token
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--256.png",astrosupersport5
 http://n2086.securepoint.io:25461/bGHneAydPw/HIYbObxdD1/197518
@@ -317,112 +291,6 @@ http://n2086.securepoint.io:25461/bGHneAydPw/HIYbObxdD1/197518
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com
 
 
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 1
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 2
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 3
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 4
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 5
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 6
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tricolor-38.ru/KANALY_4/matsh-fytbol-1hd.png",Match Footbol 1
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tricolor-38.ru/KANALY_4/matsh-fytbol-2hd.png",Match Footbol 2
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tricolor-38.ru/KANALY_4/matsh-fytbol-3hd.png",Match Footbol 3
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein sport 1(UK)
-http://mag.you24.online:8080/sans546/j6mri3euxh/689287
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png",Bein sport 2(UK)
-http://mag.you24.online:8080/sans546/j6mri3euxh/689288
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png",Bein sport 3(UK)
-http://mag.you24.online:8080/sans546/j6mri3euxh/689289
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png",Bein sport 1(FR)
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png",Bein sport 2(FR)
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png",Bein sport 3(FR)
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1yZ7_oBv4nQzqlbzqst0NIlczwCxzWUDTA&usqp=CAU",bein 1 (ตุรก)
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1yZ7_oBv4nQzqlbzqst0NIlczwCxzWUDTA&usqp=CAU",bein 2 (ตุรก)
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1yZ7_oBv4nQzqlbzqst0NIlczwCxzWUDTA&usqp=CAU",bein 3 (ตุรก)
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1yZ7_oBv4nQzqlbzqst0NIlczwCxzWUDTA&usqp=CAU",bein 4 (ตุรก)
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxk46HkJ0Dbo7k4SuxRllrtfRj9F7MxlS-4g&usqp=CAU",bein sport 1
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSOkph-2UYotaV90PdiryaSQcDMsQHN92tQ&usqp=CAU",bein sport 2
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdGKiLDuNCbsjIh2-JrzPusGKazRQWjNM3Fg&usqp=CAU",bein sport 3
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ILCGobMYdd0zsXHc6pIxZONnsiLyopz8Ow&usqp=CAU",bein sport 4
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSEgwh2JQ8ebeCf9Z64Wy7aAqPx2l0B5TTA&usqp=CAU",bein sport 5
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1fGrJejHFQEvfXugvxj-FE0BauVn3A3CatQ&usqp=CAU",bein sport 6
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9QVWlVkLLkI18ri13O4FnJmO24V8IHNTnmg&usqp=CAU",bein sport 7
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png",bein sport PREMIUM 1
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png",bein sport PREMIUM 2
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122252312.png",bein sport PREMIUM 3
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61ehNq.png",bein sports Xtra
-https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://sv1.picz.in.th/images/2021/12/07/6jAyXf.jpg",bein sports Xtra ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png",bein AFC FHD
-http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=201429&extension=ts&play_token=mwEatakyJ8
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png",bein AFC 1
-http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=201427&extension=ts&play_token=mwEatakyJ8
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png",bein AFC 2
-http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=201425&extension=ts&play_token=mwEatakyJ8
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png",bein AFC 3
-http://ip.opentv.ma/play/live.php?mac=00:1a:79:35:f3:94&stream=201424&extension=ts&play_token=mwEatakyJ8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv5.png",Vtv5
 http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
