@@ -15,14 +15,13 @@ https://youdooball.livedoomovies.com:4432/02_H2HD_720p/chunklist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-discovery.png",Discovery Asia
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115650&extension=ts&play_token
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-discovery.png",Discovery Asia HD
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-discovery.png",Discovery Channel
-
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115399&extension=ts&play_token
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvh2lpyd8bx6SpHnaHLv5kjFdJfs5hcPOFA&usqp=CAU",Love Nature
@@ -79,9 +78,13 @@ https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC earth
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115622&extension=ts&play_token
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhAIkIdQyue4LCpnQk90b0z4Q0US5iUeRgjg&usqp=CAU",Asian Food Network
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115611&extension=ts&play_token
 
-
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOGlENXZsMv0iYhK-1SaokObot7e0su6O6Q&usqp=CAU",Animal Planet
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115610&extension=ts&play_token
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg",BBC Lifestye
 #EXTVLCOPT:http-referrer=https://wacth.tv
