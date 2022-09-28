@@ -153,8 +153,10 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=158534&extension=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.79 Mobile Safari/537.36
 https://streaming.iamtheme.com:30443/cloudstreaming/Sportdigital%20Germany_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIyIDE6NTE6MTYgUE0maGFzaF92YWx1ZT1VaXhCejN6UmFmSE1rZDBIUW1Ld3lnPT0mdmFsaWRtaW51dGVzPTIw
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api-soccer.iamtheme.com/images/tv/psmnS9og1nE6iP4n6AtdUysFIiVxo9mtv-station-sportv-1239.png",SPORTTV
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://live.vip-streaming.com:30443/cloudstreaming/football-play-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDIyIDEyOjIzOjIyIFBNJmhhc2hfdmFsdWU9Vkt5d0c4VGJMc1pyTzEraW5kaDNaQT09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",sportdigital
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bwJzOETfud7rfbzGr5OjDoJK-kkwrpMieQ&usqp=CAU",FREE sports(UK)
