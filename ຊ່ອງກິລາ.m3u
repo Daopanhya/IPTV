@@ -318,9 +318,17 @@ https://live.vip-streaming.com:30443/cloudstreaming/youtube-1/playlist.m3u8?wmsA
 https://streaming.iamtheme.com:30443/cloudstreaming/Canal%2011%20(Por)_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIyIDI6MTI6MDkgUE0maGFzaF92YWx1ZT11M2VtZFd0UUpMN2VUZ3NHNERWaVJnPT0mdmFsaWRtaW51dGVzPTIw
 
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv1.png",Vtv1
+http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv2.png",Vtv2
+http://live.tv360.vn/manifest/VTV2_HD/playlist_1080p.m3u8
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv3.png",Vtv3
+http://live.tv360.vn/manifest/VTV3_HD/playlist_1080p.m3u8
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv4.png",Vtv4
+http://live.tv360.vn/manifest/VTV4_HD/playlist_1080p.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv5.png",Vtv5
 http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
@@ -328,7 +336,14 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv6.png",Vtv6
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv7.png",Vtv7
+http://live.tv360.vn/manifest/VTV7_HD/playlist_1080p.m3u8
 
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv8.png",Vtv8
+http://live.tv360.vn/manifest/VTV8_HD/playlist_1080p.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv9.png",Vtv9
+http://live.tv360.vn/manifest/VTV9_HD/playlist_1080p.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/cctv-5.png",CCTV 5
 #EXTVLCOPT:http-referrer=https://freetvdd.com
