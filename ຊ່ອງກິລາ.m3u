@@ -319,7 +319,7 @@ https://streaming.iamtheme.com:30443/cloudstreaming/Canal%2011%20(Por)_720p/play
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv1.png",Vtv1
-http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
+http://171.238.181.86:18080/154.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7y7TPMOZaX+9RizLnXCk7USSAInFuImP6cU4PzqvHhKmtmjgDAaLS6jR4agQUcJ571M7pKBJgv+IxiZiFDMFQ9EqtjXmgsYBnOXjCnpX/7kOEMIj3ebhcYplP6aqpmwP9Nv/AOe+7cN+0+h9DjredDyhzQPxSJZFeYKKs5Vip67
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv2.png",Vtv2
 http://live.tv360.vn/manifest/VTV2_HD/playlist_1080p.m3u8
