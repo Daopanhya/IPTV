@@ -322,10 +322,10 @@ https://streaming.iamtheme.com:30443/cloudstreaming/Canal%2011%20(Por)_720p/play
 http://171.238.181.86:18080/154.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7y7TPMOZaX+9RizLnXCk7USSAInFuImP6cU4PzqvHhKmtmjgDAaLS6jR4agQUcJ571M7pKBJgv+IxiZiFDMFQ9EqtjXmgsYBnOXjCnpX/7kOEMIj3ebhcYplP6aqpmwP9Nv/AOe+7cN+0+h9DjredDyhzQPxSJZFeYKKs5Vip67
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv2.png",Vtv2
-http://live.tv360.vn/manifest/VTV2_HD/playlist_1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv2_hls.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv3.png",Vtv3
-http://171.238.180.86:18080/154.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/yqEPgB9RNupXqTXWDkwSwH282VkaGATZvbMHFV2A2cONmSVSzIcK/NAhxBE74AdDRlMB8PFKm2DDPH1zSr4E/vyBVqLKfH9VaBZ0Zc/4HMu55752V15BVhZSZfPOJzAUkNtNPAGvowGG/tUIiCyQvrYAwu27/l8qMMzMgVXmv1y
+http://171.238.180.86:18080/155.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5xchOk1AiMpKFdgSAQ54zmTCsuDFFNPASZtlSfZ1W3u1Qet4o6aRkzcOv4y3jkCBn6xY/Vm2Z6PtIx6wcPpgMw+ctZzvYbqA6/GwhO9XYpDGa3Tjh7WV99SzcZMco6PjYPckHo9VCmKcD4dDnbuuTD4PJIZf/G00i6xatKeFAA5
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv4.png",Vtv4
 http://live.tv360.vn/manifest/VTV4_HD/playlist_1080p.m3u8
