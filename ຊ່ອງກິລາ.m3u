@@ -327,7 +327,7 @@ http://171.238.180.86:18080/192.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ
 http://171.238.180.86:18080/155.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5xchOk1AiMpKFdgSAQ54zmTCsuDFFNPASZtlSfZ1W3u1Qet4o6aRkzcOv4y3jkCBn6xY/Vm2Z6PtIx6wcPpgMw+ctZzvYbqA6/GwhO9XYpDGa3Tjh7WV99SzcZMco6PjYPckHo9VCmKcD4dDnbuuTD4PJIZf/G00i6xatKeFAA5
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv4.png",Vtv4
-http://live.tv360.vn/manifest/VTV4_HD/playlist_1080p.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv5.png",Vtv5
 http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
@@ -336,13 +336,13 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv7.png",Vtv7
-http://live.tv360.vn/manifest/VTV7_HD/playlist_1080p.m3u8
+http://171.238.180.86:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/2Qd4bmeJmhfoECJRYRqmfTcOTkB3w/dAzgHxyFmUIxhDNLfRuXjGHR9Qn6WqMUuuvPxBVhZUs2HrfleSmsGqVymkOq4RC56zH+wFV8MUydGFdj+RYXs/Mswq3KwhIylmNoV4kVHG2LtknUDyu8h9qcEiaR8Oyj/A1cys9zNZSuy
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv8.png",Vtv8
-http://live.tv360.vn/manifest/VTV8_HD/playlist_1080p.m3u8
+http://171.238.180.86:18080/196.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7msbQWDl+e8M6smT3peBrQWjIkhC8zWN2r95HvrNE+Gu5K6FodhIBmD3vS/gWPVLnYBTD4PTBA1lfF8Ou7qRXwlg1cHucknxRJM+acQtAi4nD6oA1Vv1GNoxZDKFH9wdb9TKIA0NyL0DUC34q4o5ndycbl2hL0xPrB1q5NR7qVb
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv9.png",Vtv9
-http://live.tv360.vn/manifest/VTV9_HD/playlist_1080p.m3u8
+http://171.238.180.86:18080/197.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7iF/n2VYCqaWK2QWTOzR0iaY3r6AkQ4/f7zmc+vzqHPZdmcbn8M/3AMXKcpwsxz1JN+obMefyCxA8DsNJPj3lZ/+6Upgyb329RlOnBQlnN2TYCOVsXTKvDNX5CHa6Oxtgtul1x9+dPShyzV4p9kn2pHQ3qXOjA9xUtKHErqj7BI
 
 #EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/cctv-5.png",CCTV 5
 #EXTVLCOPT:http-referrer=https://freetvdd.com
