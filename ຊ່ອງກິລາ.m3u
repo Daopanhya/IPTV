@@ -325,7 +325,7 @@ http://171.238.181.86:18080/154.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ
 http://live.tv360.vn/manifest/VTV2_HD/playlist_1080p.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv3.png",Vtv3
-http://live.tv360.vn/manifest/VTV3_HD/playlist_1080p.m3u8
+http://171.238.180.86:18080/154.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/yqEPgB9RNupXqTXWDkwSwH282VkaGATZvbMHFV2A2cONmSVSzIcK/NAhxBE74AdDRlMB8PFKm2DDPH1zSr4E/vyBVqLKfH9VaBZ0Zc/4HMu55752V15BVhZSZfPOJzAUkNtNPAGvowGG/tUIiCyQvrYAwu27/l8qMMzMgVXmv1y
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv4.png",Vtv4
 http://live.tv360.vn/manifest/VTV4_HD/playlist_1080p.m3u8
