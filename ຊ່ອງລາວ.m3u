@@ -20,3 +20,6 @@ http://muanlai.com/live/480/latv
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/474_large.jpg?t=4db9a96903",Vte9
 http://muanlai.com/live/474/tve9
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/474_large.jpg?t=4db9a96903",FM103
+https://radio.lnr.org.la/fm103
