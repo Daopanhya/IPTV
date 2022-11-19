@@ -21,7 +21,3 @@ http://muanlai.com/live/480/latv
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/474_large.jpg?t=4db9a96903",Vte9
 http://muanlai.com/live/474/tve9
 
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/474_large.jpg?t=4db9a96903",FM103
-#EXTVLCOPT:http-referrer=https://radio.lnr.org.la
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://radio.lnr.org.la/fm103
