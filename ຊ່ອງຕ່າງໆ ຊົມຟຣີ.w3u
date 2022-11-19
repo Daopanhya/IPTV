@@ -22,6 +22,15 @@
 "import": false
 },
 {
+"name": "ບານໂລ 2022",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLkOr7t1LEfUVWCo8Krnot6Wkyfnyly3pOkQ&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%A5%E0%BA%B2%E0%BA%A7.m3u",
+"referer": "xxx",
+"info": " DAO-IPTV ",
+"import": false
+},
+
+{
 "name": "ຊ່ອງກິລາ",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCf1XExWu3C_3nszOj_Rz8nc7FOy5vHuPFty_Ry4g3aDNI-UdBDVw&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%A5%E0%BA%B2%E0%BA%84%E0%BA%B2.w3u",
