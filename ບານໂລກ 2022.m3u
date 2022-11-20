@@ -27,7 +27,9 @@ https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="True4U.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-24u.png",True 4U
-https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+http://61.19.242.134/feed/202205171929/chtrue4u/index.m3u8
 
 #EXTINF:-1  tvg-id="GMM25.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",GMM 25
 https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
