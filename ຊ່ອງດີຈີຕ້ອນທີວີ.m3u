@@ -15,13 +15,15 @@ http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="TSports7.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png", T Sports7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
 http://61.19.242.134/feed/202205171329/chtsport/index.m3u8
 
 #EXTINF:-1  tvg-id="TPTV.th"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tptv.png",TPTV
 https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/main.m3u8
 
 #EXTINF:-1  tvg-id="TNN16.th" tvg-logo="https://i.imgur.com/hD3wGq3.png",TNN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
 http://61.19.242.134/feed/202205171929/chtnn/index.m3u8
 
@@ -29,22 +31,27 @@ http://61.19.242.134/feed/202205171929/chtnn/index.m3u8
 https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8
 
 #EXTINF:-1  tvg-id="NationTV.th" tvg-logo="https://i.imgur.com/Qd9UPT7.png",Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
 http://61.19.242.134/feed/202205171929/chworkpoint/index.m3u8
 
 #EXTINF:-1  tvg-id="Workpoint23.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-workpoint.png",Workpoint 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
 http://61.19.242.134/feed/202205171929/chworkpoint/index.m3u8
 
 #EXTINF:-1  tvg-id="True4U.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-24u.png",True 4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
 http://61.19.242.134/feed/202205171929/chtrue4u/index.m3u8
 
 #EXTINF:-1  tvg-id="GMM25.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",GMM 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
 http://61.19.242.134/feed/202205171929/chgmm/index.m3u8
 
 #EXTINF:-1  tvg-id="CH8.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png",CH 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
 http://61.19.242.134/feed/202205171929/ch8/index.m3u8
 
@@ -55,8 +62,8 @@ https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 http://freelive2.inwstream.com:1935/freelive-edge/mcothd/playlist.m3u8
 
 #EXTINF:-1  tvg-id="OneHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gmmone.png",ONE HD
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
 http://61.19.242.134/feed/202205171329/chonehd/index.m3u8
 
 #EXTINF:-1  tvg-id="AmarinTVHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png",Thairath TV HD
@@ -67,10 +74,14 @@ https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1  tvg-id="AmarintvHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-amarin.png",AMARIN TV HD
-http://61.19.242.134/feed/202205171929/chamarin/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
+http://61.19.242.134/feed/202205171929/chamarin/index.m3u8
+
 
 #EXTINF:-1  tvg-id="BBTVChannel7.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png",BBTV CH 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
 https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 
 #EXTINF:-1  tvg-id="PPTVHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-pptv.png",PPTV HD
