@@ -80,7 +80,7 @@ https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1  tvg-id="AmarintvHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-amarin.png",AMARIN TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-http://61.19.242.134/feed/202205171929/chamarin/index.m3u8
+https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 
 #EXTINF:-1  tvg-id="BBTVChannel7.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png",BBTV CH 7
