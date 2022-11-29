@@ -1,4 +1,19 @@
 #EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv5.png",Vtv5
+http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv6.png",Vtv6
+http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/cctv-5.png",CCTV 5
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+
+
+#EXTINF:-1  tvg-id="2" tvg-logo="http://udoofree.com/images/channels/cctv-5-plus.png",CCTV 5+
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",NBT HD
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1423881950.m3u8
