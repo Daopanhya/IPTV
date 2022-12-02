@@ -60,7 +60,7 @@ http://61.19.242.134/feed/202205171929/ch8/index.m3u8
 #EXTINF:-1  tvg-id="Mono29.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mono.png",Mono29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w941293272.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chmono29/index.m3u8
 
 #EXTINF:-1  tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/KQu4dTf.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
