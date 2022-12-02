@@ -16,7 +16,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",NBT HD
-http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1423881950.m3u8
+http://183.89.246.119:8010/play/a009/index.m3u8
 
 #EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png",Thai PBS HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -64,8 +64,8 @@ http://61.19.242.134/feed/202205171929/ch8/index.m3u8
 
 #EXTINF:-1  tvg-id="Mono29.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mono.png",Mono29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w941293272.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://cdn6.goprimetime.info/feed/202205171929/chmono29/index.m3u8
 
 #EXTINF:-1  tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/KQu4dTf.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
