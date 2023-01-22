@@ -17,26 +17,3 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://www.img.in.th/images/c8ef08c634451d41986695965e588ffb.png",TV KPOP HD
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115599
 
-#EXTINF:1,MTV Spankin New
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-
-#EXTINF:1,MTV Block Party
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-#EXTINF:1,MTV Biggest Pop
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV YO! TH" tvg-logo="" ,MTV YO! TH
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115323
-
-#EXTINF:-1 tvg-id="" tvg-name="Music4U TH" tvg-logo="" ,Music4U TH
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115731
-
-#EXTINF:-1,CH V
-http://61.19.242.134/feed/202105171329/LC14/index.m3u8
-
-#EXTINF:1,CMT Music
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
-#EXTINF:1,A3Bikini TV
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
