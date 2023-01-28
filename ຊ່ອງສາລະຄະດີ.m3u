@@ -85,7 +85,9 @@ https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOGlENXZsMv0iYhK-1SaokObot7e0su6O6Q&usqp=CAU",Animal Planet
-
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg",BBC Lifestye
 #EXTVLCOPT:http-referrer=https://wacth.tv
@@ -100,19 +102,16 @@ https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593508764995624/7eb06119adfc77ee068cfafb1f0c7927.png",MYSCI
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC37/index.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593508559454288/6a48e0c5d526324012e5dc58b3b62526.png",New Exploer
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510493061171/05636ed570352d41af1a75c472f37552.jpg",สำรวจโล
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8
 
 
 
