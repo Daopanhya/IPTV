@@ -55,27 +55,32 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",truesporthd4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
 https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",truesport5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
 https://youdooball.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",truesport7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://youdooball.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
+https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",bein1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
 https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1079.png",bein3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
 https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
@@ -95,6 +100,7 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
 https://youdooball.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F17%2Fa1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png&w=100&h=75",NBA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_nbahd_720p/chunklist.m3u8
 
@@ -104,28 +110,34 @@ https://youdooball.livedoomovies.com:4432/02_nbahd_720p/chunklist.m3u8
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/nfl/playlist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=100&h=75",GOLF CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",GOLF CHANNEL PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com
 https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87golf-channel-thailand-2/
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUpbkOSoMG_5JSsRAnhdwewnQ7qZD4-ZguQ&usqp=CAU",MOTORVISION
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api-soccer.iamtheme.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",AIS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
 https://streaming-3.vip-streaming.com:30443/cloudstreaming/football-play-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDIyIDEyOjEyOjA1IFBNJmhhc2hfdmFsdWU9ei9Reld6VVBhbG9MdmpNS2Z2MDZRZz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api-soccer.iamtheme.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png",AIS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
 https://live.vip-streaming.com:30443/cloudstreaming/football-play-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDIzIDM6NTQ6MDYgUE0maGFzaF92YWx1ZT14VHpOaFpQbDZ3N2VFL3E3ZkU0alBnPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api-soccer.iamtheme.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",AIS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
 https://live.vip-streaming.com:30443/cloudstreaming/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDIzIDM6NTk6MDQgUE0maGFzaF92YWx1ZT12aTg1QzJVWGg3NGJSWWR3MVRkbGpnPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api-soccer.iamtheme.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png",AIS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
 https://live.vip-streaming.com:30443/cloudstreaming/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDIzIDM6NTk6MDQgUE0maGFzaF92YWx1ZT12aTg1QzJVWGg3NGJSWWR3MVRkbGpnPT0mdmFsaWRtaW51dGVzPTIw
 
