@@ -352,7 +352,7 @@ https://dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87golf-channel-thailan
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv5.png",Vtv5
-http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
+http://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://xemtruyenhinh.xyz/image/vtv6.png",Vtv6
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
