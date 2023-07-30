@@ -75,7 +75,7 @@ https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/
 #EXTINF:-1  tvg-id="AmarinTVHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png",Thairath TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+http://61.19.242.134/feed/202306140918/chthairath/index.m3u8
 
 
 #EXTINF:-1  tvg-id="CH8.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch3.png",CH3 HD
@@ -89,7 +89,7 @@ http://61.19.242.134/feed/202306140918/chamarin/index.m3u8
 
 #EXTINF:-1  tvg-id="BBTVChannel7.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png",BBTV CH 7
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
+http://61.19.242.134/feed/202306140918/ch7hd/index.m3u8
 
 #EXTINF:-1  tvg-id="PPTVHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-pptv.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
