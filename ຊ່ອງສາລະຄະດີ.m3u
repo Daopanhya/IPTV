@@ -117,6 +117,7 @@ http://61.19.242.134/feed/202306140918/LC8/index.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2t9gXeGgWDls8JzHCy9ak9uPfVhLt4dybAg&usqp=CAU",ของดี ประเทศไทย
 #EXTVLCOPT:http-referrer=https://www.nasa.gov/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC31/index.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXmoVPffwBbbuTvvT_RdWwnUpqXITVVkuBA&usqp=CAU",ทรูปลูกปัญญา
