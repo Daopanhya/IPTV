@@ -1,19 +1,17 @@
 #EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510027477062/83bcb737ec4ff125f02a56bc9fe279da.png",Sweet
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-http://61.19.242.134/feed/202105171329/LC36/index.m3u8
+#EXTINF:-0 tvg-id='" tvg-name"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDKlXSVKsrmtWacXNpnYKjtf-4LyqQNhneg&usqp=CAU" group-title="Music", Channel V
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC14/index.m3u8
 
-#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://bit.ly/3JPtgUp",ToplineChannel
-https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/chunklist.m3u8
-
-#EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://ia601003.us.archive.org/16/items/BoxHits/box%20hits.png", Boxhits
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-
-#EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://www.img.in.th/images/c8ef08c634451d41986695965e588ffb.png",TV KPOP
+#EXTINF:-0 tvg-id='" tvg-name"MusicTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0oLC9rPxgZHVX4O4YFxwOc_YBbtLrfbTBQ&usqp=CAU" group-title="Music", MTV
+http://clofxtud.rostelekom.xyz/iptv/U5RTT4EW296H6V/19195/index.m3u8
+#EXTINF:-1 tvg-id="kpop" tvg-name="Kpop" tvg-logo="https://i.ytimg.com/vi/0Cs_o3daYR8/maxresdefault.jpg" group-title="Music", Kpop
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1661147645_article-mtv-mtv90s.png" group-title="Music", MTV
+http://iptvh.it/MTV1.m3u8
 
-#EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://www.img.in.th/images/c8ef08c634451d41986695965e588ffb.png",TV KPOP HD
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115599
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqT57Y7pcNvOFB5BtKXdD6iH6bHk4nms_74A&usqp=CAU" group-title="Music", Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/the-edge-hit-music-now.png" group-title="Music",Edgetv
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
