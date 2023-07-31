@@ -45,7 +45,7 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0193/HLS/V
 
 #EXTINF:-1 tvg-id="RUSHStories.th" tvg-name="RushStories" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//RushStories_new.png" group-title="Entertainment", RUSH Stories
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds//HLS/V0195.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0195/HLS/V0195.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b3d02daa48fede0ffe7ca39eeed1090f&chunkHttps=true&tmid=B0007&tpbk=lHhyoWgjc7LgOPvF&rrt=1675852062&tmod=rfk&rsid=add04440-436a-4003-b45a-291fb7db4e6c&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1675938461
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="AlureChannel.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/AlureChannel.png",A'lure Channel
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
