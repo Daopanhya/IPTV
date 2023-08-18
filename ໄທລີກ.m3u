@@ -1,0 +1,16 @@
+#EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
+
+
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api-soccer.iamtheme.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",Ais1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://ufabetcompany.net/
+https://live.vip-streaming.com:30443/ufabetcompany-live/football-play-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDQ6Mzc6MDIgQU0maGFzaF92YWx1ZT1RRFZXQkU3dTZpNDcya3FoSFYreVR3PT0mdmFsaWRtaW51dGVzPTIw
+
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api-soccer.iamtheme.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png",Ais2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://ufabetcompany.net/
+https://live.vip-streaming.com:30443/ufabetcompany-live/football-play-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDQ6Mzc6MDIgQU0maGFzaF92YWx1ZT1RRFZXQkU3dTZpNDcya3FoSFYreVR3PT0mdmFsaWRtaW51dGVzPTIw
