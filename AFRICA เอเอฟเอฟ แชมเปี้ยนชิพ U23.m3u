@@ -1,0 +1,20 @@
+#EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
+
+
+
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",epl2
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",truesporthd2
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
+https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+
+
+
+
