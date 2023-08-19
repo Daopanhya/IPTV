@@ -2,7 +2,6 @@
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",epl1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
 
