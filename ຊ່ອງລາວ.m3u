@@ -1,23 +1,25 @@
 #EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/481_large.jpg?t=1d58c96668",LNTV 1
-http://muanlai.com/live/481/tv-lao-1
+https://ctrl.laotv.la/live/LNTV1/index.m3u8
 
 #EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/482_large.jpg?t=7fa5b5677a",LNTV 3
-http://muanlai.com/live/482/tv-lao-3hd
+https://ctrl.laotv.la/live/LNTV3/index.m3u8
 
 #EXTINF:-1  tvg-id="ALTV.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/479_large.jpg?t=b081113a0a", LAO PSTV
-http://muanlai.com/live/479/pstv
+https://ctrl.laotv.la/live/PSTV/index.m3u8
 
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/476_large.jpg?t=41ec3158d5",MV LAO
-http://mvlao.tv/live-tv/mv-lao/17
+https://ctrl.laotv.la/live/MVLao/index.m3u8
 
 #EXTINF:-1  tvg-id="TPTV.th"tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/475_large.jpg?t=953fb400e2",LAO STAR
 https://ctrl.laotv.la/live/LaoStar/index.m3u8
 
 #EXTINF:-1  tvg-id="TNN16.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/480_large.jpg?t=f366cef494",LATV 7
-http://muanlai.com/live/480/latv
+https://ctrl.laotv.la/live/LATV/index.m3u8
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/474_large.jpg?t=4db9a96903",Vte9
-http://muanlai.com/live/474/tve9
+https://ctrl.laotv.la/live/VTE9/index.m3u8
 
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://img.24freetv.com/upload/lao-estv.jpg",Lao Estv
+https://edge2.laotv.la/live/LaoESTV/sc-gaFECQ/v0_index.m3u8
