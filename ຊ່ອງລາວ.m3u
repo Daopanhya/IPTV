@@ -23,3 +23,17 @@ https://ctrl.laotv.la/live/VTE9/index.m3u8
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://img.24freetv.com/upload/lao-estv.jpg",Lao Estv
 https://edge2.laotv.la/live/LaoESTV/sc-gaFECQ/v0_index.m3u8
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230829/video/f53fc01a-cc58-461e-b63c-c9ac0ed7f8da.jpeg",Lao NA
+https://ctrl.laotv.la/live/QHLAO/index.m3u8
+
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/99bdbdaa-4dda-4cdb-b4c5-c8cb4184d46f.png",CPS Television
+https://ctrl.laotv.la/live/CPS/index.m3u8
+
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/1d1de917-4c9b-45b3-89fd-81c368d64e8e.jpeg",LPB TV
+https://ctrl.laotv.la/live/LPBTV/index.m3u8
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/9bb4f940-ee0e-4f2c-accb-02c1e599a48c.png",XKH
+https://ctrl.laotv.la/live/XKH/index.m3u8
