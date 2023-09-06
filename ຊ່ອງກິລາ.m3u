@@ -78,8 +78,6 @@ https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230721/video/846822c9-37b4-45e4-a43e-915854d408bd.jpeg",bein2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 
