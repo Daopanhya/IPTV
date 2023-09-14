@@ -106,7 +106,7 @@ https://ctrl.laotv.la/live/TureFilm/index.m3u8
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_048.jpg",TRUE TVB
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-==
+
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpLGDPDLfKxb9HKqCcPOB-FAqG__jMZJtxg&usqp=CAU",MONO PLUS
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8888
@@ -166,7 +166,8 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593553878925322/d4bd8b0f3839244c29e4feaa98f40533.png",Hero
-51dEXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaoD3s40rTlomTjhXuiTDBEnJCji00oO-cw&usqp=CAU",NK TV
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaoD3s40rTlomTjhXuiTDBEnJCji00oO-cw&usqp=CAU",NK TV
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU",FwMov
@@ -241,7 +242,7 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
 https://ctrl.laotv.la/live/MChannel/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 1 HD TH" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/77368e63-c235-4a7e-a32d-c1de4b934e8e.png"Zeenung
+#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 1 HD TH" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/77368e63-c235-4a7e-a32d-c1de4b934e8e.png",Zeenung
 #EXTVLCOPT:http-referrer=https://laotv.la
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
 https://ctrl.laotv.la/live/Zeenung/index.m3u8
