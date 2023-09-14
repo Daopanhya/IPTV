@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png",HBO
-
+https://ctrl.laotv.la/live/HBO/index.m3u8
 
 #EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png",HBO SIGNATURE
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
@@ -16,6 +16,7 @@
 #EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png", HBO FAMILY
 
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU",CINEMAX
+https://ctrl.laotv.la/live/Cinemax/index.m3u8
 
 #EXTINF:-1  tvg-id="TNN16.th" tvg-logo="https://www.iptv4k.tv/images/tv/6GtIueXI8Si1ueLO1xDKfVsTIfCEWAxthrill.png",thrill
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
@@ -36,7 +37,7 @@
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",True Film 1 HD
-
+https://ctrl.laotv.la/live/TureFilm/index.m3u8
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_221.jpg",True Film 2 HD
 
@@ -229,8 +230,8 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://entertainmentstudios.com/wp-content/uploads/2020/08/comedy_tv_logo_sq.png",comedy
 
 
-#EXTINF:-1 tvg-id="" tvg-name="&prive (Movies) TH" tvg-logo="",&prive (Movies) TH
+#EXTINF:-1 tvg-id="" tvg-name="&prive (Movies) TH" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230618/video/34de5527-4ce7-48b2-b72e-d5b3967c9041.png",M Channel
+https://ctrl.laotv.la/live/MChannel/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 1 HD TH" tvg-logo="" ,CABLE SERIES 1 HD TH
-
+#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 1 HD TH" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/77368e63-c235-4a7e-a32d-c1de4b934e8e.png"Zeenung
+https://ctrl.laotv.la/live/Zeenung/index.m3u8
