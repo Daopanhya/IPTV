@@ -120,7 +120,7 @@ https://m1.ballnaja.com/live/ais_MONO29_Plus/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F5nlb1-dCVsYYkj9ERFyKyprKn3xVxtSng&usqp=CAU",3BB Asian
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://m1.ballnaja.com/live/ais_3BB_Asian/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIzIDE6MjM6MzAgUE0maGFzaF92YWx1ZT1FNkU2OStjdkNpZVNFMUowVEJjS1hBPT0mdmFsaWRtaW51dGVzPTIw
+https://m1.ballnaja.com/live/ais_3BB_Asian/chunks.m3u8?nimblesessionid=271049&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIzIDE6NTk6MDYgUE0maGFzaF92YWx1ZT0xT1A5R0ZVNjc5aGNVMzhkRjhVOHJRPT0mdmFsaWRtaW51dGVzPTIwmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/MANGORN.png",MANGORN
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
