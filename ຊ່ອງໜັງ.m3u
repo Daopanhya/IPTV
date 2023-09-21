@@ -35,6 +35,7 @@ https://ctrl.laotv.la/live/Cinemax/index.m3u8
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthBgkyHvR3UoAALXugrhmu6Q4Qo-PQo_E8w&usqp=CAU",Paramount
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
+https://m1.ballnaja.com/live/ais_Paramount_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MzY6MDcgQU0maGFzaF92YWx1ZT1MUnp4WktGVnRkRjUrZGcxQ3YwKytBPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJTF_ZB3NAXGQolQOpGotSF8Q7ejzi2oYyw&usqp=CAU",True Movie His
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com
@@ -49,12 +50,13 @@ https://ctrl.laotv.la/live/TureFilm/index.m3u8
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_221.jpg",True Film 2 HD
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
+https://m1.ballnaja.com/live/True_Film_2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6Mjc6NTMgQU0maGFzaF92YWx1ZT0rVzB5WlJmK0hCL25uZEpuM3dWSGFBPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdapmNP-C0b9EIe12AbdqfxxWMc0AXOCPyw&usqp=CAU",True Asian Film HD
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",True Thai Film HD
-
+https://m1.ballnaja.com/live/True_Thai_Film/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MjI6MjAgQU0maGFzaF92YWx1ZT1NVzBPZ1kvSlR6WHRBeDhCNzd3eXp3PT0mdmFsaWRtaW51dGVzPTIw
 
 
 
@@ -65,9 +67,10 @@ https://ctrl.laotv.la/live/TureFilm/index.m3u8
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_158.jpg" ,TRUE ASIAN MORE HD
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
+https://m1.ballnaja.com/live/TRUE_ASIAN_SERIES_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MzM6MzcgQU0maGFzaF92YWx1ZT01d1BmM0ptTzJURXhYZlREOEFOZlZnPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPYEg27GYxxBuRk1ceiInzwK7nRSRUI8f2w&usqp=CAU",True Chinese More HD
-
+https://m1.ballnaja.com/live/True_Chinese_More/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MzA6MzMgQU0maGFzaF92YWx1ZT11NEdaRitMdTQvUzVWa1pCak9zdmpRPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPYEg27GYxxBuRk1ceiInzwK7nRSRUI8f2w&usqp=CAU",True Chinese More
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com
@@ -79,12 +82,13 @@ https://ctrl.laotv.la/live/TureFilm/index.m3u8
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe8TsQ5nAmYLfntgsD2IPWghztwIcHRw8mw&usqp=CAU",True Korean More
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-
+https://m1.ballnaja.com/live/True_Korean_More/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6Mjc6MDggQU0maGFzaF92YWx1ZT1TdDA5Y2l2aVBlVlBzekpyTFQ3aE1nPT0mdmFsaWRtaW51dGVzPTIw
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iuJcQj9KANvnb70DczICyb7AYWnzcw_3Vw&usqp=CAU",True Series
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
+https://m1.ballnaja.com/live/True_Series/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MjM6NDYgQU0maGFzaF92YWx1ZT1xRDlmWDhFcmd2MTlYUXR2M1d1YXJRPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeK0ZqvvctIZ71ivLoRd6J1ZzdlvoawSX3fg&usqp=CAU",Lifetime
 
@@ -95,10 +99,10 @@ https://ctrl.laotv.la/live/TureFilm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png",HITS
 #EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
+https://m1.ballnaja.com/live/ais_HITS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6NDM6MTYgQU0maGFzaF92YWx1ZT1TemF6enphNG5nbkUyWlVBR3Vxazh3PT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png",HITS MOVIES HD
-
+https://m1.ballnaja.com/live/ais_HITS_Movies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MzY6NTYgQU0maGFzaF92YWx1ZT1MeUZqU1VBNC94Y2IzdFQ1RTFwLzdBPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/sm_KMTV.jpg" ,KMTV
 
