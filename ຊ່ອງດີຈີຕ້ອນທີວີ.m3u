@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",NBT HD
-http://183.89.246.119:8010/play/a009/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
 
 #EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png",Thai PBS HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -25,27 +25,27 @@ https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed
 #EXTINF:-1  tvg-id="TNN16.th" tvg-logo="https://i.imgur.com/hD3wGq3.png",TNN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-http://61.19.242.134/feed/202306140918/chtnn/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://i.imgur.com/0dVYX70.png",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-http://61.19.242.134/feed/202306140918/newtv/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
 
 #EXTINF:-1  tvg-id="NationTV.th" tvg-logo="https://i.imgur.com/Qd9UPT7.png",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-http://61.19.242.134/feed/202306140918/chnation/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
 
 #EXTINF:-1  tvg-id="Workpoint23.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-workpoint.png",Workpoint 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-http://61.19.242.134/feed/202306140918/chworkpoint/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
 
 #EXTINF:-1  tvg-id="True4U.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-24u.png",True 4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-http://61.19.242.134/feed/202306140918/chtrue4u/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
 
 #EXTINF:-1  tvg-id="GMM25.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",GMM 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -55,7 +55,7 @@ https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/
 #EXTINF:-1  tvg-id="CH8.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png",CH 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-http://61.19.242.134/feed/202306140918/ch8/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
 
 #EXTINF:-1  tvg-id="Mono29.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mono.png",Mono29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -65,7 +65,7 @@ https://2nud.short.gy/ais_mono29th.m3u8
 #EXTINF:-1  tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/KQu4dTf.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-http://61.19.242.134/feed/202306140918/chmcothd/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
 
 #EXTINF:-1  tvg-id="OneHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gmmone.png",ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -75,7 +75,7 @@ https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/
 #EXTINF:-1  tvg-id="AmarinTVHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png",Thairath TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-http://61.19.242.134/feed/202306140918/chthairath/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
 
 
 #EXTINF:-1  tvg-id="CH8.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch3.png",CH3 HD
@@ -84,7 +84,7 @@ https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1  tvg-id="AmarintvHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-amarin.png",AMARIN TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-http://61.19.242.134/feed/202306140918/chamarin/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
 
 
 #EXTINF:-1  tvg-id="BBTVChannel7.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png",BBTV CH 7
@@ -95,7 +95,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
 #EXTINF:-1  tvg-id="PPTVHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-pptv.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com
-http://61.19.242.134/feed/202306140918/chpptvhd/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 
 #EXTINF:-1  tvg-id="Top News" tvg-logo="https://sv1.picz.in.th/images/2022/04/18/88Yoj8.png",Top News
 https://live.topnews.co.th/hls/topnews_a_480.m3u8
