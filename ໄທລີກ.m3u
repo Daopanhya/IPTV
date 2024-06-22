@@ -1,25 +1,24 @@
-#EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
-
-
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/ballthai1.jpg",Ais1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/playlist.m3u8
-
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/ballthai2.jpg",Ais2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay2/playlist.m3u8
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/ballthai3.jpg",Ais3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay3/playlist.m3u8
-
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/ballthai4.jpg",Ais4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay4/playlist.m3u8
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://playidturl1.github.io/epgtv/gigatv.xml,https://playidturl1.github.io/epgtv/thailand.xml,https://tv.realmetx.repl.co/guide.xml url="https://rebrand.ly/ott1234"
+"url="https://tv.realmetx.repl.co/guide.xml", "refresh="3600"
+```````
+####IPTV M3U Written by  Admin PLAYIDTV
+Thank you for liking it. Admin, if you want to develop, you must continue to develop.  ####
+****เน€เธฃเธฒเนเธกเนเธกเธตเธญเธฐเนเธฃเน€เธฅเธข***
+****เธเธนเนเน€เธเธตเธขเธเธ—เธณเน€เธเธทเนเธญเธซเธฒเธเธงเธฒเธกเธฃเธนเนเน€เธ—เนเธฒเธเธฑเนเธ''*****
+*******เธเธฃเธต. เนเธกเนเธเธฒเธข****
+******เธเธงเธฒเธกเธกเธตเธเนเธณเนเธเธกเธตเธกเน''
+*****เธญเธฑเธเน€เธ”เธ—เธฅเนเธฒเธชเธธเธ” 16/12;/66 เน€เธงเธฅเธฒ 05:20***"โ€
+```````
+########EXTINF:-1 group-logo=#####
+''
+**** เธเนเธญเธกเธนเธฅ*****
+เธฅเธดเธเธเนเธ—เธฑเนเธเธซเธกเธ”เธซเธฒเธกเธฒเธเธฒเธเน€เธงเนเธเธ”เธนเธ—เธตเธงเธต/เธ”เธนเธเธญเธฅเธชเธ”เธ•เนเธฒเธเน
+เธซเนเธฒเธกเน€เธญเธฒเธฅเธดเธเธเนเธเธญเธเธเธกเนเธเธเธฒเธข
+เธฅเธดเธเธเนเธเธญเธเธเธกเธ”เธนเธเธฃเธตเธญเธขเนเธฒเธเน€เธ”เธตเธขเธงเน€เธซเนเธเธฅเธดเธเธเนเธเธญเธเธเธกเนเธเนเธเธกเธฒเนเธ”เนเธเธฅเธธเนเธกเนเธฅเธเน M3U W3U IPTV" เนเธเธฃเธ”เนเธ•เธฐเธฅเธดเธเธเนเธ”เนเธฒเธเธฅเนเธฒเธเน€เธเธทเนเธญเน€เธเนเธฒเธฃเนเธงเธกเนเธญเน€เธเธเนเธเธ—เธเธตเน
+https://line.me/ti/g2/CRCoIAB0u4Ejm1CKkrtab-pElU6EHMfjUcsl_Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
+*****
+#### เธเนเธญเธกเธนเธฅเน€เธเธตเนเธขเธงเธเธฑเธเนเธญเธ”เธกเธดเธ:https://heylink.me/playidtv/
+#EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/LoyKatong_IconTV.png",
+#EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nbt.jpg" group-title="FREETV",NBT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/HLS/V0001-avc1_5000000=3-mp4a_96000_tha=7.m3u8
