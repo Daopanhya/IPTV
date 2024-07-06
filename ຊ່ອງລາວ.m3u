@@ -1,39 +1,38 @@
 #EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/481_large.jpg?t=1d58c96668",LNTV 1
-https://ctrl.laotv.la/live/LNTV1/index.m3u8
+
 
 #EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/482_large.jpg?t=7fa5b5677a",LNTV 3
-https://ctrl.laotv.la/live/LNTV3/index.m3u8
+
 
 #EXTINF:-1  tvg-id="ALTV.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/479_large.jpg?t=b081113a0a", LAO PSTV
-https://ctrl.laotv.la/live/PSTV/index.m3u8
+
 
 #EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/476_large.jpg?t=41ec3158d5",MV LAO
-https://ctrl.laotv.la/live/MVLao/index.m3u8
+
 
 #EXTINF:-1  tvg-id="TPTV.th"tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/475_large.jpg?t=953fb400e2",LAO STAR
-https://ctrl.laotv.la/live/LaoStar/index.m3u8
+
 
 #EXTINF:-1  tvg-id="TNN16.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/480_large.jpg?t=f366cef494",LATV 7
-https://ctrl.laotv.la/live/LATV/index.m3u8
+
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/474_large.jpg?t=4db9a96903",Vte9
-https://ctrl.laotv.la/live/VTE9/index.m3u8
+
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://img.24freetv.com/upload/lao-estv.jpg",Lao Estv
-https://edge2.laotv.la/live/LaoESTV/sc-gaFECQ/v0_index.m3u8
+
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230829/video/f53fc01a-cc58-461e-b63c-c9ac0ed7f8da.jpeg",Lao NA
-https://ctrl.laotv.la/live/QHLAO/index.m3u8
+
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/99bdbdaa-4dda-4cdb-b4c5-c8cb4184d46f.png",CPS Television
-https://ctrl.laotv.la/live/CPS/index.m3u8
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/1d1de917-4c9b-45b3-89fd-81c368d64e8e.jpeg",LPB TV
-https://ctrl.laotv.la/live/LPBTV/index.m3u8
+
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/9bb4f940-ee0e-4f2c-accb-02c1e599a48c.png",XKH
-https://ctrl.laotv.la/live/XKH/index.m3u8
+
