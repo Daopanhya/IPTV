@@ -1,22 +1,20 @@
-#EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="ກຶລາ",TRUE PREMIER HD3
+https://dooball2you.com/live/tpf3/
+ 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="ກຶລາ",TRUE PREMIER HD3 
+https://www.heng99bet.com/live/epl3
+ 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="ກຶລາ",TRUE PREMIER HD3 
+https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd3/
+ 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="ກຶລາ",TRUE PREMIER HD3 
+https://www.baballbet.com/live/true-premier-football-hd3/
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/1200px-PPTV_logo_2019.svg.png" group-title="ກຶລາ",PPTV HD
+https://www.baballbet.com/live/pptv-hd36/
 
+ 
 
-#EXTINF:-1  tvg-id="AmarinTVHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png",Thairath TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
-
-
-
-#EXTINF:-1  tvg-id="PPTVHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-pptv.png",PPTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
-
-
-#EXTINF:-1  tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/KQu4dTf.png",MCOT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+ 
