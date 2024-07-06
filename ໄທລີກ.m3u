@@ -1,26 +1,110 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://playidturl1.github.io/epgtv/gigatv.xml,https://playidturl1.github.io/epgtv/thailand.xml,https://tv.realmetx.repl.co/guide.xml url="https://rebrand.ly/ott1234"
-"url="https://tv.realmetx.repl.co/guide.xml", "refresh="3600"
-```````
-####IPTV M3U Written by  Admin PLAYIDTV
-Thank you for liking it. Admin, if you want to develop, you must continue to develop.  ####
-****เน€เธฃเธฒเนเธกเนเธกเธตเธญเธฐเนเธฃเน€เธฅเธข***
-****เธเธนเนเน€เธเธตเธขเธเธ—เธณเน€เธเธทเนเธญเธซเธฒเธเธงเธฒเธกเธฃเธนเนเน€เธ—เนเธฒเธเธฑเนเธ''*****
-*******เธเธฃเธต. เนเธกเนเธเธฒเธข****
-******เธเธงเธฒเธกเธกเธตเธเนเธณเนเธเธกเธตเธกเน''
-*****เธญเธฑเธเน€เธ”เธ—เธฅเนเธฒเธชเธธเธ” 16/12;/66 เน€เธงเธฅเธฒ 05:20***"โ€
-```````
-########EXTINF:-1 group-logo=#####
-''
-**** เธเนเธญเธกเธนเธฅ*****
-เธฅเธดเธเธเนเธ—เธฑเนเธเธซเธกเธ”เธซเธฒเธกเธฒเธเธฒเธเน€เธงเนเธเธ”เธนเธ—เธตเธงเธต/เธ”เธนเธเธญเธฅเธชเธ”เธ•เนเธฒเธเน
-เธซเนเธฒเธกเน€เธญเธฒเธฅเธดเธเธเนเธเธญเธเธเธกเนเธเธเธฒเธข
-เธฅเธดเธเธเนเธเธญเธเธเธกเธ”เธนเธเธฃเธตเธญเธขเนเธฒเธเน€เธ”เธตเธขเธงเน€เธซเนเธเธฅเธดเธเธเนเธเธญเธเธเธกเนเธเนเธเธกเธฒเนเธ”เนเธเธฅเธธเนเธกเนเธฅเธเน M3U W3U IPTV" เนเธเธฃเธ”เนเธ•เธฐเธฅเธดเธเธเนเธ”เนเธฒเธเธฅเนเธฒเธเน€เธเธทเนเธญเน€เธเนเธฒเธฃเนเธงเธกเนเธญเน€เธเธเนเธเธ—เธเธตเน
-https://line.me/ti/g2/CRCoIAB0u4Ejm1CKkrtab-pElU6EHMfjUcsl_Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
-*****
-#### เธเนเธญเธกเธนเธฅเน€เธเธตเนเธขเธงเธเธฑเธเนเธญเธ”เธกเธดเธ:https://heylink.me/playidtv/
+#EXTM3U
 
-####TrueVisions;Sports###
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_KCz-zlloa9JBZRW_tGKuB2M-UewmbYUcJg&usqp=CAU",
-#EXTINF:-1 group-title="เธ—เธฃเธนเธงเธดเธเธฑเนเธเธชเนเธชเธเธญเธฃเนเธ•" tvg-id="truepremierfootball1.th" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.jpg", PremierHD ENG 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://wacthstream.com/stream_live/600_eng1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDE6NDY6MDggUE0maGFzaF92YWx1ZT12a2FDdzZveWZTdGFjY0R2b2syaW53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTI5NzM=|Referer=https://wacth.tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="ກຶລາ",beIN Sports 1 TH
+https://www.andaman888th.com/ดูบอลออนไลน์/beinsport1/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="ກຶລາ",beIN Sports 1 TH 
+https://www.heng99bet.com/live/bein1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="ກຶລາ",beIN Sports 1 TH 
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87beinsport1/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="ກຶລາ",beIN Sports 2 TH
+https://www.heng99bet.com/live/bein2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="ກຶລາ",beIN Sports 2 TH
+https://www.andaman888th.com/ดูบอลออนไลน์/beinsport2/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="ກຶລາ",beIN Sports 3 TH 
+https://www.andaman888th.com/ดูบอลออนไลน์/beinsport3/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="ກຶລາ",beIN Sports 3 TH 
+https://www.heng99bet.com/live/bein3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="ກຶລາ",beIN Sports 3 TH
+https://dooball2you.com/beinsport3/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="ກຶລາ",beIN Sports 3 TH 
+https://www.baballbet.com/live/bein-sport3/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="ກຶລາ",TRUE PREMIER HD1 
+https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd1/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="ກຶລາ",TRUE PREMIER HD1 
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87tpf1/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="ກຶລາ",TRUE PREMIER HD1 
+https://www.dooballfree24hr.com/live/true-premier-football-hd1/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="ກຶລາ",TRUE PREMIER HD1 
+https://www.heng99bet.com/live/epl1
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="ກຶລາ",TRUE PREMIER HD1 
+https://www.baballbet.com/live/true-premier-football-hd1/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="ກຶລາ",TRUE PREMIER HD2
+https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd2/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="ກຶລາ",TRUE PREMIER HD2 
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87tpf2/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="ກຶລາ",TRUE PREMIER HD2 
+https://www.heng99bet.com/live/epl2
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="ກຶລາ",TRUE PREMIER HD3
+https://dooball2you.com/live/tpf3/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="ກຶລາ",TRUE PREMIER HD3 
+https://www.heng99bet.com/live/epl3
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="ກຶລາ",TRUE PREMIER HD3 
+https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd3/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="ກຶລາ",TRUE PREMIER HD3 
+https://www.baballbet.com/live/true-premier-football-hd3/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="ກຶລາ",TRUE PREMIER HD4
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87tpf4/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="ກຶລາ",TRUE PREMIER HD4 
+https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd4/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="ກຶລາ",TRUE PREMIER HD5
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87tpf5/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="ກຶລາ",TRUE PREMIER HD5 
+https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd5/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" group-title="ກຶລາ",TRUE Sport HD
+https://www.andaman888th.com/ดูบอลออนไลน์/truesporthd/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" group-title="ກຶລາ",TRUE Sport HD 
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd1/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="ກຶລາ",TRUE Sport HD 2
+https://dooball2you.com/truesporthd2/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="ກຶລາ",TRUE Sport HD 2 
+https://www.andaman888th.com/ดูบอลออนไลน์/truesporthd2/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" group-title="ກຶລາ",TRUE Sport HD 3
+
+https://www.andaman888th.com/ดูบอลออนไลน์/truesporthd3/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" group-title="ກຶລາ",TRUE Sport HD 3 
+https://dooball2you.com/ช่องtruesporthd3/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="ກຶລາ",TRUE Sport HD 4 
+https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="ກຶລາ",TRUE Sport 5 
+https://dooball2you.com/ช่องtruesport5/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="ກຶລາ",TRUE Sport 5 
+https://www.andaman888th.com/football/?channel=truesportsd5&slug=Ecuador-vs-Senegal
+
+#EXTINF:-1 tvg-logo="https://cms.spotvasia.com/upload/boards/file_9a90f2c2-9c9a-4daf-baf9-a369a0805e0d.jpg" group-title="ກຶລາ",SPOTV 
+https://dooball2you.com/ช่องspotv1/
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="ກຶລາ",SPOTV 2
+https://dooball2you.com/ช่องspotv2/
