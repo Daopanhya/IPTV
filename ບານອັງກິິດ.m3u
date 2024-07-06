@@ -3,8 +3,9 @@
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",epl1 HD
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-referrer=https://wacth.tv
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",epl2 HD
@@ -15,7 +16,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",epl3 HD
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 
 
@@ -26,9 +27,9 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",epl5 HD
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",epl5 HD new
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8
+https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 
 
@@ -40,4 +41,3 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
-
