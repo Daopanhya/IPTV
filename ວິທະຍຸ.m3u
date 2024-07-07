@@ -4,7 +4,19 @@ Online",
 "image"             :     "https://cdn.icon-icons.com/icons2/544/PNG/512/Radio_icon-icons.com_53189.png",
 "url"               :     "https://pastebin.com/XEBsKWZr",
 "stations" : [
- 
+
+
+{
+name:"FM103.7",
+image:"https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
+url:"https://radio.lnr.org.la/fm103",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
 {
 name:"Green Wave",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaOjiznoXL010r05880C2jAUuW1ONVluDTGQ&usqp=CAU",
