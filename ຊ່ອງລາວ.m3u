@@ -38,11 +38,15 @@
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",FM103
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
 https://radio.lnr.org.la/fm103
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",FM94
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://radio.lnr.org.la/fm94
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",AM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com
 https://radio.lnr.org.la/am
