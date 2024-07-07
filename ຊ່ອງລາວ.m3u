@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
+#EXTM3U 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/481_large.jpg?t=1d58c96668",LNTV 1
 
