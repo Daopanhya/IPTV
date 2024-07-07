@@ -36,3 +36,13 @@
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/9bb4f940-ee0e-4f2c-accb-02c1e599a48c.png",XKH
 
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",FM103
+https://radio.lnr.org.la/fm103
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",FM94
+https://radio.lnr.org.la/fm94
+
+
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",AM
+https://radio.lnr.org.la/am
