@@ -5,7 +5,7 @@
   "image": "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
 "groups": [
 {
-"name": "ຊ່ອງດີຈີຕ້ອນທີວີ",
+"name": "ຊ່ອງດິຈິຕ້ອນທີວີ ໄທ",
 "image":"https://s.isanook.com/mn/0/rp/rc/w850h510/yatxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL21uLzAvdWQvMzUvMTc4ODY3LzYwNTMzNy5qcGc=.jpg",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%94%E0%BA%B5%E0%BA%88%E0%BA%B5%E0%BA%95%E0%BB%89%E0%BA%AD%E0%BA%99%E0%BA%97%E0%BA%B5%E0%BA%A7%E0%BA%B5.m3u",
 "referer": "xxx",
@@ -31,7 +31,7 @@
 },
 
 {
-"name": "THAILAND ໄທລີກ",
+"name": "ຊ່ອງກິລານອກ",
 "image":"https://cdn.sportmonks.com/images//soccer/leagues/8/1064.png",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BB%84%E0%BA%97%E0%BA%A5%E0%BA%B5%E0%BA%81.m3u",
 "referer": "xxx",
@@ -39,7 +39,7 @@
 "import": false
 },
 {
-"name": "Premier League ອັງກິດ",
+"name": "ບານອັງກິດ",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNEm9jcIAVZwPAs-XIJGETlTtFiuh-nrVJQ&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%9A%E0%BA%B2%E0%BA%99%E0%BA%AD%E0%BA%B1%E0%BA%87%E0%BA%81%E0%BA%B4%E0%BA%B4%E0%BA%94.m3u",
 "referer": "xxx",
@@ -47,7 +47,7 @@
 "import": false
 },
 {
-"name": "ຊ່ອງກິລາ",
+"name": "ຊ່ອງກິລາ ໄທ",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCf1XExWu3C_3nszOj_Rz8nc7FOy5vHuPFty_Ry4g3aDNI-UdBDVw&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%81%E0%BA%B4%E0%BA%A5%E0%BA%B2.m3u",
 "referer": "xxx",
