@@ -1,3 +1,520 @@
+{
+"name"              :     "Radio
+Online",
+"image"             :     "https://cdn.icon-icons.com/icons2/544/PNG/512/Radio_icon-icons.com_53189.png",
+"url"               :     "https://pastebin.com/XEBsKWZr",
+"stations" : [
+ 
+{
+name:"Green Wave",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaOjiznoXL010r05880C2jAUuW1ONVluDTGQ&usqp=CAU",
+url:"https://radio.siamha.com/fm1065.html",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"Hitz 955",
+image:"https://hitz955.teroradio.com/assets/images/logo-top.png",
+url:"https://14073.live.streamtheworld.com/HITZ_955AAC_128_SC",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"EFM",
+image:"https://static2.mytuner.mobi/media/tvos_radios/Ck8sVEmWdv.jpeg",
+url:"https://radio.siamha.com/efm.html",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"Chill Online",
+image:"https://static.mytuner.mobi/media/tvos_radios/FRgnKAsHgV.jpg",
+url:"https://radio.siamha.com/chill.html",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"COOLISM",
+image:"https://3.bp.blogspot.com/-n3KUVVLJ3GI/WN0nRcs1BrI/AAAAAAAAACU/TjvGNkor1KY5DmhHWi5Vjg1X_SmyS-hFQCLcB/s320/930-cool-fm-full.jpg",
+url:"https://coolism-web.cdn.byteark.com/;stream/1",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"ลูกทุ่งมหานคร: FM 95",
+image:"https://imgs.mcot.net/images/2020/01/1578472935560-167x100.png",
+url:"https://live-org-01-cdn.mcot.net/radiocdn_edge/fm95.stream_aac/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"ลูกทุ่งเน็ตเวิร์ก",
+image:"http://www.looktung.net/_nuxt/img/logo-160x160.09096e1.png",
+url:"http://media.login.in.th:8200/;stream.mp3",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"City Radio Pattaya",
+image:"https://www.cityradiopattaya.com/wp-content/uploads/2022/01/linerichmessage-2022-01-07T153638.696-1.jpg",
+url:"https://streaming.thaismarthost.com:8020/ctmobile.mp3",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"สวพ. FM 91 สถานีวิทยุเพื่อความปลอดภัยและการจราจร",
+image:"http://radio.siamha.com/logo/910.png",
+url:"https://www.fm91bkk.com:8900/;stream.mp3",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"JS100 Radio",
+image:"https://www.isranews.org/images/Update_logo_/js100.jpg",
+url:"https://djstreamsv1.hostpleng.cloud/4BsH",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"Goodtime Radio",
+image:"https://www.goodtimeradio.fm/assets/images/Goodtime.png",
+url:"https://streaming.teroradio.com/Goodtime/Goodtime-Listen/chunklist_w34717567.m3u8",
+"referer"           :  "https://www.goodtimeradio.fm/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"สถานีเพลงสตริง Request Radio",
+image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
+url:"http://cast.requestradio.in.th:8100/stream",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{
+name:"สถานีเพลงลูกทุ่ง Request Radio",
+image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
+url:"http://27.254.142.208:8200/stream/1/",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"สถานีเพลงเพื่อชีวิต Request Radio",
+image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
+url:"https://cast.requestradio.in.th:830/https:/cast.requestradio.in.th:830/",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"สถานีเพลงสากล Request Radio ",
+image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
+url:"http://27.254.142.208:8400/stream/1/",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"สถานีเพลงแดนซ์ Request Radio Dance Mix ",
+image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
+url:"https://cast.requestradio.in.th:850/;stream",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"สถานีวิทยุเสียงจากทหารเรือ 7 (นครพนม) ",
+image:"https://www.voiceofnavy.com/imgs/7.jpg",
+url:"https://radio12.plathong.net/9914/;stream.mp3",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"สวท.นครพนม 90.25 MHz",
+image:"https://radionakhonphanom.prd.go.th/th/file/get/type/thumbnail/file/20210323a8daca5d1007f2ff5a5e818ae76d309f153610.jpg",
+url:"https://cdn-edge-ott.prd.go.th/radio_vlc/8ff6-9e28-c96b-b75e-0df7.stream_aac/chunklist_w57895565.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"MCOT NEWS FM 100.5",
+image:"https://play-lh.googleusercontent.com/_yJz6qrPLLEDNBAV5gcTC9mShD56AEptH5m1pu-7ZcUOz8oZG7sEWx6WU0DBZAh3-6Q=w240-h480-rw",
+url:"https://rcdn.mcot.net/radiocdn_edge/fm1005.stream_aac/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"FM 99 Active Radio",
+image:"https://fm99activeradio.mcot.net/wp-content/uploads/2022/05/cropped-iconfm99-1.png",
+url:"https://rcdn.mcot.net/radiocdn_edge/fm99.stream_aac/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"98 อีสาน เอฟเอ็ม",
+image:"https://static.mytuner.mobi/media/tvos_radios/naazdc5h6kuz.png",
+url:"http://radio11.plathong.net:8900/;stream.mp3",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{
+name:"MET107",
+image:"https://www.met107.fm/assets/images/logo/logo@2x.png",
+url:"https://rcdn.mcot.net/radiocdn_edge/fm107.stream_aac/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"NBT | Radio Thailand Am 891",
+image:"http://nbt1.prd.go.th/images/logo@2x.png",
+url:"https://cdn-edge-ott.prd.go.th/radio_vlc/8f7a-f806-aaf3-9e23-7c51.stream_aac/chunklist_w2093164669.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"NBT | Radio Thailand Fm 88",
+image:"http://nbt1.prd.go.th/images/logo@2x.png",
+url:"https://cdn-edge-ott.prd.go.th/radio_vlc/9190-e863-a5b1-f5ca-44f9.stream_aac/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{
+name:"NBT | Radio Thailand Fm 92.5",
+image:"http://nbt1.prd.go.th/images/logo@2x.png",
+url:"https://cdn-edge-ott.prd.go.th/radio_vlc/c82e-c7ef-a290-7d29-059a.stream_aac/chunklist_w1308462623.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{
+name:"NBT | Radio Thailand Fm 93.5",
+image:"http://nbt1.prd.go.th/images/logo@2x.png",
+url:"https://cdn-edge-ott.prd.go.th/radio_vlc/3c3f-7562-9ccf-14e8-3f2f.stream_aac/chunklist_w600582734.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{
+name:"NBT | Radio Thailand Fm 95.5",
+image:"http://nbt1.prd.go.th/images/logo@2x.png",
+url:"https://cdn-edge-ott.prd.go.th/radio_vlc/8315-a899-1549-f425-cdc7.stream_aac/chunklist_w1671093682.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{
+name:"NBT | Radio Thailand Fm 97",
+image:"http://nbt1.prd.go.th/images/logo@2x.png",
+url:"https://cdn-edge-ott.prd.go.th/radio_vlc/f249-1715-bf4a-713e-8b3b.stream_aac/chunklist_w695089143.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{
+name:"NBT | Radio Thailand Fm 105",
+image:"http://nbt1.prd.go.th/images/logo@2x.png",
+url:"https://cdn-edge-ott.prd.go.th/radio_vlc/7dd9-bcac-b212-83c5-a2e1.stream_aac/chunklist_w1067484850.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{
+name:"Mellow 97.5",
+image:"https://static.mytuner.mobi/media/tvos_radios/geZgfjMRxE.jpg",
+url:"https://rcdn.mcot.net/radiocdn_edge/fm975.stream_aac/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{
+name:"สวท.กาฬสินธุ์ กรมประชาสัมพันธ์ FM 93 MHz",
+image:"https://yt3.googleusercontent.com/ytc/AOPolaS6GNZiAw2bt05cq9_rcmf7YOmpYr4IM6EnlA7TZbU=s176-c-k-c0x00ffffff-no-rj",
+url:"https://cdn-edge-ott.prd.go.th/radio_vlc/1443-021e-6bbb-705c-9e9d.stream_aac/chunklist_w530002674.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{
+name:"สวท.ขอนแก่น FM 99.50 MHz",
+image:"https://scontent.fkkc1-1.fna.fbcdn.net/v/t39.30808-6/335428229_220796630438420_2461843181167718369_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeFwwqVnlJvdmqs6-t3Mo7rUOvUUX-4v4LY69RRf7i_gtlEZg4dWX71wygK_2CSrLW1H7jMdHKNHHm88yUAU1CHh&_nc_ohc=kSHfaAXUN9QAX-1daKk&_nc_ht=scontent.fkkc1-1.fna&oh=00_AfDNtFweI6cJF1e9kzzfvi74a1FPM4vFQYdTwvV4fFIOAA&oe=6502CDB5",
+url:"https://cdn-edge-ott.prd.go.th/radio_vlc/3834-2ffa-ed0d-e8fd-7a66.stream_aac/chunklist_w912894205.m3u8",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{
+name:"ลูกทุ่ง รักไทย FM 90 Mhz",
+image:"https://cdn.webrad.io/images/logos/radioth-net/90-rakthai.png",
+url:"http://radio11.plathong.net:8896/;stream.mp3",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"GREAT 93 FM ",
+image:"https://admin.auto-messenger.ru/storage/radios/16076/30072/conversions/o6Mwysr9ImtEpMZNc7FYkxqVy1quqo-metaR3JlYXQ5M2ZtLnBuZw==--lg.webp",
+url:"https://a.hostpleng.cloud/8000/1/",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"SMiLE LOOKTUNG",
+image:"https://static.mytuner.mobi/media/tvos_radios/f3e9c9UaFD.png",
+url:"https://cdn-th2.livestreaming.in.th/shoutcast/8725",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"Sukson Radio เพลงไทยสากล",
+image:"https://www.tvjaa.com/storage/radio-channels/sukson.png",
+url:"https://stream.pjcdn.com:9000/1;&type=mp3",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"Sukson Radio เพลงลูกทุ่ง",
+image:"https://www.tvjaa.com/storage/radio-channels/sukson.png",
+url:"https://stream.pjcdn.com:8200/1;&amp;type=mp3",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"Sukson Radio เพลงสากล",
+image:"https://www.tvjaa.com/storage/radio-channels/sukson.png",
+url:"https://stream.pjcdn.com:8000/1;&type=mp3",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"ดนตรีสีสัน FM107.75",
+image:"https://static2.mytuner.mobi/media/tvos_radios/NGxZwsaD8b.jpg",
+url:"https://plus.onair.network/radio/8010/live",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"Huahin Radio",
+image:"https://static2.mytuner.mobi/media/tvos_radios/ddqtw2szlcdc.png",
+url:"https://inter1.plathong.net/7008/;stream.mp3",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"MUNforward",
+image:"https://static.mytuner.mobi/media/tvos_radios/N96spp6XLf.jpg",
+url:"https://cdn-th2.livestreaming.in.th/shoutcast/8730",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"106 วิทยุครอบครัวข่าว",
+image:"https://static2.mytuner.mobi/media/tvos_radios/5vfxsvfwzgqm.png",
+url:"http://radio12.plathong.net:8648/;stream.mp3",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"Eazy FM 105.5",
+image:"https://static.mytuner.mobi/media/tvos_radios/M5t3aG2vcB.png",
+url:"https://playerservices.streamtheworld.com/api/livestream-redirect/EAZYFM_1055AAC_128.aac",
+"playinnatplayer": "true"
+},
+ 
+{
+name:"หลวงตามหาบัว",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtvaqbwLEUgy16aCLYxT7Rkcu8A28qU-lsQ&usqp=CAU",
+url:"http://202.142.203.28:8000/siangdham.mp3",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"GBN",
+image:"https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png",
+url:"https://us.gbnus.com/live/th_sound.stream/playlist.m3u8",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Thai Weather Radio AM 1287",
+image:"http://www.radio.tmd.go.th/radio/images/station_bkk.png",
+url:"http://www.radio.tmd.go.th:8014/;stream.mp3",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"FM 94.25 MHz ส.อต.นครราชสีมา",
+image:"http://www.radio.tmd.go.th/radio/images/station_korat.png",
+url:"http://www.radio.tmd.go.th:8006/;stream.mp3",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"จส.103 - สถานีวิทยุจเรทหารสื่อสาร 2 FM 103 MHz",
+image:"https://static.mytuner.mobi/media/tvos_radios/nmCGrCYEJr.png",
+url:"https://plus.onair.network/radio/8110/fm103.mp3",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Anurak Radio คลื่นเพื่อการอนุรักษ์",
+image:"https://static.mytuner.mobi/media/tvos_radios/Yqjm3K7wSQ.png",
+url:"https://www.anurakradio.com/",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"93.75 City Life Great Society",
+image:"https://cdn.onlineradiobox.com/img/l/1/12631.v3.png",
+url:"http://onair.onair.network:8076/;",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"89.75 Radio Trip Phuket online",
+image:"http://www.radiotripphuket.com/images/img-listen-live.jpg",
+url:"https://cdn-th2.livestreaming.in.th/shoutcast/1150",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"เชียงใหม่ เรดิโอ : สดชื่นไปกับเสียงเพลง",
+image:"https://static.mytuner.mobi/media/tvos_radios/p6wcevjnx8ka.png",
+url:"https://radio-thailand.com/chiang-mai-radio",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"FM ONE 103.5",
+image:"https://static.mytuner.mobi/media/tvos_radios/hadgyexuzma9.png",
+url:"https://cdn-th2.livestreaming.in.th/shoutcast/8835",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Very Radio",
+image:"https://static2.mytuner.mobi/media/tvos_radios/USymFqfdNt.jpg",
+url:"https://cdn-th2.livestreaming.in.th/shoutcast/8505",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Cat Radio",
+image:"https://static.mytuner.mobi/media/tvos_radios/7DqAhMKgcr.jpeg",
+url:"http://111.223.37.194/CatRadio/CatRadio-High/chunklist_w933164328.m3u8",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Big FM",
+image:"http://www.bigfm.fm/_nuxt/img/logo.e068e79.png",
+url:"http://media.login.in.th:8195/stream/1/",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Musichitz Radio เพลงลูกทุ่ง",
+image:"https://static.mytuner.mobi/media/tvos_radios/2ercevqaw4vk.png",
+url:"http://112.121.150.133:9386/live",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Musichitz Radio เพลงสากล",
+image:"https://static.mytuner.mobi/media/tvos_radios/2ercevqaw4vk.png",
+url:"http://112.121.150.133:8006/live",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Musichitz Radio เพลงไทยสากล",
+image:"https://static.mytuner.mobi/media/tvos_radios/2ercevqaw4vk.png",
+url:"http://112.121.150.133:8122/live",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"ONDIO เพลงไทยสากลเก่า ",
+image:"https://www.tvjaa.com/storage/radio-channels/ondiothaiold.png",
+url:"https://radio.tvjaa.com/ondiothaiold",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"ONDIO เพลงไทยสากลใหม่ ",
+image:"https://www.tvjaa.com/storage/radio-channels/ondiothainew.png",
+url:"https://radio.tvjaa.com/ondiothainew",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Mcot Radio Network นครพนม FM 93.50",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7Y4g3Sy4Il1c0jOHPMnPGaCZH4gJ2jPSGQ&usqp=CAU",
+url:"https://lb-media.mcot.net/RegionRadio/NakhonPhanom.stream_aac/playlist.m3u8",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Mcot Radio Network จังหวัดสกลนคร 107.0 FM ",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7Y4g3Sy4Il1c0jOHPMnPGaCZH4gJ2jPSGQ&usqp=CAU",
+url:"https://lb-media.mcot.net/RegionRadio/SakonNakhon.stream_aac/playlist.m3u8",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Mcot Radio Network จังหวัดอุบลราชธานี 107.0 FM ",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7Y4g3Sy4Il1c0jOHPMnPGaCZH4gJ2jPSGQ&usqp=CAU",
+url:"https://lb-media.mcot.net/RegionRadio/UbonRatchathani.stream_aac/playlist.m3u8",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Mcot Radio Network จังหวัดนครราชสีมา 95.75 FM ",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7Y4g3Sy4Il1c0jOHPMnPGaCZH4gJ2jPSGQ&usqp=CAU",
+url:"https://lb-media.mcot.net/RegionRadio/NakhonRatchasima.stream_aac/playlist.m3u8",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"วิทยุคลื่นไทธรรม เอฟเอ็ม 95.25",
+image:"https://play-lh.googleusercontent.com/Rl4KUe5CL0pMk8w3Xj9U0UgWJs0U0FiPoIfquUGB915Z_aOaMIi_LmrynjsSMfDJB4Y=w240-h480-rw",
+url:"http://radio.dwebsalehost.com:9082/;stream.mp3",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"บุญมาเรดิโอ",
+image:"https://www.boonmaonline.com/assets/assets1/img/69939597_117903949585575_1592765613581795328_n.jpg",
+url:"http://radio10.plathong.net:7030/;stream.mp3",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"FM 87.5 MHz วิทยุรัฐสภา",
+image:"https://radio.siamha.com/logo/875.png",
+url:"https://radio-live.tpchannel.org/live/radio.m3u8",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"สถานีวิทยุกระจายเสียงห้างขายยาไอยรา FM 104.25 MHz",
+image:"https://www.srimuangkhon.com/upload/photo/srimuangkhon.com_20240204081854.png",
+url:"http://media.livestreaming.in.th:8940/stream?type=http&nocache=219",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"Hug Online Thailand",
+image:"http://www.hugonlinethailand.com/Content/images/Logo%20bear.png",
+url:"http://www.hugonlinethailand.com/",
+"playinnatplayer": "true"
+}, 
+ 
+{
+name:"94 FM Club หาดใหญ่",
+image:"https://www.94fmclub.net/images/header/logo-1.png",
+url:"https://plus.onair.network:8130/94fmclub2",
+"playinnatplayer": "true"
+}, 
  
 {
 name:"เพื่อนใจเรดิโอ FM 90.25MHz",
@@ -10,4 +527,3 @@ url:"https://cdn-th2.livestreaming.in.th/shoutcast/8960",
  
 ]
 }
-
