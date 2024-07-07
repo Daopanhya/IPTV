@@ -5,7 +5,7 @@
   "image": "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
 "groups": [
 {
-"name": "ຊ່ອງດິຈິຕ້ອນທີວີ ໄທ",
+"name": "ດິຈິຕ້ອນທີວີໄທ",
 "image":"https://s.isanook.com/mn/0/rp/rc/w850h510/yatxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL21uLzAvdWQvMzUvMTc4ODY3LzYwNTMzNy5qcGc=.jpg",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%94%E0%BA%B5%E0%BA%88%E0%BA%B5%E0%BA%95%E0%BB%89%E0%BA%AD%E0%BA%99%E0%BA%97%E0%BA%B5%E0%BA%A7%E0%BA%B5.m3u",
 "referer": "xxx",
@@ -22,7 +22,7 @@
 "import": false
 },
 {
-"name": "ຢູໂຣ 2024 vip",
+"name": "ຢູໂຣ 2024 VIP",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0s4AXgoycVTkHIxRV_gdU3nSlsgfFbPTaTBD1wwgU6Q&s",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%A2%E0%BA%B9%E0%BB%82%E0%BA%A3%202024.m3u",
 "referer": "xxx",
@@ -31,7 +31,7 @@
 },
 
 {
-"name": "ຊ່ອງກິລານອກ vip",
+"name": "ກິລານອກ VIP",
 "image":"https://cdn.sportmonks.com/images//soccer/leagues/8/1064.png",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BB%84%E0%BA%97%E0%BA%A5%E0%BA%B5%E0%BA%81.m3u",
 "referer": "xxx",
@@ -39,25 +39,25 @@
 "import": false
 },
 {
-"name": "ບານອັງກິດ vip",
+"name": "ບານອັງກິດ VIP",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNEm9jcIAVZwPAs-XIJGETlTtFiuh-nrVJQ&usqp=CAU",
-"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%9A%E0%BA%B2%E0%BA%99%E0%BA%AD%E0%BA%B1%E0%BA%87%E0%BA%81%E0%BA%B4%E0%BA%B4%E0%BA%94.m3u",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%9A%E0%BA%B2%E0%BA%99%E0%BA%AD%E0%BA%B1%E0%BA%87%E0%BA%81%E0%BA%B4%E0%BA%B4%E0%BA%94VVIP.m3u",
 "referer": "xxx",
 "info": " DAO-IPTV ",
 "import": false
 },
 {
-"name": "ຊ່ອງກິລາໄທ vip",
+"name": "ກິລາໄທ VIP",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCf1XExWu3C_3nszOj_Rz8nc7FOy5vHuPFty_Ry4g3aDNI-UdBDVw&usqp=CAU",
-"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%81%E0%BA%B4%E0%BA%A5%E0%BA%B2.m3u",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%81%E0%BA%B4%E0%BA%A5%E0%BA%B2VVIP.m3u",
 "referer": "xxx",
 "info": " DAO-IPTV ",
 "import": false
 },
 {
-"name": "ຊ່ອງສາລະຄະດີ vip",
+"name": "ສາລະຄະດີ VIP",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgux1OcfXc2r1rWcbnWacC2-Bxn-6W7kXJ-Q&usqp=CAU",
-"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%AA%E0%BA%B2%E0%BA%A5%E0%BA%B0%E0%BA%84%E0%BA%B0%E0%BA%94%E0%BA%B5.m3u",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%AA%E0%BA%B2%E0%BA%A5%E0%BA%B0%E0%BA%84%E0%BA%B0%E0%BA%94%E0%BA%B5VVIP.m3u",
 "referer": "xxx",
 "info": " DAO-IPTV ",
 "import": false
@@ -71,7 +71,7 @@
 "import": false
 },
 {
-"name": "ຊ່ອງກາຕູນ",
+"name": "ກາຕູນ",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFf2bRknprpPBWeOllFdoqoPeYWb2AyGTFQ&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%81%E0%BA%B2%E0%BA%95%E0%BA%B9%E0%BA%99.m3u",
 "referer": "xxx",
@@ -88,7 +88,7 @@
 },
 
 {
-"name": "ຊ່ອງເພງ vip",
+"name": "ເພງ VIP",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXXUUV2VvmTGIg_G9D5J3wkcNgigvZK3X2Jg&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BB%80%E0%BA%9E%E0%BA%87.m3u",
 "referer": "xxx",
@@ -97,7 +97,7 @@
 },
 
 {
-"name": "ໜັງ & ຊີຣີ vip",
+"name": "ໜັງ & ຊີຣີ VIP",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vFV1kEiL2sl00dlDfLzeB48_v89Yow7aug&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BB%9C%E0%BA%B1%E0%BA%87%20%26%20%E0%BA%8A%E0%BA%B5%E0%BA%A3%E0%BA%B5.w3u",
 "referer": "xxx",
