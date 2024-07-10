@@ -29,7 +29,12 @@
 "info": " DAO-IPTV ",
 "import": false
 },
-
+{
+"name"              :     "Copa America 2024",
+"image"             :     "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",
+"url"               :     "https://pastebin.com/raw/cP7sq6fS",
+"import": false
+},
 {
 "name": "ກິລານອກ VIP",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyAyevBJBYA-p1yWSte-G-XER5vHzyT5UiM9jUS75LpA&s",
