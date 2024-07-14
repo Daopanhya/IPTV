@@ -1,257 +1,140 @@
-#EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
-
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png",HBO
-#EXTVLCOPT:http-referrer=https://laotv.la
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://ctrl.laotv.la/live/HBO/index.m3u8
-
-#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png",HBO SIGNATURE
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",HBO HITS
-
-
-#EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png", HBO FAMILY
-
-#EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU",CINEMAX
-#EXTVLCOPT:http-referrer=https://laotv.la
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://ctrl.laotv.la/live/Cinemax/index.m3u8
-
-#EXTINF:-1  tvg-id="TNN16.th" tvg-logo="https://www.iptv4k.tv/images/tv/6GtIueXI8Si1ueLO1xDKfVsTIfCEWAxthrill.png",thrill
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-
-
-#EXTINF:-1  tvg-id="TNN16.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",WARNER TV
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthBgkyHvR3UoAALXugrhmu6Q4Qo-PQo_E8w&usqp=CAU",Paramount
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://m1.ballnaja.com/live/ais_Paramount_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MzY6MDcgQU0maGFzaF92YWx1ZT1MUnp4WktGVnRkRjUrZGcxQ3YwKytBPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJTF_ZB3NAXGQolQOpGotSF8Q7ejzi2oYyw&usqp=CAU",True Movie His
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",True Film 1 HD
-#EXTVLCOPT:http-referrer=https://laotv.la
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://ctrl.laotv.la/live/TureFilm/index.m3u8
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_221.jpg",True Film 2 HD
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://m1.ballnaja.com/live/True_Film_2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6Mjc6NTMgQU0maGFzaF92YWx1ZT0rVzB5WlJmK0hCL25uZEpuM3dWSGFBPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdapmNP-C0b9EIe12AbdqfxxWMc0AXOCPyw&usqp=CAU",True Asian Film HD
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",True Thai Film HD
-https://m1.ballnaja.com/live/True_Thai_Film/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MjI6MjAgQU0maGFzaF92YWx1ZT1NVzBPZ1kvSlR6WHRBeDhCNzd3eXp3PT0mdmFsaWRtaW51dGVzPTIw
-
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",True Thai Film
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="JKN18.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_158.jpg" ,TRUE ASIAN MORE HD
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://m1.ballnaja.com/live/TRUE_ASIAN_SERIES_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MzM6MzcgQU0maGFzaF92YWx1ZT01d1BmM0ptTzJURXhYZlREOEFOZlZnPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPYEg27GYxxBuRk1ceiInzwK7nRSRUI8f2w&usqp=CAU",True Chinese More HD
-https://m1.ballnaja.com/live/True_Chinese_More/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MzA6MzMgQU0maGFzaF92YWx1ZT11NEdaRitMdTQvUzVWa1pCak9zdmpRPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPYEg27GYxxBuRk1ceiInzwK7nRSRUI8f2w&usqp=CAU",True Chinese More
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe8TsQ5nAmYLfntgsD2IPWghztwIcHRw8mw&usqp=CAU",True Korean More HD
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe8TsQ5nAmYLfntgsD2IPWghztwIcHRw8mw&usqp=CAU",True Korean More
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://m1.ballnaja.com/live/True_Korean_More/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6Mjc6MDggQU0maGFzaF92YWx1ZT1TdDA5Y2l2aVBlVlBzekpyTFQ3aE1nPT0mdmFsaWRtaW51dGVzPTIw
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iuJcQj9KANvnb70DczICyb7AYWnzcw_3Vw&usqp=CAU",True Series
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://m1.ballnaja.com/live/True_Series/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MjM6NDYgQU0maGFzaF92YWx1ZT1xRDlmWDhFcmd2MTlYUXR2M1d1YXJRPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeK0ZqvvctIZ71ivLoRd6J1ZzdlvoawSX3fg&usqp=CAU",Lifetime
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/sm_CMC.png",CCM
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png",HITS
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-https://m1.ballnaja.com/live/ais_HITS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6NDM6MTYgQU0maGFzaF92YWx1ZT1TemF6enphNG5nbkUyWlVBR3Vxazh3PT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png",HITS MOVIES HD
-https://m1.ballnaja.com/live/ais_HITS_Movies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MzY6NTYgQU0maGFzaF92YWx1ZT1MeUZqU1VBNC94Y2IzdFQ1RTFwLzdBPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/sm_KMTV.jpg" ,KMTV
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBsUGajVE-MjLvrdrJ8w&usqp=CAU",UNIVERSAL
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://tvsmagazine.com/images/channels/sm_048.jpg",TRUE TVB
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpLGDPDLfKxb9HKqCcPOB-FAqG__jMZJtxg&usqp=CAU",MONO PLUS
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://m1.ballnaja.com/live/ais_MONO29_Plus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIzIDE6MjI6MTUgUE0maGFzaF92YWx1ZT1DWlI5RVN6UTlDQ0txSFhVU2plOWV3PT0mdmFsaWRtaW51dGVzPTIw
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F5nlb1-dCVsYYkj9ERFyKyprKn3xVxtSng&usqp=CAU",3BB Asian
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://m1.ballnaja.com/live/ais_3BB_Asian/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIzIDM6MTg6NDIgQU0maGFzaF92YWx1ZT1GRWlrU3VObkNoQlErM1JyNWFaaFF3PT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/MANGORN.png",MANGORN
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDC5rLR4tldirGZU9m3r-yoZDqa4Y6IHwPAA&usqp=CAU",SKY 1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/cover/channels/live-sky-2-th.png",SKY 2
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/cover/channels/live-sky-3-th.png",SKY 3
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/cover/channels/live-sky-4-th.png",SKY 4
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/images/channels/a_film.png",A-Film
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/images/channels/i_movie.png",I-MOVIE
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/images/channels/i_asia.png",I-ASIA
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://88iptv.org/images/channels/ipm_series_plus.png",Series Plus
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593553878925322/d4bd8b0f3839244c29e4feaa98f40533.png",Hero
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaoD3s40rTlomTjhXuiTDBEnJCji00oO-cw&usqp=CAU",NK TV
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU",FwMov
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9Qq0Fc_g4qUlOGLzycMkkeNSLWNgmcD2hw&usqp=CAU",FwSov
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2021/01/26/lVgBqD.png",SUN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2021/01/26/lVg0Fg.png",SAMURAI
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.iptv4k.tv/images/tv/XHDn8pu5wHwg9gI2rWmSuxqVsGfSMXMqk9u3jer8FLhWtXPivL-o.jpg",BOX FILM
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://drive.google.com/uc?export=download&id=1CESyG6cfFw3sgDixf768mwRnKJXf0CtD",MOVIES WORLD
-#EXTVLCOPT:http-referrer=http://tvthai.googlestream.xyz:8899
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzey5Dab6hSFxNJBKEUig3_39b8mmjPJlbA&usqp=CAU",@TV
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",CHANNEL 8
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8OGM66fyZZ9Hi6nuqzxdSj3AsFqEn8MTNw&usqp=CAU",CTB
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZBr8e.png",จอมยุทธ์
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png",GO LIVE
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",PHET TV
-https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png",Mix Major
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGzwguuA5j16SzL5XenC7j5PmKAKUudgFUmw&usqp=CAU",CINEMA 1
-
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW0DgmuBPD53WGfW3XItyhucS0ArqbGKsDVA&usqp=CAU",STAR MOVIES
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRycyqEkh-i5Yv_JNvsWzXm4-1ScPH4lvSfZg&usqp=CAU",PING
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqP2HEiy7D2EfRVFUfEhMdtMAPRqY0RT5CYA&usqp=CAU",U series
-
-
-
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://entertainmentstudios.com/wp-content/uploads/2020/08/comedy_tv_logo_sq.png",comedy
-
-
-#EXTINF:-1 tvg-id="" tvg-name="&prive (Movies) TH" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230618/video/34de5527-4ce7-48b2-b72e-d5b3967c9041.png",M Channel
-#EXTVLCOPT:http-referrer=https://laotv.la
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://ctrl.laotv.la/live/MChannel/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 1 HD TH" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/77368e63-c235-4a7e-a32d-c1de4b934e8e.png",Zeenung
-#EXTVLCOPT:http-referrer=https://laotv.la
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36
-https://ctrl.laotv.la/live/Zeenung/index.m3u8
-
+{
+"name"              :     "TV Digital",
+"image"             :     "https://www.i-pic.info/i/1DJq365480.jpg",
+"url"               :     "https://pastebin.com/iQ4n8WAJ",
+"stations" : [
+ 
+{
+name:"FW MOVIE",
+image:"https://img.inwiptv.net/postor/20240429213309FWMOV.jpg",
+url:"https://www.inwiptv.com/player_demo.php?channel=95262",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+name:"FW SERIES",
+image:"https://img.inwiptv.net/postor/20240429213326FWSOV.jpg",
+url:"https://www.inwiptv.com/player_demo.php?channel=94898",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+name:"FW CARTOON",
+image:"https://img.inwiptv.net/postor/20240429213651FWTOON.jpg",
+url:"https://www.inwiptv.com/player_demo.php?channel=92941",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+name:"FW SPORT",
+image:"https://img.inwiptv.net/postor/20240429213640FWsport.jpg",
+url:"https://www.inwiptv.com/player_demo.php?channel=89782",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+name:"ถิ่นใต้",
+image:"https://img.inwiptv.net/postor/20240421225339%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
+url:"https://www.inwiptv.com/player_demo.php?channel=27312",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Channel 8",
+image:"https://img2.pic.in.th/pic/-17a3ffa4868584a33d.jpeg",
+url:"http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"ATTV",
+image:"https://www.i-pic.info/i/HcyW361033.jpg",
+url:"http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Movies World 1",
+image:"https://www.i-pic.info/i/zDt3492949.jpg",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8",
+"referer": "",
+"userAgent"		:	"exoplayer_video",
+"info"		: 	"เลือก Playlist.m3u8", 
+"desktop"		:	"true",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Movies World 2",
+image:"https://www.i-pic.info/i/zDt3492949.jpg",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8",
+"referer": "",
+"userAgent"		:	"exoplayer_video",
+"info"		: 	"เลือก Playlist.m3u8", 
+"desktop"		:	"true",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Movies World 3",
+image:"https://www.i-pic.info/i/zDt3492949.jpg",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8",
+"referer": "",
+"userAgent"		:	"exoplayer_video",
+"info"		: 	"เลือก Playlist.m3u8", 
+"desktop"		:	"true",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Celestial Classic Movies",
+image:"https://www.i-pic.info/i/xHlb744821.png",
+url:"https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Mix Major Channel",
+image:"https://www.i-pic.info/i/0g1K339274.png",
+url:"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"BOX FILM",
+image:"https://img2.pic.in.th/pic/-11cef06d4386d3d17d.jpeg",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+name:"TVB Thai",
+image:"https://www.i-pic.info/i/mqie339273.jpg",
+url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w68863317.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"มังกร",
+image:"https://www.i-pic.info/i/w2UI361030.jpg",
+url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+]
+}
+ 
