@@ -1,10 +1,8 @@
 {
 "name"              :     "TV Digital",
 "image"             :     "https://www.i-pic.info/i/1DJq365480.jpg",
-"url"               :     "https://pastebin.com/iQ4n8WAJ",
+"url"               :     " ",
 "stations" : [
-
-
 
 {
 name:"สำรวจโลก",
@@ -74,5 +72,6 @@ url:"https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8?checked
 "referer": "",
 "playInNatPlayer": "true"
 },
+
 ]
 }
