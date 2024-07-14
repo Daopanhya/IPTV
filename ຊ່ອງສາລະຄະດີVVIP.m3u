@@ -1,135 +1,82 @@
-#EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-history.png",HISTORY HD
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-history2.png",H2 
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-history2.png",H2 HD
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-discovery.png",Discovery Asia
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8
-
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-discovery.png",Discovery Channel
-
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvh2lpyd8bx6SpHnaHLv5kjFdJfs5hcPOFA&usqp=CAU",Love Nature
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNZFpMWynbl3M_AlHqXAwmXRRxGDXjH4GmQ&usqp=CAU",National Geographic
-#EXTVLCOPT:http-referrer=https://www.nasa.gov/
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU",NAT GEO WILD
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",TRUE EXPLORE WILD
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/9t2wnd88kmkogwooow.png", Explore Life TH
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2b62ptfyvvvoks08go.png",Explore Science HD TH 
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5ITsKR544CllUWlGpXoO_B-f8oax7G81zg&usqp=CAU",Inwild DH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",Animal Planet
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",Animal Planet HD
-
-
-#EXTINF:-1 tvg-id=""  tvg-logo="" ,Food Network
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzDCv_5-6J41TBcMvLFJJwrKaYbaphFajVxw&usqp=CAU",OUTDOOR
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",Love Nature
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpfPRrXubIxPR4apcIjWmqLBXh5F34dCL6w&usqp=CAU",Global trekker
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC earth HD
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC earth
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhAIkIdQyue4LCpnQk90b0z4Q0US5iUeRgjg&usqp=CAU",Asian Food Network
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOGlENXZsMv0iYhK-1SaokObot7e0su6O6Q&usqp=CAU",Animal Planet
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg",BBC Lifestye
-#EXTVLCOPT:http-referrer=https://wacth.tv
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3MFrl6yuo-VinAgLtt78i-Lq8gn18ZX22A&usqp=CAU",DOONEE
-
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593509490589696/65f0371282e145d42326b240c6d5e60a.png",ANIMAL SHOW
-#EXTVLCOPT:http-referrer=https://wacth.tv
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593508764995624/7eb06119adfc77ee068cfafb1f0c7927.png",MYSCI
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC37/index.m3u8
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593508559454288/6a48e0c5d526324012e5dc58b3b62526.png",New Exploer
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510493061171/05636ed570352d41af1a75c472f37552.jpg",สำรวจโล
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202306140918/LC8/index.m3u8
-
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2t9gXeGgWDls8JzHCy9ak9uPfVhLt4dybAg&usqp=CAU",ของดี ประเทศไทย
-#EXTVLCOPT:http-referrer=https://www.nasa.gov/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC31/index.m3u8
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXmoVPffwBbbuTvvT_RdWwnUpqXITVVkuBA&usqp=CAU",ทรูปลูกปัญญา
-#EXTVLCOPT:http-referrer=https://wacth.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://www.trueplookpanya.com/tv/
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJGgIGh5rnNjZS6QoXXmpdj-e0UcJi5FbTg&usqp=CAU",เจริญเคเบิ้ล
-#EXTVLCOPT:http-referrer=https://www.nasa.gov/
-
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/hkmknt.png",NASA
-#EXTVLCOPT:http-referrer=https://www.nasa.gov/
-
+{
+"name"              :     "TV Digital",
+"image"             :     "https://www.i-pic.info/i/1DJq365480.jpg",
+"url"               :     "https://pastebin.com/iQ4n8WAJ",
+"stations" : [
+ 
+{
+name:"
+
+
+
+
+{
+name:"สำรวจโลก",
+image:"https://img2.pic.in.th/pic/-26e78875e67a70b486.png",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+name:"MYSCI",
+image:"https://img2.pic.in.th/pic/-22fea5e56530955f2a.png",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/playlist.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+name:"CABLE 37 HD",
+image:"https://img2.pic.in.th/pic/-1494e494b4b8cfb1b8.jpeg",
+url:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{
+name:"Parliament",
+image:"https://img2.pic.in.th/pic/-248b7ccd11125ce0cc.png",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+name:"ALTV",
+image:"https://img2.pic.in.th/pic/-25521f81c0bdc11f83.png",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV3/index.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+name:"ลิโด้ Channel",
+image:"https://www.tvjaa.com/storage/tv-channels/lidochannel.png",
+url:"https://n-edge-1-th.v2h-cdn.com/lido/lido/chunks.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Siam",
+image:"https://img5.pic.in.th/file/secure-sv1/-156eb6e4535fa8c4e7.jpeg",
+url:"https://live1.thaitvstream.com/play/siamnewstv/index.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Suwannabhumi Channel",
+image:"https://img2.pic.in.th/pic/-166000aaa58ca9f61a.jpeg",
+url:"https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8?checkedby:iptvcat.com",
+"referer": "",
+"playInNatPlayer": "true"
+},
+]
+}
