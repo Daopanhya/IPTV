@@ -1,9 +1,9 @@
 {
 "name"              :     "TV Digital",
 "image"             :     "https://www.i-pic.info/i/1DJq365480.jpg",
-"url"               :     " ",
+"url"               :     "https://pastebin.com/iQ4n8WAJ",
 "stations" : [
-
+ 
 {
 name:"สำรวจโลก",
 image:"https://img2.pic.in.th/pic/-26e78875e67a70b486.png",
@@ -23,15 +23,6 @@ url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/playlist.m3u
 },
 
 {
-name:"CABLE 37 HD",
-image:"https://img2.pic.in.th/pic/-1494e494b4b8cfb1b8.jpeg",
-url:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-
-
-{
 name:"Parliament",
 image:"https://img2.pic.in.th/pic/-248b7ccd11125ce0cc.png",
 url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8",
@@ -40,22 +31,6 @@ url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8"
 "playInNatPlayer": "true"
 },
 
-{
-name:"ALTV",
-image:"https://img2.pic.in.th/pic/-25521f81c0bdc11f83.png",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV3/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-{
-name:"ลิโด้ Channel",
-image:"https://www.tvjaa.com/storage/tv-channels/lidochannel.png",
-url:"https://n-edge-1-th.v2h-cdn.com/lido/lido/chunks.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
 
 {
 name:"Siam",
@@ -73,5 +48,10 @@ url:"https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8?checked
 "playInNatPlayer": "true"
 },
 
+
+
+
+
 ]
 }
+ 
