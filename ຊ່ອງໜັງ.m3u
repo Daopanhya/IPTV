@@ -20,29 +20,7 @@ url:"https://www.inwiptv.com/player_demo.php?channel=94898",
 "playInNatPlayer": "true"
 },
 
-{
-name:"FW CARTOON",
-image:"https://img.inwiptv.net/postor/20240429213651FWTOON.jpg",
-url:"https://www.inwiptv.com/player_demo.php?channel=92941",
-"referer": "https://www.inwiptv.com/",
-"playInNatPlayer": "true"
-},
 
-{
-name:"FW SPORT",
-image:"https://img.inwiptv.net/postor/20240429213640FWsport.jpg",
-url:"https://www.inwiptv.com/player_demo.php?channel=89782",
-"referer": "https://www.inwiptv.com/",
-"playInNatPlayer": "true"
-},
-
-{
-name:"ถิ่นใต้",
-image:"https://img.inwiptv.net/postor/20240421225339%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
-url:"https://www.inwiptv.com/player_demo.php?channel=27312",
-"referer": "https://www.inwiptv.com/",
-"playInNatPlayer": "true"
-},
 
 {
 name:"Channel 8",
