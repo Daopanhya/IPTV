@@ -1,148 +1,182 @@
 {
-"name": "DIGITAL TV",
-"author": "DAO-IPTV",
-"image":"",
-"url": "",
-"info": "DAO-IPTV",
-"stations":[
-{"name":"CH3 ™ ",
-"image":"https://dl.dropbox.com/scl/fi/rxi1br1cx0ggqtxpqbugf/ch3.jpg?rlkey=s3hii4ftjnzfdgio3w8jcti13&dl=0",
-"url": "https://wandering-oldman.github.io/3bb-ch3-1/3bb-ch3-1.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"CH5 ™ ",
-"image":"https://dl.dropbox.com/scl/fi/xnbbxk18bd1r0te717p0h/ch5.jpg?rlkey=92s6fl47pfshtyufdhqjfiak2&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-ch5/3bb-ch5.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"CH7 ™ ",
-"image":"https://dl.dropbox.com/scl/fi/yv0bl8dula2izq1npm91c/ch7.jpg?rlkey=ybzzge1b8y6t76tt59hualybn&dl=0",
-"url": "https://wandering-oldman.github.io/3bb-ch7/3bb-ch7.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"MCOT ™ ",
-"image":"https://dl.dropbox.com/scl/fi/yjwqri3mtellt8e21c2c2/mcot.png?rlkey=t88zbm4u4cmnu4a5a3utju2lr&dl=0",
-"url": "https://wandering-oldman.github.io/3bb-mcot/3bb-mcot.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"NBT ™ ",
-"image":"https://dl.dropbox.com/scl/fi/ctqaiabxerlfjc0phm2c9/nbt.jpg?rlkey=aw1fqko3rwz0qvd9gzl0co5l9&dl=0",
-"url": "https://wandering-oldman.github.io/3bb-nbt/3bb-nbt.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"THAI PBS ™ ",
-"image":"https://dl.dropbox.com/scl/fi/6lw4ttw52ii88dt7iqjxg/thai-pbs.png?rlkey=of6se9ikndyesvjqq0qpdzw4y&dl=0",
-"url": "https://wandering-oldman.github.io/3bb-thaipbs/3bb-thaipbs.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"TNN16",
-"image":"https://dl.dropbox.com/scl/fi/0igcaq9cgq7jmj06gdabo/tnn16.png?rlkey=k08gl5dzkygebtxpxb4uqsjwk&dl=0",
-"url": "https://wandering-oldman.github.io/3bb-tnn16/3bb-tnn16.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"NATION ™ ",
-"image":"https://dl.dropbox.com/scl/fi/7vlc746t6f1wjm4587g1z/nation.png?rlkey=ce9z7x3111mir1g1o4yrga4v6&dl=0",
-"url": "https://wandering-oldman.github.io/3bb-nation/3bb-nation.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"PPTV ™ ",
-"image":"https://www.dropbox.com/scl/fi/wk8iimbshewell7cv8wgt/pptv.png?rlkey=rwwt3d1utqqaoasigyeo50x7u&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-pptv/3bb-pptv.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"AMARIN TV ™ ",
-"image":"https://www.dropbox.com/scl/fi/yxbch6s3okl3k38gpfcfz/amarin.png?rlkey=l9t1clq2p59puhdeaeoanj8eg&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-amarin/3bb-amarin.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"THAIRATH TV",
-"image":"https://www.dropbox.com/scl/fi/qx6k7mvqvm6ougooai2vy/thairath.png?rlkey=pcr7sc1lf6cdf3x2zbhd9iv4u&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-thairath/3bb-thairath.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"T-SPORT7 ™ ",
-"image":"https://www.dropbox.com/scl/fi/n839k0a40o6o781gm0ttv/Tsport-7.jpg?rlkey=xv7hvuanyxjeszstnwqxriur7&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-tsport7/3bb-tsport7.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"JKN18 ™ ",
-"image":"https://www.dropbox.com/scl/fi/nob4z91a8izetu559p6nr/jkn18.png?rlkey=09alneawk5k4wthujnjt0aapf&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-jkn18/3bb-jkn18.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"WORKPOINT ™ ",
-"image":"https://www.dropbox.com/scl/fi/1wf5y2k1324hrpkp25ea9/workpoint.png?rlkey=t35ri7nz9zxxhl9boivewyr5c&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-workpoint/3bb-workpoint.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"TRUE4U ™ ",
-"image":"https://www.dropbox.com/scl/fi/csmn80vi91blulryb740i/true4u.png?rlkey=zmv1cfjv2j9z1h102gj0ug5w0&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-true4u/3bb-true4u.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"GMM25 ™ ",
-"image":"https://www.dropbox.com/scl/fi/26tdy5ofzsb7wa8mpv4ie/gmm25.png?rlkey=9c4ja2xbtpuonh0ltuokuvqne&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-gmm25/3bb-gmm25.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"CH8 ™ ",
-"image":"https://www.dropbox.com/scl/fi/36v31gd7ujbqojv76u8tg/ch8.png?rlkey=d4h2agfjntg1noqwhppp78jp6&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-ch8/3bb-ch8.html",
-"info": "DAO-IPTV",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"MONO29 ™ ",
-"image":"https://www.dropbox.com/scl/fi/xmwuozh44ucp3mwasqpjm/mono29.png?rlkey=4mm0jmtd73qq9tgcheozvc512&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-mono29/3bb-mono29.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"ONE31HD ™ ",
-"image":"https://www.dropbox.com/scl/fi/k499w9wbh49328vwzaae9/one.png?rlkey=858soug0v54hubzbcv9vua7bu&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-one31hd/3bb-one31hd.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"NEWS1 ™ ",
-"image":"https://www.dropbox.com/scl/fi/54pn5g42m9ppucg2nw3jy/news1.png?rlkey=5j5kgq3a2bd0pwlb4bh540yal&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-news1/3bb-news1.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{"name":"TOP NEWS ™ ",
-"image":"https://www.dropbox.com/scl/fi/wcr2evwd7hukfqvsljokv/topnews.png?rlkey=zl8uq2ms3oe5plsdbza27zr0s&dl=1",
-"url": "https://wandering-oldman.github.io/3bb-topnews/3bb-topnews.html",
-"info": "DAO-IPTV",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+"name": "TV Digital",
+"image": "https://v1.igetweb.com/www/aosat/article/art_42205644.png",
+"url": "https://pastebin.com/raw/Lv1J1Kwn",
+"stations" : [
+{
+"name": "NBT2HD",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
+"url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w1579257356_b2128000.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thai Pbs",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+"url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "ALTV4",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
+"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH5HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27190",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "T Sports 7",
+"image": "https://www.tsports7.com/logo.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27186",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPTV",
+"image": "https://cms.dmpcdn.com/livetv/2023/11/22/2a4de600-8919-11ee-8416-3dc6bea66698_webp_original.webp",
+"url": "https://tv-live.tpchannel.org/live/tv_720p.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "TNN 16",
+"image": "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27179",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "JKN 18",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27165",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
+"url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27159",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "True4U",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27156",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM 25",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27153",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH 8",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27147",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "MONO 29",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
+"url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w1512931905.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "MCOT HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27141",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "ONE 31",
+"image": "https://assets.oned.net/3/logo_one31.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27140",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thairath TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
+"url": "https://inwiptv.com/player_demo.php?channel=27138",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH3 HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27137",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
+"url": "https://inwiptv.com/player_demo.php?channel=27135",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH7 HD",
+"image": "https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png?a=1",
+"url": "https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+"url": "https://dooballkub.com/live/?pptv",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT Northeast",
+"image": "https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683194715.png",
+"url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT North",
+"image": "https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683209698.png",
+"url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT SOUTH",
+"image": "https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",
+"url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT Central",
+"image": "https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683186938.png",
+"url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/chunklist_w2076271869_b2128000.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
 ]
-}
-<html>
-<head>
-<meta charset="UTF-8">
-<link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
-<title>ผู้เฒ่าพเนจร</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="ผู้เฒ่าพเนจร">
-<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
-<body bgcolor="000000">
-<center>
-<h2><img src="https://www.dropbox.com/scl/fi/vbyxgw2rrqcdme8t4ch08/.png?rlkey=y9eikxi47djf513c20eh6kjbz&dl=1"></h2>
-</center>
-</body>
-</html>
+}​
