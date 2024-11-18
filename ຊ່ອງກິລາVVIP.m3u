@@ -41,8 +41,8 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",truesporthd2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-9/playlist.m3u8
 
 
 
@@ -58,9 +58,9 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",truesport5
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.107 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-11/playlist.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",truesport7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
@@ -69,19 +69,18 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",bein1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.107 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230721/video/846822c9-37b4-45e4-a43e-915854d408bd.jpeg",bein2
 
 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1079.png",bein3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.107 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="2" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",SPOTV 1 new
