@@ -150,33 +150,7 @@
 "referer": "",
 "playInNatPlayer": "true"
 },
-{
-"name": "NBT Northeast",
-"image": "https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683194715.png",
-"url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "NBT North",
-"image": "https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683209698.png",
-"url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "NBT SOUTH",
-"image": "https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png",
-"url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
-{
-"name": "NBT Central",
-"image": "https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683186938.png",
-"url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/chunklist_w2076271869_b2128000.m3u8",
-"referer": "",
-"playInNatPlayer": "true"
-},
+
+
 ]
 }​
