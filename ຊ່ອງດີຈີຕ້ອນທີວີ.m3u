@@ -137,20 +137,18 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CH7 HD",
+"name": "CH7 HD new",
 "image": "https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png?a=1",
-"url": "https://www.livedoomovies.com:4432/02_7HD_720p/chunklist.m3u8",
-"referer": "https://doolive4k-tv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
-"playInNatPlayer": "true"
+"referer": "https://www.youdooball.com/",
+"url": "https://www.livedoomovies.com:4432/02_7HD_720p/chunklist.m3u8"
 },
 {
 "name": "PPTV HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-"url": "https://oral.thaim3u.com/doolive4k-tv/pptv_1080p/playlist.m3u8",
-"referer": "https://doolive4k-tv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
-"playInNatPlayer": "true"
+"referer": "https://www.youdooball.com/",
+"url": "https://www.livedoomovies.com:4432/02_PPTVHD_720p/chunklist.m3u8"
 },
 
 
