@@ -1,109 +1,148 @@
-#EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
-
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",NBT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png",Thai PBS HD
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://i.imgur.com/DA8VpsN.png", ALTV
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png",TV5 HD
-http://147.50.195.35:1935/tv5hdlive/tv5hdlive/playlist.m3u8
-
-
-#EXTINF:-1  tvg-id="TSports7.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png", T Sports7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
-
-#EXTINF:-1  tvg-id="TPTV.th"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tptv.png",TPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8
-
-#EXTINF:-1  tvg-id="TNN16.th" tvg-logo="https://i.imgur.com/hD3wGq3.png",TNN 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
-
-#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://i.imgur.com/0dVYX70.png",JKN 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
-
-#EXTINF:-1  tvg-id="NationTV.th" tvg-logo="https://i.imgur.com/Qd9UPT7.png",Nation TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
-
-#EXTINF:-1  tvg-id="Workpoint23.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-workpoint.png",Workpoint 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
-
-#EXTINF:-1  tvg-id="True4U.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-24u.png",True 4U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
-
-#EXTINF:-1  tvg-id="GMM25.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",GMM 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8
-
-#EXTINF:-1  tvg-id="CH8.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png",CH 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
-
-#EXTINF:-1  tvg-id="Mono29.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mono.png",Mono29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
-
-#EXTINF:-1  tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/KQu4dTf.png",MCOT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
-
-#EXTINF:-1  tvg-id="OneHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gmmone.png",ONE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
-
-#EXTINF:-1  tvg-id="AmarinTVHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png",Thairath TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
-
-
-#EXTINF:-1  tvg-id="CH8.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch3.png",CH3 HD
-https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
-
-#EXTINF:-1  tvg-id="AmarintvHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-amarin.png",AMARIN TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
-
-
-#EXTINF:-1  tvg-id="BBTVChannel7.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png",BBTV CH 7 new
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ch3plus.com
-https://ch3plus.com/live
-
-#EXTINF:-1  tvg-id="PPTVHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-pptv.png",PPTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
-
-#EXTINF:-1  tvg-id="Top News" tvg-logo="https://sv1.picz.in.th/images/2022/04/18/88Yoj8.png",Top News
-https://live.topnews.co.th/hls/topnews_a_480.m3u8
-
-#EXTINF:-1  tvg-id="NEWS 1" tvg-logo="https://www.i-pic.info/i/87Su744809.png",NEWS 1
-https://server1.streamssl.com/stream/news1_hi.m3u8
-
+{
+"name": "DIGITAL TV",
+"author": "DAO-IPTV",
+"image":"https://dl.dropbox.com/scl/fi/rukf2v1b20cqp4jzj3xlw/digital-1.jpg?rlkey=1kveukpx0ikvdildlwft7la63&dl=0",
+"url": "",
+"info": "DAO-IPTV",
+"stations":[
+{"name":"CH3 ™ ",
+"image":"https://dl.dropbox.com/scl/fi/rxi1br1cx0ggqtxpqbugf/ch3.jpg?rlkey=s3hii4ftjnzfdgio3w8jcti13&dl=0",
+"url": "https://wandering-oldman.github.io/3bb-ch3-1/3bb-ch3-1.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"CH5 ™ ",
+"image":"https://dl.dropbox.com/scl/fi/xnbbxk18bd1r0te717p0h/ch5.jpg?rlkey=92s6fl47pfshtyufdhqjfiak2&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-ch5/3bb-ch5.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"CH7 ™ ",
+"image":"https://dl.dropbox.com/scl/fi/yv0bl8dula2izq1npm91c/ch7.jpg?rlkey=ybzzge1b8y6t76tt59hualybn&dl=0",
+"url": "https://wandering-oldman.github.io/3bb-ch7/3bb-ch7.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"MCOT ™ ",
+"image":"https://dl.dropbox.com/scl/fi/yjwqri3mtellt8e21c2c2/mcot.png?rlkey=t88zbm4u4cmnu4a5a3utju2lr&dl=0",
+"url": "https://wandering-oldman.github.io/3bb-mcot/3bb-mcot.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"NBT ™ ",
+"image":"https://dl.dropbox.com/scl/fi/ctqaiabxerlfjc0phm2c9/nbt.jpg?rlkey=aw1fqko3rwz0qvd9gzl0co5l9&dl=0",
+"url": "https://wandering-oldman.github.io/3bb-nbt/3bb-nbt.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"THAI PBS ™ ",
+"image":"https://dl.dropbox.com/scl/fi/6lw4ttw52ii88dt7iqjxg/thai-pbs.png?rlkey=of6se9ikndyesvjqq0qpdzw4y&dl=0",
+"url": "https://wandering-oldman.github.io/3bb-thaipbs/3bb-thaipbs.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"TNN16",
+"image":"https://dl.dropbox.com/scl/fi/0igcaq9cgq7jmj06gdabo/tnn16.png?rlkey=k08gl5dzkygebtxpxb4uqsjwk&dl=0",
+"url": "https://wandering-oldman.github.io/3bb-tnn16/3bb-tnn16.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"NATION ™ ",
+"image":"https://dl.dropbox.com/scl/fi/7vlc746t6f1wjm4587g1z/nation.png?rlkey=ce9z7x3111mir1g1o4yrga4v6&dl=0",
+"url": "https://wandering-oldman.github.io/3bb-nation/3bb-nation.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"PPTV ™ ",
+"image":"https://www.dropbox.com/scl/fi/wk8iimbshewell7cv8wgt/pptv.png?rlkey=rwwt3d1utqqaoasigyeo50x7u&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-pptv/3bb-pptv.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"AMARIN TV ™ ",
+"image":"https://www.dropbox.com/scl/fi/yxbch6s3okl3k38gpfcfz/amarin.png?rlkey=l9t1clq2p59puhdeaeoanj8eg&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-amarin/3bb-amarin.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"THAIRATH TV",
+"image":"https://www.dropbox.com/scl/fi/qx6k7mvqvm6ougooai2vy/thairath.png?rlkey=pcr7sc1lf6cdf3x2zbhd9iv4u&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-thairath/3bb-thairath.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"T-SPORT7 ™ ",
+"image":"https://www.dropbox.com/scl/fi/n839k0a40o6o781gm0ttv/Tsport-7.jpg?rlkey=xv7hvuanyxjeszstnwqxriur7&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-tsport7/3bb-tsport7.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"JKN18 ™ ",
+"image":"https://www.dropbox.com/scl/fi/nob4z91a8izetu559p6nr/jkn18.png?rlkey=09alneawk5k4wthujnjt0aapf&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-jkn18/3bb-jkn18.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"WORKPOINT ™ ",
+"image":"https://www.dropbox.com/scl/fi/1wf5y2k1324hrpkp25ea9/workpoint.png?rlkey=t35ri7nz9zxxhl9boivewyr5c&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-workpoint/3bb-workpoint.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"TRUE4U ™ ",
+"image":"https://www.dropbox.com/scl/fi/csmn80vi91blulryb740i/true4u.png?rlkey=zmv1cfjv2j9z1h102gj0ug5w0&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-true4u/3bb-true4u.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"GMM25 ™ ",
+"image":"https://www.dropbox.com/scl/fi/26tdy5ofzsb7wa8mpv4ie/gmm25.png?rlkey=9c4ja2xbtpuonh0ltuokuvqne&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-gmm25/3bb-gmm25.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"CH8 ™ ",
+"image":"https://www.dropbox.com/scl/fi/36v31gd7ujbqojv76u8tg/ch8.png?rlkey=d4h2agfjntg1noqwhppp78jp6&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-ch8/3bb-ch8.html",
+"info": "DAO-IPTV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"MONO29 ™ ",
+"image":"https://www.dropbox.com/scl/fi/xmwuozh44ucp3mwasqpjm/mono29.png?rlkey=4mm0jmtd73qq9tgcheozvc512&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-mono29/3bb-mono29.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"ONE31HD ™ ",
+"image":"https://www.dropbox.com/scl/fi/k499w9wbh49328vwzaae9/one.png?rlkey=858soug0v54hubzbcv9vua7bu&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-one31hd/3bb-one31hd.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"NEWS1 ™ ",
+"image":"https://www.dropbox.com/scl/fi/54pn5g42m9ppucg2nw3jy/news1.png?rlkey=5j5kgq3a2bd0pwlb4bh540yal&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-news1/3bb-news1.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{"name":"TOP NEWS ™ ",
+"image":"https://www.dropbox.com/scl/fi/wcr2evwd7hukfqvsljokv/topnews.png?rlkey=zl8uq2ms3oe5plsdbza27zr0s&dl=1",
+"url": "https://wandering-oldman.github.io/3bb-topnews/3bb-topnews.html",
+"info": "DAO-IPTV",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+]
+}
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+<title>ผู้เฒ่าพเนจร</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="ผู้เฒ่าพเนจร">
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+<h2><img src="https://www.dropbox.com/scl/fi/vbyxgw2rrqcdme8t4ch08/.png?rlkey=y9eikxi47djf513c20eh6kjbz&dl=1"></h2>
+</center>
+</body>
+</html>
