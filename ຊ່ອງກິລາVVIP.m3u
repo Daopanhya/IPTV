@@ -82,7 +82,7 @@ https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/playlist.m3u8
 
-#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1079.png",bein3 HD test
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1079.png",bein3 HD test1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; vivo 1935 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.107 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed.rentm3u8.com/
 #Accept-Encoding=identity;q=1, *;q=0
