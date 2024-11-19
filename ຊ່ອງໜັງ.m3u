@@ -159,13 +159,6 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "info": "MPD",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
-{
-"name": "TrueFilm1 ™ ",
-"image": "https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",
-"imageScale": "fitStart",
-"url": "https://streamamg-fa.akamaiz.com/dookeela/truefilm1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyNCAyOjQwOjUzIFBNJmhhc2hfdmFsdWU9U1NlcW1vbzVJUkdkRE9tVFgwd0tjZz09JnZhbGlkbWludXRlcz0xJmlkPWU0ODdlZjg1ODZiZDgzNWYzYjY2NmY1YzdkZTlhZmE4JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOA==",
-"referer": "https://dookeela.live/",
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
 ]
 }
