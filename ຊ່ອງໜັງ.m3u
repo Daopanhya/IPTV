@@ -12,6 +12,7 @@ image:"https://img.inwiptv.net/postor/20240429213309FWMOV.jpg",
 url:"https://www.inwiptv.com/player_demo.php?channel=95262",
 "referer": "https://www.inwiptv.com/",
 "info": "m3u8",
+"online": "true",
 "playInNatPlayer": "true"
 },
 
@@ -21,6 +22,7 @@ image:"https://img.inwiptv.net/postor/20240429213326FWSOV.jpg",
 url:"https://www.inwiptv.com/player_demo.php?channel=94898",
 "referer": "https://www.inwiptv.com/",
 "info": "m3u8",
+"online": "true",
 "playInNatPlayer": "true"
 },
 
@@ -32,6 +34,7 @@ image:"https://img2.pic.in.th/pic/-17a3ffa4868584a33d.jpeg",
 url:"http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
 "referer": "",
 "info": "m3u8",
+"online": "true",
 "playInNatPlayer": "true"
 },
 
@@ -41,6 +44,7 @@ image:"https://www.i-pic.info/i/HcyW361033.jpg",
 url:"http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8",
 "referer": "",
 "info": "m3u8",
+"online": "true",
 "playInNatPlayer": "true"
 },
 
@@ -54,6 +58,7 @@ image:"https://www.i-pic.info/i/0g1K339274.png",
 url:"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8",
 "referer": "",
 "info": "m3u8",
+"online": "true",
 "playInNatPlayer": "true"
 },
 
@@ -65,6 +70,7 @@ image:"https://www.i-pic.info/i/mqie339273.jpg",
 url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w68863317.m3u8",
 "referer": "",
 "info": "m3u8",
+"online": "true",
 "playInNatPlayer": "true"
 },
 
@@ -74,6 +80,7 @@ image:"https://www.i-pic.info/i/w2UI361030.jpg",
 url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "referer": "",
 "info": "m3u8",
+"online": "true",
 "playInNatPlayer": "true"
 },
 
