@@ -7,9 +7,9 @@
 
  
 {
-name:"FW MOVIE 2",
+name:"FW MOVIE",
 image:"https://img.inwiptv.net/postor/20240429213309FWMOV.jpg",
-url:"https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8",
+url:"https://www.inwiptv.com/player_demo.php?channel=94897",
 "referer": "https://www.inwiptv.com/",
 "online": "true",
 "info": "m3u8",
