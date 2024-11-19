@@ -38,61 +38,62 @@ url:"http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 
+
+
+
+
 {
-name:"Movies World 1",
-image:"https://www.i-pic.info/i/zDt3492949.jpg",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8",
-"referer": "",
-"userAgent"		:	"exoplayer_video",
-"info"		: 	"เลือก Playlist.m3u8", 
-"desktop"		:	"true",
+name:"Mix Major Channel",
+image:"https://www.i-pic.info/i/0g1K339274.png",
+url:"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949{
+"name"              :     "TV Digital",
+"image"             :     "https://www.i-pic.info/i/1DJq365480.jpg",
+"url"               :     "https://pastebin.com/iQ4n8WAJ",
+"stations" : [
+ 
+{
+name:"FW MOVIE",
+image:"https://img.inwiptv.net/postor/20240429213309FWMOV.jpg",
+url:"https://www.inwiptv.com/player_demo.php?channel=95262",
+"referer": "https://www.inwiptv.com/",
 "playInNatPlayer": "true"
 },
 
 {
-name:"Movies World 2",
-image:"https://www.i-pic.info/i/zDt3492949.jpg",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8",
+name:"FW SERIES",
+image:"https://img.inwiptv.net/postor/20240429213326FWSOV.jpg",
+url:"https://www.inwiptv.com/player_demo.php?channel=94898",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+name:"Channel 8",
+image:"https://img2.pic.in.th/pic/-17a3ffa4868584a33d.jpeg",
+url:"http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
 "referer": "",
-"userAgent"		:	"exoplayer_video",
-"info"		: 	"เลือก Playlist.m3u8", 
-"desktop"		:	"true",
 "playInNatPlayer": "true"
 },
 
 {
-name:"Movies World 3",
-image:"https://www.i-pic.info/i/zDt3492949.jpg",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8",
+name:"ATTV",
+image:"https://www.i-pic.info/i/HcyW361033.jpg",
+url:"http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8",
 "referer": "",
-"userAgent"		:	"exoplayer_video",
-"info"		: 	"เลือก Playlist.m3u8", 
-"desktop"		:	"true",
 "playInNatPlayer": "true"
 },
 
-{
-name:"Celestial Classic Movies",
-image:"https://www.i-pic.info/i/xHlb744821.png",
-url:"https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/",
-"playInNatPlayer": "true"
-},
+
+
+
 
 {
 name:"Mix Major Channel",
 image:"https://www.i-pic.info/i/0g1K339274.png",
 url:"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8",
 "referer": "",
-"playInNatPlayer": "true"
-},
-
-{
-name:"BOX FILM",
-image:"https://img2.pic.in.th/pic/-11cef06d4386d3d17d.jpeg",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 "playInNatPlayer": "true"
 },
 
@@ -115,4 +116,218 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 
 ]
 }
+ 
+848.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"TVB Thai",
+image:"https://www.i-pic.info/i/mqie339273.jpg",
+url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w68863317.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"มังกร",
+image:"https://www.i-pic.info/i/w2UI361030.jpg",
+url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+"name":" 3BBASIAN ™ ",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",
+"url":"https://wandering-oldman.github.io/3bb-asian/3bb-asian.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+"name": "HBO ™ ",
+"image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",
+"imageScale": "fitStart",
+"url": "https://wandering-oldman.github.io/3bb-hbo/3bb-hbo.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+{
+"name": "HBO family ™ ",
+"image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",
+"imageScale": "fitStart",
+"url": "https://wandering-oldman.github.io/3bb-hbo-family/3bb-hbo-family.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+{
+"name": "HBO HITS ™ ",
+"image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",
+"url": "https://wandering-oldman.github.io/3bb-hbo-hits/3bb-hbo-hits.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+{
+"name":"Cinemax ™ ",
+"image":"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
+"url":"https://wandering-oldman.github.io/3bb-cinemax/cinemax.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+{
+"name":"HBO SIGNATURE ™ ",
+"image":"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",
+"url":"https://wandering-oldman.github.io/3bb-hbo-signature/3bb-hbo-signature.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+{
+"name": "Warner TV ™ ",
+"image": "https://dookeela.live/uploads/1703832225.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8",
+"online": "true",
+"referer": "https://freetvdd.com",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{
+"name":" 3bb-mono29plus ™ ",
+"image":"https://dl.dropbox.com/scl/fi/spi5xwl4vo2nv6yhi1unc/mono-plus.jpg?rlkey=2c1ki02ph5hnw2ac1wdzfc68c&dl=0",
+"url":"https://wandering-oldman.github.io/3bb-monoplus/3bb-monoplus.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+
+{
+"name":" 3BBSPORT1 ™ ",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png",
+"url":"https://wandering-oldman.github.io/3bb-sport1/3bb-sport1.html",
+"online": "true",
+"embed": "true",
+"info": "MPD",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+{
+"name": " HITS MOVIE ™  ",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"info": "M3U8",
+"online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+
+{
+"name": "True Series ™ ",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8",
+"info": "M3U8",
+"referer": "https://freetvdd.com",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"},
+
+{
+"name": "TrueFilmAsia ™ ",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_320.webp",
+"url": "https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8",
+"info": "M3U8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"online": "true"},
+{
+"name": "ThaiFilm ™ ",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thai-film.webp",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8",
+"referer": "https://livescorethai.net",
+"info":"M3U8",
+"online":"true"},
+
+{
+"name": "TrueFilm1 ™ ",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8",
+"referer": "https://freetvdd.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"info":"50%",
+"online":"true"},
+
+
+{
+"name": "Lifetime ™ ",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8",
+"referer":"https://freetvdd.com/",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{
+"name": "TRUE XZYTE ™ ",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/2a450650-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+{
+"name": "AXN-HD ™ ",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{
+"name": "HITS ™ ",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",
+"imageScale": "fitStart",
+"url": "http://playtv.my.id/play/lifetime.m3u8",
+"referer":"https://dookeela.live/live-tv/hits",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+{
+"name": "CCM ™ ",
+"image": "https://images.hdpri.me/images/tv/png/sd-celestial.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net",
+"referer":"https://dookeela.live/live-tv/hits",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{
+"name": "TVN ™ ",
+"image": "https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8",
+"online":"true",
+"info":"100%",
+"userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "",
+"referer": "https://streaming.livescorethai.net/"},
+]
+}
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+<title>ผู้เฒ่าพเนจร</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="ผู้เฒ่าพเนจร">
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+<h2><img src="https://www.dropbox.com/scl/fi/vbyxgw2rrqcdme8t4ch08/.png?rlkey=y9eikxi47djf513c20eh6kjbz&dl=1"></h2>
+</center>
+</body>
+</html>
  
