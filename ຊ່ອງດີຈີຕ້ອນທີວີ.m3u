@@ -38,9 +38,9 @@
 {
 "name": "T Sports 7",
 "image": "https://www.tsports7.com/logo.png",
-"url": "https://www.inwiptv.com/player_demo.php?channel=27186",
-"referer": "",
-"info": "SD",
+"url": "https://www.tsports7.com/live",
+"referer": "https://www.tsports7.com",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
