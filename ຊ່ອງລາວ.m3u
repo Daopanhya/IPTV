@@ -1,11 +1,10 @@
 {
-"name"              :     "LAO TV
-Online",
+"name"              :     "LAO TV",
 "image"             :     "",
 "url"               :     "https://pastebin.com/XEBsKWZr",
 "stations" : [
 {
-name:"FM103",
+name:"FM103 KK",
 image:"https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
 url:"https://radio.lnr.org.la/fm103",
 "playInNatPlayer": "true"
