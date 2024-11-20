@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
 
-#EXTINF:-1  tvg-id="Rario" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",FM103
+#EXTINF:-1  tvg-id="Rario" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",FM103 TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
 #EXTVLCOPT:http-referrer=https://lnr.org.la/
 https://radio.lnr.org.la/fm103
