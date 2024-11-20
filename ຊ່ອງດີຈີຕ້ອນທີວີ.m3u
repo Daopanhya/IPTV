@@ -78,15 +78,6 @@
 {
 "name": "Workpoint",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
-"url": "https://www.inwiptv.com/player_demo.php?channel=27159",
-"referer": "",
-"info": "SD",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Workpoint",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_workpoint/hd_workpoint.stream?type=m3u8",
 "referer": "",
 "info": "HD",
@@ -101,6 +92,14 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "True4U",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/true4u/true4u.stream?type=m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
 "name": "GMM 25",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27153",
@@ -109,11 +108,27 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "GMM 25",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/gmm25/gmm25.stream?type=m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
 "name": "CH 8",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27147",
 "referer": "",
 "info": "SD",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH 8",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
+"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/ch8/ch8.stream?type=m3u8",
+"referer": "",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
