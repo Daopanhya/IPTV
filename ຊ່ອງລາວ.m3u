@@ -1,3 +1,41 @@
+{
+"name": "TV Digital",
+"image": "https://v1.igetweb.com/www/aosat/article/art_42205644.png",
+"url": "https://pastebin.com/raw/Lv1J1Kwn",
+"stations" : [
+{
+"name": "FM103 n,
+"image": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
+"url": "https://radio.lnr.org.la/fm103",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+"name": "FM94,
+"image": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
+"url": "https://radio.lnr.org.la/fm94",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+"name": "AM,
+"image": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
+"url": "https://radio.lnr.org.la/am",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+
+
+]
+}
+
+
+
+
+
 #EXTM3U 
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="http://s.muanlai.com/images/180/static//live_tv_img/0/0/0/481_large.jpg?t=1d58c96668",LNTV 1
@@ -38,10 +76,10 @@
 
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",FM103
-https://radio.lnr.org.la/fm103
+
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",FM94
-https://radio.lnr.org.la/fm94
+
 
 #EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",AM
-https://radio.lnr.org.la/am
+
