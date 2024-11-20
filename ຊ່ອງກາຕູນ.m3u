@@ -1,26 +1,14 @@
 {
-
 		"name": "CARTOON",
-
 		"author": "DAO-IPTV",
-
 		"image":"0",
-
 		"url": "",
-
 		 "info": "DAO-IPTV",
-
- 
-
 		"stations":[
 
 
-
-
-
-
-
-{"name":"cartoon-network",
+{
+"name":"cartoon-network",
 
 "image":"https://www.dropbox.com/scl/fi/ek0eih6wogwequqn4vj0s/cartoon-network.png?rlkey=ibp7fumnq9ehgmfckvugs2y30&dl=1",
 
