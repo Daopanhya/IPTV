@@ -2,7 +2,6 @@
 
 #EXTINF:-1  tvg-id="Rario" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",FM103
 #EXTVLCOPT:http-referrer=https://lnr.org.la/
-
 https://radio.lnr.org.la/fm103
 
 #EXTINF:-1  tvg-id="Rario" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",FM94
