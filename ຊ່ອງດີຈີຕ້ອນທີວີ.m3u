@@ -36,11 +36,12 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "T Sports 7",
+"name": "T Sports 7.",
 "image": "https://www.tsports7.com/logo.png",
 "url": "https://www.tsports7.com/live",
 "referer": "https://www.tsports7.com",
 "info": "HD",
+"desktop": "true"
 "playInNatPlayer": "true"
 },
 {
