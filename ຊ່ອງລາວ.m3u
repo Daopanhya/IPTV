@@ -4,7 +4,7 @@
 "url": "https://pastebin.com/raw/Lv1J1Kwn",
 "stations" : [
 {
-"name": "FM103 n,
+"name": "FM103 n",
 "image": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
 "url": "https://radio.lnr.org.la/fm103",
 "referer": "",
@@ -12,7 +12,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "FM94,
+"name": "FM94",
 "image": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
 "url": "https://radio.lnr.org.la/fm94",
 "referer": "",
@@ -20,7 +20,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "AM,
+"name": "AM",
 "image": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
 "url": "https://radio.lnr.org.la/am",
 "referer": "",
