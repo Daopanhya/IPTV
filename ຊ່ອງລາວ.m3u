@@ -1,34 +1,10 @@
-{
-"name": "Lao TV",
-"image": "",
-"url": "https://pastebin.com/raw/Lv1J1Kwn",
-"stations" : [
-{
-"name": "FM103 n",
-"image": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
-"url": "https://radio.lnr.org.la/fm103",
-"referer": "",
-"info": "Rario",
-"playInNatPlayer": "true"
-},
-{
-"name": "FM94",
-"image": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
-"url": "https://radio.lnr.org.la/fm94",
-"referer": "",
-"info": "Rario",
-"playInNatPlayer": "true"
-},
-{
-"name": "AM",
-"image": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
-"url": "https://radio.lnr.org.la/am",
-"referer": "",
-"info": "Rario",
-"playInNatPlayer": "true"
-},
 
+#EXTINF:-1  tvg-id="Rario" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",FM103
+https://radio.lnr.org.la/fm103
 
-]
-}
+#EXTINF:-1  tvg-id="Rario" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",FM94
+https://radio.lnr.org.la/fm94
+
+#EXTINF:-1  tvg-id="Rario" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",AM
+https://radio.lnr.org.la/am
 
