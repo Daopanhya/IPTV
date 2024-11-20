@@ -1,5 +1,5 @@
 {
-"name": "TV Digital",
+"name": "Lao TV",
 "image": "https://v1.igetweb.com/www/aosat/article/art_42205644.png",
 "url": "https://pastebin.com/raw/Lv1J1Kwn",
 "stations" : [
@@ -8,7 +8,7 @@
 "image": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
 "url": "https://radio.lnr.org.la/fm103",
 "referer": "",
-"info": "HD",
+"info": "Rario",
 "playInNatPlayer": "true"
 },
 {
@@ -16,7 +16,7 @@
 "image": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
 "url": "https://radio.lnr.org.la/fm94",
 "referer": "",
-"info": "HD",
+"info": "Rario",
 "playInNatPlayer": "true"
 },
 {
@@ -24,7 +24,7 @@
 "image": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
 "url": "https://radio.lnr.org.la/am",
 "referer": "",
-"info": "HD",
+"info": "Rario",
 "playInNatPlayer": "true"
 },
 
