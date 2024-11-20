@@ -45,10 +45,10 @@
 },
 {
 "name": "T Sports 7 สำรอง",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS69Thm99n6GynSG5HmbRf4o9zSg8tXJttSwR9kuid_esyJ9e8r",
+"image": "https://www.tsports7.com/logo.png",
 "url": "https://www.tsports7.com/live",
 "referer": "",
-"info": "HD",
+"info": "HD /live",
 },
 
 {
@@ -66,14 +66,6 @@
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
-},
-
-{
-"name": "TNN 16 สำรอง",
-"image": "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp",
-"url": "https://www.inwiptv.com/player_demo.php?channel=27179",
-"referer": "",
-"info": "SD"
 },
 
 {
