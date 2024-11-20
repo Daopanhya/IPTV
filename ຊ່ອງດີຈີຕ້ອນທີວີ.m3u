@@ -8,6 +8,7 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
 "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w1579257356_b2128000.m3u8",
 "referer": "",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -15,6 +16,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
 "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
 "referer": "",
+"info": "Auto",
 "playInNatPlayer": "true"
 },
 {
@@ -22,6 +24,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
 "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
 "referer": "",
+"info": "Auto",
 "playInNatPlayer": "true"
 },
 {
@@ -29,6 +32,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27190",
 "referer": "",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -36,6 +40,7 @@
 "image": "https://www.tsports7.com/logo.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27186",
 "referer": "",
+"info": "SD",
 "playInNatPlayer": "true"
 },
 {
@@ -43,6 +48,7 @@
 "image": "https://cms.dmpcdn.com/livetv/2023/11/22/2a4de600-8919-11ee-8416-3dc6bea66698_webp_original.webp",
 "url": "https://tv-live.tpchannel.org/live/tv_720p.m3u8",
 "referer": "",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -50,6 +56,7 @@
 "image": "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27179",
 "referer": "",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -57,6 +64,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27165",
 "referer": "",
+"info": "SD",
 "playInNatPlayer": "true"
 },
 {
@@ -64,6 +72,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
 "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8",
 "referer": "",
+"info": "Auto",
 "playInNatPlayer": "true"
 },
 {
@@ -71,6 +80,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27159",
 "referer": "",
+"info": "SD",
 "playInNatPlayer": "true"
 },
 {
@@ -78,6 +88,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27156",
 "referer": "",
+"info": "SD",
 "playInNatPlayer": "true"
 },
 {
@@ -85,6 +96,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27153",
 "referer": "",
+"info": "SD",
 "playInNatPlayer": "true"
 },
 {
@@ -92,6 +104,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27147",
 "referer": "",
+"info": "SD",
 "playInNatPlayer": "true"
 },
 {
@@ -99,6 +112,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
 "url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w1512931905.m3u8",
 "referer": "",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -106,6 +120,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27141",
 "referer": "",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -113,6 +128,7 @@
 "image": "https://assets.oned.net/3/logo_one31.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27140",
 "referer": "",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -120,6 +136,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
 "url": "https://inwiptv.com/player_demo.php?channel=27138",
 "referer": "",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -127,6 +144,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27137",
 "referer": "",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -134,6 +152,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
 "url": "https://inwiptv.com/player_demo.php?channel=27135",
 "referer": "",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -141,6 +160,7 @@
 "image": "https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png?a=1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "https://www.youdooball.com/",
+"info": "HD",
 "url": "https://www.livedoomovies.com:4432/02_7HD_720p/chunklist.m3u8"
 },
 {
@@ -148,6 +168,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "https://www.youdooball.com/",
+"info": "HD",
 "url": "https://www.livedoomovies.com:4432/02_PPTVHD_720p/chunklist.m3u8"
 },
 
