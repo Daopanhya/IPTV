@@ -5,115 +5,66 @@
 		"url": "",
 		 "info": "DAO-IPTV",
 		"stations":[
+{
+"name":"FW CARTOON",
+"image":"https://img.inwiptv.net/postor/20240429213651FWTOON.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=92941",
+"info": "HD",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name":"Cartoon Club",
+"image":"https://www.i-pic.info/i/UvFp328533.jpg",
+"url": "https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist_w1788175224.m3u8",
+"info": "SD",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+
 
 
 {
 "name":"cartoon-network",
-
 "image":"https://www.dropbox.com/scl/fi/ek0eih6wogwequqn4vj0s/cartoon-network.png?rlkey=ibp7fumnq9ehgmfckvugs2y30&dl=1",
-
 "url": "https://wandering-oldman.github.io/cartoon-network1/cartoon-network1.html",
-
-"info": "DAO-IPTV",
-
+"info": "สำหลับโทรศัพท์",
 "embed": "true",
-
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-
-
-
-
-
-
-
-
-
-{"name":"nickjr",
-
+{
+"name":"nickjr",
 "image":"https://www.dropbox.com/scl/fi/k1mbfvdanilhqu35i11pc/nick-jr.png?rlkey=917sklfboydqypbi7yn943q29&dl=1",
-
 "url": "https://wandering-oldman.github.io/nickjr/nickjr.html",
-
-"info": "DAO-IPTV",
-
+"info": "สำหลับโทรศัพท์",
 "embed": "true",
-
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-
-
-
-
-
-
-
-{"name":"nickelodeon",
-
+{
+"name":"nickelodeon",
 "image":"https://www.dropbox.com/scl/fi/t0fnotxky4dcvkb1xzt23/nickelodon.png?rlkey=kq5caypok9muwc5ub9pv9a72v&dl=1",
-
 "url": "https://wandering-oldman.github.io/nickelodeon1/nickelodeon1.html",
-
-"info": "DAO-IPTV",
-
+"info": "สำหลับโทรศัพท์",
 "embed": "true",
-
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-
-
-
-
-
-
-
-
-
-
-
-
-
-{"name":"cartonito",
-
+{
+"name":"cartonito",
 "image":"https://www.dropbox.com/scl/fi/w34fvcjc6fa4zje9k2mfl/Cartoon2.png?rlkey=41wt5qlmkznca9tgrs2zmupk6&dl=1",
-
 "url": "https://wandering-oldman.github.io/cartonito/cartonito.html",
-
-"info": "DAO-IPTV",
-
+"info": "สำหลับโทรศัพท์",
 "embed": "true",
-
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-
-
-
-
-
-
 
 ]
-
 }
-
-
-
 <html>
-
 <head>
-
   <meta charset="UTF-8">
-
   <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
-
-  	<title>DAO-IPTV</title>
-
+  	<title>DAODH TV</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-    <meta name="description" content="DAO-IPTV"> 
-
+    <meta name="description" content="DAODH TV"> 
 <meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
-
 <body bgcolor="000000">
-
 <center>
-
   <h2><img src="https://www.dropbox.com/scl/fi/vbyxgw2rrqcdme8t4ch08/.png?rlkey=y9eikxi47djf513c20eh6kjbz&dl=1"></h2>
 
 </center>
