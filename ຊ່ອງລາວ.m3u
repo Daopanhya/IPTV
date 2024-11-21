@@ -11,10 +11,13 @@ url:"https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-name:"FM103 KK",
+name:"FM103",
 image:"https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
 url:"https://radio.lnr.org.la/fm103",
-"playInNatPlayer": "true"
+"referer": "",
+"info": "สำหลับโทรศัพท์",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
 name:"FM103",
