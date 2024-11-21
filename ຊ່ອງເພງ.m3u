@@ -8,6 +8,7 @@ name:"Thai Chaiyo",
 image:"https://img2.pic.in.th/pic/39a504d2ab695c922867f4083ad90506.jpeg",
 url:"https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8?checkedby:iptvcat.com",
 "referer": "",
+"info": "Auto",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 "playInNatPlayer": "true"
 },
