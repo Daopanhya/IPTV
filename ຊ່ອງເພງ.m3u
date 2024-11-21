@@ -1,52 +1,16 @@
-#EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/g8k5fkgj2krl0ru/playidtv_guide.xml, url="https://dl.dropboxusercontent.com/s/xzgapa6ychjryu9/playidtv_3bbgigatv.m3u" refresh="3600"
+{
+"name"              :     "Music",
+"image"             :     "",
+"url"               :     "https://pastebin.com/iQ4n8WAJ",
+"stations" : [
+{
+name:"Thai Chaiyo",
+image:"https://img2.pic.in.th/pic/39a504d2ab695c922867f4083ad90506.jpeg",
+url:"https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8?checkedby:iptvcat.com",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
 
-#EXTINF:-1 tvg-id="MONO29Musicstation.th" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" group-title="Music", MONO29 Music Station
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0193/HLS/V0193.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
-
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/MTV_HD_Logo_2015.svg/1200px-MTV_HD_Logo_2015.svg.png" group-title="Music", MTV HD
-http://45.190.13.50:8000/play/a03k/index.m3u8
-
-
-
-#EXTINF:-0 tvg-id="truemusic.th" tvg-name="TRUE MUSIC" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-music-hd.png" group-title="Music",TrueMusic
-
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-
-https://wacthstream.com/stream_live/357_TrueMusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDEyOjQ3OjQwIFBNJmhhc2hfdmFsdWU9SksxOWFYNEtEclRCdE4zTEhoeGFUdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQ3NzY0
-
-
-
-#EXTINF:-0 tvg-id='" tvg-name"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDKlXSVKsrmtWacXNpnYKjtf-4LyqQNhneg&usqp=CAU" group-title="Music", Channel V
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC14/index.m3u8
-
-#EXTINF:-0 tvg-id='" tvg-name"MusicTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0oLC9rPxgZHVX4O4YFxwOc_YBbtLrfbTBQ&usqp=CAU" group-title="Music", MTV
-http://clofxtud.rostelekom.xyz/iptv/U5RTT4EW296H6V/19195/index.m3u8
-#EXTINF:-1 tvg-id="kpop" tvg-name="Kpop" tvg-logo="https://i.ytimg.com/vi/0Cs_o3daYR8/maxresdefault.jpg" group-title="Music", Kpop
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-id="mtv" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1661147645_article-mtv-mtv90s.png" group-title="Music", MTV
-http://iptvh.it/MTV1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqT57Y7pcNvOFB5BtKXdD6iH6bHk4nms_74A&usqp=CAU" group-title="Music", Music Top
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/the-edge-hit-music-now.png" group-title="Music",Edgetv
-https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
-
-#EXTINF:-0 group-title="Music" tvg-id="chiangrai.th" tvg-logo="https://thaitvstream.com/streaming/srtvonline/srtvonline.png",Srtvonline
-
-https://live1.thaitvstream.com/play/srtvonline/index.m3u8
-
-
-#EXTINF:-1 tvg-id="MONO29Musicstation.th" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" group-title="Entertainment", MONO29 Music Station
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0193/HLS/V0193.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
-
-#EXTINF:-1 tvg-id="RUSHStories.th" tvg-name="RushStories" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//RushStories_new.png" group-title="Entertainment", RUSH Stories
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0195/HLS/V0195.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b3d02daa48fede0ffe7ca39eeed1090f&chunkHttps=true&tmid=B0007&tpbk=lHhyoWgjc7LgOPvF&rrt=1675852062&tmod=rfk&rsid=add04440-436a-4003-b45a-291fb7db4e6c&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1675938461
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="AlureChannel.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/AlureChannel.png",A'lure Channel
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0194/HLS/V0194.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+]
+}
