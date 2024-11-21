@@ -23,20 +23,21 @@
 
 
 {
-"name":"cartoon-network TT",
+"name":"cartoon-network",
 "image":"https://www.dropbox.com/scl/fi/ek0eih6wogwequqn4vj0s/cartoon-network.png?rlkey=ibp7fumnq9ehgmfckvugs2y30&dl=1",
 "url": "https://wandering-oldman.github.io/cartoon-network1/cartoon-network1.html",
 "referer": "",
-"playInNatPlayer": "true"
 "info": "สำหลับโทรศัพท์",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+"playInNatPlayer": "true"
+},
 {
 "name":"nickjr",
 "image":"https://www.dropbox.com/scl/fi/k1mbfvdanilhqu35i11pc/nick-jr.png?rlkey=917sklfboydqypbi7yn943q29&dl=1",
 "url": "https://wandering-oldman.github.io/nickjr/nickjr.html",
 "info": "สำหลับโทรศัพท์",
 "embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
 {
 "name":"nickelodeon",
 "image":"https://www.dropbox.com/scl/fi/t0fnotxky4dcvkb1xzt23/nickelodon.png?rlkey=kq5caypok9muwc5ub9pv9a72v&dl=1",
