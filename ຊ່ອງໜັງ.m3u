@@ -3,84 +3,64 @@
 "image"             :     "",
 "url"               :     "https://pastebin.com/iQ4n8WAJ",
 "stations" : [
- 
-
- 
 {
 name:"FW MOVIE",
 image:"https://img.inwiptv.net/postor/20240429213309FWMOV.jpg",
 url:"https://www.inwiptv.com/player_demo.php?channel=95262",
 "referer": "https://www.inwiptv.com/",
 "online": "true",
-"info": "m3u8",
+"info": "HD",
 "playInNatPlayer": "true"
 },
-
 {
 name:"FW SERIES",
 image:"https://img.inwiptv.net/postor/20240429213326FWSOV.jpg",
 url:"https://www.inwiptv.com/player_demo.php?channel=94898",
 "referer": "https://www.inwiptv.com/",
 "online": "true",
-"info": "m3u8",
+"info": "FHD",
 "playInNatPlayer": "true"
 },
-
-
-
 {
 name:"Channel 8",
 image:"https://img2.pic.in.th/pic/-17a3ffa4868584a33d.jpeg",
 url:"http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
 "referer": "",
-"online": "true",
-"info": "m3u8",
+"info": "FHD",
 "playInNatPlayer": "true"
 },
-
 {
 name:"ATTV",
 image:"https://www.i-pic.info/i/HcyW361033.jpg",
 url:"http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8",
 "referer": "",
-"online": "true",
-"info": "m3u8",
+"info": "HD",
 "playInNatPlayer": "true"
 },
-
-
-
-
-
 {
 name:"Mix Major Channel",
 image:"https://www.i-pic.info/i/0g1K339274.png",
 url:"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8",
 "referer": "",
-"info": "m3u8",
-"online": "true",
+"info": "HD",
 "playInNatPlayer": "true"
 },
-
-
-
 {
 name:"TVB Thai",
 image:"https://www.i-pic.info/i/mqie339273.jpg",
 url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w68863317.m3u8",
 "referer": "",
 "online": "true",
-"info": "m3u8",
+"info": "FHD",
 "playInNatPlayer": "true"
 },
-
 {
 name:"มังกร",
 image:"https://www.i-pic.info/i/w2UI361030.jpg",
 url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "referer": "",
 "online": "true",
-"info": "m3u8",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 
@@ -88,7 +68,6 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "name":" 3BBASIAN ™ ",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",
 "url":"https://wandering-oldman.github.io/3bb-asian/3bb-asian.html",
-"online": "true",
 "embed": "true",
 "info": "MPD",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
@@ -98,7 +77,6 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",
 "imageScale": "fitStart",
 "url": "https://wandering-oldman.github.io/3bb-hbo/3bb-hbo.html",
-"online": "true",
 "embed": "true",
 "info": "MPD",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
@@ -108,7 +86,6 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",
 "imageScale": "fitStart",
 "url": "https://wandering-oldman.github.io/3bb-hbo-family/3bb-hbo-family.html",
-"online": "true",
 "embed": "true",
 "info": "MPD",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
@@ -117,7 +94,6 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "name": "HBO HITS ™ ",
 "image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",
 "url": "https://wandering-oldman.github.io/3bb-hbo-hits/3bb-hbo-hits.html",
-"online": "true",
 "embed": "true",
 "info": "MPD",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
@@ -126,7 +102,6 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "name":"Cinemax ™ ",
 "image":"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
 "url":"https://wandering-oldman.github.io/3bb-cinemax/cinemax.html",
-"online": "true",
 "embed": "true",
 "info": "MPD",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
@@ -135,7 +110,6 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "name":"HBO SIGNATURE ™ ",
 "image":"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",
 "url":"https://wandering-oldman.github.io/3bb-hbo-signature/3bb-hbo-signature.html",
-"online": "true",
 "embed": "true",
 "info": "MPD",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
@@ -144,7 +118,6 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "name":" 3bb-mono29plus ™ ",
 "image":"https://dl.dropbox.com/scl/fi/spi5xwl4vo2nv6yhi1unc/mono-plus.jpg?rlkey=2c1ki02ph5hnw2ac1wdzfc68c&dl=0",
 "url":"https://wandering-oldman.github.io/3bb-monoplus/3bb-monoplus.html",
-"online": "true",
 "embed": "true",
 "info": "MPD",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
@@ -154,18 +127,9 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "name":" 3BBSPORT1 ™ ",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png",
 "url":"https://wandering-oldman.github.io/3bb-sport1/3bb-sport1.html",
-"online": "true",
 "embed": "true",
 "info": "MPD",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-{
-"name": "TrueFilm1 ™ ",
-"image": "https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",
-"imageScale": "fitStart",
-"url": "https://dookeela.live/live-tv/alure-channel",
-"referer": "https://dookeela.live/",
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-
 
 ]
 }
@@ -173,7 +137,7 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 <head>
 <meta charset="UTF-8">
 <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
-<title>ผู้เฒ่าพเนจร</title>
+<title>DAOHD TV</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description" content="ผู้เฒ่าพเนจร">
 <meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
