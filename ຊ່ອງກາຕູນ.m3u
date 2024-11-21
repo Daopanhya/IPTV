@@ -10,28 +10,32 @@
 "image":"https://img.inwiptv.net/postor/20240429213651FWTOON.jpg",
 "url": "https://www.inwiptv.com/player_demo.php?channel=92941",
 "info": "HD",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"playInNatPlayer": "true"
 },
 {
 "name":"Cartoon Club",
 "image":"https://www.i-pic.info/i/UvFp328533.jpg",
 "url": "https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist_w1788175224.m3u8",
 "info": "SD",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"playInNatPlayer": "true"
 },
 {
 "name":"Boomerang",
 "image":"https://media-mvtv-app.imgix.net/uploads/channel/153_y_xD7XpVB69n0eicFrUaNMAl1dmtvZSuY5.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8",
 "info": "HD",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"playInNatPlayer": "true"
 },
 {
 "name":"BOOM ANIME",
 "image":"https://media-mvtv-app.imgix.net/uploads/channel/174_y_FLSV93BN1q5kyrxQ0DuzYhfORs768Ao4.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8",
 "info": "HD",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"playInNatPlayer": "true"
 },
 
 
