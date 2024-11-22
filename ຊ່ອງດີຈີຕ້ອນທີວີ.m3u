@@ -30,7 +30,7 @@
 {
 "name": "CH5HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
-"url": "https://www.inwiptv.com/player_demo.php?channel=27190",
+"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -54,7 +54,7 @@
 {
 "name": "TNN 16",
 "image": "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp",
-"url": "https://www.inwiptv.com/player_demo.php?channel=27179",
+"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -118,7 +118,7 @@
 {
 "name": "MCOT HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
-"url": "https://www.inwiptv.com/player_demo.php?channel=27141",
+"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -126,7 +126,7 @@
 {
 "name": "ONE 31",
 "image": "https://assets.oned.net/3/logo_one31.png",
-"url": "https://www.inwiptv.com/player_demo.php?channel=27140",
+"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_one/hd_one.stream?type=m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -134,7 +134,7 @@
 {
 "name": "Thairath TV",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-"url": "https://inwiptv.com/player_demo.php?channel=27138",
+"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_thairath/hd_thairath.stream?type=m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -142,7 +142,7 @@
 {
 "name": "CH3 HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
-"url": "https://www.inwiptv.com/player_demo.php?channel=27137",
+"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_3/hd3.stream?type=m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -150,7 +150,7 @@
 {
 "name": "Amarin TV",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
-"url": "https://inwiptv.com/player_demo.php?channel=27135",
+"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_amarin/hdamarin.stream?type=m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
