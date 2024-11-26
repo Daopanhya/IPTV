@@ -11,9 +11,9 @@ url:"https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-name:"Test",
+name:"Test2",
 image:"https://media-mvtv-app.imgix.net/uploads/channel/33_y_nqRCYpyBg3L8WMfV6hk1zbxKZoEl0ISO.png",
-url:"https://ctrl.laotv.la/tokenlive/LNTV1/index.m3u8?va=1714919061&token=e481aba18b4e87a2d388",
+url:"https://livesd.us.malimarcdn.com/laliveedge00/lntv3.stream/playlist.m3u8?verify=1673690041_w1NwZgXDsvjThC%2Fs%2BJ%2FdL9gMf7hq1xBpCEk0bLdya60%3D",
 "info": "HD",
 "playInNatPlayer": "true"
 },
