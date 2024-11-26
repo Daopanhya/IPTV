@@ -1,17 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSfF14KirvCs4hvuqXsDBCV4fZM6yO1FYwDrBOm6Q=s176-c-k-c0x00ffffff-no-rj",LNTV 1
-https://ctrl.laotv.la/live/LNTV1/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.24freetv.com/upload/lntv-3.jpg",LNTV 3
-https://ctrl.laotv.la/live/LNTV3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSLQuIelWXDgD67Ot-EATjyeC8HwjULZdWoo2jp=s176-c-k-c0x00ffffff-no-rj",Lao PSTV
-https://ctrl.laotv.la/live/PSTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2023/09/20/dWv83ER.jpeg",vte 9
-https://ctrl.laotv.la/live/VTE9/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.24freetv.com/upload/lao-estv.jpg",Lao ESTV
-https://ctrl.laotv.la/live/LaoESTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Lao_Star_Tv.png",LAO STAR
-https://ctrl.laotv.la/live/LaoStar/index.m3u8
+#EXTINF:0 tvg-country="LA" tvg-logo="" group-title="Undefined",LNTV 1
+https://ctrl.laotv.la/live/LNTV1/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="LA" tvg-logo="" group-title="Undefined",LNTV 3
+https://edge1.laotv.la/live/LNTV3/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="LA" tvg-logo="" group-title="Undefined",LNTV 3 (1080p)
+https://ctrl.laotv.la/live/LNTV3/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="LA" tvg-logo="https://i.malimarcdn.com/laochampatvHD.jpg" group-title="Undefined",Lao Champa TV
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="LA" tvg-logo="" group-title="Undefined",Lao ESTV
+https://ctrl.laotv.la/live/LaoESTV/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="LA" tvg-logo="" group-title="Undefined",Lao Public Security TV (1080p)
+https://ctrl.laotv.la/live/PSTV/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="LA" tvg-logo="" group-title="Undefined",Lao Star
+https://ctrl.laotv.la/live/LaoStar/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="LA" tvg-logo="" group-title="Undefined",MV Lao TV (720p)
+https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="LA" tvg-logo="" group-title="Undefined",MV Lao TV [Geo-blocked]
+https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="LA" tvg-logo="" group-title="Undefined",VTE 9
+https://ctrl.laotv.la/live/VTE9/index.m3u8?checkedby:iptvcat.org
