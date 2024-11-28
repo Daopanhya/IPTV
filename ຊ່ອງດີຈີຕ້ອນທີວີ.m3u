@@ -177,7 +177,7 @@
 "KODIPROP": "inputstreamaddon=inputstream.adaptive",
 "KODIPROP": "inputstream.adaptive.manifest_type=dash",
 "KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3",
+"KODIPROP": "inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31",
 "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd",
 "playInNatPlayer": "true"
 
