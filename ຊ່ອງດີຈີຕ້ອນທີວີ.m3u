@@ -174,7 +174,11 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": " ",
 "info": "HD",
-"url": "https://lb-mvtv-live.v2h-cdn.com/redirect//hd_pptv/hd_pptv.stream?type=m3u8",
+"KODIPROP": "inputstreamaddon=inputstream.adaptive",
+"KODIPROP": "inputstream.adaptive.manifest_type=dash",
+"KODIPROP": "inputstream.adaptive.license_type=clearkey",
+"KODIPROP": "inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3",
+"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd",
 "playInNatPlayer": "true"
 
 },
