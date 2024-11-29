@@ -10,13 +10,7 @@ url:"https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8",
 "info": "HD",
 "playInNatPlayer": "true"
 },
-{
-name:"Test2",
-image:"https://media-mvtv-app.imgix.net/uploads/channel/33_y_nqRCYpyBg3L8WMfV6hk1zbxKZoEl0ISO.png",
-url:"https://livesd.us.malimarcdn.com/laliveedge00/lntv3.stream/playlist.m3u8?verify=1673690041_w1NwZgXDsvjThC%2Fs%2BJ%2FdL9gMf7hq1xBpCEk0bLdya60%3D",
-"info": "HD",
-"playInNatPlayer": "true"
-},
+
 {
 name:"FM103",
 image:"https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
