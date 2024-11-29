@@ -6,10 +6,17 @@
 {
 "name": "epl1",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"url": "https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8",
 "referer": "https://www.madoohd.com",
-"url": "https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
-"info": "SD",
+"info": "https://www.madoohd.com",
+"playInNatPlayer": "true"
+},
+{
+"name": "epl1",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url": "https://ballmun.com/ch1",
+"referer": "https://www.madoohd.com",
+"info": "https://ballmun.com",
 "playInNatPlayer": "true"
 },
 {
