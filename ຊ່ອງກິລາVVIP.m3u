@@ -98,8 +98,8 @@
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "https://doolive4k.tv",
-"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8",
-"info": "SD",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truebein1.m3u8",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -116,8 +116,8 @@
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1079.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "https://doolive4k.tv",
-"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/playlist.m3u8",
-"info": "SD",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truebein3.m3u8",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 
