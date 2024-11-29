@@ -103,6 +103,15 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "bein2 HD",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"referer": "https://doolive4k.tv",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truebein2.m3u8",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
 "name": "bein3 HD",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1079.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
@@ -111,14 +120,7 @@
 "info": "SD",
 "playInNatPlayer": "true"
 },
-{
-"name": "truesporthd",
-"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"referer": " ",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true1.m3u8",
-"info": "HD กำลังปรับปรุง",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "truesporthd",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
@@ -132,9 +134,9 @@
 "name": "truesporthd2",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
-"referer": "https://doolive4k.tv",
-"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-9/playlist.m3u8",
-"info": "SD",
+"referer": " ",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true2.m3u8",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -142,26 +144,18 @@
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": " ",
-"url": "https://github.com/bestcommt2/m3u8/blob/master/true3.m3u8",
-"info": "SD",
-"playInNatPlayer": "true"
-},
-{
-"name": "truesporthd3",
-"image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
-"referer": "https://www.madoohd.com/",
-"url": "https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true3.m3u8",
 "info": "HD",
 "playInNatPlayer": "true"
 },
+
 {
 "name": "truesporthd4",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": " ",
 "url": "https://github.com/bestcommt2/m3u8/blob/master/true4.m3u8",
-"info": "OFF",
+"info": "กำลังปรับปรุง",
 "playInNatPlayer": "true"
 },
 {
@@ -169,8 +163,8 @@
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "https://doolive4k.tv",
-"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-11/playlist.m3u8",
-"info": "SD",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true5.m3u8",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -178,8 +172,8 @@
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "https://www.madoohd.com/",
-"url": "https://github.com/bestcommt2/m3u8/blob/master/true1.m3u8",
-"info": "SD",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true7.m3u8",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 ]
