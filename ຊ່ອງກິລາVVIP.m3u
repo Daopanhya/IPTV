@@ -7,8 +7,8 @@
 "name": "epl1",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
-"referer": "https://doolive4k.tv",
-"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8",
+"referer": "https://www.madoohd.com",
+"url": "https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
 "info": "SD",
 "playInNatPlayer": "true"
 },
@@ -25,8 +25,8 @@
 "name": "epl2",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
-"referer": "https://doolive4k.tv",
-"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-2/playlist.m3u8",
+"referer": "https://www.madoohd.com",
+"url": "https://www.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8",
 "info": "SD",
 "playInNatPlayer": "true"
 },
@@ -43,8 +43,8 @@
 "name": "epl3",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
-"referer": "https://doolive4k.tv",
-"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-3/playlist.m3u8",
+"referer": "https://www.madoohd.com",
+"url": "https://219.livedoomovies.com:4431/02_PremierHD3_480p/chunklist.m3u8",
 "info": "SD",
 "playInNatPlayer": "true"
 },
@@ -61,8 +61,8 @@
 "name": "epl4",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
-"referer": "https://doolive4k.tv",
-"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-4/playlist.m3u8",
+"referer": "https://www.madoohd.com",
+"url": "https://sport.livedoomovies.com:4432/02_PremierHD4_480p/chunklist.m3u8",
 "info": "SD",
 "playInNatPlayer": "true"
 },
@@ -79,8 +79,8 @@
 "name": "epl5",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
-"referer": "https://doolive4k.tv",
-"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-5/playlist.m3u8",
+"referer": "https://www.madoohd.com",
+"url": "https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
 "info": "SD",
 "playInNatPlayer": "true"
 },
@@ -102,6 +102,14 @@
 "info": "HD",
 "playInNatPlayer": "true"
 },
+"name": "bein1 HD",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"referer": "https://doolive4k.tv",
+"url": "https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+"info": "HD สำรอง",
+"playInNatPlayer": "true"
+},
 {
 "name": "bein2 HD",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
@@ -118,6 +126,15 @@
 "referer": "https://doolive4k.tv",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truebein3.m3u8",
 "info": "HD",
+"playInNatPlayer": "true"
+},
+{
+"name": "bein3 HD",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1079.png",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"referer": "https://doolive4k.tv",
+"url": "https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+"info": "HD สำรอง",
 "playInNatPlayer": "true"
 },
 
@@ -178,7 +195,7 @@
 },
 {
 "name": "Spotv1",
-"image": " ",
+"image": "https://www.img08.xyz/assets/img/ch_logo/hd-spotv1.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "https://www.madoohd.com/",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truespotv1.m3u8",
@@ -186,12 +203,30 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "Spotv1",
+"image": "https://www.img08.xyz/assets/img/ch_logo/hd-spotv1.png",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"referer": "https://www.madoohd.com/",
+"url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
+"info": "HD สำรอง",
+"playInNatPlayer": "true"
+},
+{
 "name": "Spotv2",
-"image": " ",
+"image": "https://www.img08.xyz/assets/img/ch_logo/hd-spotv2.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "https://www.madoohd.com/",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truespotv2.m3u8",
 "info": "HD",
+"playInNatPlayer": "true"
+},
+{
+"name": "Spotv2",
+"image": "https://www.img08.xyz/assets/img/ch_logo/hd-spotv2.png",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"referer": "https://www.madoohd.com/",
+"url": "https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
+"info": "HD สำรอง",
 "playInNatPlayer": "true"
 },
 ]
