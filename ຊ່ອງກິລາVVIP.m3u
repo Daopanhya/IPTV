@@ -102,6 +102,7 @@
 "info": "HD",
 "playInNatPlayer": "true"
 },
+{
 "name": "bein1 HD",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
