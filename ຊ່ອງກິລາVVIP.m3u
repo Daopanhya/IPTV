@@ -115,8 +115,8 @@
 "name": "truesporthd",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
 "referer": " ",
-"url": "https://github.com/bestcommt2/m3u8/blob/master/true1.m3u8",
-"info": "SD กำลังปรับปรุง",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true1.m3u8",
+"info": "HD กำลังปรับปรุง",
 "playInNatPlayer": "true"
 },
 {
@@ -124,8 +124,8 @@
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "https://www.madoohd.com/",
-"url": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
-"info": "HD",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true1.m3u8",
+"info": "HD"
 "playInNatPlayer": "true"
 },
 {
