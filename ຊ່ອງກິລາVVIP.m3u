@@ -204,6 +204,14 @@ image:"https://img.inwiptv.net/postor/20240429213640FWsport.jpg",
 "info": "FHD",
 "playInNatPlayer": "true"
 },
+{
+"name":" 3BBSPORT1",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png",
+"url":"https://wandering-oldman.github.io/3bb-sport1/3bb-sport1.html",
+"embed": "true",
+"info": "สำหลับโทรศัพท์",
+},
+
 ]
 }​
 
