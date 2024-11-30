@@ -45,9 +45,9 @@
 },
 
 {
-"name": "epl1 k",
+"name": "epl1",
 "image": "https://dookeela.live/uploads/1664499665.png",
-"url": "https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
+"url": "https://www.madoohd.com/?r=tv_view&id=151",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "https://www.doomovie-hd.pro",
 "info": "SD doomovie-hd",
@@ -56,7 +56,7 @@
 {
 "name": "epl2",
 "image": "https://dookeela.live/uploads/1664499673.png",
-"url": "https://www.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8",
+"url": "https://www.madoohd.com/?r=tv_view&id=152",
 "referer": "https://www.doomovie-hd.pro",
 "info": "SD doomovie-hd",
 "playInNatPlayer": "true"
