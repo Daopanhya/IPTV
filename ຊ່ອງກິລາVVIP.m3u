@@ -127,6 +127,22 @@
 },
 
 {
+"name": "Spotv1",
+"image": "https://dookeela.live/uploads/1664529562.png",
+"referer": "https://www.madoohd.com/",
+"url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+"name": "Spotv2",
+"image": "https://dookeela.live/uploads/1664529575.png",
+"referer": "https://www.madoohd.com/",
+"url": "https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
+"info": "HD สำรอง",
+"playInNatPlayer": "true"
+},
+{
 "name": "truesporthd",
 "image": "https://dookeela.live/uploads/1664802455.png",
 "referer": "https://www.madoohd.com/",
@@ -173,22 +189,6 @@
 "referer": "https://www.madoohd.com/",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true7.m3u8",
 "info": "HD bestcommt2",
-"playInNatPlayer": "true"
-},
-{
-"name": "Spotv1",
-"image": "https://dookeela.live/uploads/1664529562.png",
-"referer": "https://www.madoohd.com/",
-"url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-{
-"name": "Spotv2",
-"image": "https://dookeela.live/uploads/1664529575.png",
-"referer": "https://www.madoohd.com/",
-"url": "https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
-"info": "HD สำรอง",
 "playInNatPlayer": "true"
 },
 {
