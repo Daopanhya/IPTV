@@ -197,6 +197,13 @@
 "info": "HD สำรอง",
 "playInNatPlayer": "true"
 },
+{
+name:"FWsport",
+image:"https://img.inwiptv.net/postor/20240429213640FWsport.jpg",
+"url":"https://inwiptv.com/player_demo.php?channel=89782",
+"info": "FHD",
+"playInNatPlayer": "true"
+},
 ]
 }​
 
