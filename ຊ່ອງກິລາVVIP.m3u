@@ -7,16 +7,16 @@
 "name": "epl1",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
 "url": "https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8",
-"referer": "https://www.madoohd.com",
-"info": "https://www.madoohd.com",
+"referer": "https://www.doomovie-hd",
+"info": "HD สำรอง",
 "playInNatPlayer": "true"
 },
 {
 "name": "epl1",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
 "url": "https://ballmun.com/ch1",
-"referer": "https://www.madoohd.com",
-"info": "https://ballmun.com",
+"referer": "https://ballmun.com",
+"info": "HD สำรอง2",
 "playInNatPlayer": "true"
 },
 {
@@ -113,8 +113,8 @@
 "name": "bein1 HD",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
-"referer": "https://doolive4k.tv",
-"url": "https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+"referer": "https://ballmun.com",
+"url": "https://ballmun.com/ch4",
 "info": "HD สำรอง",
 "playInNatPlayer": "true"
 },
@@ -140,8 +140,8 @@
 "name": "bein3 HD",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1079.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
-"referer": "https://doolive4k.tv",
-"url": "https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+"referer": "https://ballmun.com/ch6",
+"url": "https://ballmun.com/ch6",
 "info": "HD สำรอง",
 "playInNatPlayer": "true"
 },
