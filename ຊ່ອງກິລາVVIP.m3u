@@ -44,6 +44,47 @@
 "playInNatPlayer": "true"
 },
 
+{
+"name": "epl1",
+"image": "https://dookeela.live/uploads/1664499665.png",
+"url": "https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.pro",
+"info": "SD doomovie-hd",
+"playInNatPlayer": "true"
+},
+{
+"name": "epl2",
+"image": "https://dookeela.live/uploads/1664499673.png",
+"url": "https://www.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.pro",
+"info": "SD doomovie-hd",
+"playInNatPlayer": "true"
+},
+{
+"name": "epl3",
+"image": "https://dookeela.live/uploads/1664499681.png",
+"url": "https://www.livedoomovies.com:4432/02_PremierHD3_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.pro",
+"info": "SD doomovie-hd",
+"playInNatPlayer": "true"
+},
+{
+"name": "epl4",
+"image": "https://dookeela.live/uploads/1664499692.png",
+"url": "https://www.livedoomovies.com:4432/02_PremierHD4_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.pro",
+"info": "SD doomovie-hd",
+"playInNatPlayer": "true"
+},
+{
+"name": "epl5",
+"image": "https://dookeela.live/uploads/1664499700.png",
+"url": "https://www.livedoomovies.com:4432/02_PremierHD5_480p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.pro",
+"info": "SD doomovie-hd",
+"playInNatPlayer": "true"
+},
+
 
 {
 "name": "epl1",
@@ -128,17 +169,17 @@
 {
 "name": "bein1 HD",
 "image": "https://dookeela.live/uploads/1664500365.png",
-"referer": "https://ballmun.com",
-"url": "https://ballmun.com/ch4",
-"info": "HD ballmun",
+"referer": "https://www.doomovie-hd.pro",
+"url": "https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+"info": "HD doomovie-hd",
 "playInNatPlayer": "true"
 },
 {
 "name": "bein3 HD",
 "image": "https://dookeela.live/uploads/1663980670.png",
-"referer": "https://ballmun.com/ch6",
-"url": "https://ballmun.com/ch6",
-"info": "HD ballmun",
+"referer": "https://www.doomovie-hd.pro",
+"url": "https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+"info": "HD doomovie-hd",
 "playInNatPlayer": "true"
 },
 
