@@ -72,25 +72,9 @@
 {
 "name": "epl4",
 "image": "https://dookeela.live/uploads/1664499692.png",
-"referer": "https://www.madoohd.com",
-"url": "https://sport.livedoomovies.com:4432/02_PremierHD4_480p/chunklist.m3u8",
-"info": "SD",
-"playInNatPlayer": "true"
-},
-{
-"name": "epl4",
-"image": "https://dookeela.live/uploads/1664499692.png",
 "referer": "https://www.madoohd.com/",
 "url": "https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-{
-"name": "epl5",
-"image": "https://dookeela.live/uploads/1664499700.png",
-"referer": "https://www.madoohd.com/",
-"url": "https://sport.livedoomovies.com:4432/02_PremierHD5_480p/chunklist.m3u8",
-"info": "SD",
+"info": "HD madoohd",
 "playInNatPlayer": "true"
 },
 {
@@ -98,7 +82,7 @@
 "image": "https://dookeela.live/uploads/1664499700.png",
 "referer": "https://www.madoohd.com/",
 "url": "https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
-"info": "HD",
+"info": "HD madoohd",
 "playInNatPlayer": "true"
 },
 {
