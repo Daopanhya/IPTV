@@ -45,9 +45,10 @@
 },
 
 {
-"name": "epl1",
+"name": "epl1 k",
 "image": "https://dookeela.live/uploads/1664499665.png",
 "url": "https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "https://www.doomovie-hd.pro",
 "info": "SD doomovie-hd",
 "playInNatPlayer": "true"
