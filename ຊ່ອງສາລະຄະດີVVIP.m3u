@@ -8,24 +8,34 @@
 
 {"name": "FWDoc","image": "https://img.inwiptv.net/postor/20240617204638FWDoc.jpg","url": "https://inwiptv.com/player_demo.php?channel=91303", "referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
 
-{"name": "Animal Planet HD","image": "https://dookeela.live/uploads/1706112700.png","url": "https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8", "referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
-
-{"name": "Animal Planet HD","image": "https://dookeela.live/uploads/1706112700.png","url": "https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8", "referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
-
-
-{"name": "BBC EARTH","image": "https://dookeela.live/uploads/1714101191.png","url": "https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8", "referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
-
+{"name": "trueANIMALPLANET","image": "https://dookeela.live/uploads/1706112700.png",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueANIMALPLANET.m3u8",
+"referer": "",
+"info":"HD 3bb",
+"playInNatPlayer": "true"},
 
 
+{"name": "trueBBCLIFESTYLE",
+"image": "",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueBBCLIFESTYLE.m3u8", 
+"referer": "",
+"info":"HD 3bb",
+"playInNatPlayer": "true"},
 
-{"name": "Inside Crime","image": "https://i.imgur.com/vJeseED.png","url": "https://jmp2.uk/sam-GBBD500002R4.m3u8", "referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
+{"name": "Outdoor",
+"image": "",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/outdoor.m3u8", 
+"referer": "",
+"info":"HD 3bb",
+"playInNatPlayer": "true"},
 
 
-
-
-{"name": "Love Nature ","image": "https://dookeela.live/uploads/1713508633.png","url": "https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c", "referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
-
-
+{"name": "Outdoor",
+"image": "",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/outdoor.m3u8", 
+"referer": "",
+"info":"HD 3bb",
+"playInNatPlayer": "true"},
 
 
 
