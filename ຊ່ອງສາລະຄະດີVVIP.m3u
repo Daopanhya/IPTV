@@ -8,14 +8,14 @@
 
 {"name": "FWDoc","image": "https://img.inwiptv.net/postor/20240617204638FWDoc.jpg","url": "https://inwiptv.com/player_demo.php?channel=91303", "referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
 
-{"name": "trueANIMALPLANET","image": "https://dookeela.live/uploads/1706112700.png",
+{"name": "ANIMAL PLANET","image": "https://dookeela.live/uploads/1706112700.png",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueANIMALPLANET.m3u8",
 "referer": "",
 "info":"HD 3bb",
 "playInNatPlayer": "true"},
 
 
-{"name": "trueBBCLIFESTYLE",
+{"name": "BBC LIFESTYLE",
 "image": "",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueBBCLIFESTYLE.m3u8", 
 "referer": "",
@@ -30,9 +30,17 @@
 "playInNatPlayer": "true"},
 
 
-{"name": "Outdoor",
+{"name": "DiscoverASIA",
 "image": "",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/outdoor.m3u8", 
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/DiscoverASIA.m3u8", 
+"referer": "",
+"info":"HD 3bb",
+"playInNatPlayer": "true"},
+
+
+{"name": "aisDiscover",
+"image": "",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/aisDiscover.m3u8", 
 "referer": "",
 "info":"HD 3bb",
 "playInNatPlayer": "true"},
