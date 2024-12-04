@@ -95,6 +95,22 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truetha
 "playInNatPlayer": "true"
 },
 {
+name:"Series",
+image:" ",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueseries.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"Moviehit",
+image:" ",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truemoviehit.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
 name:"Film1",
 image:" ",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefilm1.m3u8",
@@ -111,7 +127,46 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefil
 "info": "HD",
 "playInNatPlayer": "true"
 },
-
+{
+name:"HBOFAMILY",
+image:" ",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOFAMILY.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"HBOHits",
+image:" ",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOHits.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"HBO Signature",
+image:" ",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOSignature.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"HBO THAI",
+image:" ",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOTHAI.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"Movie1",
+image:" ",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/movie1.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
 {
 "name":" 3BBASIAN",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",
