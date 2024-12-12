@@ -109,24 +109,7 @@
 "info": "HD bestcommt2",
 "playInNatPlayer": "true"
 },
-{
-"name": "bein1 HD",
-"image": "https://dookeela.live/uploads/1664500365.png",
-"referer": " ",
-"url": "https://dooballkub.com/live/?bein1",
-"embed": "true",
-"info": "สำหรับโทรศัพท์มือถือ dooballkub",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name": "bein3 HD",
-"image": "https://dookeela.live/uploads/1663980670.png",
-"referer": " ",
-"url": "https://dooballkub.com/live/?bein3",
-"embed": "true",
-"info": "สำหรับโทรศัพท์มือถือ dooballkub",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
+
 
 {
 "name": "Spotv1",
