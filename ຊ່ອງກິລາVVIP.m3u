@@ -112,17 +112,17 @@
 {
 "name": "bein1 HD",
 "image": "https://dookeela.live/uploads/1664500365.png",
-"referer": "https://www.doomovie-hd.pro",
-"url": "https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
-"info": "HD doomovie-hd",
+"referer": "https://dooballkub.com",
+"url": "https://dooballkub.com/live/?bein1",
+"info": "dooballkub",
 "playInNatPlayer": "true"
 },
 {
 "name": "bein3 HD",
 "image": "https://dookeela.live/uploads/1663980670.png",
-"referer": "https://www.doomovie-hd.pro",
-"url": "https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
-"info": "HD doomovie-hd",
+"referer": "https://dooballkub.com",
+"url": "https://dooballkub.com/live/?bein3",
+"info": "dooballkub",
 "playInNatPlayer": "true"
 },
 
