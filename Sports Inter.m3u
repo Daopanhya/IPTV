@@ -1,0 +1,48 @@
+{
+"name": "Sports Inter",
+"image": "https://cdn.sportmonks.com/images//soccer/leagues/2/1538.png",
+"url": "https://pastebin.com/raw/Lv1J1Kwn",
+"stations" : [
+{
+"name": "pt-sport-tv-1",
+"image": "https://api-soccer.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
+"url":"https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%201%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAxMjo0ODozOCBQTSZoYXNoX3ZhbHVlPWhPd2xJVjQrZWhqUTVaQmNrM3ljV1E9PSZ2YWxpZG1pbnV0ZXM9NjA=",
+"referer": "https://doolive4k.tv",
+"info": "doolive4k",
+"playInNatPlayer": "true"
+},
+ {
+"name": "pt-sport-tv-2",
+"image": "https://api-soccer.thai-play.com/images/tv/b8KHlAhwrs9mWEgWKio4jIpRz4FIroktv-station-pt-sport-tv-2-451.png",
+"url":"https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%202%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAxMjo0ODozOCBQTSZoYXNoX3ZhbHVlPWhPd2xJVjQrZWhqUTVaQmNrM3ljV1E9PSZ2YWxpZG1pbnV0ZXM9NjA=",
+"referer": "https://doolive4k.tv",
+"info": "doolive4k",
+"playInNatPlayer": "true"
+},
+ {
+"name": "pt-sport-tv-3",
+"image": "https://api-soccer.thai-play.com/images/tv/hkNVq0iMYezzlJSZrqcER00IcfX0R20a452.png",
+"url":"https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%203%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAxMjo0ODozOCBQTSZoYXNoX3ZhbHVlPWhPd2xJVjQrZWhqUTVaQmNrM3ljV1E9PSZ2YWxpZG1pbnV0ZXM9NjA=",
+"referer": "https://doolive4k.tv",
+"info": "doolive4k",
+"playInNatPlayer": "true"
+},
+ {
+"name": "pt-sport-tv-4",
+"image": "https://api-soccer.thai-play.com/images/tv/27ciPhVX9zapqwuq3ZNzRmYYncSQKPMa453.png",
+"url":"https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%204%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAxMjo0ODozOCBQTSZoYXNoX3ZhbHVlPWhPd2xJVjQrZWhqUTVaQmNrM3ljV1E9PSZ2YWxpZG1pbnV0ZXM9NjA=",
+"referer": "https://doolive4k.tv",
+"info": "doolive4k",
+"playInNatPlayer": "true"
+},
+ {
+"name": "pt-sport-tv-5",
+"image": "https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%205%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAxMjo0ODozOCBQTSZoYXNoX3ZhbHVlPWhPd2xJVjQrZWhqUTVaQmNrM3ljV1E9PSZ2YWxpZG1pbnV0ZXM9NjA=",
+"url":" ",
+"referer": "https://doolive4k.tv",
+"info": "doolive4k",
+"playInNatPlayer": "true"
+},
+
+]
+}
