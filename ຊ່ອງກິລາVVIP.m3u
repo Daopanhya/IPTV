@@ -69,21 +69,22 @@
 "info": "HD bestcommt2",
 "playInNatPlayer": "true"
 },
+
 {
-"name": "epl4",
-"image": "https://dookeela.live/uploads/1664499692.png",
-"url": "https://dolive.thaim3u.com/xstream/siamsport-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNCA5OjI1OjA4IEFNJmhhc2hfdmFsdWU9VWprMEJnNHV6Zmd2VDR4bnRGZHRqUT09JnZhbGlkbWludXRlcz02MA==",
+"name": "bein1 HD",
+"image": "https://dookeela.live/uploads/1664500365.png",
+"url": "https://dolive.thaim3u.com/xstream/siamsport-6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNCA5OjM0OjIyIEFNJmhhc2hfdmFsdWU9Zlc5UTZaNmZTcW44VkhGZEVuM0xYZz09JnZhbGlkbWludXRlcz02MA==",
 "referer": "https://dooballfree.com",
-"info": "HD dooballfree",
+"info": "SD dooballfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "epl5",
-"image": "https://dookeela.live/uploads/1664499700.png",
-"url": "https://dolive.thaim3u.com/xstream/siamsport-5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNCA5OjI1OjA4IEFNJmhhc2hfdmFsdWU9VWprMEJnNHV6Zmd2VDR4bnRGZHRqUT09JnZhbGlkbWludXRlcz02MA==",
+"name": "bein3 HD",
+"image": "https://dookeela.live/uploads/1663980670.png",
+"referer": "https://doolive4k.tv",
+"url": "https://dolive.thaim3u.com/xstream/siamsport-7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNCA5OjM0OjIyIEFNJmhhc2hfdmFsdWU9Zlc5UTZaNmZTcW44VkhGZEVuM0xYZz09JnZhbGlkbWludXRlcz02MA==",
 "referer": "https://dooballfree.com",
-"info": "HD dooballfree",
-"playInNatPlayer": "true"
+"info": "SD dooballfree",
 },
 {
 "name": "bein1 HD",
@@ -111,22 +112,7 @@
 },
 
 
-{
-"name": "Spotv1",
-"image": "https://dookeela.live/uploads/1664529562.png",
-"referer": "https://www.madoohd.com/",
-"url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
-"info": "HD doomovie-hd",
-"playInNatPlayer": "true"
-},
-{
-"name": "Spotv2",
-"image": "https://dookeela.live/uploads/1664529575.png",
-"referer": "https://www.madoohd.com/",
-"url": "https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
-"info": "HD doomovie-hd",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "truesporthd",
 "image": "https://dookeela.live/uploads/1664802455.png",
