@@ -26,5 +26,12 @@ url:"https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8?checkedby:iptvcat.co
 "info":" ",
 "playInNatPlayer": "true"},
 
+{"name": "MTV Live ",
+"image": "https://media.info/l/f/1/1482.1508556245.png",
+"url": "https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8",
+"referer": "",
+"info":" ",
+"playInNatPlayer": "true"},
+
 ]
 }
