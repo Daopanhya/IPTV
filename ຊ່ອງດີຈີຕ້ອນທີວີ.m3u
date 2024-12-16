@@ -256,6 +256,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name":"Boomerang",
+"image":"https://media-mvtv-app.imgix.net/uploads/channel/153_y_xD7XpVB69n0eicFrUaNMAl1dmtvZSuY5.png",
+"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
 name:"MVLAO",
 image:"https://media-mvtv-app.imgix.net/uploads/channel/33_y_nqRCYpyBg3L8WMfV6hk1zbxKZoEl0ISO.png",
 url:"https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8",
