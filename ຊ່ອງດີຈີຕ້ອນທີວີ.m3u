@@ -257,7 +257,22 @@
 },
 
 {"name": "FWDoc","image": "https://img.inwiptv.net/postor/20240617204638FWDoc.jpg","url": "https://inwiptv.com/player_demo.php?channel=91303", "referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
-
+{
+name:"FW MOVIE",
+image:"https://img.inwiptv.net/postor/20240429213309FWMOV.jpg",
+url:"https://www.inwiptv.com/player_demo.php?channel=95262",
+"referer": "https://www.inwiptv.com/",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"FW SERIES",
+image:"https://img.inwiptv.net/postor/20240429213326FWSOV.jpg",
+url:"https://www.inwiptv.com/player_demo.php?channel=94898",
+"referer": "https://www.inwiptv.com/",
+"info": "FHD",
+"playInNatPlayer": "true"
+},
 {
 name:"Thai Chaiyo",
 image:"https://img2.pic.in.th/pic/39a504d2ab695c922867f4083ad90506.jpeg",
@@ -265,13 +280,6 @@ url:"https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8?checkedby:iptvcat.co
 "referer": "",
 "info": "Auto",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name":"Boomerang",
-"image":"https://media-mvtv-app.imgix.net/uploads/channel/153_y_xD7XpVB69n0eicFrUaNMAl1dmtvZSuY5.png",
-"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8",
-"info": "HD",
 "playInNatPlayer": "true"
 },
 {
