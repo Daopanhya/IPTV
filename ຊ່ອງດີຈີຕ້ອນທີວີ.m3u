@@ -258,6 +258,13 @@
 
 {"name": "FWDoc","image": "https://img.inwiptv.net/postor/20240617204638FWDoc.jpg","url": "https://inwiptv.com/player_demo.php?channel=91303", "referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
 {
+"name":"FW CARTOON",
+"image":"https://img.inwiptv.net/postor/20240429213651FWTOON.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=92941",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
 name:"FW MOVIE",
 image:"https://img.inwiptv.net/postor/20240429213309FWMOV.jpg",
 url:"https://www.inwiptv.com/player_demo.php?channel=95262",
