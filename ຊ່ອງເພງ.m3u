@@ -13,14 +13,14 @@ url:"https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8?checkedby:iptvcat.co
 "playInNatPlayer": "true"
 },
 {"name": "Kpop TV",
-"image": "https://i.imgur.com/Kl67VWg.png",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQ8utRCy3Hwz3Zyc553-FpemOkPRyLIHiBQ&usqp=CAU",
 "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8", 
 "referer": "",
 "info":" ",
 "playInNatPlayer": "true"},
 
 {"name": "New Kpop",
-"image": "https://i.imgur.com/Olkavrz.png",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwOtCHMfQRz1O-0aokh2OoJI02yrXY5Gq-w&usqp=CAU",
 "url": "https://jmp2.uk/sam-USAJ3000013FJ.m3u8", 
 "referer": "",
 "info":" ",
