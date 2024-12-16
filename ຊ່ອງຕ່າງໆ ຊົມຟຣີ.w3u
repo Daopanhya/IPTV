@@ -1,99 +1,92 @@
 {
-  "name": "DAO-IPTV ຊົມຟຣີ",
+  "name": "DAO-IPTV ดูฟรี",
   "author": "DAO-IPTV",
-  "info": "ລາຄາ 500 ກີບ ຕໍ່ວັນ ຊ່ອງມີປັນຫາພ້ອມແກ້ໄຂ 24 ຊົ່ວໂມງ",
+  "info": "DAO-IPTV",
   "image": "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
 "groups": [
 {
-"name": "ຊ່ອງດີຈີຕ້ອນທີວີ",
+"name": "Digital TV",
 "image":"https://s.isanook.com/mn/0/rp/rc/w850h510/yatxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL21uLzAvdWQvMzUvMTc4ODY3LzYwNTMzNy5qcGc=.jpg",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%94%E0%BA%B5%E0%BA%88%E0%BA%B5%E0%BA%95%E0%BB%89%E0%BA%AD%E0%BA%99%E0%BA%97%E0%BA%B5%E0%BA%A7%E0%BA%B5.m3u",
 "referer": "xxx",
-"info": " DAO-IPTV ",
+"info": "DAO-IPTV",
 "import": false
 },
 
 {
-"name": "ຊ່ອງລາວ",
+"name": "Lao TV",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDEaXX-k-pGjF42ZXE8SEKwNf6dozWv05iA&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%A5%E0%BA%B2%E0%BA%A7.m3u",
 "referer": "xxx",
-"info": " DAO-IPTV ",
-"import": false
-},
-{
-"name": "ບານໂລກ 2022",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxa4vZwyavLyiM2pCVYj2PbjGwlF3020MEH1DQQwuDbdBT6THRffgg&usqp=CAU",
-"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%9A%E0%BA%B2%E0%BA%99%E0%BB%82%E0%BA%A5%E0%BA%81%202022.m3u",
-"referer": "xxx",
-"info": " DAO-IPTV ",
+"info": "DAO-IPTV",
 "import": false
 },
 
+
 {
-"name": "ຊ່ອງກິລາ",
+"name": "Sports",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCf1XExWu3C_3nszOj_Rz8nc7FOy5vHuPFty_Ry4g3aDNI-UdBDVw&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%A5%E0%BA%B2%E0%BA%84%E0%BA%B2.w3u",
 "referer": "xxx",
-"info": " DAO-IPTV ",
+"info": "DAO-IPTV",
 "import": false
 },
 {
-"name": "ຊ່ອງສາລະຄະດີ",
+"name": "Documentary",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgux1OcfXc2r1rWcbnWacC2-Bxn-6W7kXJ-Q&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%A5%E0%BA%B2%E0%BA%84%E0%BA%B2.w3u",
 "referer": "xxx",
-"info": " DAO-IPTV ",
+"info": "DAO-IPTV",
 "import": false
 },
 {
-"name": "ຊ່ອງໜັງ",
+"name": "Movie",
 "image":"https://archive.org/download/movie-hd-507_20210719_1836/movie-hd.jpg",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%A5%E0%BA%B2%E0%BA%84%E0%BA%B2.w3u",
 "referer": "xxx",
-"info": " DAO-IPTV ",
+"info": "DAO-IPTV",
 "import": false
 },
 {
-"name": "ຊ່ອງກາຕູນ",
+"name": "Cartoon",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFf2bRknprpPBWeOllFdoqoPeYWb2AyGTFQ&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%A5%E0%BA%B2%E0%BA%84%E0%BA%B2.w3u",
 "referer": "xxx",
-"info": " DAO-IPTV ",
+"info": "DAO-IPTV",
 "import": false
 },
 {
-"name": "ຊ່ອງບັນເທີງ",
+"name": "Entertainment",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyBgZ3OSe3SUN9wlFpUpfEGiGvMNZ1iZi8pA&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%A5%E0%BA%B2%E0%BA%84%E0%BA%B2.w3u",
 "referer": "xxx",
-"info": " DAO-IPTV ",
+"info": "DAO-IPTV",
 "import": false
 },
 
 {
-"name": "ຊ່ອງເພງ",
+"name": "Music",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXXUUV2VvmTGIg_G9D5J3wkcNgigvZK3X2Jg&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%A5%E0%BA%B2%E0%BA%84%E0%BA%B2.w3u",
 "referer": "xxx",
-"info": " DAO-IPTV ",
+"info": "DAO-IPTV",
 "import": false
 },
 
 {
-"name": "ໜັງ & ຊີຣີ",
+"name": "Cinema & Series",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vFV1kEiL2sl00dlDfLzeB48_v89Yow7aug&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%A5%E0%BA%B2%E0%BA%84%E0%BA%B2.w3u",
 "referer": "xxx",
-"info": " DAO-IPTV ",
+"info": "DAO-IPTV",
 "import": false
 },
 {
-"name": "ຂໍ້ມູນອັບເດດ",
+"name": "Update Info",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHpYM8rG1m2fyRCDUOVLL5oPO5W5CbCIOMKw&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%82%E0%BB%8D%E0%BB%89%E0%BA%A1%E0%BA%B9%E0%BA%99%E0%BA%AD%E0%BA%B1%E0%BA%9A%E0%BB%80%E0%BA%94%E0%BA%94%E0%BA%A5%E0%BA%B5%E0%BB%89%E0%BA%87.w3u",
 "referer": "xxx",
-"info": " DAO-IPTV ",
+"info": "DAO-IPTV",
 "import": true
 },
 ]
