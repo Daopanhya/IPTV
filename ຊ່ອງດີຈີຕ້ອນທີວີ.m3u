@@ -255,6 +255,15 @@
 "url": "https://server1.streamssl.com/stream/news1.m3u8",
 "playInNatPlayer": "true"
 },
+
+{"name": "FWDoc","image": "https://img.inwiptv.net/postor/20240617204638FWDoc.jpg","url": "https://inwiptv.com/player_demo.php?channel=91303", "referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
+
+{"name": "ANIMAL PLANET","image": "https://dookeela.live/uploads/1706112700.png",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueANIMALPLANET.m3u8",
+"referer": "",
+"info":"HD 3bb",
+"playInNatPlayer": "true"},
+
 {
 name:"Thai Chaiyo",
 image:"https://img2.pic.in.th/pic/39a504d2ab695c922867f4083ad90506.jpeg",
