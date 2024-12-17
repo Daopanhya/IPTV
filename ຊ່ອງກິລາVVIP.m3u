@@ -111,7 +111,22 @@
 "info": "bestcommt2",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "Spotv1",
+"image": " ",
+"referer": "https://doolive4k.tv",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truespotv1.m3u8",
+"info": "bestcommt2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Spotv2",
+"image": " ",
+"referer": "https://doolive4k.tv",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truespotv2.m3u8",
+"info": "bestcommt2",
+"playInNatPlayer": "true"
+},
 
 
 {
