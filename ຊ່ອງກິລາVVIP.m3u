@@ -112,7 +112,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Spotv1",
+"name": "Spotv1 SD",
 "image": "https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
 "referer": "https://doolive4k.tv",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truespotv1.m3u8",
@@ -120,7 +120,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Spotv2",
+"name": "Spotv2 SD",
 "image": "https://api-soccer.thai-play.com/images/tv/0RGV8VMgXBuGIyl2wEwkYWNpHDRpfk3spotv2.png ",
 "referer": "https://doolive4k.tv",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truespotv2.m3u8",
