@@ -1,11 +1,11 @@
 {
-  "name": "ໜັງ & ຊີຣີ",
-  "author": "DAO-IPTV",
-  "info": "ລາຄາ 30 ພັນ ຕໍ່ເດືອນ ຊ່ອງມີປັນຫາພ້ອມແກ້ໄຂ 24 ຊົ່ວໂມງ",
-  "image": "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
+  "name": "Cinema & Series",
+  "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
+"author": "by DAO-IPTV",
+  "info": "DAO-IPTV",
 "groups": [
 {
-"name": "ໜັງ",
+"name": "Cinema",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vFV1kEiL2sl00dlDfLzeB48_v89Yow7aug&usqp=CAU",
 "url": "https://docs.google.com/uc?export=download&id=1VcbOBo8rj9SV4LD7ArNrve6U9IZwOJRf",
 "referer": "xxx",
@@ -13,7 +13,7 @@
 "import": false
 },
 {
-"name": "ຊີຣີ",
+"name": "Series",
 "image":"https://pbs.twimg.com/profile_images/1255796144757772288/SDaaVh35_400x400.png",
 "url": "https://docs.google.com/uc?export=download&id=1Mm8OmqDj-gyEIpx9FWj8WA-_oYyQF3zL",
 "referer": "xxx",
@@ -22,7 +22,7 @@
 },
 
 {
-"name": "ໜັງເອເຊຍ",
+"name": "Asian",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCUOJKslOyXx6esVDun338XKlDn_Od5ASdg&usqp=CAU",
 "url": "https://docs.google.com/uc?export=download&id=1-zbE8ZT_RYteJU60RjtjxtGWWywaS2od",
 "referer": "xxx",
@@ -30,7 +30,7 @@
 "import": false
 },
 {
-"name": "ໜັງ Marvel",
+"name": "Marvel",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQhDiSFuw2enR68UFp69a_BYoqvw7UCBNfqo9U8Q&usqp=CAU",
 "url": "https://bit.ly/38DKeYT",
 "referer": "xxx",
@@ -38,7 +38,7 @@
 "import": false
 },
 {
-"name": "ໜັງກາຕູນ",
+"name": "Cartoons",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2GxsRIUIA7AyhOfmGTxt2CGzWPbbg5dATvg&usqp=CAU",
 "url": "https://bit.ly/3z2Ax1h",
 "referer": "xxx",
@@ -46,7 +46,7 @@
 "import": false
 },
 {
-"name": "ໜັງ AV",
+"name": "18+",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3WJhZ5X5TajBp-Z04q7zyAm0cfr3jbhoBoA&usqp=CAU",
 "url": "https://drive.google.com/uc?export=download&id=1xecy8UgdDfIouU_dHJ_lGiEBZq4K1gXx",
 "referer": "xxx",
