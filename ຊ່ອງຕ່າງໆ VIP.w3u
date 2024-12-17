@@ -38,14 +38,6 @@
 "info": " DAO-IPTV ",
 "import": false
 },
-{
-"name": "Asian Championship",
-"image":"https://res.cloudinary.com/dxb0ptf6a/image/upload/c_fit%2Cdpr_auto%2Cw_605/q_70/f_auto/prod/assets/04_press_media/2024/aff-mitsubishi-cup/sportfive-press-aff-mitsubishi-electric-cup-02.jpg",
-"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/AFF%20Championship.m3u",
-"referer": "xxx",
-"info": " DAO-IPTV ",
-"import": false
-},
 
 {
 "name": "Documentary",
