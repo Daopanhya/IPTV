@@ -30,6 +30,34 @@
 ]
 },
 
+{
+"name": "อัพเดทล่าสุด",
+"author": "by DAO-IPTV",
+"image":"https://cdn.icon-icons.com/icons2/1918/PNG/512/iconfinder-document09-1622827_121958.png",
+"stations": [
+{
+"name": "17/12/2024",
+"image":"https://www.stabil.co.th/wp-content/uploads/2019/08/upd.png",
+"info": "แก้ไขช่องดับ เพิ่มช่องใหม่ ลบช่องดับ", 
+"emble": "true"
+},
+{
+"name": "รายงานช่องดับ",
+"image":"https://www.stabil.co.th/wp-content/uploads/2019/08/upd.png",
+"info": "LineID: @136lyyuh", 
+"emble": "true"
+},
+{
+"name":"โปรแกรมบอล ตารางบอล",
+"image":"https://www.stabil.co.th/wp-content/uploads/2019/08/upd.png",
+"imagefitxy":"true",
+ url: "https://www.thesabamynews.com/live-score/?sport=soccer",
+ "embed":"true"
+ },
+
+]
+},
+
 
 ]
 },
