@@ -1,14 +1,14 @@
 {
 "name": "อัพเดท",
-"author": "DAOHD TV",
+"author": "by DAO-IPTV",
 "groups": [
 {
 "name": "อัพเดทล่าสุด",
-"author": "DAOHD TV",
+"author": "by DAO-IPTV",
 "image":"https://cdn.icon-icons.com/icons2/1918/PNG/512/iconfinder-document09-1622827_121958.png",
 "stations": [
 {
-"name": "21/11/2024",
+"name": "17/12/2024",
 "image":"https://www.stabil.co.th/wp-content/uploads/2019/08/upd.png",
 "info": "แก้ไขช่องดับ เพิ่มช่องใหม่ ลบช่องดับ", 
 "emble": "true"
@@ -16,7 +16,7 @@
 {
 "name": "รายงานช่องดับ",
 "image":"https://www.stabil.co.th/wp-content/uploads/2019/08/upd.png",
-"info": "ID Line: @136lyyuh", 
+"info": "LineID: @136lyyuh", 
 "emble": "true"
 },
 {
