@@ -6,14 +6,6 @@
   "image": "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
 "groups": [
 {
-"name": "กดปุ่ม Update ก่อนดู 1 ครั้ง",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbY-zzpEbB_XfB6dQ3b3aWfTwS4TG6ey-yTeD7kHZsQ&s",
-"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/IPTV%20Main.w3u",
-"import": false
-},
-
-
-{
 "name": "Digital TV",
 "image":"https://jarndaotiam.com/img/product/digital-tv-logo.jpg",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%94%E0%BA%B5%E0%BA%88%E0%BA%B5%E0%BA%95%E0%BB%89%E0%BA%AD%E0%BA%99%E0%BA%97%E0%BA%B5%E0%BA%A7%E0%BA%B5.m3u",
@@ -98,7 +90,12 @@
 "info": "ภาพยนตร์ และ ซีรีย์",
 "import": false
 },
-
+{
+"name": "กดปุ่ม Update",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbY-zzpEbB_XfB6dQ3b3aWfTwS4TG6ey-yTeD7kHZsQ&s",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/IPTV%20Main.w3u",
+"import": false
+},
 ]
 }
 <html>
