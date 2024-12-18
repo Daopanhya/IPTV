@@ -1,13 +1,13 @@
 {
   "name": "กรุณาสมัครสมาชิก",
   "author": "DAO-IPTV",
-  "info": "สมัครสมาชิกปีละ 500 บาท",
+  "info": "สมัครสมาชิก 500 บาท ต่อปี",
   "image": "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
 "stations": [
 {
 "name": "สำหรับ VIP",
 "image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"info": "สมัครสมาชิกปีละ 500 บาท
+"info": "สมัครสมาชิก 500 บาท ต่อปี
 ติดต่อ admin LineID : @136lyyuh",
 "playInNatPlayer": "true"
 },
