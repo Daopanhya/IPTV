@@ -32,6 +32,14 @@
 "import": false
 },
 {
+"name": "Sports Inter",
+"image":"https://cdn.sportmonks.com/images//soccer/leagues/2/1538.png",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/Sports%20Inter.m3u",
+"referer": "xxx",
+"info": "ช่องกีฬาต่างประเทศ",
+"import": false
+},
+{
 "name": "Documentary",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgux1OcfXc2r1rWcbnWacC2-Bxn-6W7kXJ-Q&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%A5%E0%BA%B2%E0%BA%84%E0%BA%B2.w3u",
