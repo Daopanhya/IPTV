@@ -6,9 +6,18 @@
 "image": "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
 "groups": [
 {
+"name": "กดปุ่ม ที่เฟซ ก่อนดู",
+"image":"",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/IPTV%20Main.w3u.w3uhj",
+"import": false
+},
+
+
+
+{
 "name": "DAO-IPTV สำหรับ VIP (Mr.Dao 18/12/2024)",
 "image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%95%E0%BB%88%E0%BA%B2%E0%BA%87%E0%BB%86%20VIP.w3uhj",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%95%E0%BB%88%E0%BA%B2%E0%BA%87%E0%BB%86%20VIP.w3u",
 "info": " DAO-IPTV ",
 "import": false
 },
