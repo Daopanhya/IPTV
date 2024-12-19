@@ -256,6 +256,30 @@
 "playInNatPlayer": "true"
 },
 {
+name:"ATTV",
+image:"https://www.i-pic.info/i/HcyW361033.jpg",
+url:"http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"Mix Major Channel",
+image:"https://www.i-pic.info/i/0g1K339274.png",
+url:"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"TVB Thai",
+image:"https://www.i-pic.info/i/mqie339273.jpg",
+url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w68863317.m3u8",
+"referer": "",
+"info": "FHD",
+"playInNatPlayer": "true"
+},
+{
 "name":"Cartoon Club",
 "image":"https://www.i-pic.info/i/UvFp328533.jpg",
 "url": "https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist_w1788175224.m3u8",
