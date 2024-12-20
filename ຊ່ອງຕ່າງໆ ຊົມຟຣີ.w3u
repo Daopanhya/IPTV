@@ -91,6 +91,12 @@
 "info": "DAO-IPTV",
 "import": false
 },
+{
+"name": "กดปุ่มเพื่อ Update",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbY-zzpEbB_XfB6dQ3b3aWfTwS4TG6ey-yTeD7kHZsQ&s",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/IPTV%20Main.w3u",
+"import": false
+},
 ]
 }
 <html>
