@@ -90,12 +90,7 @@
 "info": "ภาพยนตร์ และ ซีรีย์",
 "import": false
 },
-{
-"name": "กดปุ่มเพื่อ Update",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbY-zzpEbB_XfB6dQ3b3aWfTwS4TG6ey-yTeD7kHZsQ&s",
-"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%95%E0%BB%88%E0%BA%B2%E0%BA%87%E0%BB%86%20%E0%BA%8A%E0%BA%BB%E0%BA%A1%E0%BA%9F%E0%BA%A3%E0%BA%B5.w3u",
-"import": false
-},
+
 ]
 }
 <html>
