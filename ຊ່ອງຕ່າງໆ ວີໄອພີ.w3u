@@ -95,7 +95,11 @@
 "info": "ภาพยนตร์ และ ซีรีย์",
 "import": false
 },
-
+{
+"name": "กดปุ่ม เพื่ออัพเดท",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-hbnXjcjDQAhTfylMT9F3jDL7qXDxfuAszWsr1mIkA&s",
+"info": "DAO-IPTV"
+},
 ]
 }
 <html>
