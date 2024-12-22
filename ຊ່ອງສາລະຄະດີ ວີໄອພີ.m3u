@@ -46,6 +46,14 @@
 "referer": "",
 "info":"HD 3bb",
 "playInNatPlayer": "true"},
+{
+name:"Discover SD",
+image:"https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truesci.m3u8",
+"referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+},
 
 
 
