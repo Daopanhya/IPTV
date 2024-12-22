@@ -71,18 +71,18 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "tennis HD",
-"image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
-"referer": "https://doolive4k.tv",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truetennis.m3u8",
-"info": "bestcommt2",
-"playInNatPlayer": "true"
-},
-{
 "name": "GOLF HD",
 "image": "https://cms.dmpcdn.com/livetv/2024/10/02/02fe91d0-8058-11ef-9b5d-17ffb08b9e67_webp_original.webp",
 "referer": "https://doolive4k.tv",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueGOLF.m3u8",
+"info": "bestcommt2",
+"playInNatPlayer": "true"
+},
+{
+"name": "tennis HD",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
+"referer": "https://doolive4k.tv",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truetennis.m3u8",
 "info": "bestcommt2",
 "playInNatPlayer": "true"
 },
