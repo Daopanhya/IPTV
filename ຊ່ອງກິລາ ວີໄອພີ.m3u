@@ -70,6 +70,70 @@
 "info": "bestcommt2",
 "playInNatPlayer": "true"
 },
+{
+"name": "tennis HD",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
+"referer": "https://doolive4k.tv",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truetennis.m3u8",
+"info": "bestcommt2",
+"playInNatPlayer": "true"
+},
+{
+"name": "GOLF HD",
+"image": "https://cms.dmpcdn.com/livetv/2024/10/02/02fe91d0-8058-11ef-9b5d-17ffb08b9e67_webp_original.webp",
+"referer": "https://doolive4k.tv",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueGOLF.m3u8",
+"info": "bestcommt2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Spotv1 SD",
+"image": "https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
+"referer": "https://doolive4k.tv",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truespotv1.m3u8",
+"info": "bestcommt2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Spotv2 SD",
+"image": "https://api-soccer.thai-play.com/images/tv/0RGV8VMgXBuGIyl2wEwkYWNpHDRpfk3spotv2.png",
+"referer": "https://doolive4k.tv",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truespotv2.m3u8",
+"info": "bestcommt2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ball THAI 1",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp",
+"referer": "https://doolive4k.tv",
+"url": "https://www.heng99bet.com/live/baygonhero1",
+"info": "bestcommt2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ball THAI 2",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",
+"referer": "https://doolive4k.tv",
+"url": "https://www.heng99bet.com/live/baygonhero2",
+"info": "bestcommt2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ball THAI 3",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",
+"referer": "https://doolive4k.tv",
+"url": "https://www.heng99bet.com/live/baygonhero3",
+"info": "bestcommt2",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ball THAI 4",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",
+"referer": "https://doolive4k.tv",
+"url": "https://www.heng99bet.com/live/baygonhero4",
+"info": "bestcommt2",
+"playInNatPlayer": "true"
+},
 
 {
 "name": "bein1 SD",
@@ -160,22 +224,8 @@
 "info": "bestcommt2",
 "playInNatPlayer": "true"
 },
-{
-"name": "Spotv1 SD",
-"image": "https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
-"referer": "https://doolive4k.tv",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truespotv1.m3u8",
-"info": "bestcommt2",
-"playInNatPlayer": "true"
-},
-{
-"name": "Spotv2 SD",
-"image": "https://api-soccer.thai-play.com/images/tv/0RGV8VMgXBuGIyl2wEwkYWNpHDRpfk3spotv2.png",
-"referer": "https://doolive4k.tv",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truespotv2.m3u8",
-"info": "bestcommt2",
-"playInNatPlayer": "true"
-},
+
+
 
 
 {
