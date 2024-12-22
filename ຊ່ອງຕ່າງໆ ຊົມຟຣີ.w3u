@@ -12,13 +12,6 @@
 "emble": "true"
 },
 {
-"name": "สำหรับ VIP",
-"image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"info": "สนับสนุนค่าอินเตอร์เน็ต
-ติดต่อ LineID : @136lyyuh",
-"playInNatPlayer": "true"
-},
-{
 "name": "Digital TV",
 "image":"https://jarndaotiam.com/img/product/digital-tv-logo.jpg",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%94%E0%BA%B5%E0%BA%88%E0%BA%B5%E0%BA%95%E0%BB%89%E0%BA%AD%E0%BA%99%E0%BA%97%E0%BA%B5%E0%BA%A7%E0%BA%B5.m3u",
