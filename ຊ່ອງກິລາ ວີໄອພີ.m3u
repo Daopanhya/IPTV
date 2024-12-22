@@ -364,17 +364,17 @@
 {
 "name": "AIS 1",
 "image": "https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
-"url":"https://dolive.thaim3u.com/doolive4k-tv/football-play-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAxMjo0NDowMSBQTSZoYXNoX3ZhbHVlPU1WWi92R2tiNy9FU2czY1pZVDMxbUE9PSZ2YWxpZG1pbnV0ZXM9NjA=",
+"url":"https://dolive.thaim3u.com/xstream/football-play-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNCAzOjQwOjUwIFBNJmhhc2hfdmFsdWU9ZXJCVXVEU09GK1FXVzdUNmVja0pDdz09JnZhbGlkbWludXRlcz02MA==",
 "referer": "https://doolive4k.tv",
-"info": "doolive4k",
+"info": "dooballfree",
 "playInNatPlayer": "true"
 },
  {
 "name": "AIS 2",
 "image": "https://api-soccer.thai-play.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png",
-"url":"https://dolive.thaim3u.com/doolive4k-tv/football-play-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAxMjozNjozNiBQTSZoYXNoX3ZhbHVlPU5FMlVXakUyYkxOSEFxWjBlQnNzc1E9PSZ2YWxpZG1pbnV0ZXM9NjA=",
+"url":"https://dolive.thaim3u.com/xstream/football-play-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNCAzOjQwOjUwIFBNJmhhc2hfdmFsdWU9ZXJCVXVEU09GK1FXVzdUNmVja0pDdz09JnZhbGlkbWludXRlcz02MA==",
 "referer": "https://doolive4k.tv",
-"info": "doolive4k",
+"info": "dooballfree",
 "playInNatPlayer": "true"
 },
 
