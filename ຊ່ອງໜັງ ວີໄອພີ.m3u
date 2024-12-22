@@ -63,7 +63,7 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 
 {
 name:"CINEMAX",
-image:" ",
+image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/CINEMAX.m3u8",
 "referer": "",
 "info": "HD",
@@ -130,7 +130,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefil
 },
 {
 name:"HBOFAMILY",
-image:" ",
+image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOFAMILY.m3u8",
 "referer": "",
 "info": "HD",
@@ -138,7 +138,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOFAMI
 },
 {
 name:"HBOHits",
-image:" ",
+image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOHits.m3u8",
 "referer": "",
 "info": "HD",
@@ -146,7 +146,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOHits
 },
 {
 name:"HBO Signature",
-image:" ",
+image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOSignature.m3u8",
 "referer": "",
 "info": "HD",
@@ -154,7 +154,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOSign
 },
 {
 name:"HBO THAI",
-image:" ",
+image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOTHAI.m3u8",
 "referer": "",
 "info": "HD",
