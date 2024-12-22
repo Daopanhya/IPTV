@@ -7,7 +7,7 @@
 "stations" : [
 {
 name:"ASIAN FOODCHANNE",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PewDk8NKPwC6HnNQdt8T4Z_WYvOMNZEa8Q&usqp=CAU",
+image:"https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/ASIANFOODCHANNE.m3u8",
 "referer": " ",
 "info": "HD",
@@ -15,7 +15,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/ASIANFO
 },
 {
 name:"food network",
-image:" ",
+image:"https://cms.dmpcdn.com/livetv/2024/09/19/7cb78180-7635-11ef-9b8e-f1050cb6cdf7_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/foodnetwork.m3u8",
 "referer": " ",
 "info": "HD",
@@ -23,7 +23,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/foodnet
 },
 {
 name:"rock entertainmentred",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkZDeBql7MeoWAvaB8V1yT6CCaVROFNVDdw&usqp=CAU",
+image:"https://cms.dmpcdn.com/livetv/2023/05/26/e390ce10-fb8a-11ed-bc37-ad85dfabfb01_webp_original.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/rockentertainmentred.m3u8",
 "referer": " ",
 "info": "HD",
@@ -31,7 +31,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/rockent
 },
 {
 name:"AXN",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",
+image:"https://cms.dmpcdn.com/livetv/2023/05/26/df51c4d0-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueAXN.m3u8",
 "referer": " ",
 "info": "HD",
@@ -39,7 +39,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueAXN
 },
 {
 name:"explorelife",
-image:" ",
+image:"https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueexplorelife.m3u8",
 "referer": " ",
 "info": "HD",
@@ -47,7 +47,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueexp
 },
 {
 name:"exploresci",
-image:" ",
+image:"https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueexploresci.m3u8",
 "referer": " ",
 "info": "HD",
@@ -55,7 +55,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueexp
 },
 {
 name:"xzyte",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWjF4Uuo8Kpr1Q9sq3HpQJaTZXcG2WkgO5w&usqp=CAU",
+image:"https://cms.dmpcdn.com/livetv/2024/03/01/2043f300-d79f-11ee-b9a6-6d06a62b7aad_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truexzyte.m3u8",
 "referer": " ",
 "info": "HD",
@@ -63,7 +63,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truexzy
 },
 {
 name:"wb",
-image:" ",
+image:"https://cms.dmpcdn.com/livetv/2024/03/01/20655db0-d79f-11ee-a1d7-1d3bb4bf9c13_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truewb.m3u8",
 "referer": " ",
 "info": "HD",
@@ -95,7 +95,7 @@ url:"https://github.com/bestcommt2/m3u8/blob/master/truelifetime.m3u8",
 },
 {
 name:"ccm",
-image:" ",
+image:"https://cms.dmpcdn.com/livetv/2023/07/03/52962a90-195d-11ee-8d1b-f5f88b5481b0_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueccm.m3u8",
 "referer": " ",
 "info": "HD",
