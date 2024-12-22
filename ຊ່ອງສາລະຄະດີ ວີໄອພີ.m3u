@@ -54,6 +54,14 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truesci
 "info": "HD",
 "playInNatPlayer": "true"
 },
+{
+name:"History",
+image:"https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truehistroy.m3u8",
+"referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+},
 
 
 
