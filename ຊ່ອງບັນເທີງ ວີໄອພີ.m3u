@@ -69,22 +69,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truewb.
 "info": "HD",
 "playInNatPlayer": "true"
 },
-{
-name:"sci",
-image:" ",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truesci.m3u8",
-"referer": " ",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-{
-name:"life",
-image:" ",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truelife.m3u8",
-"referer": " ",
-"info": "HD",
-"playInNatPlayer": "true"
-},
+
 {
 name:"lifetime",
 image:" ",
