@@ -61,14 +61,6 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truexzy
 "info": "HD",
 "playInNatPlayer": "true"
 },
-{
-name:"wb",
-image:"https://cms.dmpcdn.com/livetv/2024/03/01/20655db0-d79f-11ee-a1d7-1d3bb4bf9c13_webp_original.webp",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truewb.m3u8",
-"referer": " ",
-"info": "HD",
-"playInNatPlayer": "true"
-},
 
 {
 name:"lifetime",
@@ -78,14 +70,7 @@ url:"https://github.com/bestcommt2/m3u8/blob/master/truelifetime.m3u8",
 "info": "HD",
 "playInNatPlayer": "true"
 },
-{
-name:"ccm",
-image:"https://cms.dmpcdn.com/livetv/2023/07/03/52962a90-195d-11ee-8d1b-f5f88b5481b0_webp_original.webp",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueccm.m3u8",
-"referer": " ",
-"info": "HD",
-"playInNatPlayer": "true"
-},
+
 {
 name:"tlc",
 image:" ",
