@@ -133,25 +133,9 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueccm
 "playInNatPlayer": "true"
 },
 {
-name:"CINEMAX",
-image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/CINEMAX.m3u8",
-"referer": "",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-{
-name:"HBOFAMILY",
-image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOFAMILY.m3u8",
-"referer": "",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-{
-name:"HBOHits",
-image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOHits.m3u8",
+name:"HBO THAI",
+image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOTHAI.m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -165,9 +149,25 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOSign
 "playInNatPlayer": "true"
 },
 {
-name:"HBO THAI",
-image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOTHAI.m3u8",
+name:"HBOHits",
+image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOHits.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"HBOFAMILY",
+image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOFAMILY.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"CINEMAX",
+image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/CINEMAX.m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -179,7 +179,6 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOTHAI
 "embed": "true",
 "info": "สำหลับโทรศัพท์",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-
 {
 "name": "HBO",
 "image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",
@@ -188,7 +187,20 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOTHAI
 "embed": "true",
 "info": "สำหลับโทรศัพท์",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-
+{
+"name":"HBO SIGNATURE",
+"image":"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",
+"url":"https://wandering-oldman.github.io/3bb-hbo-signature/3bb-hbo-signature.html",
+"embed": "true",
+"info": "สำหลับโทรศัพท์",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{
+"name": "HBO HITS",
+"image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",
+"url": "https://wandering-oldman.github.io/3bb-hbo-hits/3bb-hbo-hits.html",
+"embed": "true",
+"info": "สำหลับโทรศัพท์",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 {
 "name": "HBO family",
 "image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",
@@ -197,15 +209,6 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOTHAI
 "embed": "true",
 "info": "สำหลับโทรศัพท์",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-
-{
-"name": "HBO HITS",
-"image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",
-"url": "https://wandering-oldman.github.io/3bb-hbo-hits/3bb-hbo-hits.html",
-"embed": "true",
-"info": "สำหลับโทรศัพท์",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-
 {
 "name":"Cinemax",
 "image":"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
@@ -213,15 +216,6 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOTHAI
 "embed": "true",
 "info": "สำหลับโทรศัพท์",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-
-{
-"name":"HBO SIGNATURE",
-"image":"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",
-"url":"https://wandering-oldman.github.io/3bb-hbo-signature/3bb-hbo-signature.html",
-"embed": "true",
-"info": "สำหลับโทรศัพท์",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
-
 {
 "name":" 3bb-mono29plus ™ ",
 "image":"https://dl.dropbox.com/scl/fi/spi5xwl4vo2nv6yhi1unc/mono-plus.jpg?rlkey=2c1ki02ph5hnw2ac1wdzfc68c&dl=0",
