@@ -60,25 +60,22 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "info": "HD",
 "playInNatPlayer": "true"
 },
-
 {
-name:"CINEMAX",
-image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/CINEMAX.m3u8",
+name:"wb",
+image:"https://cms.dmpcdn.com/livetv/2024/03/01/20655db0-d79f-11ee-a1d7-1d3bb4bf9c13_webp_original.webp",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truewb.m3u8",
+"referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"Moviehit",
+image:"https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truemoviehit.m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
 },
-
-{
-name:"Asiamove",
-image:"https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueasiamove.m3u8",
-"referer": "",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-
 {
 name:"Filmasia",
 image:"https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
@@ -96,6 +93,30 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truetha
 "playInNatPlayer": "true"
 },
 {
+name:"Film1",
+image:"https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefilm1.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"Film2",
+image:"https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefilm2.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"Asiamove",
+image:"https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueasiamove.m3u8",
+"referer": "",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
 name:"Series",
 image:"https://cms.dmpcdn.com/livetv/2024/03/01/201c6dd0-d79f-11ee-afcd-214a368edc48_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueseries.m3u8",
@@ -104,26 +125,17 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueser
 "playInNatPlayer": "true"
 },
 {
-name:"Moviehit",
-image:"https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truemoviehit.m3u8",
-"referer": "",
+name:"ccm",
+image:"https://cms.dmpcdn.com/livetv/2023/07/03/52962a90-195d-11ee-8d1b-f5f88b5481b0_webp_original.webp",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueccm.m3u8",
+"referer": " ",
 "info": "HD",
 "playInNatPlayer": "true"
 },
 {
-name:"Film1",
-image:"https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefilm1.m3u8",
-"referer": "",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-
-{
-name:"Film2",
-image:"https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefilm2.m3u8",
+name:"CINEMAX",
+image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/CINEMAX.m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
