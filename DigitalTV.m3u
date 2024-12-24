@@ -75,11 +75,7 @@
 "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8",
 "referer": "",
 "info": "Auto",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd",
+"url": "http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -88,11 +84,7 @@
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_workpoint/hd_workpoint.stream?type=m3u8",
 "referer": "",
 "info": "HD",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27159",
 "playInNatPlayer": "true"
 },
 {
@@ -101,11 +93,7 @@
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/true4u/true4u.stream?type=m3u8",
 "referer": "",
 "info": "HD",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd",
+"url": "https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1735055278&x_ark_path_prefix=%2Flive%2F&x_ark_signature=sIq-Mi_5HaLFE4J0sbN0Ig",
 "playInNatPlayer": "true"
 },
 {
@@ -114,11 +102,7 @@
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/gmm25/gmm25.stream?type=m3u8",
 "referer": "",
 "info": "HD",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27153",
 "playInNatPlayer": "true"
 },
 {
@@ -127,11 +111,7 @@
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/ch8/ch8.stream?type=m3u8",
 "referer": "",
 "info": "HD",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27147",
 "playInNatPlayer": "true"
 },
 {
@@ -140,11 +120,8 @@
 "url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w1512931905.m3u8",
 "referer": "",
 "info": "HD",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
 "KODIPROP": "inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
+"url": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -153,11 +130,7 @@
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8",
 "referer": "",
 "info": "HD",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd",
+"url": "https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/master.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -166,11 +139,7 @@
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_one/hd_one.stream?type=m3u8",
 "referer": "",
 "info": "HD",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27140",
 "playInNatPlayer": "true"
 },
 {
@@ -179,11 +148,7 @@
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_thairath/hd_thairath.stream?type=m3u8",
 "referer": "",
 "info": "HD",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27138",
 "playInNatPlayer": "true"
 },
 {
@@ -192,11 +157,7 @@
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_3/hd3.stream?type=m3u8",
 "referer": "",
 "info": "HD",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27137",
 "playInNatPlayer": "true"
 },
 {
@@ -205,11 +166,7 @@
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_amarin/hdamarin.stream?type=m3u8",
 "referer": "",
 "info": "HD",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27135",
 "playInNatPlayer": "true"
 },
 {
@@ -218,11 +175,7 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": " ",
 "info": "HD",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd",
+"url": "http://streaming-hwc.ch7.com/livech7hd/HD.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -231,11 +184,7 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": " ",
 "info": "HD",
-"KODIPROP": "inputstreamaddon=inputstream.adaptive",
-"KODIPROP": "inputstream.adaptive.manifest_type=dash",
-"KODIPROP": "inputstream.adaptive.license_type=clearkey",
-"KODIPROP": "inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31",
-"url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27129",
 "playInNatPlayer": "true"
 },
 
