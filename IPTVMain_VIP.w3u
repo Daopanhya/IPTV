@@ -15,9 +15,9 @@
 
 
 {
-"name": "สำหรับ VIP (Daokkk)",
+"name": "VIP-Daokkk",
 "image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/%E0%BA%A5%E0%BA%B2%E0%BA%84%E0%BA%B2.w3ugu",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/support.w3ugu",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/Channel_VIP.w3u",
 "info": " DAO-IPTV ",
 "import": false
@@ -27,7 +27,6 @@
 "name": "ดูฟรี",
 "image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/Channel_Free.w3u",
-"referer": "xxx",
 "info": " DAO-IPTV ",
 "import": false
 },
