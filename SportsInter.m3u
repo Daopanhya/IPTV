@@ -5,6 +5,31 @@
   "info": "DAO-IPTV",
 "stations" : [
 {
+"name": "TNTsports1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--91.png",
+"url":"https://www.heng99bet.com/live/tntsports1",
+"referer": "https://www.heng99bet.com",
+"info": "heng99bet",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Skysportsfootball",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--91.png",
+"url":"https://www.heng99bet.com/live/skysportsfootball",
+"referer": "https://www.heng99bet.com",
+"info": "heng99bet",
+"playInNatPlayer": "true"
+},
+{
+"name": "Supersportfootballza",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--295.png",
+"url":"https://www.heng99bet.com/live/supersportfootballza",
+"referer": "https://www.heng99bet.com",
+"info": "heng99bet",
+"playInNatPlayer": "true"
+},
+{
 "name": "pt-sport-tv-1",
 "image": "https://api-soccer.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
 "url":"https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%201%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAxMjo0ODozOCBQTSZoYXNoX3ZhbHVlPWhPd2xJVjQrZWhqUTVaQmNrM3ljV1E9PSZ2YWxpZG1pbnV0ZXM9NjA=",
