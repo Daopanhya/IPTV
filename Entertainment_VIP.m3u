@@ -62,47 +62,6 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truexzy
 "playInNatPlayer": "true"
 },
 
-{
-name:"lifetime",
-image:" ",
-url:"https://github.com/bestcommt2/m3u8/blob/master/truelifetime.m3u8",
-"referer": " ",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-
-{
-name:"tlc",
-image:" ",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/tlc.m3u8",
-"referer": " ",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-{
-name:"nktv",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3RPhKP9TvzYKL2p3jMFSKOYZzFCUseC55w&usqp=CAU",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/nktv.m3u8",
-"referer": " ",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-{
-name:"cn",
-image:" ",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/cn.m3u8",
-"referer": " ",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-{
-name:"ci",
-image:" ",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/ci.m3u8.m3u8",
-"referer": " ",
-"info": "HD",
-"playInNatPlayer": "true"
-},
 ]
 }
 <html>
