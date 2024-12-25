@@ -48,29 +48,30 @@
 },
 {
 name:"Nicklodeon",
-image:" ",
+image:"https://cms.dmpcdn.com/livetv/2024/02/04/a1d68100-c37a-11ee-b1bf-63790d8d492b_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/nicklodeon.m3u8",
 "referer": " ",
 "info": "HD",
 "playInNatPlayer": "true"
 },
 {
+name:"cartoon-network",
+image:"https://cms.dmpcdn.com/livetv/2023/05/26/df4ff010-fb8a-11ed-85ca-7d9b373a85e7_webp_original.png",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/cn.m3u8",
+"referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
 name:"Dreamworks",
-image:" ",
+image:"https://cms.dmpcdn.com/livetv/2021/09/28/0495d070-2012-11ec-9629-7dc4459cd94d_webp_original.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truedreamworks.m3u8",
 "referer": " ",
 "info": "HD",
 "playInNatPlayer": "true"
 },
 
-{
-name:"cartoon-network",
-image:"https://www.dropbox.com/scl/fi/ek0eih6wogwequqn4vj0s/cartoon-network.png?rlkey=ibp7fumnq9ehgmfckvugs2y30&dl=1",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/cn.m3u8",
-"referer": " ",
-"info": "HD",
-"playInNatPlayer": "true"
-},
+
 
 {
 "name":"cartoon-network",
