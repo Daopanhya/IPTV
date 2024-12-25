@@ -47,6 +47,14 @@
 "playInNatPlayer": "true"
 },
 {
+name:"Sparkplay",
+image:"",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truesparkplay.m3u8",
+"referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
 name:"Nicklodeon",
 image:"https://cms.dmpcdn.com/livetv/2024/02/04/a1d68100-c37a-11ee-b1bf-63790d8d492b_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/nicklodeon.m3u8",
