@@ -46,6 +46,22 @@
 "info": "HD สำรอง",
 "playInNatPlayer": "true"
 },
+{
+name:"Nicklodeon",
+image:" ",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/nicklodeon.m3u8",
+"referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"Dreamworks",
+image:" ",
+url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truedreamworks.m3u8",
+"referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+},
 
 {
 name:"cartoon-network",
