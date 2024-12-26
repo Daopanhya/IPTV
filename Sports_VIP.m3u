@@ -5,10 +5,10 @@
   "info": "DAO-IPTV",
 "stations" : [
 {
-"name": "epl1 SD",
+"name": "epl1 HD",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
 "url": "https://www.heng99bet.com/live/epl1",
-"info": "dooballfree",
+"info": "heng99bet",
 "playInNatPlayer": "true"
 },
 {
@@ -20,11 +20,11 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "epl2 SD",
+"name": "epl2 HD",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",
 "url": "https://www.heng99bet.com/live/epl2",
 "referer": "https://doolive4k.tv",
-"info": "dooballfree",
+"info": "heng99bet",
 "playInNatPlayer": "true"
 },
 {
@@ -36,11 +36,11 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "epl3 SD",
+"name": "epl3 HD",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",
 "url": "https://www.heng99bet.com/live/epl3",
 "referer": "https://doolive4k.tv",
-"info": "dooballfree",
+"info": "heng99bet",
 "playInNatPlayer": "true"
 },
 {
@@ -51,14 +51,7 @@
 "info": "bestcommt2",
 "playInNatPlayer": "true"
 },
-{
-"name": "epl4 SD",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.png",
-"url": "https://www.heng99bet.com/live/epl4",
-"referer": "https://doolive4k.tv",
-"info": "dooballfree",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "epl4 HD",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.png",
@@ -67,14 +60,7 @@
 "info": "heng99bet",
 "playInNatPlayer": "true"
 },
-{
-"name": "epl5 SD",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png",
-"url": "https://www.heng99bet.com/live/epl5",
-"referer": "https://doolive4k.tv",
-"info": "dooballfree",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "epl5 HD",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png",
@@ -154,14 +140,6 @@
 
 
 {
-"name": "beIN SPORTS 1 SD",
-"image": "https://dookeela.live/uploads/1664500365.png",
-"url": "https://dolive.thaim3u.com/xstream/siamsport-6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNCA5OjM0OjIyIEFNJmhhc2hfdmFsdWU9Zlc5UTZaNmZTcW44VkhGZEVuM0xYZz09JnZhbGlkbWludXRlcz02MA==",
-"referer": "https://dooballfree.com",
-"info": "dooballfree",
-"playInNatPlayer": "true"
-},
-{
 "name": "beIN SPORTS 1 HD",
 "image": "https://www.heng99bet.com/wp-content/uploads/2022/10/tv-station-1077-2.png",
 "url": "https://www.heng99bet.com/live/bein1",
@@ -191,14 +169,7 @@
 "info": "bestcommt2",
 "playInNatPlayer": "true"
 },
-{
-"name": "beIN SPORTS 3 SD",
-"image": "https://dookeela.live/uploads/1663980670.png",
-"referer": "https://doolive4k.tv",
-"url": "https://dolive.thaim3u.com/xstream/siamsport-7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNCA5OjM0OjIyIEFNJmhhc2hfdmFsdWU9Zlc5UTZaNmZTcW44VkhGZEVuM0xYZz09JnZhbGlkbWludXRlcz02MA==",
-"referer": "https://dooballfree.com",
-"info": "dooballfree"
-},
+
 {
 "name": "beIN SPORTS 3 HD",
 "image": "https://www.heng99bet.com/wp-content/uploads/2022/10/tv-station-1079.png",
@@ -261,14 +232,7 @@
 "info": "heng99bet",
 "playInNatPlayer": "true"
 },
-{
-"name": "True Sports 2 SD",
-"image": "https://dookeela.live/uploads/1664499966.png",
-"url": "https://dolive.thaim3u.com/xstream/siamsport-9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyNCAxOjMwOjQwIFBNJmhhc2hfdmFsdWU9b2ZxQlBmUy80SUZ6TGViUkhzVWlEUT09JnZhbGlkbWludXRlcz02MA==ZhbHVlPVdpanQ1Y1FpMkJvRWRocFlFbHlJWUE9PSZ2YWxpZG1pbnV0ZXM9NjA=",
-"referer": "https://dooballfree.com",
-"info": "dooballfree",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "True Sports 2 HD",
 "image": "https://dookeela.live/uploads/1664499966.png",
