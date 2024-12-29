@@ -7,8 +7,8 @@
 {
 "name": "epl1 HD",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
-"url": "https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist_w164407012.m3u8",
-"info": "fw4free",
+"url": "https://fw4free.inwstream.com/fw4free/ch1.stream/playlist.m3u8",
+"info": "fw4free1",
 "playInNatPlayer": "true"
 },
 {
@@ -22,8 +22,8 @@
 {
 "name": "epl2 HD",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",
-"url": "https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist_w1990658350.m3u8",
-"referer": "https://doolive4k.tv",
+"url": "https://fw4free.inwstream.com/fw4free/ch2.stream/playlist.m3u8",
+"referer": "https://fw4free.com",
 "info": "fw4free",
 "playInNatPlayer": "true"
 },
