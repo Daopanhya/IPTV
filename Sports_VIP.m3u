@@ -13,7 +13,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "epl1 HD",
+"name": "epl1 SD",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
 "url": "https://dolive.thaim3u.com/xstream/siamsport-1/chunks.m3u8?nimblesessionid=119355172&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCA0OjA2OjM3IEFNJmhhc2hfdmFsdWU9c0g1ek51NHdva3lyQU4wbElBSFZHQT09JnZhbGlkbWludXRlcz02MA==",
 "referer": "https://dooballfree.com",
@@ -37,7 +37,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "epl2 HD",
+"name": "epl2 SD",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",
 "url": "https://dolive.thaim3u.com/xstream/siamsport-2/chunks.m3u8?nimblesessionid=119354867&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCA0OjA2OjM3IEFNJmhhc2hfdmFsdWU9c0g1ek51NHdva3lyQU4wbElBSFZHQT09JnZhbGlkbWludXRlcz02MA==",
 "referer": "https://dooballfree.com",
@@ -86,7 +86,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "epl4 HD",
+"name": "epl4 SD",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.png",
 "url": "https://dolive.thaim3u.com/xstream/siamsport-4/chunks.m3u8?nimblesessionid=119353931&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCA0OjA2OjM3IEFNJmhhc2hfdmFsdWU9c0g1ek51NHdva3lyQU4wbElBSFZHQT09JnZhbGlkbWludXRlcz02MA==",
 "referer": "https://dooballfree.com",
@@ -94,7 +94,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "epl5 HD",
+"name": "epl5 SD",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png",
 "url": "https://dolive.thaim3u.com/xstream/siamsport-5/chunks.m3u8?nimblesessionid=119351553&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCA0OjAwOjQxIEFNJmhhc2hfdmFsdWU9bUwvQ2xuQzg1bXdONXQ2YWd1eEx0QT09JnZhbGlkbWludXRlcz02MA==",
 "referer": "https://dooballfree.com",
