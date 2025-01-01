@@ -1,7 +1,7 @@
 {
 "name": "Sports",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV   (อัพเดท 29/12/2024)",
+"author": "by DAO-IPTV   (อัพเดท 1/1/2025)",
   "info": "DAO-IPTV",
 "stations" : [
 {
@@ -227,34 +227,7 @@
 "info": "bestcom",
 "playInNatPlayer": "true"
 },
-{
-"name": "beIN SPORTS 4 HD",
-"image": "https://www.heng99bet.com/wp-content/uploads/2022/10/tv-station-1080.png",
-"url": "https://www.heng99bet.com/live/bein4",
-"referer": "https://www.heng99bet.com/",
-"info": "heng99"
-},
-{
-"name": "beIN SPORTS 5 HD",
-"image": "https://www.heng99bet.com/wp-content/uploads/2022/10/tv-station-4610.png",
-"url": "https://www.heng99bet.com/live/bein5",
-"referer": "https://www.heng99bet.com/",
-"info": "heng99"
-},
-{
-"name": "beIN SPORTS 6 HD",
-"image": "https://www.heng99bet.com/wp-content/uploads/2022/10/tv-station-4611.png",
-"url": "https://www.heng99bet.com/live/bein6",
-"referer": "https://www.heng99bet.com/",
-"info": "heng99"
-},
-{
-"name": "beIN SPORTS 7 HD",
-"image": "https://www.heng99bet.com/wp-content/uploads/2022/10/tv-station-4612.png",
-"url": "https://www.heng99bet.com/live/bein7",
-"referer": "https://www.heng99bet.com/",
-"info": "heng99"
-},
+
 
 
 {
