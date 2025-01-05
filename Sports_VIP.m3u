@@ -1,7 +1,7 @@
 {
 "name": "Sports",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV   (อัพเดท 1/1/2025)",
+"author": "by DAO-IPTV   (อัพเดท 5/1/2025)",
   "info": "DAO-IPTV",
 "stations" : [
 {
@@ -9,7 +9,7 @@
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
 "url": "https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com",
-"info": "SD doomovie",
+"info": "HD doomovie",
 "playInNatPlayer": "true"
 },
 {
@@ -42,7 +42,7 @@
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",
 "url": "https://219.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com",
-"info": "SD doomovie",
+"info": "HD doomovie",
 "playInNatPlayer": "true"
 },
 {
@@ -75,7 +75,7 @@
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",
 "url": "https://219.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com",
-"info": "SD doomovie",
+"info": "HD doomovie",
 "playInNatPlayer": "true"
 },
 {
@@ -86,14 +86,7 @@
 "info": "SD dooballfr",
 "playInNatPlayer": "true"
 },
-{
-"name": "epl3 - 2",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",
-"url": "https://www.heng99bet.com/live/epl3",
-"referer": "https://doolive4k.tv",
-"info": "HD heng99",
-"playInNatPlayer": "true"
-},
+
 
 {
 "name": "epl3 - 3",
