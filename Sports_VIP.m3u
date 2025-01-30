@@ -267,6 +267,7 @@ name:"BEIN SPORT 1 TH",
 image:"https://dookeela.live/uploads/1664500365.png",
 "url":"https://dooballkub.com/live/?bein1",
 "referer": "",
+"info": "dooballku",
 "playInNatPlayer": "true"
 },
 {
@@ -274,6 +275,7 @@ name:"BEIN SPORT 2 TH",
 image:"https://dookeela.live/uploads/1690843424.png",
 "url":"https://dooballkub.com/live/?bein2",
 "referer": "",
+"info": "dooballku",
 "playInNatPlayer": "true"
 },
 {
@@ -281,6 +283,7 @@ name:"BEIN SPORT 3 TH",
 image:"https://dookeela.live/uploads/1663980670.png",
 "url":"https://dooballkub.com/live/?bein3",
 "referer": "",
+"info": "dooballku",
 "playInNatPlayer": "true"
 },
 {
@@ -288,6 +291,7 @@ name:"BEIN SPORT 4 TH",
 image:"https://dookeela.live/uploads/1692816640.png",
 "url":"https://dooballkub.com/live/?bein4",
 "referer": "",
+"info": "dooballku",
 "playInNatPlayer": "true"
 },
 {
@@ -295,6 +299,7 @@ name:"BEIN SPORT 5 TH",
 image:"https://dookeela.live/uploads/1693290376.png",
 "url":"https://dooballkub.com/live/?bein5",
 "referer": "",
+"info": "dooballku",
 "playInNatPlayer": "true"
 },
 {
@@ -302,6 +307,7 @@ name:"BEIN SPORT 6 TH",
 image:"https://dookeela.live/uploads/1694719513.png",
 "url":"https://dooballkub.com/live/?bein6",
 "referer": "",
+"info": "dooballku",
 "playInNatPlayer": "true"
 },
 {
@@ -309,6 +315,7 @@ name:"BEIN SPORT 7 TH",
 image:"https://dookeela.live/uploads/1694719622.png",
 "url":"https://dooballkub.com/live/?bein7",
 "referer": "",
+"info": "dooballku",
 "playInNatPlayer": "true"
 },
 
@@ -324,9 +331,9 @@ image:"https://dookeela.live/uploads/1694719622.png",
 {
 "name": "True Sports HD",
 "image": "https://dookeela.live/uploads/1664802455.png",
-"referer": "https://www.heng99bet.com/",
-"url": "https://www.heng99bet.com/live/truesporthd",
-"info": "heng99",
+"referer": "https://dooballkub.com",
+"url": "https://dooballkub.com/live/?truesporthd",
+"info": "dooballku",
 "playInNatPlayer": "true"
 },
 
@@ -342,8 +349,8 @@ image:"https://dookeela.live/uploads/1694719622.png",
 "name": "True Sports 2 HD",
 "image": "https://dookeela.live/uploads/1664499966.png",
 "referer": " ",
-"url": "https://www.heng99bet.com/live/truesporthd2",
-"info": "heng99",
+"url": "https://dooballkub.com/live/?truesporthd2",
+"info": "dooballku",
 "playInNatPlayer": "true"
 },
 {
@@ -358,8 +365,8 @@ image:"https://dookeela.live/uploads/1694719622.png",
 "name": "True Sports 3 HD",
 "image": "https://dookeela.live/uploads/1664802480.png",
 "referer": " ",
-"url": "https://www.heng99bet.com/live/truesporthd3",
-"info": "heng99",
+"url": "https://dooballkub.com/live/?truesporthd3",
+"info": "dooballku",
 "playInNatPlayer": "true"
 },
 
@@ -384,8 +391,8 @@ image:"https://dookeela.live/uploads/1694719622.png",
 "name": "True Sports 5",
 "image": "https://dookeela.live/uploads/1664847910.png",
 "referer": "https://doolive4k.tv",
-"url": "https://www.heng99bet.com/live/truesport5",
-"info": "heng99",
+"url": "https://dooballkub.com/live/?truesport5",
+"info": "dooballku",
 "playInNatPlayer": "true"
 },
 {
@@ -400,8 +407,8 @@ image:"https://dookeela.live/uploads/1694719622.png",
 "name": "True Sports 7",
 "image": "https://dookeela.live/uploads/1664847921.png",
 "referer": "https://www.madoohd.com/",
-"url": "https://www.heng99bet.com/live/truesport7",
-"info": "heng99",
+"url": "https://dooballkub.com/live/?truesport7",
+"info": "dooballku",
 "playInNatPlayer": "true"
 },
 
