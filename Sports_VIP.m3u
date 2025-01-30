@@ -1,7 +1,7 @@
 {
 "name": "Sports",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV   (อัพเดท 21/1/2025)",
+"author": "by DAO-IPTV   (อัพเดท 30/1/2025)",
   "info": "DAO-IPTV",
 "stations" : [
 {
@@ -301,6 +301,13 @@ image:"https://dookeela.live/uploads/1693290376.png",
 name:"BEIN SPORT 6 TH",
 image:"https://dookeela.live/uploads/1694719513.png",
 "url":"https://dooballkub.com/live/?bein6",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+name:"BEIN SPORT 7 TH",
+image:"https://dookeela.live/uploads/1694719622.png",
+"url":"https://dooballkub.com/live/?bein7",
 "referer": "",
 "playInNatPlayer": "true"
 },
