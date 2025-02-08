@@ -1,7 +1,7 @@
 {
 "name": "Sports",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV   (อัพเดท 1/2/2025)",
+"author": "by DAO-IPTV   (อัพเดท 8/2/2025)",
   "info": "DAO-IPTV",
 "stations" : [
 {
@@ -114,31 +114,6 @@
 },
 {
 "name": "epl5 - 1",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png",
-"url": "https://switch.thaim3u.com/xstream/siamsport-5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCAxOjAyOjIyIFBNJmhhc2hfdmFsdWU9VjhMUG1KL1d0RHV4RDNERHl1SjJCZz09JnZhbGlkbWludXRlcz02MA==",
-"referer": " ",
-"info": "SD dooballfr",
-"playInNatPlayer": "true"
-},
-{
-"name": "epl5 - 2",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png",
-"url": "https://219.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8",
-"referer": " ",
-"info": "HD doomovie",
-"playInNatPlayer": "true"
-},
-{
-"name": "epl5 - 3",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png",
-"url": "https://dooballkub.com/live/?epl5",
-"referer": " ",
-"info": "HD dooballku",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "epl5 - 4",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png",
 "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-5/playlist.m3u8",
 "referer": "https://doolive4k.tv",
