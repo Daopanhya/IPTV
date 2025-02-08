@@ -137,6 +137,15 @@
 "playInNatPlayer": "true"
 },
 
+{
+"name": "epl5 - 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png",
+"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-5/playlist.m3u8",
+"referer": "https://doolive4k.tv",
+"info": "HD doolive4",
+"playInNatPlayer": "true"
+},
+
 
 {
 "name": "GOLF HD",
