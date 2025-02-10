@@ -134,24 +134,99 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "HD doolive4",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "True Sports HD",
+"image": "https://dookeela.live/uploads/1664802455.png",
+"referer": "https://www.madoohd.com/",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true1.m3u8",
+"info": "bestcom",
+"playInNatPlayer": "true"
+},
 
 {
-"name": "GOLF HD",
-"image": "https://cms.dmpcdn.com/livetv/2024/10/02/02fe91d0-8058-11ef-9b5d-17ffb08b9e67_webp_original.webp",
-"referer": "https://doolive4k.tv",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueGOLF.m3u8",
+"name": "True Sports HD",
+"image": "https://dookeela.live/uploads/1664802455.png",
+"referer": " ",
+"url": "https://dooballkub.com/live/?truesporthd",
+"info": "dooballku",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sports 2 HD",
+"image": "https://dookeela.live/uploads/1664499966.png",
+"referer": " ",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true2.m3u8",
 "info": "bestcom",
 "playInNatPlayer": "true"
 },
 {
-"name": "tennis HD",
-"image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
-"referer": "https://doolive4k.tv",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truetennis.m3u8",
+"name": "True Sports 2 HD",
+"image": "https://dookeela.live/uploads/1664499966.png",
+"referer": " ",
+"url": "https://dooballkub.com/live/?truesporthd2",
+"info": "dooballku",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sports 3 HD",
+"image": "https://dookeela.live/uploads/1664802480.png",
+"referer": " ",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true3.m3u8",
 "info": "bestcom",
 "playInNatPlayer": "true"
 },
+{
+"name": "True Sports 3 HD",
+"image": "https://dookeela.live/uploads/1664802480.png",
+"referer": " ",
+"url": "https://dooballkub.com/live/?truesporthd3",
+"info": "dooballku",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sports 4 HD",
+"image": "https://dookeela.live/uploads/1717396131.png",
+"referer": " ",
+"url": "https://github.com/bestcommt2/m3u8/blob/master/true4.m3u8",
+"info": "กำลังปรับปรุง",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sports 5",
+"image": "https://dookeela.live/uploads/1664847910.png",
+"referer": "https://doolive4k.tv",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true5.m3u8",
+"info": "HD bestcom",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sports 5",
+"image": "https://dookeela.live/uploads/1664847910.png",
+"referer": "https://doolive4k.tv",
+"url": "https://dooballkub.com/live/?truesport5",
+"info": "dooballku",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sports 7",
+"image": "https://dookeela.live/uploads/1664847921.png",
+"referer": "https://www.madoohd.com/",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true7.m3u8",
+"info": "HD bestcom",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sports 7",
+"image": "https://dookeela.live/uploads/1664847921.png",
+"referer": "https://www.madoohd.com/",
+"url": "https://dooballkub.com/live/?truesport7",
+"info": "dooballku",
+"playInNatPlayer": "true"
+},
+
 {
 "name": "Spotv1 SD",
 "image": "https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
@@ -166,63 +241,6 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "referer": "https://doolive4k.tv",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truespotv2.m3u8",
 "info": "bestcom",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "True Ball Thai 1",
-"image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp",
-"referer": "https://www.ufa77.fun",
-"url": "https://www.ufa77.fun/channel?ch=baygonhero1",
-"info": "ufa77",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Ball Thai 2",
-"image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",
-"referer": "https://www.ufa77.fun",
-"url": "https://www.ufa77.fun/channel?ch=baygonhero2",
-"info": "ufa77",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Ball Thai 3",
-"image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",
-"referer": "https://www.ufa77.fun",
-"url": "https://www.ufa77.fun/channel?ch=baygonhero3",
-"info": "ufa77",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Ball Thai 4",
-"image": "https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",
-"referer": "https://www.ufa77.fun",
-"url": "https://www.ufa77.fun/channel?ch=baygonhero4",
-"info": "ufa77",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Ball Thai 5",
-"image": "https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp",
-"referer": "https://www.ufa77.fun",
-"url": "https://www.ufa77.fun/channel?ch=baygonhero5",
-"info": "ufa77",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Ball Thai 6",
-"image": "https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp",
-"referer": "https://www.ufa77.fun",
-"url": "https://www.ufa77.fun/channel?ch=baygonhero6",
-"info": "ufa77",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Ball Thai 7",
-"image": "https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp",
-"referer": "https://www.ufa77.fun",
-"url": "https://www.ufa77.fun/channel?ch=baygonhero7",
-"info": "ufa77",
 "playInNatPlayer": "true"
 },
 
@@ -322,97 +340,77 @@ image:"https://dookeela.live/uploads/1694719622.png",
 "info": "dooballku",
 "playInNatPlayer": "true"
 },
-
 {
-"name": "True Sports HD",
-"image": "https://dookeela.live/uploads/1664802455.png",
-"referer": "https://www.madoohd.com/",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true1.m3u8",
-"info": "bestcom",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "True Sports HD",
-"image": "https://dookeela.live/uploads/1664802455.png",
-"referer": " ",
-"url": "https://dooballkub.com/live/?truesporthd",
-"info": "dooballku",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "True Sports 2 HD",
-"image": "https://dookeela.live/uploads/1664499966.png",
-"referer": " ",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true2.m3u8",
-"info": "bestcom",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sports 2 HD",
-"image": "https://dookeela.live/uploads/1664499966.png",
-"referer": " ",
-"url": "https://dooballkub.com/live/?truesporthd2",
-"info": "dooballku",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sports 3 HD",
-"image": "https://dookeela.live/uploads/1664802480.png",
-"referer": " ",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true3.m3u8",
-"info": "bestcom",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sports 3 HD",
-"image": "https://dookeela.live/uploads/1664802480.png",
-"referer": " ",
-"url": "https://dooballkub.com/live/?truesporthd3",
-"info": "dooballku",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "True Sports 4 HD",
-"image": "https://dookeela.live/uploads/1717396131.png",
-"referer": " ",
-"url": "https://github.com/bestcommt2/m3u8/blob/master/true4.m3u8",
-"info": "กำลังปรับปรุง",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sports 5",
-"image": "https://dookeela.live/uploads/1664847910.png",
+"name": "GOLF HD",
+"image": "https://cms.dmpcdn.com/livetv/2024/10/02/02fe91d0-8058-11ef-9b5d-17ffb08b9e67_webp_original.webp",
 "referer": "https://doolive4k.tv",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true5.m3u8",
-"info": "HD bestcom",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueGOLF.m3u8",
+"info": "bestcom",
+"playInNatPlayer": "true"
+},
+{
+"name": "tennis HD",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
+"referer": "https://doolive4k.tv",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truetennis.m3u8",
+"info": "bestcom",
 "playInNatPlayer": "true"
 },
 
 {
-"name": "True Sports 5",
-"image": "https://dookeela.live/uploads/1664847910.png",
-"referer": "https://doolive4k.tv",
-"url": "https://dooballkub.com/live/?truesport5",
-"info": "dooballku",
+"name": "True Ball Thai 1",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp",
+"referer": "https://www.ufa77.fun",
+"url": "https://www.ufa77.fun/channel?ch=baygonhero1",
+"info": "ufa77",
 "playInNatPlayer": "true"
 },
 {
-"name": "True Sports 7",
-"image": "https://dookeela.live/uploads/1664847921.png",
-"referer": "https://www.madoohd.com/",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true7.m3u8",
-"info": "HD bestcom",
+"name": "True Ball Thai 2",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",
+"referer": "https://www.ufa77.fun",
+"url": "https://www.ufa77.fun/channel?ch=baygonhero2",
+"info": "ufa77",
 "playInNatPlayer": "true"
 },
 {
-"name": "True Sports 7",
-"image": "https://dookeela.live/uploads/1664847921.png",
-"referer": "https://www.madoohd.com/",
-"url": "https://dooballkub.com/live/?truesport7",
-"info": "dooballku",
+"name": "True Ball Thai 3",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",
+"referer": "https://www.ufa77.fun",
+"url": "https://www.ufa77.fun/channel?ch=baygonhero3",
+"info": "ufa77",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Ball Thai 4",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",
+"referer": "https://www.ufa77.fun",
+"url": "https://www.ufa77.fun/channel?ch=baygonhero4",
+"info": "ufa77",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Ball Thai 5",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp",
+"referer": "https://www.ufa77.fun",
+"url": "https://www.ufa77.fun/channel?ch=baygonhero5",
+"info": "ufa77",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Ball Thai 6",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp",
+"referer": "https://www.ufa77.fun",
+"url": "https://www.ufa77.fun/channel?ch=baygonhero6",
+"info": "ufa77",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Ball Thai 7",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp",
+"referer": "https://www.ufa77.fun",
+"url": "https://www.ufa77.fun/channel?ch=baygonhero7",
+"info": "ufa77",
 "playInNatPlayer": "true"
 },
 
