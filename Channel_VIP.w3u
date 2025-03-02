@@ -91,6 +91,15 @@
 "import": false
 },
 {
+"name": "Radio",
+"image":" ",
+"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/%E0%BA%A7%E0%BA%B4%E0%BA%97%E0%BA%B0%E0%BA%8D%E0%BA%B8.m3u",
+"referer": "xxx",
+"info": "ช่องเพลง",
+"import": false
+},
+
+{
 "name": "กดปุ่ม เพื่ออัพเดท",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-hbnXjcjDQAhTfylMT9F3jDL7qXDxfuAszWsr1mIkA&s",
 "info": "DAO-IPTV"
