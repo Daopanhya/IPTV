@@ -453,6 +453,14 @@ url: "https://www.youtube.com/@bgsports-official/streams",
 url: "https://m.youtube.com/@Changsuek/streams",
  "embed":"true"
  },
+{
+"name": "WWE_Network",
+"image": "https://i.imgur.com/Nq4lPP4.png",
+"url":"https://7pal.short.gy/wwenw",
+"referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+},
 ]
 }​
 
