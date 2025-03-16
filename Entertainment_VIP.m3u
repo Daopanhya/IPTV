@@ -2,10 +2,18 @@
 {
 "name"              :     "Entertainment",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV",
+"author": "by DAO-IPTV (อัพเดท 16/3/2025)",
   "info": "DAO-IPTV",
 "stations" : [
-{"name": "GAGS","image": "https://img5.pic.in.th/file/secure-sv1/images-removebg-preview-1.png",
+{"name": "Kix",
+"image": "https://yt3.googleusercontent.com/ytc/AIdro_ljChKbAkTksdH96-onPyibiW39iH9wp6veuIMoAo_owRw=s900-c-k-c0x00ffffff-no-rj",
+"url": "http://210.210.155.66/h/h220/02.m3u8", 
+"referer": "",
+"info":"HD",
+"playInNatPlayer": "true"},
+
+{"name": "GAGS",
+"image": "https://img5.pic.in.th/file/secure-sv1/images-removebg-preview-1.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=89781",
 "referer": "",
 "info":"HD","playInNatPlayer": "true"},
