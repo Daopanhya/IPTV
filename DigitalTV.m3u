@@ -56,7 +56,7 @@
 {
 "name": "TNN 16",
 "image": "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp",
-"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8",
+"url": "https://edge2a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
