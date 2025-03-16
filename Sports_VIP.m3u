@@ -461,6 +461,14 @@ url: "https://m.youtube.com/@Changsuek/streams",
 "info": "HD",
 "playInNatPlayer": "true"
 },
+{
+"name": "UFC",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tZgXYEljlShurhAz2xJbm2iFdyiZKrN14CNqemz70A&s",
+"url":"https://7pal.short.gy/ufc247",
+"referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+},
 ]
 }​
 
