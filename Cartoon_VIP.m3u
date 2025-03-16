@@ -1,7 +1,7 @@
 {
 		"name": "Cartoon",
 		"image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV",
+"author": "by DAO-IPTV (อัพเดท 16/3/2025)",
   "info": "DAO-IPTV",
 		"stations":[
 {
@@ -18,25 +18,12 @@
 "info": "SD",
 "playInNatPlayer": "true"
 },
-{
-"name":"Boomerang",
-"image":"https://media-mvtv-app.imgix.net/uploads/channel/153_y_xD7XpVB69n0eicFrUaNMAl1dmtvZSuY5.png",
-"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8",
-"info": "HD",
-"playInNatPlayer": "true"
-},
+
 {
 "name":"Boomerang",
 "image":"https://media-mvtv-app.imgix.net/uploads/channel/153_y_xD7XpVB69n0eicFrUaNMAl1dmtvZSuY5.png",
 "url": "https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8",
 "info": "HD สำรอง",
-"playInNatPlayer": "true"
-},
-{
-"name":"BOOM ANIME",
-"image":"https://media-mvtv-app.imgix.net/uploads/channel/174_y_FLSV93BN1q5kyrxQ0DuzYhfORs768Ao4.png",
-"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8",
-"info": "HD",
 "playInNatPlayer": "true"
 },
 {
