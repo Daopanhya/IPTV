@@ -201,60 +201,6 @@
 "url": "https://server1.streamssl.com/stream/news1.m3u8",
 "playInNatPlayer": "true"
 },
-{
-name:"ATTV",
-image:"https://www.i-pic.info/i/HcyW361033.jpg",
-url:"http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8",
-"referer": "",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-{
-name:"Mix Major Channel",
-image:"https://www.i-pic.info/i/0g1K339274.png",
-url:"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8",
-"referer": "",
-"info": "HD",
-"playInNatPlayer": "true"
-},
-{
-name:"TVB Thai",
-image:"https://www.i-pic.info/i/mqie339273.jpg",
-url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w68863317.m3u8",
-"referer": "",
-"info": "FHD",
-"playInNatPlayer": "true"
-},
-{
-"name":"Cartoon Club",
-"image":"https://www.i-pic.info/i/UvFp328533.jpg",
-"url": "https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist_w1788175224.m3u8",
-"info": "SD",
-"playInNatPlayer": "true"
-},
-{
-"name":"Boomerang",
-"image":"https://media-mvtv-app.imgix.net/uploads/channel/153_y_xD7XpVB69n0eicFrUaNMAl1dmtvZSuY5.png",
-"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8",
-"info": "HD",
-"playInNatPlayer": "true"
-},
 
-{
-name:"Thai Chaiyo",
-image:"https://img2.pic.in.th/pic/39a504d2ab695c922867f4083ad90506.jpeg",
-url:"https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8?checkedby:iptvcat.com",
-"referer": "",
-"info": "Auto",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-name:"MVLAO",
-image:"https://media-mvtv-app.imgix.net/uploads/channel/33_y_nqRCYpyBg3L8WMfV6hk1zbxKZoEl0ISO.png",
-url:"https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8",
-"info": "HD",
-"playInNatPlayer": "true"
-},
 ]
 }​
