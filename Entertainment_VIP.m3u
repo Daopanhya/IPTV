@@ -5,6 +5,10 @@
 "author": "by DAO-IPTV",
   "info": "DAO-IPTV",
 "stations" : [
+{"name": "GAGS","image": "https://img5.pic.in.th/file/secure-sv1/images-removebg-preview-1.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89781",
+"referer": "",
+"info":"HD","playInNatPlayer": "true"},
 {
 name:"ASIAN FOODCHANNE",
 image:"https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",
