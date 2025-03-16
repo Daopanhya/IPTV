@@ -32,7 +32,7 @@
 {
 "name": "CH5HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
-"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8",
+"url": "http://147.50.195.35:1935/tv5hdlive/tv5hdlive/playlist.m3u8",
 "referer": "",
 "info": "HD",
 "playInNatPlayer": "true"
