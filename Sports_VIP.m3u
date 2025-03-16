@@ -469,6 +469,14 @@ url: "https://m.youtube.com/@Changsuek/streams",
 "info": "HD",
 "playInNatPlayer": "true"
 },
+{
+"name": "Red Bull TV (1080p)",
+"image": "https://i.postimg.cc/8c78JM28/image.png",
+"url":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+"referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+},
 ]
 }​
 
