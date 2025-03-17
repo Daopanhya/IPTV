@@ -6,7 +6,7 @@
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%94%E0%BA%B5%E0%BA%88%E0%BA%B5%E0%BA%95%E0%BB%89%E0%BA%AD%E0%BA%99%E0%BA%97%E0%BA%B5%E0%BA%A7%E0%BA%B5.m3u",
 "stations" : [
 {
-"name": "NBT2HD",
+"name": "NBT2HD (1080p)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
 "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8",
 "referer": "",
@@ -14,7 +14,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Thai Pbs",
+"name": "Thai Pbs (1080p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
 "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
 "referer": "",
@@ -22,7 +22,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "ALTV4",
+"name": "ALTV4 (1080p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
 "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
 "referer": "",
@@ -30,7 +30,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CH5HD",
+"name": "CH5HD (1080p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
 "url": "http://147.50.195.35:1935/tv5hdlive/tv5hdlive/playlist.m3u8",
 "referer": "",
@@ -38,7 +38,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "T Sports 7",
+"name": "T Sports 7 (720p)",
 "image": "https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "",
@@ -46,7 +46,7 @@
 "info": "HD"
 },
 {
-"name": "TPTV",
+"name": "TPTV (720p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/11/22/2a4de600-8919-11ee-8416-3dc6bea66698_webp_original.webp",
 "url": "https://tv-live.tpchannel.org/live/tv_720p.m3u8",
 "referer": "",
@@ -54,7 +54,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "TNN 16",
+"name": "TNN 16 (720p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp",
 "url": "https://edge2a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8",
 "referer": "",
@@ -62,7 +62,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "JKN 18",
+"name": "JKN 18 (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",
 "url": "https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8",
 "referer": "",
@@ -70,7 +70,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Nation TV",
+"name": "Nation TV (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
 "url": "https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8",
 "referer": "",
@@ -78,7 +78,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Workpoint",
+"name": "Workpoint (540p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_workpoint/hd_workpoint.stream?type=m3u8",
 "referer": "",
@@ -87,7 +87,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "True4U",
+"name": "True4U (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
 "url": "https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8",
 "referer": "",
@@ -95,7 +95,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "GMM 25",
+"name": "GMM 25 (540p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/gmm25/gmm25.stream?type=m3u8",
 "referer": "",
@@ -104,7 +104,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CH 8",
+"name": "CH 8 (540p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/ch8/ch8.stream?type=m3u8",
 "referer": "",
@@ -113,7 +113,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "MONO 29",
+"name": "MONO 29 (1080p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
 "url": "https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8",
 "referer": "",
@@ -123,7 +123,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "MCOT HD",
+"name": "MCOT HD (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
 "url": "https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8",
 "referer": "",
@@ -131,7 +131,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "ONE 31",
+"name": "ONE 31 (720p)",
 "image": "https://assets.oned.net/3/logo_one31.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_one/hd_one.stream?type=m3u8",
 "referer": "",
@@ -140,7 +140,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Thairath TV",
+"name": "Thairath TV (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_thairath/hd_thairath.stream?type=m3u8",
 "referer": "",
@@ -149,7 +149,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CH3 HD",
+"name": "CH3 HD (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_3/hd3.stream?type=m3u8",
 "referer": "",
@@ -158,7 +158,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Amarin TV",
+"name": "Amarin TV (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_amarin/hdamarin.stream?type=m3u8",
 "referer": "",
@@ -167,7 +167,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CH7 HD",
+"name": "CH7 HD (1080p)",
 "image": "https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png?a=1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": " ",
@@ -176,7 +176,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "PPTV HD",
+"name": "PPTV HD (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": " ",
@@ -186,7 +186,7 @@
 },
 
 {
-"name": "TOP News",
+"name": "TOP News (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG",
 "referer": " ",
 "info": "HD",
@@ -194,7 +194,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "News 1",
+"name": "News 1 (420p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",
 "referer": " ",
 "info": "SD",
