@@ -33,7 +33,7 @@ url:"https://radio.lnr.org.la/am",
 "embed": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
-
+{
 name:"สถานีเพลงสตริง Request Radio",
 image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
 url:"http://cast.requestradio.in.th:8100/stream",
@@ -148,7 +148,6 @@ url:"https://streaming.teroradio.com/Goodtime/Goodtime-Listen/chunklist_w3471756
 "playInNatPlayer": "true"
 },
  
-{
  
 {
 name:"สถานีวิทยุเสียงจากทหารเรือ 7 (นครพนม) ",
