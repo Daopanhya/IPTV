@@ -1,7 +1,7 @@
 {
 "name": "Digital TV",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV (อัพเดท 16/3/2025)",
+"author": "by DAO-IPTV. (อัพเดท 17/3/2025)",
   "info": "DAO-IPTV",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%94%E0%BA%B5%E0%BA%88%E0%BA%B5%E0%BA%95%E0%BB%89%E0%BA%AD%E0%BA%99%E0%BA%97%E0%BA%B5%E0%BA%A7%E0%BA%B5.m3u",
 "stations" : [
@@ -10,7 +10,7 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
 "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8",
 "referer": "",
-"info": "HD",
+"info": "Auto",
 "playInNatPlayer": "true"
 },
 {
@@ -34,7 +34,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
 "url": "http://147.50.195.35:1935/tv5hdlive/tv5hdlive/playlist.m3u8",
 "referer": "",
-"info": "HD",
+"info": "FHD",
 "playInNatPlayer": "true"
 },
 {
@@ -74,7 +74,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
 "url": "https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8",
 "referer": "",
-"info": "Auto",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -82,7 +82,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_workpoint/hd_workpoint.stream?type=m3u8",
 "referer": "",
-"info": "HD",
+"info": "SD",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27159",
 "playInNatPlayer": "true"
 },
@@ -99,7 +99,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/gmm25/gmm25.stream?type=m3u8",
 "referer": "",
-"info": "HD",
+"info": "SD",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27153",
 "playInNatPlayer": "true"
 },
@@ -108,7 +108,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/ch8/ch8.stream?type=m3u8",
 "referer": "",
-"info": "HD",
+"info": "SD",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27147",
 "playInNatPlayer": "true"
 },
@@ -117,7 +117,7 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
 "url": "https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8",
 "referer": "",
-"info": "HD",
+"info": "Auto",
 "KODIPROP": "inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516",
 "url": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8",
 "playInNatPlayer": "true"
@@ -171,7 +171,7 @@
 "image": "https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png?a=1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": " ",
-"info": "HD",
+"info": "FHD",
 "url": "http://streaming-hwc.ch7.com/livech7hd/HD.m3u8",
 "playInNatPlayer": "true"
 },
@@ -197,7 +197,7 @@
 "name": "News 1",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",
 "referer": " ",
-"info": "HD",
+"info": "SD",
 "url": "https://server1.streamssl.com/stream/news1.m3u8",
 "playInNatPlayer": "true"
 },
