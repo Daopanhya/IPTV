@@ -10,15 +10,15 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
 "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8",
 "referer": "",
-"info": "Auto",
+"info": "nbt2hd",
 "playInNatPlayer": "true"
 },
 {
 "name": "Thai Pbs (1080p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-"url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
+"url": "https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8",
 "referer": "",
-"info": "Auto",
+"info": "thaipbs",
 "playInNatPlayer": "true"
 },
 {
@@ -26,15 +26,15 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
 "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
 "referer": "",
-"info": "Auto",
+"info": "thaipbs",
 "playInNatPlayer": "true"
 },
 {
 "name": "CH5HD (1080p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
-"url": "http://147.50.195.35:1935/tv5hdlive/tv5hdlive/playlist.m3u8",
+"url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
 "referer": "",
-"info": "FHD",
+"info": "thaitv5hd",
 "playInNatPlayer": "true"
 },
 {
