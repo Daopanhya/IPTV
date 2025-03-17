@@ -70,11 +70,11 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Nation TV (720p)",
+"name": "Nation TV (1080p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
-"url": "https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8",
+"url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8",
 "referer": "",
-"info": "HD",
+"info": "nationtv",
 "playInNatPlayer": "true"
 },
 {
