@@ -6,7 +6,7 @@
   "image": "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
 "groups": [
 {
-"name": "Digital TV",
+"name": "ดิจิตอลทีวี Digital TV",
 "image":"https://jarndaotiam.com/img/product/digital-tv-logo.jpg",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/DigitalTV.m3u",
 "referer": "xxx",
@@ -15,7 +15,7 @@
 },
 
 {
-"name": "Lao TV",
+"name": "ทีวีลาว Lao TV",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiTGxNlWNbaoZjdCT9wztKXMCqgrO_bTeLXtaL2Ah0Ew&s",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/LAOTV.m3u",
 "referer": "xxx",
@@ -25,7 +25,7 @@
 
 
 {
-"name": "Sports",
+"name": "กีฬา Sports",
 "image":"https://storage-wp.thaipost.net/2024/01/%E0%B9%80%E0%B8%A1%E0%B8%AA%E0%B8%8B%E0%B8%B5-%E0%B8%9B%E0%B8%81.jpg",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/support.w3u",
 "referer": "xxx",
@@ -33,7 +33,7 @@
 "import": false
 },
 {
-"name": "Sports Inter",
+"name": "กีฬาต่างประเทศ Sports Inter",
 "image":"https://cdn.sportmonks.com/images//soccer/leagues/2/1538.png",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/SportsInter.m3u",
 "referer": "xxx",
@@ -41,7 +41,7 @@
 "import": false
 },
 {
-"name": "Documentary",
+"name": "สารคดี Documentary",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgux1OcfXc2r1rWcbnWacC2-Bxn-6W7kXJ-Q&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/support.w3u",
 "referer": "xxx",
@@ -49,7 +49,7 @@
 "import": false
 },
 {
-"name": "Movie",
+"name": "ช่องหนัง Movie",
 "image":"https://archive.org/download/movie-hd-507_20210719_1836/movie-hd.jpg",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/support.w3u",
 "referer": "xxx",
@@ -57,7 +57,7 @@
 "import": false
 },
 {
-"name": "Cartoon",
+"name": "การ์ตูน Cartoon",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFf2bRknprpPBWeOllFdoqoPeYWb2AyGTFQ&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/support.w3u",
 "referer": "xxx",
@@ -65,7 +65,7 @@
 "import": false
 },
 {
-"name": "Entertainment",
+"name": "บันเทิง Entertainment",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyBgZ3OSe3SUN9wlFpUpfEGiGvMNZ1iZi8pA&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/support.w3u",
 "referer": "xxx",
@@ -74,7 +74,7 @@
 },
 
 {
-"name": "Music",
+"name": "เพลง Music",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXXUUV2VvmTGIg_G9D5J3wkcNgigvZK3X2Jg&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/support.w3u",
 "referer": "xxx",
@@ -83,7 +83,7 @@
 },
 
 {
-"name": "Cinema & Series",
+"name": "หนัง & ซีรี่ย์ Cinema & Series",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vFV1kEiL2sl00dlDfLzeB48_v89Yow7aug&usqp=CAU",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/support.w3u",
 "referer": "xxx",
