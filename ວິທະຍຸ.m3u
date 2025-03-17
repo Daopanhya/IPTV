@@ -1,5 +1,5 @@
 {
-"name"              :     "Radio
+"name"              :     "วิทยุออนไลน์ Radio
 Online",
 "image"             :     "https://cdn.icon-icons.com/icons2/544/PNG/512/Radio_icon-icons.com_53189.png",
 "url"               :     "https://pastebin.com/XEBsKWZr",
@@ -7,7 +7,7 @@ Online",
 
 
 {
-name:"FM103",
+name:"วิทยุลาว FM103",
 image:"https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
 url:"https://radio.lnr.org.la/fm103",
 "referer": "",
@@ -16,7 +16,7 @@ url:"https://radio.lnr.org.la/fm103",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-name:"FM95",
+name:"วิทยุลาว FM95",
 image:"https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
 url:"https://radio.lnr.org.la/fm94",
 "referer": "",
@@ -25,7 +25,7 @@ url:"https://radio.lnr.org.la/fm94",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-name:"AM",
+name:"วิทยุลาว AM",
 image:"https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-150x150.png",
 url:"https://radio.lnr.org.la/am",
 "referer": "",
@@ -34,6 +34,40 @@ url:"https://radio.lnr.org.la/am",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
+name:"สถานีเพลงสตริง Request Radio",
+image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
+url:"http://cast.requestradio.in.th:8100/stream",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{
+name:"สถานีเพลงลูกทุ่ง Request Radio",
+image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
+url:"http://27.254.142.208:8200/stream/1/",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"สถานีเพลงเพื่อชีวิต Request Radio",
+image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
+url:"https://cast.requestradio.in.th:830/https:/cast.requestradio.in.th:830/",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"สถานีเพลงสากล Request Radio ",
+image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
+url:"http://27.254.142.208:8400/stream/1/",
+"playInNatPlayer": "true"
+},
+ 
+{
+name:"สถานีเพลงแดนซ์ Request Radio Dance Mix ",
+image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
+url:"https://cast.requestradio.in.th:850/;stream",
+"playInNatPlayer": "true"
+},
 {
 name:"Green Wave",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaOjiznoXL010r05880C2jAUuW1ONVluDTGQ&usqp=CAU",
@@ -115,40 +149,6 @@ url:"https://streaming.teroradio.com/Goodtime/Goodtime-Listen/chunklist_w3471756
 },
  
 {
-name:"สถานีเพลงสตริง Request Radio",
-image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
-url:"http://cast.requestradio.in.th:8100/stream",
-"playInNatPlayer": "true"
-},
- 
- 
-{
-name:"สถานีเพลงลูกทุ่ง Request Radio",
-image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
-url:"http://27.254.142.208:8200/stream/1/",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"สถานีเพลงเพื่อชีวิต Request Radio",
-image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
-url:"https://cast.requestradio.in.th:830/https:/cast.requestradio.in.th:830/",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"สถานีเพลงสากล Request Radio ",
-image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
-url:"http://27.254.142.208:8400/stream/1/",
-"playInNatPlayer": "true"
-},
- 
-{
-name:"สถานีเพลงแดนซ์ Request Radio Dance Mix ",
-image:"https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",
-url:"https://cast.requestradio.in.th:850/;stream",
-"playInNatPlayer": "true"
-},
  
 {
 name:"สถานีวิทยุเสียงจากทหารเรือ 7 (นครพนม) ",
