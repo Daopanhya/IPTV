@@ -27,7 +27,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 {
-"name": "epl1 - 3 (720p)",
+"name": "epl1 - 2 (720p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
 "url": "https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8",
 "referer": "https://fw4free.com",
@@ -35,7 +35,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 {
-"name": "epl1 - 2 (480p)",
+"name": "epl1 - 3 (480p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
 "url": "https://switch.thaim3u.com/xstream/siamsport-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCAxOjAyOjIyIFBNJmhhc2hfdmFsdWU9VjhMUG1KL1d0RHV4RDNERHl1SjJCZz09JnZhbGlkbWludXRlcz02MA==",
 "referer": "https://dooballfree.com",
@@ -60,7 +60,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 {
-"name": "epl2 - 3 (720p)",
+"name": "epl2 - 2 (720p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",
 "url": "https://fw4free.inwstream.com/fw4free/ch2.stream/playlist.m3u8",
 "referer": "https://fw4free.com",
@@ -68,7 +68,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 {
-"name": "epl2 - 2 (480p)",
+"name": "epl2 - 3 (480p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",
 "url": "https://switch.thaim3u.com/xstream/siamsport-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCAxOjAyOjIyIFBNJmhhc2hfdmFsdWU9VjhMUG1KL1d0RHV4RDNERHl1SjJCZz09JnZhbGlkbWludXRlcz02MA==",
 "referer": "https://dooballfree.com",
