@@ -27,14 +27,6 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 {
-"name": "epl1 - 2 (468p)",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
-"url": "https://switch.thaim3u.com/xstream/siamsport-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCAxOjAyOjIyIFBNJmhhc2hfdmFsdWU9VjhMUG1KL1d0RHV4RDNERHl1SjJCZz09JnZhbGlkbWludXRlcz02MA==",
-"referer": "https://dooballfree.com",
-"info": "SD dooballfr",
-"playInNatPlayer": "true"
-},
-{
 "name": "epl1 - 3 (720p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
 "url": "https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8",
@@ -42,9 +34,17 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "HD fw4fr",
 "playInNatPlayer": "true"
 },
+{
+"name": "epl1 - 2 (480p)",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
+"url": "https://switch.thaim3u.com/xstream/siamsport-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCAxOjAyOjIyIFBNJmhhc2hfdmFsdWU9VjhMUG1KL1d0RHV4RDNERHl1SjJCZz09JnZhbGlkbWludXRlcz02MA==",
+"referer": "https://dooballfree.com",
+"info": "SD dooballfr",
+"playInNatPlayer": "true"
+},
 
 {
-"name": "epl1 - 4 (1080p)",
+"name": "epl1 - 4 (480p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
 "referer": "https://www.doomovie-hd.com",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/tpf1.m3u8",
@@ -60,14 +60,6 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 {
-"name": "epl2 - 2 (468p)",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",
-"url": "https://switch.thaim3u.com/xstream/siamsport-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCAxOjAyOjIyIFBNJmhhc2hfdmFsdWU9VjhMUG1KL1d0RHV4RDNERHl1SjJCZz09JnZhbGlkbWludXRlcz02MA==",
-"referer": "https://dooballfree.com",
-"info": "SD dooballfr",
-"playInNatPlayer": "true"
-},
-{
 "name": "epl2 - 3 (720p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",
 "url": "https://fw4free.inwstream.com/fw4free/ch2.stream/playlist.m3u8",
@@ -75,9 +67,16 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "HD fw4fr",
 "playInNatPlayer": "true"
 },
-
 {
-"name": "epl2 - 4 (1080p)",
+"name": "epl2 - 2 (480p)",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",
+"url": "https://switch.thaim3u.com/xstream/siamsport-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCAxOjAyOjIyIFBNJmhhc2hfdmFsdWU9VjhMUG1KL1d0RHV4RDNERHl1SjJCZz09JnZhbGlkbWludXRlcz02MA==",
+"referer": "https://dooballfree.com",
+"info": "SD dooballfr",
+"playInNatPlayer": "true"
+},
+{
+"name": "epl2 - 4 (480p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",
 "referer": "https://www.madoohd.com/",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/tpf2.m3u8",
@@ -93,17 +92,15 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 {
-"name": "epl3 - 2 (468p)",
+"name": "epl3 - 2 (480p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",
 "url": "https://switch.thaim3u.com/xstream/siamsport-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCAxOjAyOjIyIFBNJmhhc2hfdmFsdWU9VjhMUG1KL1d0RHV4RDNERHl1SjJCZz09JnZhbGlkbWludXRlcz02MA==",
 "referer": "https://dooballfree.com",
 "info": "SD dooballfr",
 "playInNatPlayer": "true"
 },
-
-
 {
-"name": "epl3 - 3 (1080p)",
+"name": "epl3 - 3 (480p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",
 "referer": "https://www.madoohd.com/",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/tpf3.m3u8",
@@ -111,15 +108,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 {
-"name": "epl4 - 1 (468p)",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.png",
-"url": "https://switch.thaim3u.com/xstream/siamsport-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCAxOjAyOjIyIFBNJmhhc2hfdmFsdWU9VjhMUG1KL1d0RHV4RDNERHl1SjJCZz09JnZhbGlkbWludXRlcz02MA==",
-"referer": "https://dooballfree.com",
-"info": "SD dooballfr",
-"playInNatPlayer": "true"
-},
-{
-"name": "epl4 - 2 (720p)",
+"name": "epl4 - 1 (720p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.png",
 "url": "https://219.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com",
@@ -127,7 +116,16 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 {
-"name": "epl5 - 1 (468p)",
+"name": "epl4 - 2 (480p)",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.png",
+"url": "https://switch.thaim3u.com/xstream/siamsport-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNCAxOjAyOjIyIFBNJmhhc2hfdmFsdWU9VjhMUG1KL1d0RHV4RDNERHl1SjJCZz09JnZhbGlkbWludXRlcz02MA==",
+"referer": "https://dooballfree.com",
+"info": "SD dooballfr",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "epl5 - 1 (480p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png",
 "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-5/playlist.m3u8",
 "referer": "https://doolive4k.tv",
