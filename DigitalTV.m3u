@@ -157,11 +157,11 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Amarin TV. (1080p)",
+"name": "Amarin TV. (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
-"url": "https://www.amarintv.com/live",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27135",
 "referer": "",
-"info": "amarintv",
+"info": "inwiptv",
 "playInNatPlayer": "true"
 },
 {
