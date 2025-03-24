@@ -86,9 +86,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "True4U (720p)",
+"name": "True4U. (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
-"url": "https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1742246375&x_ark_path_prefix=%2Flive%2F&x_ark_signature=0JS7Hn23tUqCuLPrkXvJAg",
+"url": "https://true4u.com/live/",
 "referer": "",
 "info": "true4u",
 "playInNatPlayer": "true"
