@@ -86,11 +86,11 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "True4U. (720p)",
+"name": "True4U (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
 "url": "https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8",
 "referer": "",
-"info": "true4u",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
@@ -157,7 +157,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Amarin TV. (720p)",
+"name": "Amarin TV (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27135",
 "referer": "",
