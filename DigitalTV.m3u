@@ -157,9 +157,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Amarin TV (1080p)",
+"name": "Amarin TV. (1080p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
-"url": "https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1742309591&x_ark_path_prefix=%2Flive%2F&x_ark_signature=NWoA67YycGLHYqtSBsaJFA",
+"url": "https://www.amarintv.com/live",
 "referer": "",
 "info": "amarintv",
 "playInNatPlayer": "true"
