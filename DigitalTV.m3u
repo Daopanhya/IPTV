@@ -94,20 +94,20 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "GMM 25 (540p)",
+"name": "GMM 25 (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
-"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/gmm25/gmm25.stream?type=m3u8",
+"url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8",
 "referer": "",
-"info": "SD",
+"info": "HD",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27153",
 "playInNatPlayer": "true"
 },
 {
-"name": "CH 8 (540p)",
+"name": "CH 8 (720p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
-"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/ch8/ch8.stream?type=m3u8",
+"url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8",
 "referer": "",
-"info": "SD",
+"info": "HD",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27147",
 "playInNatPlayer": "true"
 },
