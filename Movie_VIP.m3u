@@ -93,7 +93,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truetha
 "playInNatPlayer": "true"
 },
 {
-name:"Film1 (180p)",
+name:"Film1 (1080p)",
 image:"https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefilm1.m3u8",
 "referer": "",
