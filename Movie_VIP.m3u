@@ -1,27 +1,27 @@
 {
 "name"              :     "Movie",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV",
+"author": "by DAO-IPTV. (ອັບເດດ 8/4/2025)",
   "info": "DAO-IPTV",
 "stations" : [
 {
-name:"FW MOVIE",
+name:"FW MOVIE (720p)",
 image:"https://img.inwiptv.net/postor/20240429213309FWMOV.jpg",
 url:"https://www.inwiptv.com/player_demo.php?channel=95262",
 "referer": "https://www.inwiptv.com/",
-"info": "HD",
+"info": "inwiptv",
 "playInNatPlayer": "true"
 },
 {
-name:"FW SERIES",
+name:"FW SERIES (1080p)",
 image:"https://img.inwiptv.net/postor/20240429213326FWSOV.jpg",
 url:"https://www.inwiptv.com/player_demo.php?channel=94898",
 "referer": "https://www.inwiptv.com/",
-"info": "FHD",
+"info": "inwiptv",
 "playInNatPlayer": "true"
 },
 {
-name:"Channel 8",
+name:"Channel 8 (1080p)",
 image:"https://img2.pic.in.th/pic/-17a3ffa4868584a33d.jpeg",
 url:"http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
 "referer": "",
@@ -29,7 +29,7 @@ url:"http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-name:"ATTV",
+name:"ATTV (720p)",
 image:"https://www.i-pic.info/i/HcyW361033.jpg",
 url:"http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8",
 "referer": "",
@@ -41,7 +41,7 @@ name:"Mix Major Channel",
 image:"https://www.i-pic.info/i/0g1K339274.png",
 url:"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8",
 "referer": "",
-"info": "HD",
+"info": "off",
 "playInNatPlayer": "true"
 },
 {
@@ -49,11 +49,11 @@ name:"TVB Thai",
 image:"https://www.i-pic.info/i/mqie339273.jpg",
 url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w68863317.m3u8",
 "referer": "",
-"info": "FHD",
+"info": "off",
 "playInNatPlayer": "true"
 },
 {
-name:"มังกร",
+name:"มังกร (720p)",
 image:"https://www.i-pic.info/i/w2UI361030.jpg",
 url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "referer": "",
@@ -61,7 +61,7 @@ url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-name:"WB",
+name:"WB (720p)",
 image:"https://cms.dmpcdn.com/livetv/2024/03/01/20655db0-d79f-11ee-a1d7-1d3bb4bf9c13_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truewb.m3u8",
 "referer": " ",
@@ -69,7 +69,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truewb.
 "playInNatPlayer": "true"
 },
 {
-name:"Moviehit",
+name:"Moviehit (480p)",
 image:"https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truemoviehit.m3u8",
 "referer": "",
@@ -77,7 +77,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truemov
 "playInNatPlayer": "true"
 },
 {
-name:"Filmasia",
+name:"Filmasia (720p)",
 image:"https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefilmasia.m3u8",
 "referer": "",
@@ -85,7 +85,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefil
 "playInNatPlayer": "true"
 },
 {
-name:"Thaifilm",
+name:"Thaifilm (720p)",
 image:"https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truethaifilm.m3u8",
 "referer": "",
@@ -93,7 +93,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truetha
 "playInNatPlayer": "true"
 },
 {
-name:"Film1",
+name:"Film1 (180p)",
 image:"https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefilm1.m3u8",
 "referer": "",
@@ -101,7 +101,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefil
 "playInNatPlayer": "true"
 },
 {
-name:"Film2",
+name:"Film2 (720p)",
 image:"https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefilm2.m3u8",
 "referer": "",
@@ -109,7 +109,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truefil
 "playInNatPlayer": "true"
 },
 {
-name:"Asiamove",
+name:"Asiamove (480p)",
 image:"https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueasiamove.m3u8",
 "referer": "",
@@ -117,7 +117,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueasi
 "playInNatPlayer": "true"
 },
 {
-name:"Series",
+name:"Series (480p)",
 image:"https://cms.dmpcdn.com/livetv/2024/03/01/201c6dd0-d79f-11ee-afcd-214a368edc48_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueseries.m3u8",
 "referer": "",
@@ -125,7 +125,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueser
 "playInNatPlayer": "true"
 },
 {
-name:"ccm",
+name:"ccm (576p)",
 image:"https://cms.dmpcdn.com/livetv/2023/07/03/52962a90-195d-11ee-8d1b-f5f88b5481b0_webp_original.webp",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueccm.m3u8",
 "referer": " ",
@@ -133,7 +133,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueccm
 "playInNatPlayer": "true"
 },
 {
-name:"HBO THAI",
+name:"HBO THAI (1080p)",
 image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOTHAI.m3u8",
 "referer": "",
@@ -141,7 +141,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOTHAI
 "playInNatPlayer": "true"
 },
 {
-name:"HBO Signature",
+name:"HBO Signature (432p)",
 image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOSignature.m3u8",
 "referer": "",
@@ -149,7 +149,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOSign
 "playInNatPlayer": "true"
 },
 {
-name:"HBOHits",
+name:"HBOHits (432p)",
 image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOHits.m3u8",
 "referer": "",
@@ -157,7 +157,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOHits
 "playInNatPlayer": "true"
 },
 {
-name:"HBOFAMILY",
+name:"HBOFAMILY (1080p)",
 image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOFAMILY.m3u8",
 "referer": "",
@@ -165,7 +165,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOFAMI
 "playInNatPlayer": "true"
 },
 {
-name:"CINEMAX",
+name:"CINEMAX (1080p)",
 image:"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
 url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/CINEMAX.m3u8",
 "referer": "",
