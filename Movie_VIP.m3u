@@ -39,17 +39,17 @@ url:"http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8",
 {
 name:"Mix Major Channel",
 image:"https://www.i-pic.info/i/0g1K339274.png",
-url:"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8",
+url:"https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8",
 "referer": "",
-"info": "off",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
 name:"TVB Thai",
 image:"https://www.i-pic.info/i/mqie339273.jpg",
-url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w68863317.m3u8",
+url:"https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8",
 "referer": "",
-"info": "off",
+"info": "HD",
 "playInNatPlayer": "true"
 },
 {
