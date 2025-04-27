@@ -29,9 +29,9 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name": "epl1 - 2 (720p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
-"url": "https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8",
-"referer": "https://fw4free.com",
-"info": "HD fw4fr",
+"url": "https://r3-sn-5fo-c37ed9.googleuservideo.com/dooball_kub1/trueepl1_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI1IDI6MDU6MDQgUE0maGFzaF92YWx1ZT10ckh2bGdyVW1YbE1nQUpJVFVDZGZnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjYmaWQ9YmdocjMxMzcxMw==",
+"referer": "https://dooballkub.com",
+"info": "HD dooballkub",
 "playInNatPlayer": "true"
 },
 {
