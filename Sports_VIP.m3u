@@ -21,11 +21,9 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name": "epl1 - 1 (720p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
-"url": "https://www.heng99bet.com/live/epl1",
-"referer": " ",
-"info": "HD heng99bet",
-"playInNatPlayer": "true"
-},
+"url":"https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8",
+ "referer":"https://www.doomovie-hd.com",
+"info":"doomovie-hd","playInNatPlayer": "true"},
 {
 "name": "epl1 - 2 (720p)",
 "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
