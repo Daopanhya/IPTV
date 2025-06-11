@@ -456,9 +456,10 @@ url: "https://www.youtube.com/@bgsports-official/streams",
 {
 "name":"SONY TEN 2 HD",
 "image":"http://img-cdn.curl.pk:8880/channels_icon/10689712451.png",
-"imagefitxy":"true",
-url: "http://x96.pro:8880/signaltv76/Random86/32169",
- "embed":"true"
+"url": "http://x96.pro:8880/signaltv76/Random86/32169",
+"referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
  },
 {
 "name": "WWE_Network",
