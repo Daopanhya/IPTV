@@ -446,6 +446,14 @@ image:"https://dookeela.live/uploads/1694719622.png",
 "playInNatPlayer": "true"
 },
 {
+"name":"Eleven Sports HD",
+"image":"http://img-cdn.curl.pk:8880/channels_icon/50616669471.png",
+"url": "http://x96.pro:8880/signaltv76/Random86/117058",
+ "referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+ },
+{
 "name":"NL: ESPN 1 FHD",
 "image":"http://img-cdn.curl.pk:8880/channels_icon/44589158161.png",
 "url": "http://x96.pro:8880/signaltv76/Random86/466103",
@@ -469,7 +477,22 @@ image:"https://dookeela.live/uploads/1694719622.png",
 "info": "HD",
 "playInNatPlayer": "true"
  },
-
+{
+"name":"Fox Sports 1",
+"image":"http://img-cdn.curl.pk:8880/channels_icon/20114988111.png",
+"url": "http://x96.pro:8880/signaltv76/Random86/28943",
+ "referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+ },
+{
+"name":"Fox Sports 2",
+"image":"http://img-cdn.curl.pk:8880/channels_icon/20114988111.png",
+"url": "http://img-cdn.curl.pk:8880/channels_icon/95850710401.png",
+ "referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+ },
 
 
 {
