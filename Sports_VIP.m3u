@@ -446,6 +446,33 @@ image:"https://dookeela.live/uploads/1694719622.png",
 "playInNatPlayer": "true"
 },
 {
+"name":"NL: ESPN 1 FHD",
+"image":"http://img-cdn.curl.pk:8880/channels_icon/44589158161.png",
+"url": "http://x96.pro:8880/signaltv76/Random86/466103",
+ "referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+ },
+{
+"name":"NL: ESPN 2 FHD",
+"image":"http://img-cdn.curl.pk:8880/channels_icon/64141026451.png",
+"url": "http://x96.pro:8880/signaltv76/Random86/283548",
+ "referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+ },
+{
+"name":"NL: ESPN 3 FHD",
+"image":"http://img-cdn.curl.pk:8880/channels_icon/25939289171.png",
+"url": "http://x96.pro:8880/signaltv76/Random86/466104",
+ "referer": " ",
+"info": "HD",
+"playInNatPlayer": "true"
+ },
+
+
+
+{
 "name":"Sportdigital Fussball HD",
 "image":"http://img-cdn.curl.pk:8880/channels_icon/6143353842.png",
 "url": "http://x96.pro:8880/signaltv76/Random86/135668",
