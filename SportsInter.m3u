@@ -32,6 +32,15 @@
 {
 "name": "pt-sport-tv-1",
 "image": "https://api-soccer.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
+"url":"https://dooballkub.com/live/?sporttv1pt",
+"referer": "https://dooballkub.com/",
+"info": "dooballku",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "pt-sport-tv-1",
+"image": "https://api-soccer.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
 "url":"https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%201%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAxMjo0ODozOCBQTSZoYXNoX3ZhbHVlPWhPd2xJVjQrZWhqUTVaQmNrM3ljV1E9PSZ2YWxpZG1pbnV0ZXM9NjA=",
 "referer": "https://doolive4k.tv",
 "info": "doolive4",
