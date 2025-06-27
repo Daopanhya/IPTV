@@ -422,10 +422,9 @@ image:"https://dookeela.live/uploads/1694719622.png",
 },
 {
 "name":"Monomax1",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png",
+"image":"",
 "url":"https://dooballkub.com/live/?monomax1",
-"embed": "true",
-"info": "สำหลับโทรศัพท์",
+"info": "dooballkub",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
@@ -454,8 +453,8 @@ image:"https://dookeela.live/uploads/1694719622.png",
 "playInNatPlayer": "true"
 },
 {
-"name":"NANZ",
-"image":"http://img-cdn.curl.pk:8880/channels_icon/50616669471.png",
+"name":"DANZ",
+"image":"",
 "url": "https://dooballkub.com/live/?baygonhero15",
  "referer": " ",
 "info": "HD",
