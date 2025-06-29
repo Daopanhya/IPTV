@@ -423,7 +423,7 @@ image:"https://dookeela.live/uploads/1694719622.png",
 {
 "name":"Monomax1",
 "image":"https://img.monomax.me/mdjIoh9cfB2R86ezHYG1uNwAr6o=/www.monomax.me/assets/monomax/images/payments/ic_new_monomax.png",
-"url":"https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub1/monomax1_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI1IDk6MDY6MDIgQU0maGFzaF92YWx1ZT1vUkpRczZldXp1UDF3cWlWRnVQZWRnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjYmaWQ9YmdocjU3NDE5NQ==",
+"url":"https://dooballkub.com/live/?monomax1",
 "info": "dooballkub",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -453,14 +453,7 @@ image:"https://dookeela.live/uploads/1694719622.png",
 "info": "dooballfr",
 "playInNatPlayer": "true"
 },
-{
-"name":"DANZ",
-"image":"",
-"url": "https://dooballkub.com/live/?baygonhero15",
- "referer": " ",
-"info": "HD",
-"playInNatPlayer": "true"
- },
+
 {
 "name":"Eleven Sports HD",
 "image":"",
