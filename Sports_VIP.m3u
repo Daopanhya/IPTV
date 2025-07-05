@@ -125,9 +125,9 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name": "True Sports HD",
 "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-"referer": " ",
+"referer": "https://www.madoohd.com",
 "url": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
-"info": "livedoomovies",
+"info": "madoohd",
 "playInNatPlayer": "true"
 },
 
