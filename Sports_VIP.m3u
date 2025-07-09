@@ -391,8 +391,9 @@ image:"https://dookeela.live/uploads/1694719622.png",
 "name":"Monomax2",
 "image":"https://img.monomax.me/mdjIoh9cfB2R86ezHYG1uNwAr6o=/www.monomax.me/assets/monomax/images/payments/ic_new_monomax.png",
 "url":"https://dooballkub.com/live/?mono29",
-"info": "dooballkub",
-"playInNatPlayer": "true"
+"embed": "true",
+"info": "สำหลับโทรศัพท์",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
 {
@@ -455,7 +456,7 @@ image:"https://dookeela.live/uploads/1694719622.png",
 {
 "name":"Fox Sports 1",
 "image":"http://img-cdn.curl.pk:8880/channels_icon/20114988111.png",
-"url": "http://x96.pro:8880/signaltv76/Random86/28943",
+"url": "https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub4/foxsports1us/chunks.m3u8?nimblesessionid=20030588&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjUgMTE6NDE6NTAgUE0maGFzaF92YWx1ZT1GNk8zMkJPSklDeGxvM1VaUWxDQjVRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjUmaWQ9Ymdocjc4MjMxNw==",
  "referer": " ",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -463,7 +464,7 @@ image:"https://dookeela.live/uploads/1694719622.png",
 {
 "name":"Fox Sports 2",
 "image":"http://img-cdn.curl.pk:8880/channels_icon/95850710401.png",
-"url": "http://x96.pro:8880/signaltv76/Random86/28944",
+"url": "https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub4/foxsports2us/chunks.m3u8?nimblesessionid=20030564&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjUgMTE6Mzg6NTUgUE0maGFzaF92YWx1ZT1sdWdQZkg5bVFPUm5CeG5vUVAvZTJnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjUmaWQ9YmdocjcxMzI2MQ==",
  "referer": " ",
 "info": "HD",
 "playInNatPlayer": "true"
