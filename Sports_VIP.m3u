@@ -419,6 +419,22 @@ image:"https://dookeela.live/uploads/1694719622.png",
 "info": "dooballfr",
 "playInNatPlayer": "true"
 },
+ {
+"name": "AIS 3",
+"image": "https://api-soccer.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
+"url":"https://dolive.thaim3u.com/pungtoe-com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDU6MDE6NTEgQU0maGFzaF92YWx1ZT1mbytkc2lXUk5RRDdDOU0rRUJYK0tRPT0mdmFsaWRtaW51dGVzPTYw",
+"referer": "https://doolive4k.tv",
+"info": "dooballfr",
+"playInNatPlayer": "true"
+},
+ {
+"name": "AIS 4",
+"image": "https://api-soccer.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png",
+"url":"https://dolive.thaim3u.com/pungtoe-com/football-play-4/chunks.m3u8?nimblesessionid=187142551&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDU6MDE6NTEgQU0maGFzaF92YWx1ZT1mbytkc2lXUk5RRDdDOU0rRUJYK0tRPT0mdmFsaWRtaW51dGVzPTYw",
+"referer": "https://doolive4k.tv",
+"info": "dooballfr",
+"playInNatPlayer": "true"
+},
 
 {
 "name":"Eleven Sports HD",
