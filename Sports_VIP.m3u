@@ -279,7 +279,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 
 {
 "name":"Monomax 1",
-"image":"https://img.monomax.me/mdjIoh9cfB2R86ezHYG1uNwAr6o=/www.monomax.me/assets/monomax/images/payments/ic_new_monomax.png",
+"image":"https://dookeela.live/uploads/1753517049.png",
 "url":"https://dookeela.live/live-tv/monomax1",
 "info": "VPN Thai",
 "playInNatPlayer": "true"
@@ -292,6 +292,20 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 
+{
+"name":"asean-u23-mandiri-cup-1",
+"image":"https://dookeela.live/uploads/1752532908.png",
+"url":"https://dookeela.live/live-tv/asean-u23-mandiri-cup-1",
+"info": "VPN Thai",
+"playInNatPlayer": "true"
+},
+{
+"name":"asean-u23-mandiri-cup-2",
+"image":"https://dookeela.live/uploads/1752532908.png",
+"url":"https://dookeela.live/live-tv/asean-u23-mandiri-cup-2",
+"info": "VPN Thai",
+"playInNatPlayer": "true"
+},
 {
 "name":" 3BBSPORT1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png",
