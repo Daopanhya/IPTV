@@ -1,12 +1,12 @@
 {
 "name": "Digital TV",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV. (อัพเดท 10/6/2025)",
+"author": "by DAO-IPTV. (อัพเดท 27/7/2025)",
   "info": "DAO-IPTV",
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%94%E0%BA%B5%E0%BA%88%E0%BA%B5%E0%BA%95%E0%BB%89%E0%BA%AD%E0%BA%99%E0%BA%97%E0%BA%B5%E0%BA%A7%E0%BA%B5.m3u",
 "stations" : [
 {
-"name": "NBT2HD (1080p)",
+"name": "NBT2 FHD",
 "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
 "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8",
 "referer": "",
@@ -14,7 +14,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Thai Pbs (1080p)",
+"name": "Thai Pbs FHD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
 "url": "https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8",
 "referer": "",
@@ -22,7 +22,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "ALTV4 (1080p)",
+"name": "ALTV4 FHD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
 "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
 "referer": "",
@@ -30,7 +30,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CH5HD (1080p)",
+"name": "CH5HD FHD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
 "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
 "referer": "",
@@ -38,7 +38,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "T Sports 7 (720p)",
+"name": "T Sports 7 HD",
 "image": "https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "",
@@ -46,7 +46,7 @@
 "info": "HD"
 },
 {
-"name": "TPTV (720p)",
+"name": "TPTV HD",
 "image": "https://cms.dmpcdn.com/livetv/2023/11/22/2a4de600-8919-11ee-8416-3dc6bea66698_webp_original.webp",
 "url": "https://tv-live.tpchannel.org/live/tv_720p.m3u8",
 "referer": "",
@@ -54,7 +54,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "TNN 16 (720p)",
+"name": "TNN 16 HD",
 "image": "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp",
 "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8",
 "referer": "",
@@ -62,7 +62,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "JKN 18 (720p)",
+"name": "JKN 18 HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",
 "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8",
 "referer": "",
@@ -70,7 +70,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Nation TV (1080p)",
+"name": "Nation TV FHD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
 "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8",
 "referer": "",
@@ -78,7 +78,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Workpoint  (1080p)",
+"name": "Workpoint  FHD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
 "url": "https://global-media.sooplive.com/live/workpoint/master.m3u8",
 "referer": "",
@@ -86,7 +86,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "True4U (720p)",
+"name": "True4U HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
 "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8",
 "referer": "",
@@ -94,7 +94,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "GMM 25 (720p)",
+"name": "GMM 25 HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
 "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8",
 "referer": "",
@@ -102,7 +102,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CH 8 (720p)",
+"name": "CH 8 HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
 "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8",
 "referer": "",
@@ -110,7 +110,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "MONO 29 (1080p)",
+"name": "MONO 29 FHD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
 "url": "https://wandering-oldman.github.io/3bb-mono29/3bb-mono29.html",
 "referer": "",
@@ -118,7 +118,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "MCOT HD (1080p)",
+"name": "MCOT FHD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
 "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8",
 "referer": "",
@@ -126,16 +126,15 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "ONE 31 (720p)",
+"name": "ONE 31 HD",
 "image": "https://assets.oned.net/3/logo_one31.png",
-"url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_one/hd_one.stream?type=m3u8",
+"url": "https://wandering-oldman.github.io/digital-tv-/ch-one31hd.m3u8",
 "referer": "",
-"info": "HD",
-"url": "https://www.inwiptv.com/player_demo.php?channel=27140",
+"info": "Oldman",
 "playInNatPlayer": "true"
 },
 {
-"name": "Thairath TV (720p)",
+"name": "Thairath TV HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_thairath/hd_thairath.stream?type=m3u8",
 "referer": "",
@@ -144,7 +143,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CH3 HD (720p)",
+"name": "CH3 HD HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
 "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_3/hd3.stream?type=m3u8",
 "referer": "",
@@ -153,7 +152,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Amarin TV (720p)",
+"name": "Amarin TV HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27135",
 "referer": "",
@@ -161,7 +160,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CH7 HD (1080p)",
+"name": "CH7 FHD",
 "image": "https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png?a=1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": " ",
@@ -170,29 +169,29 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "PPTV HD (720p)",
+"name": "PPTV HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": " ",
 "info": "HD",
-"url": "https://www.inwiptv.com/player_demo.php?channel=27129",
+"url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
 "playInNatPlayer": "true"
 },
 
 {
-"name": "TOP News (720p)",
+"name": "TOP News HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG",
 "referer": " ",
 "info": "HD",
-"url": "https://edge2a.v2h-cdn.com/ttd14/ttd14.stream/playlist.m3u8",
+"url": "https://server1.streamssl.com/stream/news1_mid.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "News 1 (420p)",
+"name": "News 1 HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",
 "referer": " ",
-"info": "SD",
-"url": "https://server1.streamssl.com/stream/news1.m3u8",
+"info": "HD",
+"url": "https://server1.streamssl.com/stream/news1_mid.m3u8",
 "playInNatPlayer": "true"
 },
 
