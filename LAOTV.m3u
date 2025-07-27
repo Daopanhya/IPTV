@@ -5,9 +5,9 @@
   "info": "DAO-IPTV",
 "stations" : [
 {
-name:"MVLAO",
+name:"MVLAO HD",
 image:"https://media-mvtv-app.imgix.net/uploads/channel/33_y_nqRCYpyBg3L8WMfV6hk1zbxKZoEl0ISO.png",
-url:"https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8",
+url:"https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8",
 "info": "HD",
 "playInNatPlayer": "true"
 },
