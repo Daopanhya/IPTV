@@ -114,6 +114,55 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name": "True Sports HD",
 "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+"referer": "https://www.madoohd.com",
+"url": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+"info": "madoohd",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sports 2 HD",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+"referer": "https://www.madoohd.com",
+"url": "https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
+"info": "madoohd",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sports 3 HD",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
+"referer": "https://www.madoohd.com",
+"url": "https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
+"info": "madoohd",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sports 4 HD",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
+"referer": "https://www.madoohd.com",
+"url": "https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8",
+"info": "madoohd",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sports 5",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+"referer": "https://www.madoohd.com",
+"url": "https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8",
+"info": "madoohd",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sports 7",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+"referer": "https://www.madoohd.com/",
+"url": "https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8",
+"info": "madoohd",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sports HD",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
 "referer": "https://www.madoohd.com/",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true1.m3u8",
 "info": "bestcom",
@@ -149,64 +198,6 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "referer": "https://www.madoohd.com/",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true7.m3u8",
 "info": "HD bestcom",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "True Sports HD",
-"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-"referer": "https://www.madoohd.com",
-"url": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
-"info": "madoohd",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sports 2 HD",
-"image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
-"referer": "https://www.madoohd.com",
-"url": "https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
-"info": "madoohd",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sports 4 HD",
-"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
-"referer": "https://www.madoohd.com",
-"url": "https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8",
-"info": "madoohd",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sports 3 HD",
-"image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
-"referer": "https://www.madoohd.com",
-"url": "https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
-"info": "madoohd",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sports 5",
-"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
-"referer": "https://www.madoohd.com",
-"url": "https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8",
-"info": "madoohd",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sports 7",
-"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-"referer": "https://www.madoohd.com/",
-"url": "https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8",
-"info": "madoohd",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "True Sports HD",
-"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-"referer": "https://www.madoohd.com",
-"url": "https://dooball66k.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/",
-"info": "dooball66k",
 "playInNatPlayer": "true"
 },
 
