@@ -276,12 +276,26 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "bestcom",
 "playInNatPlayer": "true"
 },
+{
+"name":"DAZN1 Germany",
+"image":"https://dookeela.live/uploads/1679423986.png",
+"url":"https://dookeela.live/live-tv/dazn1",
+"info": "ເປີດ VPN Thai",
+"playInNatPlayer": "true"
+},
+{
+"name":"DAZN1 Spain",
+"image":"https://dookeela.live/uploads/1715571844.png",
+"url":"https://dookeela.live/live-tv/dazn1es",
+"info": "ເປີດ VPN Thai",
+"playInNatPlayer": "true"
+},
 
 {
 "name":"Monomax 1",
 "image":"https://dookeela.live/uploads/1753517049.png",
 "url":"https://dookeela.live/live-tv/monomax1",
-"info": "VPN Thai",
+"info": "ເປີດ VPN Thai",
 "playInNatPlayer": "true"
 },
 {
