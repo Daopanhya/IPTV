@@ -259,6 +259,13 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "bestcom",
 "playInNatPlayer": "true"
 },
+"name": "WWE",
+"image": "https://dookeela2.live/uploads/1696317392.png",
+"referer": "https://doolive4k.tv",
+"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/wwe.m3u8",
+"info": "bestcom",
+"playInNatPlayer": "true"
+},
 
 {
 "name":"DAZN1 Germany",
