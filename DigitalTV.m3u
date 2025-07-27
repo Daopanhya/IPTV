@@ -112,11 +112,9 @@
 {
 "name": "MONO 29 (1080p)",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
-"url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8",
+"url": "https://wandering-oldman.github.io/3bb-mono29/3bb-mono29.html",
 "referer": "",
-"info": "Auto",
-"KODIPROP": "inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516",
-"url": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8",
+"info": "Oldman",
 "playInNatPlayer": "true"
 },
 {
