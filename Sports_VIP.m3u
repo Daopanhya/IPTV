@@ -287,8 +287,8 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"Mono29",
 "image":"https://dookeela.live/uploads/1703787713.png",
-"url":"https://dookeela.live/live-tv/mono29",
-"info": "VPN Thai",
+"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
+"info": "3bb ສຳລັບມືຖື",
 "playInNatPlayer": "true"
 },
 
