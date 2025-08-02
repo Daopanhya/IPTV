@@ -1,7 +1,7 @@
 {
 "name": "Sports",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV   (อัพเดท 13/7/2025)",
+"author": "by DAO-IPTV   (อัพเดท 02/08/2025)",
   "info": "DAO-IPTV",
 "stations" : [
 {
@@ -291,25 +291,17 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 {
-"name":"Mono29",
-"image":"https://dookeela.live/uploads/1703787713.png",
-"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
-"info": "3bb ສຳລັບມືຖື",
-"playInNatPlayer": "true"
-},
-
-{
-"name":"asean-u23-mandiri-cup-1",
-"image":"https://dookeela.live/uploads/1752532908.png",
-"url":"https://dookeela.live/live-tv/asean-u23-mandiri-cup-1",
-"info": "VPN Thai",
+"name":"Monomax 3",
+"image":"https://dookeela2.live/uploads/1753873776.png",
+"url":"https://dookeela2.live/live-tv/ais-monomax-3",
+"info": "ເປີດ VPN Thai",
 "playInNatPlayer": "true"
 },
 {
-"name":"asean-u23-mandiri-cup-2",
-"image":"https://dookeela.live/uploads/1752532908.png",
-"url":"https://dookeela.live/live-tv/asean-u23-mandiri-cup-2",
-"info": "VPN Thai",
+"name":"Monomax 4",
+"image":"https://dookeela2.live/uploads/1753873817.png",
+"url":"https://dookeela2.live/live-tv/ais-monomax-4",
+"info": "ເປີດ VPN Thai",
 "playInNatPlayer": "true"
 },
 {
