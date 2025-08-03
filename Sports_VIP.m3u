@@ -291,6 +291,13 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 {
+"name":"Monomax 2",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4681.png",
+"url":"https://dooballkub.com/live/?monomax3",
+"info": "Dooballku",
+"playInNatPlayer": "true"
+},
+{
 "name":"Monomax 3",
 "image":"https://dookeela2.live/uploads/1753873776.png",
 "url":"https://dookeela2.live/live-tv/ais-monomax-3",
