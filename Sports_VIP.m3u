@@ -269,18 +269,12 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 
 {
-"name":"DAZN1 Germany",
-"image":"https://dookeela.live/uploads/1679423986.png",
-"url":"https://dookeela.live/live-tv/dazn1",
-"info": "ເປີດ VPN Thai",
-"playInNatPlayer": "true"
-},
-{
-"name":"DAZN1 Spain",
-"image":"https://dookeela.live/uploads/1715571844.png",
-"url":"https://dookeela.live/live-tv/dazn1es",
-"info": "ເປີດ VPN Thai",
-"playInNatPlayer": "true"
+"name":"FS1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--60.png",
+"url":"https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub4/foxsports1us/chunks.m3u8?nimblesessionid=20800865&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgNDoxNDozNyBBTSZoYXNoX3ZhbHVlPTZlWStkMHhuZ1QxbDVsdlpIYTdiVEE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNSZpZD1iZ2hyNjAxNDM5",
+"info": "Dooballku.",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
 {
