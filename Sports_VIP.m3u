@@ -285,10 +285,11 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 
 {
 "name":"Monomax 1",
-"image":"https://dookeela.live/uploads/1753517049.png",
-"url":"https://dookeela.live/live-tv/monomax1",
-"info": "ເປີດ VPN Thai",
-"playInNatPlayer": "true"
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",
+"url":"https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub1/monomax1_480p/chunks.m3u8?nimblesessionid=20800641&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgMzo1OTo1MiBBTSZoYXNoX3ZhbHVlPWJDV1Rtdk9xc0FHY1U1NVJGQVB6WFE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD1iZ2hyNDYwNTY4",
+"info": "Dooballku.",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
 "name":"Monomax 2",
@@ -300,17 +301,19 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 {
 "name":"Monomax 3",
-"image":"https://dookeela2.live/uploads/1753873776.png",
-"url":"https://dookeela2.live/live-tv/ais-monomax-3",
-"info": "ເປີດ VPN Thai",
-"playInNatPlayer": "true"
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4682.png",
+"url":"https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub1/monomax3_480p/chunks.m3u8?nimblesessionid=20800610&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgMzo1NzoyMSBBTSZoYXNoX3ZhbHVlPXhLQVNTQ0ZhdzRhS21rc3BSdHlSY2c9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD1iZ2hyMjI2NjEy",
+"info": "Dooballku.",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
 "name":"Monomax 4",
-"image":"https://dookeela2.live/uploads/1753873817.png",
-"url":"https://dookeela2.live/live-tv/ais-monomax-4",
-"info": "ເປີດ VPN Thai",
-"playInNatPlayer": "true"
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4683.png",
+"url":"https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub1/monomax4_480p/chunks.m3u8?nimblesessionid=20800671&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgNDowMTozOSBBTSZoYXNoX3ZhbHVlPVBVbVRxSVhqMUhYYzhaMWs5b0JidkE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD1iZ2hyNjA2MjE2",
+"info": "Dooballku.",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
 "name":" 3BBSPORT1",
