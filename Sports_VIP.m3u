@@ -295,7 +295,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4681.png",
 "url":"https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub1/monomax2_480p/chunks.m3u8?nimblesessionid=20800492&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgMzo0Mzo1NiBBTSZoYXNoX3ZhbHVlPUxjZWRhcXIyNmpQZTZtaGwrTjNzQnc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD1iZ2hyNTczNzY2",
 "info": "Dooballku.",
-"playInNatPlayer": "true"
+"playInNatPlayer": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"}
 },
 {
