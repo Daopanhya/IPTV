@@ -301,13 +301,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "embed": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
-{
-"name":"Monomax 3",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4682.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19501222",
-"info": "Dooballku.",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
+
 {
 "name":"Monomax 4",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4683.png",
@@ -355,8 +349,15 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "referer": "https://doolive4k.tv",
 "info": "dooballfr",
 "playInNatPlayer": "true"
-
 },
+{
+"name":"Diema Sport 2",
+"image":"https://api-soccer.thai-play.com/images/tv/Diema%20Sport%202.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19501222",
+"info": "Siamzee",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+
 ]
 }​
 
