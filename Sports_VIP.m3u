@@ -304,8 +304,8 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"Monomax 3",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4682.png",
-"url":"https://dooballkub.com/live/?monomax3",
-"info": "Dooballku",
+"url":"https://demo-live.siamzeed.com/fixtures/19501222",
+"info": "Dooballku.",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
