@@ -358,6 +358,14 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
+{
+"name":"Digi Sport 1 (Rom)",
+"image":"https://api-soccer.thai-play.com/images/tv/Digi%20Sport%201%20(Rom).png",
+"url":"https://demo-live.siamzeed.com/fixtures/19431027",
+"info": "Siamzee",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+
 ]
 }​
 
