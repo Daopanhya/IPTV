@@ -359,6 +359,14 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 
 {
+"name":"Diema Sport 3",
+"image":"https://api-soccer.thai-play.com/images/tv/AopcTE0QyFk5BZf6Mqqpo4ma1vMf208Diema_Sport_3.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19510576",
+"info": "Siamzee",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+
+{
 "name":"Digi Sport 1 (Rom)",
 "image":"https://api-soccer.thai-play.com/images/tv/Digi%20Sport%201%20(Rom).png",
 "url":"https://demo-live.siamzeed.com/fixtures/19431027",
