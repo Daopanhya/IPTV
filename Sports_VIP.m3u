@@ -381,6 +381,13 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "Siamzee",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
+{
+"name":"A1",
+"image":"https://api-soccer.thai-play.com/images/tv/tfuupgUGsXjxJEa7lVuQM5km0z3KiHwa314.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19362146",
+"info": "Siamzee",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
 
 ]
 }​
