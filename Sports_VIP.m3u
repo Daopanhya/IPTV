@@ -366,6 +366,14 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
+{
+"name":"pt-sport-tv-1",
+"image":"https://api-soccer.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19498967",
+"info": "Siamzee",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+
 ]
 }​
 
