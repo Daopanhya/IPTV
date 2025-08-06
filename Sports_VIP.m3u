@@ -384,7 +384,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"A1",
 "image":"https://api-soccer.thai-play.com/images/tv/tfuupgUGsXjxJEa7lVuQM5km0z3KiHwa314.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19362146",
+"url":"https://switch.thaim3u.com/demo-live-siamzeed-com/Arena%20Sport%201%20Croatia/chunks.m3u8?nimblesessionid=16795737&wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgMTA6MjA6MDQgQU0maGFzaF92YWx1ZT1wRDVDR0lxSnU4Q0E5VUpyT1pWMzh3PT0mdmFsaWRtaW51dGVzPTYw",
 "info": "Siamzee",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
