@@ -288,28 +288,12 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"Monomax 1",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",
-"url":"https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub1/monomax1_480p/chunks.m3u8?nimblesessionid=20800641&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgMzo1OTo1MiBBTSZoYXNoX3ZhbHVlPWJDV1Rtdk9xc0FHY1U1NVJGQVB6WFE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD1iZ2hyNDYwNTY4",
-"info": "Dooballku.",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"Monomax 2",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4681.png",
-"url":"https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub1/monomax2_480p/chunks.m3u8?nimblesessionid=20800492&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgMzo0Mzo1NiBBTSZoYXNoX3ZhbHVlPUxjZWRhcXIyNmpQZTZtaGwrTjNzQnc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD1iZ2hyNTczNzY2",
-"info": "Dooballku.",
+"url":"https://dookeela2.live/live-tv/monomax1",
+"info": "ເປີດ VPN Thai",
 "embed": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
-{
-"name":"Monomax 4",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4683.png",
-"url":"https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub1/monomax4_480p/chunks.m3u8?nimblesessionid=20800671&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgNDowMTozOSBBTSZoYXNoX3ZhbHVlPVBVbVRxSVhqMUhYYzhaMWs5b0JidkE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD1iZ2hyNjA2MjE2",
-"info": "Dooballku.",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
 {
 "name":" 3BBSPORT1",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png",
