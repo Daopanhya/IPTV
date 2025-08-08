@@ -289,8 +289,8 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "name":"Monomax 1",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",
 "url":"https://dookeela2.live/live-tv/monomax1",
-"info": "ເປີດ VPN Thai",
-"embed": "true",
+"info": "ເປີດ VPN Thai.",
+"playInNatPlayer": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
