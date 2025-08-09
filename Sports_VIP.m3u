@@ -351,17 +351,17 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 
 {
-"name":"Digi Sport 1 (Rom)",
-"image":"https://api-soccer.thai-play.com/images/tv/Digi%20Sport%201%20(Rom).png",
-"url":"https://demo-live.siamzeed.com/fixtures/19431027",
+"name":"MONO MAX",
+"image":"",
+"url":"https://m.dooball24hr.com/?id=688c2e80f57e25f18ae4ba73&ch=0",
 "info": "Siamzee",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
 {
-"name":"pt-sport-tv-1",
-"image":"https://api-soccer.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19498967",
+"name":"DAZN",
+"image":"",
+"url":"https://m.dooball24hr.com/?id=68970fe0651a9f76e7cfddb0&ch=0",
 "info": "Siamzee",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
