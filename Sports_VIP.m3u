@@ -329,15 +329,15 @@ url: "https://sport.trueid.net/premier-league/fixtures",
  {
 "name": "AIS 4",
 "image": "https://api-soccer.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png",
-"url":"https://dolive.thaim3u.com/pungtoe-com/football-play-4/chunks.m3u8?nimblesessionid=187142551&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDI1IDU6MDE6NTEgQU0maGFzaF92YWx1ZT1mbytkc2lXUk5RRDdDOU0rRUJYK0tRPT0mdmFsaWRtaW51dGVzPTYw",
+"url":"https://dooball.pungtoe.net/fixture/?fixture_id=19431750&tvstation=0F92YWx1ZT1mbytkc2lXUk5RRDdDOU0rRUJYK0tRPT0mdmFsaWRtaW51dGVzPTYw",
 "referer": "https://doolive4k.tv",
 "info": "dooballfr",
 "playInNatPlayer": "true"
 },
 {
-"name":"Diema Sport 2",
-"image":"https://api-soccer.thai-play.com/images/tv/Diema%20Sport%202.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19501222",
+"name":"SIAM-1",
+"image":"",
+"url":"https://dooball.pungtoe.net/fixture/?fixture_id=19502402&tvstation=0",
 "info": "Siamzee",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
