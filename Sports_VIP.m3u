@@ -268,22 +268,6 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 
-{
-"name":"Apple TV",
-"image":"https://assets-prd.ignimgs.com/2022/09/22/service-apple-tv-plus-1663818541279.jpg",
-"url":"https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub6/baygonhero33/chunks.m3u8?nimblesessionid=20801151&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgNDoyNzowNCBBTSZoYXNoX3ZhbHVlPXZZOUVrb2FjUVpCbiswUG5mYmp0YXc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNSZpZD1iZ2hyMjQwMTEz",
-"info": "Dooballku.",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"FS1",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--60.png",
-"url":"https://r3-sn-5fo-c37ed16.googleuservideo.com/dooball_kub4/foxsports1us/chunks.m3u8?nimblesessionid=20800865&wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgNDoxNDozNyBBTSZoYXNoX3ZhbHVlPTZlWStkMHhuZ1QxbDVsdlpIYTdiVEE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNSZpZD1iZ2hyNjAxNDM5",
-"info": "Dooballku.",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
 
 {
 "name":"Monomax 1",
@@ -294,14 +278,6 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
-{
-"name":" 3BBSPORT1",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png",
-"url":"https://wandering-oldman.github.io/3bb-sport1/3bb-sport1.html",
-"embed": "true",
-"info": "สำหลับโทรศัพท์",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
 {
 "name": "AIS 1",
 "image": "https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
@@ -358,28 +334,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 
 
 
-{
-"name":"MONO MAX",
-"image":"",
-"url":"https://m.dooball24hr.com/?id=688c2e80f57e25f18ae4ba73&ch=0",
-"info": "Siamzee",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
 
-{
-"name":"DAZN",
-"image":"",
-"url":"https://m.dooball24hr.com/?id=68970fe0651a9f76e7cfddb0&ch=0",
-"info": "Siamzee",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"BG Sport",
-"image":"",
-"url":"https://m.dooball24hr.com/?id=68971c44c5b5722169eb3f5e&ch=0",
-"info": "Siamzee",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
 
 ]
 }​
