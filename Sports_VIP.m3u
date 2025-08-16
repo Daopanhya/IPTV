@@ -272,21 +272,35 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"Monomax 1",
 "image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",
-"url":"https://www.dooballfree24hrs.com/live/monomax1",
-"info": " ",
-"playInNatPlayer": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-
-{
-"name":"Monomax 1 a",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",
 "url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax1/playlist.m3u8",
 "info": " ",
 "playInNatPlayer": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
-
+{
+"name":"Monomax 2",
+"image":" ",
+"url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-2/playlist.m3u8",
+"info": " ",
+"playInNatPlayer": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name":"Monomax 3",
+"image":" ",
+"url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-3/playlist.m3u8",
+"info": " ",
+"playInNatPlayer": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name":"Monomax 4",
+"image":" ",
+"url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-4/playlist.m3u8",
+"info": " ",
+"playInNatPlayer": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
 {
 "name": "AIS 1",
 "image": "https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
