@@ -212,6 +212,14 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
+"name":"M-max 5",
+"image":" ",
+"url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-5/playlist.m3u8",
+"info": " ",
+"playInNatPlayer": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
 "name": "AIS 1",
 "image": "https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
 "url":"https://dolive.thaim3u.com/xstream/football-play-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjUgMzowNjo0MyBQTSZoYXNoX3ZhbHVlPWVsaVVsbHBweUoxNVNETno2dDQ4S1E9PSZ2YWxpZG1pbnV0ZXM9NjA=",
