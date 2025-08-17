@@ -1,7 +1,7 @@
 {
 "name": "Sports",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV   (อัพเดท 02/08/2025)",
+"author": "by DAO-IPTV   (ອັບເດດ 17/08/2025)",
   "info": "DAO-IPTV",
 "stations" : [
 {
@@ -77,39 +77,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL1.m3u8",
 "info": "HD bestcom",
 "playInNatPlayer": "true"
-},
-{
-"name": "epl2 HD - 3",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",
-"referer": "https://www.madoohd.com/",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL2.m3u8",
-"info": "HD bestcom",
-"playInNatPlayer": "true"
-},
-{
-"name": "epl3  HD- 3",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png",
-"referer": "https://www.madoohd.com/",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL3.m3u8",
-"info": "HD bestcom",
-"playInNatPlayer": "true"
-},
-{
-"name": "epl4 HD - 3",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.png",
-"referer": "https://www.madoohd.com/",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL4.m3u8",
-"info": "HD bestcom",
-"playInNatPlayer": "true"
-},
-{
-"name": "epl5 HD - 3",
-"image": "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png",
-"referer": "https://www.madoohd.com/",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/EPL5.m3u8",
-"info": "HD bestcom",
-"playInNatPlayer": "true"
-},
+
 
 {
 "name": "True Sports HD",
@@ -270,15 +238,15 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 
 
 {
-"name":"Monomax 1",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",
+"name":"M-max 1",
+"image":" ",
 "url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax1/playlist.m3u8",
 "info": " ",
 "playInNatPlayer": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-"name":"Monomax 2",
+"name":"M-max 2",
 "image":" ",
 "url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-2/playlist.m3u8",
 "info": " ",
@@ -286,7 +254,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-"name":"Monomax 3",
+"name":"M-max 3",
 "image":" ",
 "url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-3/playlist.m3u8",
 "info": " ",
@@ -294,7 +262,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-"name":"Monomax 4",
+"name":"M-max 4",
 "image":" ",
 "url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-4/playlist.m3u8",
 "info": " ",
