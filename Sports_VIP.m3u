@@ -180,40 +180,40 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 
 
 {
-"name":"M-max 1",
-"image":" ",
+"name":"Monomax 1",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",
 "url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax1/playlist.m3u8",
 "info": " ",
 "playInNatPlayer": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-"name":"M-max 2",
-"image":" ",
+"name":"Monomax 2",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4681.png",
 "url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-2/playlist.m3u8",
 "info": " ",
 "playInNatPlayer": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-"name":"M-max 3",
-"image":" ",
+"name":"Monomax 3",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4682.png",
 "url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-3/playlist.m3u8",
 "info": " ",
 "playInNatPlayer": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-"name":"M-max 4",
-"image":" ",
+"name":"Monomax 4",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4683.png",
 "url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-4/playlist.m3u8",
 "info": " ",
 "playInNatPlayer": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-"name":"M-max 5",
-"image":" ",
+"name":"Monomax 5",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4684.png",
 "url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-5/playlist.m3u8",
 "info": " ",
 "playInNatPlayer": "true",
