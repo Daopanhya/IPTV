@@ -90,43 +90,27 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 
 {
-"name": "True Sports HD",
-"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-"referer": "https://www.madoohd.com/",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true1.m3u8",
-"info": "bestcom",
+"name": "beIN SPORTS 1 HD",
+"image": "https://dookeela2.live/uploads/1664500365.png",
+"referer": "",
+"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bein1/playlist.m3u8",
+"info": "dooballfree24",
 "playInNatPlayer": "true"
 },
 {
-"name": "True Sports 2 HD",
-"image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
-"referer": " ",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true2.m3u8",
-"info": "bestcom",
+"name": "beIN SPORTS 2 HD",
+"image": "https://dookeela2.live/uploads/1690843424.png",
+"referer": "",
+"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bein2/playlist.m3u8",
+"info": "dooballfree24",
 "playInNatPlayer": "true"
 },
 {
-"name": "True Sports 3 HD",
-"image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
-"referer": " ",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true3.m3u8",
-"info": "bestcom",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sports 5",
-"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
-"referer": "https://doolive4k.tv",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true5.m3u8",
-"info": "HD bestcom",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sports 7",
-"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-"referer": "https://www.madoohd.com/",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/true7.m3u8",
-"info": "HD bestcom",
+"name": "beIN SPORTS 3 HD",
+"image": "https://dookeela2.live/uploads/1663980670.png",
+"referer": "",
+"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bein3/playlist.m3u8",
+"info": "dooballfree24",
 "playInNatPlayer": "true"
 },
 
@@ -147,30 +131,6 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "playInNatPlayer": "true"
 },
 
-{
-"name": "beIN SPORTS 1 HD",
-"image": "https://dookeela.live/uploads/1664500365.png",
-"referer": "",
-"url": "https://www.dooballfree24hrs.com/live/bein1",
-"info": "dooballfree24",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 2 HD",
-"image": "https://dookeela.live/uploads/1690843424.png",
-"referer": "",
-"url": "https://www.dooballfree24hrs.com/live/bein2",
-"info": "dooballfree24",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 3 HD",
-"image": "https://dookeela.live/uploads/1663980670.png",
-"referer": "",
-"url": "https://www.dooballfree24hrs.com/live/bein3",
-"info": "dooballfree24",
-"playInNatPlayer": "true"
-},
 
 {
 "name": "GOLF HD",
