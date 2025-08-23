@@ -113,7 +113,38 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "dooballfree24",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "beIN SPORTS 4 HD",
+"image": "https://dookeela2.live/uploads/1663980670.png",
+"referer": "",
+"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bein4/playlist.m3u8",
+"info": "dooballfree24",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 5 HD",
+"image": "https://dookeela2.live/uploads/1663980670.png",
+"referer": "",
+"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bein5/playlist.m3u8",
+"info": "dooballfree24",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 6 HD",
+"image": "https://dookeela2.live/uploads/1663980670.png",
+"referer": "",
+"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bein6/playlist.m3u8",
+"info": "dooballfree24",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 7 HD",
+"image": "https://dookeela2.live/uploads/1663980670.png",
+"referer": "",
+"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bein7/playlist.m3u8",
+"info": "dooballfree24",
+"playInNatPlayer": "true"
+},
 {
 "name": "Spotv1 SD",
 "image": "https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
