@@ -1,7 +1,7 @@
 {
 "name": "Sports",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV   (ອັບເດດ 17/08/2025)",
+"author": "by DAO-IPTV   (ອັບເດດ 31/08/2025)",
   "info": "DAO-IPTV",
 "stations" : [
 {
@@ -19,25 +19,6 @@ url: "https://sport.trueid.net/premier-league/fixtures",
  "embed":"true"
  },
 
-
-{
-"name": "TPF 3",
-"image": "https://dookeela2.live/uploads/1664499681.png",
-"referer": "https://www.madoohd.com",
-"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tpf3/playlist.m3u8",
-"info": "dooballfree",
-"playInNatPlayer": "true"
-},
-
-
-{
-"name": "TPF 4 HD",
-"image": "https://dookeela2.live/uploads/1664499692.png",
-"referer": "https://www.madoohd.com",
-"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tpf4/playlist.m3u8",
-"info": "dooballfree",
-"playInNatPlayer": "true"
-},
 
 
 {
@@ -113,38 +94,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "pungtoe",
 "playInNatPlayer": "true"
 },
-{
-"name": "beIN SPORTS 4 HD",
-"image": "https://dookeela2.live/uploads/1663980670.png",
-"referer": "",
-"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bein4/playlist.m3u8",
-"info": "dooballfree24",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 5 HD",
-"image": "https://dookeela2.live/uploads/1663980670.png",
-"referer": "",
-"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bein5/playlist.m3u8",
-"info": "dooballfree24",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 6 HD",
-"image": "https://dookeela2.live/uploads/1663980670.png",
-"referer": "",
-"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bein6/playlist.m3u8",
-"info": "dooballfree24",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 7 HD",
-"image": "https://dookeela2.live/uploads/1663980670.png",
-"referer": "",
-"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bein7/playlist.m3u8",
-"info": "dooballfree24",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "Spotv1 SD",
 "image": "https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
@@ -189,54 +139,6 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 
 
-{
-"name":"Monomax 1",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",
-"url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax1/playlist.m3u8",
-"info": " ",
-"playInNatPlayer": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"Monomax 2",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4681.png",
-"url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-2/playlist.m3u8",
-"info": " ",
-"playInNatPlayer": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"Monomax 3",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4682.png",
-"url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-3/playlist.m3u8",
-"info": " ",
-"playInNatPlayer": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"Monomax 4",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4683.png",
-"url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-4/playlist.m3u8",
-"info": " ",
-"playInNatPlayer": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"Monomax 5",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4684.png",
-"url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-5/playlist.m3u8",
-"info": " ",
-"playInNatPlayer": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"Monomax 6",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--4685.png",
-"url":"https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax-6/playlist.m3u8",
-"info": " ",
-"playInNatPlayer": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
 {
 "name": "AIS 1",
 "image": "https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
