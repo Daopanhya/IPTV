@@ -173,8 +173,8 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": " ",
-"info": "http://freelive2.inwstream.com:1935/freelive-edge/dtv36_pptvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI1IDE6MzM6NDggUE0maGFzaF92YWx1ZT1iaGxmM2lUOURmeFkyS3h2YlluYnVnPT0mdmFsaWRtaW51dGVzPTI=&demo",
-"url": "",
+"info": "",
+"url": "http://freelive2.inwstream.com:1935/freelive-edge/dtv36_pptvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI1IDE6MzM6NDggUE0maGFzaF92YWx1ZT1iaGxmM2lUOURmeFkyS3h2YlluYnVnPT0mdmFsaWRtaW51dGVzPTI=&demo",
 "playInNatPlayer": "true"
 },
 
