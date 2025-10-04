@@ -104,6 +104,14 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 
 {
+"name": "beIN SPORTS 3 HD",
+"image": "",
+"referer": "",
+"url": "https://dookeela2.live/football/match/498558",
+"info": "VPN Thai",
+"playInNatPlayer": "true"
+},
+{
 "name": "beIN SPORTS 5 HD",
 "image": "",
 "referer": "",
