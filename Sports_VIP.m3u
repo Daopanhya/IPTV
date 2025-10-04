@@ -138,6 +138,15 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 
 {
+"name": "NAZN",
+"image": "",
+"referer": "",
+"url": "https://dookeela2.live/football/match/499095",
+"info": "VPN Thai",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "Spotv1 SD",
 "image": "https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
 "referer": "https://doolive4k.tv",
