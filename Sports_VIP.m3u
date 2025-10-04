@@ -102,10 +102,17 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "pungtoe",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "beIN SPORTS 1 HD",
+"image": "https://dookeela2.live/uploads/1664500365.png",
+"referer": "",
+"url": "https://dookeela2.live/football/match/499519",
+"info": "VPN Thai",
+"playInNatPlayer": "true"
+},
 {
 "name": "beIN SPORTS 3 HD",
-"image": "",
+"image": "https://dookeela2.live/uploads/1663980670.png",
 "referer": "",
 "url": "https://dookeela2.live/football/match/498558",
 "info": "VPN Thai",
@@ -113,7 +120,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 {
 "name": "beIN SPORTS 5 HD",
-"image": "",
+"image": "https://dookeela2.live/uploads/1693290376.png",
 "referer": "",
 "url": "https://dookeela2.live/football/match/498557",
 "info": "VPN Thai",
@@ -122,15 +129,23 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name": "beIN SPORTS 6 HD",
 "image": "",
-"referer": "",
+"referer": "https://dookeela2.live/uploads/1694719513.png",
 "url": "https://dookeela2.live/football/match/499031",
 "info": "VPN Thai",
 "playInNatPlayer": "true"
 },
 
 {
+"name": "Moonmax 1",
+"image": "https://dookeela2.live/uploads/1753517049.png",
+"referer": "",
+"url": "https://dookeela2.live/live-tv/monomax1",
+"info": "VPN Thai",
+"playInNatPlayer": "true"
+},
+{
 "name": "Moonmax 2",
-"image": "",
+"image": "https://dookeela2.live/uploads/1753517049.png",
 "referer": "",
 "url": "https://dookeela2.live/football/match/498639",
 "info": "VPN Thai",
@@ -139,7 +154,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 
 {
 "name": "Moonmax 6",
-"image": "",
+"image": "https://dookeela2.live/uploads/1753517049.png",
 "referer": "",
 "url": "https://dookeela2.live/football/match/499265",
 "info": "VPN Thai",
@@ -148,7 +163,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 
 {
 "name": "NAZN",
-"image": "",
+"image": "https://dookeela2.live/uploads/1715571844.png",
 "referer": "",
 "url": "https://dookeela2.live/football/match/499095",
 "info": "VPN Thai",
