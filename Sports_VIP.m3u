@@ -129,6 +129,15 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 
 {
+"name": "Moonmax 2",
+"image": "",
+"referer": "",
+"url": "https://dookeela2.live/football/match/498639",
+"info": "VPN Thai",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "Spotv1 SD",
 "image": "https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
 "referer": "https://doolive4k.tv",
