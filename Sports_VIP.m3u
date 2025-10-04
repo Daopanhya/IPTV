@@ -91,30 +91,6 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "name": "beIN SPORTS 1 HD",
 "image": "https://dookeela2.live/uploads/1664500365.png",
 "referer": "",
-"url": "https://dooball.pungtoe.net/fixture/?fixture_id=19439274&tvstation=0",
-"info": "pungtoe",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 2 HD",
-"image": "https://dookeela2.live/uploads/1690843424.png",
-"referer": "",
-"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/bein2/playlist.m3u8",
-"info": "dooballfree24",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 3 HD",
-"image": "https://dookeela2.live/uploads/1663980670.png",
-"referer": "",
-"url": "https://dooball.pungtoe.net/fixture/?fixture_id=19433490&tvstation=0",
-"info": "pungtoe",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 1 HD",
-"image": "https://dookeela2.live/uploads/1664500365.png",
-"referer": "",
 "url": "https://dookeela2.live/football/match/499519",
 "info": "VPN Thai",
 "playInNatPlayer": "true"
@@ -137,7 +113,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 {
 "name": "beIN SPORTS 6 HD",
-"image": "",
+"image": "https://dookeela2.live/uploads/1694719513.png",
 "referer": "https://dookeela2.live/uploads/1694719513.png",
 "url": "https://dookeela2.live/football/match/499031",
 "info": "VPN Thai",
