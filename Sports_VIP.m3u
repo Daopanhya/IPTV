@@ -30,6 +30,15 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 
 {
+"name": "TPL 4",
+"image": "",
+"referer": "",
+"url": "https://dookeela2.live/football/match/499289",
+"info": "VPN Thai",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "True Sports HD",
 "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
 "referer": "",
