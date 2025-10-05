@@ -144,7 +144,30 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "VPN Thai",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "Moonmax 3",
+"image": "https://dookeela2.live/uploads/1753517049.png",
+"referer": "",
+"url": "https://dookeela2.live/football/match/500063",
+"info": "VPN Thai",
+"playInNatPlayer": "true"
+},
+{
+"name": "Moonmax 4",
+"image": "https://dookeela2.live/uploads/1753517049.png",
+"referer": "",
+"url": "https://dookeela2.live/football/match/500060",
+"info": "VPN Thai",
+"playInNatPlayer": "true"
+},
+{
+"name": "Moonmax 5",
+"image": "https://dookeela2.live/uploads/1753517049.png",
+"referer": "",
+"url": "https://dookeela2.live/football/match/500061",
+"info": "VPN Thai",
+"playInNatPlayer": "true"
+},
 {
 "name": "Moonmax 6",
 "image": "https://dookeela2.live/uploads/1753517049.png",
