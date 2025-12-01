@@ -143,11 +143,12 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CH3 HD",
+"name": "CH3 HD.",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
-"referer": "",
+"url": "https://ch3-33-web.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+"referer": "https://ch3plus.com/",
+"userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
 "info": "HD",
-"url": "https://ch3plus.com/live",
 "playInNatPlayer": "true"
 },
 {
