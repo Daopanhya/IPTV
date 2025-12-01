@@ -6,9 +6,9 @@
 "url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%94%E0%BA%B5%E0%BA%88%E0%BA%B5%E0%BA%95%E0%BB%89%E0%BA%AD%E0%BA%99%E0%BA%97%E0%BA%B5%E0%BA%A7%E0%BA%B5.m3u",
 "stations" : [
 {
-"name": "NBT2 FHD.",
+"name": "NBT2 FHD",
 "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
-"url": "https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8",
+"url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1905166033_b3128000.m3u8",
 "referer": "",
 "info": "nbt2hd",
 "playInNatPlayer": "true"
