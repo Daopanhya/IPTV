@@ -126,9 +126,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "ONE 31 HD",
+"name": "ONE 31 HD.",
 "image": "https://assets.oned.net/3/logo_one31.png",
-"url": "http://freelive2.inwstream.com:1935/freelive-edge/dtv31_onehd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMy8yMDI1IDI6MTY6MDYgUE0maGFzaF92YWx1ZT05RWNNdGtxTEVGSFFzYlg5S2VYSDRBPT0mdmFsaWRtaW51dGVzPTI=&demo",
+"url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8",
 "referer": "",
 "info": "Oldman",
 "playInNatPlayer": "true"
