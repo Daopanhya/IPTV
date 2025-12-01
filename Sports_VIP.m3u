@@ -1,7 +1,7 @@
 {
 "name": "Sports",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV   (ອັບເດດ 31/08/2025)",
+"author": "by DAO-IPTV   (ອັບເດດ 1/12/2025)",
   "info": "DAO-IPTV",
 "stations" : [
 {
@@ -91,8 +91,8 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "name": "beIN SPORTS 1 HD",
 "image": "https://dookeela2.live/uploads/1664500365.png",
 "referer": "",
-"url": "https://dookeela2.live/football/match/499519",
-"info": "VPN Thai",
+"url": "https://demo-live.siamzeed.com/fixtures/19439387",
+"info": "VPN 1.1.1",
 "playInNatPlayer": "true"
 },
 {
