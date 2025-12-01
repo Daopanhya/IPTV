@@ -37,6 +37,14 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "VPN Thai",
 "playInNatPlayer": "true"
 },
+{
+"name": "TPL 5",
+"image": "https://dookeela2.live/uploads/1664499692.png",
+"referer": "",
+"url": "https://demo-live.siamzeed.com/fixtures/19597582",
+"info": "VPN 1.1.1",
+"playInNatPlayer": "true"
+},
 
 {
 "name": "True Sports HD",
@@ -50,8 +58,8 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "name": "True Sports 2 HD",
 "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
 "referer": "",
-"url": "https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tsp2/playlist.m3u8",
-"info": "dooballfree",
+"url": "https://demo-live.siamzeed.com/fixtures/19597583",
+"info": "VPN 1.1.1",
 "playInNatPlayer": "true"
 },
 {
@@ -99,8 +107,8 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "name": "beIN SPORTS 3 HD",
 "image": "https://dookeela2.live/uploads/1663980670.png",
 "referer": "",
-"url": "https://dookeela2.live/football/match/498558",
-"info": "VPN Thai",
+"url": "https://demo-live.siamzeed.com/fixtures/19443050",
+"info": "VPN 1.1.1",
 "playInNatPlayer": "true"
 },
 {
@@ -249,7 +257,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name": "AIS 1",
 "image": "https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19489342",
+"url":"https://demo-live.siamzeed.com/fixtures/19427590",
 "referer": "https://doolive4k.tv",
 "info": "VPN 1.1.1",
 "playInNatPlayer": "true"
@@ -257,17 +265,17 @@ url: "https://sport.trueid.net/premier-league/fixtures",
  {
 "name": "AIS 2",
 "image": "https://api-soccer.thai-play.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png",
-"url":"https://dolive.thaim3u.com/xstream/football-play-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNCAzOjQwOjUwIFBNJmhhc2hfdmFsdWU9ZXJCVXVEU09GK1FXVzdUNmVja0pDdz09JnZhbGlkbWludXRlcz02MA==",
+"url":"https://demo-live.siamzeed.com/fixtures/19427587",
 "referer": "https://doolive4k.tv",
-"info": "dooballfr",
+"info": "VPN 1.1.1",
 "playInNatPlayer": "true"
 },
  {
 "name": "AIS 3",
 "image": "https://api-soccer.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-"url":"https://dooball.pungtoe.net/fixture/?fixture_id=19348584&tvstation=0jIzOjEwIEFNJmhhc2hfdmFsdWU9RGJnRk5GWEhxVlk2SzZMTXpjbFU2UT09JnZhbGlkbWludXRlcz02MA==",
+"url":"https://demo-live.siamzeed.com/fixtures/19427594",
 "referer": "https://doolive4k.tv",
-"info": "dooballfr",
+"info": "VPN 1.1.1",
 "playInNatPlayer": "true"
 },
  {
@@ -281,15 +289,15 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"DAO-1",
 "image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"url":"https://dooball.pungtoe.net/fixture/?fixture_id=19431750&tvstation=0",
-"info": "pungtoe",
+"url":"https://demo-live.siamzeed.com/fixtures/19489342",
+"info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
 "name":"DAO-2",
 "image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"url":"https://dooball.pungtoe.net/fixture/?fixture_id=19431755&tvstation=0",
-"info": "pungtoe",
+"url":"https://demo-live.siamzeed.com/fixtures/19489343",
+"info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
