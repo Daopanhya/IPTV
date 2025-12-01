@@ -283,55 +283,6 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "pungtoe",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
-{
-"name":"sportklub 1",
-"image":"https://api-soccer.thai-play.com/images/tv/SportKlub%20(Slo).png",
-"url":"https://dooball.pungtoe.net/fixture/?fixture_id=18994041&tvstation=0",
-"info": "pungtoe",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"sportklub 2",
-"image":"https://api-soccer.thai-play.com/images/tv/dfMUEkHYxtnq0r7xtlYPUXMERKs1MNNtv-station-si-sportklub-2-342.png",
-"url":"https://dooball.pungtoe.net/fixture/?fixture_id=18995212&tvstation=0",
-"info": "pungtoe",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"Sportklub 3",
-"image":"https://api-soccer.thai-play.com/images/tv/fNzYDN1eu6r0MkhRO32bPUTTfzhvqhVtv-station-si-sportklub-3-343.png",
-"url":"https://dooball.pungtoe.net/fixture/?fixture_id=18995183&tvstation=0",
-"info": "pungtoe",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"Sporttv 1",
-"image":"https://api-soccer.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
-"url":"https://dooball.pungtoe.net/fixture/?fixture_id=18995181&tvstation=0",
-"info": "pungtoe",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"Sporttv 2",
-"image":"https://api-soccer.thai-play.com/images/tv/b8KHlAhwrs9mWEgWKio4jIpRz4FIroktv-station-pt-sport-tv-2-451.png",
-"url":"https://dooball.pungtoe.net/fixture/?fixture_id=18995181&tvstation=0",
-"info": "pungtoe",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"Sporttv 4",
-"image":"https://api-soccer.thai-play.com/images/tv/27ciPhVX9zapqwuq3ZNzRmYYncSQKPMa453.png",
-"url":"https://dooball.pungtoe.net/fixture/?fixture_id=19427876&tvstation=1",
-"info": "pungtoe",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"Sporttv 4",
-"image":"https://api-soccer.thai-play.com/images/tv/27ciPhVX9zapqwuq3ZNzRmYYncSQKPMa453.png",
-"url":"https://dooball.pungtoe.net/fixture/?fixture_id=19427876&tvstation=1",
-"info": "pungtoe",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
 
 
 
