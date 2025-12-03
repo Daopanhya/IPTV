@@ -19,7 +19,14 @@ url: "https://sport.trueid.net/premier-league/fixtures",
  "embed":"true"
  },
 
-
+{
+"name": "TPL 4",
+"image": "https://image.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png",
+"referer": "",
+"url": "https://demo-live.siamzeed.com/fixtures/19586622",
+"info": "VPN 1.1.1",
+"playInNatPlayer": "true"
+},
 
 {
 "name": "TPL 5",
@@ -95,6 +102,14 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "VPN 1.1.1",
 "playInNatPlayer": "true"
 },
+ {
+"name": "AIS 4",
+"image": "https://image.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19427589",
+"referer": "https://doolive4k.tv",
+"info": "VPN 1.1.1",
+"playInNatPlayer": "true"
+},
 
 {
 "name":"DAO-1",
@@ -107,6 +122,21 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "name":"DAO-2",
 "image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
 "url":"https://demo-live.siamzeed.com/fixtures/19489343",
+"info": "VPN 1.1.1",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+
+{
+"name":"DAO-3",
+"image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
+"url":"https://demo-live.siamzeed.com/fixtures/19489346",
+"info": "VPN 1.1.1",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name":"DAO-4",
+"image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
+"url":"https://demo-live.siamzeed.com/fixtures/19489347",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
