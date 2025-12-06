@@ -73,8 +73,46 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "VPN 1.1.1",
 "playInNatPlayer": "true"
 },
-
-
+{
+"name": "beIN SPORTS 4 HD",
+"image": "https://image.thai-play.com/images/tv/bein-4.png",
+"referer": "",
+"url": "https://demo-live.siamzeed.com/fixtures/19433583",
+"info": "VPN 1.1.1",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 5 HD",
+"image": "https://image.thai-play.com/images/tv/bein-5.png",
+"referer": "",
+"url": "https://demo-live.siamzeed.com/fixtures/19439399",
+"info": "VPN 1.1.1",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 6 HD",
+"image": "https://image.thai-play.com/images/tv/bein-6.png",
+"referer": "",
+"url": "https://demo-live.siamzeed.com/fixtures/19433584",
+"info": "VPN 1.1.1",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 7 HD",
+"image": "https://image.thai-play.com/images/tv/bein-7.png",
+"referer": "",
+"url": "https://demo-live.siamzeed.com/fixtures/19433587",
+"info": "VPN 1.1.1",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 8 HD",
+"image": "https://image.thai-play.com/images/tv/bein-8.png",
+"referer": "",
+"url": "https://demo-live.siamzeed.com/fixtures/19433591",
+"info": "VPN 1.1.1",
+"playInNatPlayer": "true"
+},
 
 
 
@@ -137,6 +175,29 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "name":"DAO-4",
 "image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
 "url":"https://demo-live.siamzeed.com/fixtures/19489347",
+"info": "VPN 1.1.1",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+
+{
+"name":"DAO-6",
+"image":"https://image.thai-play.com/images/tv/siam6.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19572851",
+"info": "VPN 1.1.1",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name":"DAO-7",
+"image":"https://image.thai-play.com/images/tv/siam7.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19431966",
+"info": "VPN 1.1.1",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+
+{
+"name":"DAO-9",
+"image":"https://image.thai-play.com/images/tv/siam9.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19572850",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
