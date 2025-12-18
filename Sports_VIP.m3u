@@ -167,14 +167,14 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 
 {
-"name":"Mono-1",
-"image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
+"name":"MonoMax-1",
+"image":"https://image.thai-play.com/images/tv/mono-1.jpg",
 "url":"https://nf4atzbtn0.atelierhakubi.com/xstream/monomax-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAxOjM1OjAwIFBNJmhhc2hfdmFsdWU9UEpTZ2NhNTE5NDg2MWdoZmFNZC83QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-"name":"Mono-1",
+"name":"Mono-2",
 "image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
 "url":"https://nf4atzbtn0.atelierhakubi.com/xstream/monomax-1/chunks.m3u8?nimblesessionid=176&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAxOjM1OjAwIFBNJmhhc2hfdmFsdWU9UEpTZ2NhNTE5NDg2MWdoZmFNZC83QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==5NDg2MWdoZmFNZC83QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==",
 "info": "VPN 1.1.1",
