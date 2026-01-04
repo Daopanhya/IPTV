@@ -167,79 +167,50 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 },
 
 {
-"name":"MonoMax-1",
+"name":"MonoMax 1",
 "image":"https://image.thai-play.com/images/tv/mono-1.jpg",
 "url":"https://nf4atzbtn0.atelierhakubi.com/xstream/monomax-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAxOjM1OjAwIFBNJmhhc2hfdmFsdWU9UEpTZ2NhNTE5NDg2MWdoZmFNZC83QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-"name":"MonoMax-2",
+"name":"MonoMax 2",
 "image":"https://image.thai-play.com/images/tv/mono-2.jpg",
-"url":"https://ofyr7psyod.gyu-syo.com/xstream/monomax-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAxOjM1OjAwIFBNJmhhc2hfdmFsdWU9UEpTZ2NhNTE5NDg2MWdoZmFNZC83QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==mFsdWU9UEpTZ2NhNTE5NDg2MWdoZmFNZC83QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==5NDg2MWdoZmFNZC83QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==",
-"info": "VPN 1.1.1",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"D-2",
-"image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"url":"https://demo-live.siamzeed.com/fixtures/19489343",
+"url":"https://demo-live.siamzeed.com/fixtures/19427647",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
 {
-"name":"DAO-3",
-"image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"url":"https://demo-live.siamzeed.com/fixtures/19489346",
+"name":"MonoMax 3",
+"image":"https://image.thai-play.com/images/tv/mono-3.jpg",
+"url":"https://demo-live.siamzeed.com/fixtures/19427651",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-"name":"DAO-4",
-"image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"url":"https://demo-live.siamzeed.com/fixtures/19489347",
+"name":"MonoMax 4",
+"image":"https://image.thai-play.com/images/tv/mono-4.jpg",
+"url":"https://demo-live.siamzeed.com/fixtures/19427650",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
-"name":"DAO-5",
-"image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"url":"https://demo-live.siamzeed.com/fixtures/19489353",
+"name":"MonoMax 5",
+"image":"https://image.thai-play.com/images/tv/mono-5.jpg",
+"url":"https://demo-live.siamzeed.com/fixtures/19427653",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
 {
-"name":"DAO-6",
-"image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"url":"https://demo-live.siamzeed.com/fixtures/19572851",
-"info": "VPN 1.1.1",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"DAO-7",
-"image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"url":"https://demo-live.siamzeed.com/fixtures/19431966",
+"name":"MonoMax 6",
+"image":"https://image.thai-play.com/images/tv/mono-6.jpg",
+"url":"https://demo-live.siamzeed.com/fixtures/19427654",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
-{
-"name":"DAO-8",
-"image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"url":"https://demo-live.siamzeed.com/fixtures/19431966",
-"info": "VPN 1.1.1",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-
-{
-"name":"DAO-9",
-"image":"https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"url":"https://demo-live.siamzeed.com/fixtures/19489354",
-"info": "VPN 1.1.1",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
 
 
 
