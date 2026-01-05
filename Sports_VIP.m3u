@@ -169,14 +169,14 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"MonoMax 1",
 "image":"https://image.thai-play.com/images/tv/mono-1.jpg",
-"url":"https://nf4atzbtn0.atelierhakubi.com/xstream/monomax-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAxOjM1OjAwIFBNJmhhc2hfdmFsdWU9UEpTZ2NhNTE5NDg2MWdoZmFNZC83QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==",
+"url":"http://119.59.118.159/live/ch1/Mariogogo007/index.m3u8",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
 "name":"MonoMax 2",
 "image":"https://image.thai-play.com/images/tv/mono-2.jpg",
-"url":"https://demo-live.siamzeed.com/fixtures/19427647",
+"url":"http://119.59.118.159/live/ch2/Mariogogo007/index.m3u8",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
@@ -184,21 +184,21 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"MonoMax 3",
 "image":"https://image.thai-play.com/images/tv/mono-3.jpg",
-"url":"https://demo-live.siamzeed.com/fixtures/19427651",
+"url":"http://119.59.118.159/live/ch3/Mariogogo007/index.m3u8",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
 "name":"MonoMax 4",
 "image":"https://image.thai-play.com/images/tv/mono-4.jpg",
-"url":"https://demo-live.siamzeed.com/fixtures/19427650",
+"url":"http://119.59.118.159/live/ch4/Mariogogo007/index.m3u8",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 {
 "name":"MonoMax 5",
 "image":"https://image.thai-play.com/images/tv/mono-5.jpg",
-"url":"https://demo-live.siamzeed.com/fixtures/19427653",
+"url":"http://119.59.118.159/live/ch5/Mariogogo007/index.m3u8",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
@@ -206,11 +206,17 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"MonoMax 6",
 "image":"https://image.thai-play.com/images/tv/mono-6.jpg",
-"url":"https://demo-live.siamzeed.com/fixtures/19427654",
+"url":"http://119.59.118.159/live/ch6/Mariogogo007/index.m3u8",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
-
+{
+"name":"MonoMax 7",
+"image":"https://image.thai-play.com/images/tv/mono-6.jpg",
+"url":"http://119.59.118.159/live/ch7/Mariogogo007/index.m3u8",
+"info": "VPN 1.1.1",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
 
 
 
