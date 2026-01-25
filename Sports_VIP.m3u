@@ -169,7 +169,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"MonoMax 1",
 "image":"https://image.thai-play.com/images/tv/mono-1.jpg",
-"url":"https://dookeela4.live/live-tv/monomax1",
+"url":"https://demo-live.siamzeed.com/fixtures/19427676",
 "referer": "https://dookeela4.live",
 "info": "VPN 1.1.1",
 "playInNatPlayer": "true"
@@ -177,7 +177,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"MonoMax 2",
 "image":"https://image.thai-play.com/images/tv/mono-2.jpg",
-"url":"https://dookeela4.live/live-tv/monomax2",
+"url":"https://demo-live.siamzeed.com/fixtures/19427676",
 "referer": "https://dookeela4.live",
 "info": "VPN 1.1.1",
 "playInNatPlayer": "true"},
@@ -185,7 +185,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"MonoMax 3",
 "image":"https://image.thai-play.com/images/tv/mono-3.jpg",
-"url":"https://dookeela4.live/live-tv/monomax3",
+"url":"https://demo-live.siamzeed.com/fixtures/19427676",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
