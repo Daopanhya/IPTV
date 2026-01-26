@@ -18,13 +18,20 @@ url: "https://dookeela4.live555/",
 url: "https://sport.trueid.net/premier-league/fixtures",
  "embed":"true"
  },
-
+{
+"name": "TPL 3",
+"image": "https://image.thai-play.com/images/tv/Nm0iqmsKCLZBxlYShlSp702TjLUpEFkTrue_Premier_Football_HD_3.png",
+"referer": "",
+"url": "https://demo-live.siamzeed.com/fixtures/19425095",
+"info": "siam",
+"playInNatPlayer": "true"
+},
 {
 "name": "TPL 4",
 "image": "https://image.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png",
 "referer": "",
 "url": "https://demo-live.siamzeed.com/fixtures/19586622",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 
@@ -33,7 +40,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://image.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png",
 "referer": "",
 "url": "https://demo-live.siamzeed.com/fixtures/19597582",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 
@@ -43,7 +50,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://image.thai-play.com/images/tv/HOP6z5sFui1bpc5oZ9WL8H45g5yhekxtv-station-true-sport-2-1071.png",
 "referer": "",
 "url": "https://demo-live.siamzeed.com/fixtures/19597583",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 
@@ -52,7 +59,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://api-soccer.thai-play.com/images/tv/cOtTtxtRU37zX1GSYdsDl9CSUAJ0pkstv-station-true-sport-5-1074.png",
 "referer": "https://www.madoohd.com",
 "url": "https://demo-live.siamzeed.com/fixtures/19425002",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 {
@@ -60,7 +67,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://image.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
 "referer": "https://www.madoohd.com",
 "url": "https://demo-live.siamzeed.com/fixtures/19577405",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 
@@ -70,7 +77,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://image.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png",
 "referer": "",
 "url": "https://demo-live.siamzeed.com/fixtures/19439387",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 
@@ -79,7 +86,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://image.thai-play.com/images/tv/bein-sport-th-2.png",
 "referer": "",
 "url": "https://demo-live.siamzeed.com/fixtures/19439395",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 {
@@ -87,7 +94,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://image.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png",
 "referer": "",
 "url": "https://demo-live.siamzeed.com/fixtures/19443050",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 {
@@ -95,7 +102,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://image.thai-play.com/images/tv/bein-4.png",
 "referer": "",
 "url": "https://demo-live.siamzeed.com/fixtures/19433583",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 {
@@ -103,7 +110,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://image.thai-play.com/images/tv/bein-5.png",
 "referer": "",
 "url": "https://demo-live.siamzeed.com/fixtures/19439399",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 {
@@ -111,7 +118,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://image.thai-play.com/images/tv/bein-6.png",
 "referer": "",
 "url": "https://demo-live.siamzeed.com/fixtures/19433584",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 {
@@ -119,7 +126,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://image.thai-play.com/images/tv/bein-7.png",
 "referer": "",
 "url": "https://demo-live.siamzeed.com/fixtures/19433587",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 {
@@ -127,7 +134,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://image.thai-play.com/images/tv/bein-8.png",
 "referer": "",
 "url": "https://demo-live.siamzeed.com/fixtures/19433591",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 
@@ -138,7 +145,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
 "url":"https://demo-live.siamzeed.com/fixtures/19427590",
 "referer": "https://doolive4k.tv",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
  {
@@ -146,7 +153,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://api-soccer.thai-play.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png",
 "url":"https://demo-live.siamzeed.com/fixtures/19427587",
 "referer": "https://doolive4k.tv",
-"info": "VPN 1.1.1",
+"info": "siam1",
 "playInNatPlayer": "true"
 },
  {
@@ -154,7 +161,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://api-soccer.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
 "url":"https://demo-live.siamzeed.com/fixtures/19427594",
 "referer": "https://doolive4k.tv",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
  {
@@ -162,7 +169,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image": "https://image.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png",
 "url":"https://demo-live.siamzeed.com/fixtures/19427589",
 "referer": "https://doolive4k.tv",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 
@@ -179,7 +186,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image":"https://image.thai-play.com/images/tv/mono-2.jpg",
 "url":"https://demo-live.siamzeed.com/fixtures/19427676",
 "referer": "https://dookeela4.live",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"},
 
 {
@@ -200,7 +207,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "name":"MonoMax 5",
 "image":"https://image.thai-play.com/images/tv/mono-5.jpg",
 "url":"https://demo-live.siamzeed.com/fixtures/19427681",
-"info": "VPN 1.1.1",
+"info": "siam",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
@@ -224,15 +231,39 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "image":"https://image.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",
 "url":"https://demo-live.siamzeed.com/fixtures/19643220",
 "referer": "https://dookeela4.live",
-"info": "VPN 1.1.1",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 {
 "name":"SIAM-2",
 "image":"https://image.thai-play.com/images/tv/cr3PJK6LjqFrAWWyphZSuvv5BjnYyKJsiam2.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19643219",
+"referer": "https://dookeela4.live",
+"info": "siam",
+"playInNatPlayer": "true"
+},
+{
+"name":"SIAM-3",
+"image":"https://image.thai-play.com/images/tv/u09TcaaBHclPY21DkjnQUs15KnEVvJpsiam3.png",
 "url":"https://demo-live.siamzeed.com/fixtures/19643221",
 "referer": "https://dookeela4.live",
-"info": "VPN 1.1.1",
+"info": "siam",
+"playInNatPlayer": "true"
+},
+{
+"name":"SIAM-4",
+"image":"https://image.thai-play.com/images/tv/KuYqPsrL6rIxvBK6cOxT56K5kj4uAV8siam4.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19643224",
+"referer": "https://dookeela4.live",
+"info": "siam",
+"playInNatPlayer": "true"
+},
+{
+"name":"SIAM-5",
+"image":"https://image.thai-play.com/images/tv/DfF41JK9gkvbOlfl6ZAbXDqq6hUmGT2siam5.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19643223",
+"referer": "https://dookeela4.live",
+"info": "siam",
 "playInNatPlayer": "true"
 },
 
