@@ -118,9 +118,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "MCOT",
+"name": "MCOT.",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
-"url": "https://tv.mcot.net/tv/en",
+"url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
 "referer": "",
 "info": "mcot",
 "playInNatPlayer": "true"
