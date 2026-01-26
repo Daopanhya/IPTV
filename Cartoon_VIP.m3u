@@ -7,21 +7,21 @@
 {
 "name":"FW CARTOON",
 "image":"https://img.inwiptv.net/postor/20240429213651FWTOON.jpg",
-"url": "https://www.inwiptv.com/player_demo.php?channel=92941",
+"url": "",
 "info": "HD",
 "playInNatPlayer": "true"
 },
 {
 "name":"Cartoon Club",
 "image":"https://www.i-pic.info/i/UvFp328533.jpg",
-"url": "https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist_w1788175224.m3u8",
+"url": "",
 "info": "SD",
 "playInNatPlayer": "true"
 },
 {
 "name":"Boom Cartoon",
 "image":"https://media-mvtv.imgix.net/channel/188_y_SHbpOor8a2ClM0g3LFcsT5I4GkRmu6q9.jpg",
-"url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8",
+"url": "",
 "info": "HD",
 "playInNatPlayer": "true"
 },
@@ -35,14 +35,14 @@
 {
 "name":"BOOM ANIME",
 "image":"https://media-mvtv-app.imgix.net/uploads/channel/174_y_FLSV93BN1q5kyrxQ0DuzYhfORs768Ao4.png",
-"url": "https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8",
+"url": "",
 "info": "HD",
 "playInNatPlayer": "true"
 },
 {
 name:"Sparkplay",
 image:"https://cms.dmpcdn.com/livetv/2024/01/16/cdd2cd90-b44d-11ee-bbdb-077300b4f5a1_webp_original.webp",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truesparkplay.m3u8",
+url:"",
 "referer": " ",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -50,7 +50,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truespa
 {
 name:"Nicklodeon",
 image:"https://cms.dmpcdn.com/livetv/2024/02/04/a1d68100-c37a-11ee-b1bf-63790d8d492b_webp_original.webp",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/nicklodeon.m3u8",
+url:"",
 "referer": " ",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -58,7 +58,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/nicklod
 {
 name:"cartoon-network",
 image:"https://cms.dmpcdn.com/livetv/2023/05/26/df4ff010-fb8a-11ed-85ca-7d9b373a85e7_webp_original.png",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/cn.m3u8",
+url:"",
 "referer": " ",
 "info": "HD",
 "playInNatPlayer": "true"
@@ -66,7 +66,7 @@ url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/cn.m3u8
 {
 name:"Dreamworks",
 image:"https://cms.dmpcdn.com/livetv/2021/09/28/0495d070-2012-11ec-9629-7dc4459cd94d_webp_original.png",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truedreamworks.m3u8",
+url:"",
 "referer": " ",
 "info": "HD",
 "playInNatPlayer": "true"
