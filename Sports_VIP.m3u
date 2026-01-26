@@ -8,7 +8,7 @@
 "name":"โปรแกรมถ่ายทอด",
 "image":"https://assets.goal.com/images/v3/blt58b301798f803f25/301977909_620275546256148_851850079260987497_n.jpg?auto=webp&format=pjpg&width=3840&quality=60",
 "imagefitxy":"true",
-url: "https://dookeela4.live/",
+url: "https://dookeela4.live555/",
  "embed":"true"
  },
 {
@@ -169,7 +169,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"MonoMax 1",
 "image":"https://image.thai-play.com/images/tv/mono-1.jpg",
-"url":"https://demo-live.siamzeed.com/fixtures/19427676",
+"url":" ",
 "referer": "https://dookeela4.live",
 "info": "VPN 1.1.1",
 "playInNatPlayer": "true"
@@ -185,7 +185,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"MonoMax 3",
 "image":"https://image.thai-play.com/images/tv/mono-3.jpg",
-"url":"https://demo-live.siamzeed.com/fixtures/19427676",
+"url":" ",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
@@ -199,7 +199,7 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name":"MonoMax 5",
 "image":"https://image.thai-play.com/images/tv/mono-5.jpg",
-"url":"https://dookeela4.live/live-tv/monomax5",
+"url":"https://demo-live.siamzeed.com/fixtures/19427681",
 "info": "VPN 1.1.1",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
@@ -219,7 +219,22 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
 },
 
-
+{
+"name":"SIAM-1",
+"image":"https://image.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19643220",
+"referer": "https://dookeela4.live",
+"info": "VPN 1.1.1",
+"playInNatPlayer": "true"
+},
+{
+"name":"SIAM-2",
+"image":"https://image.thai-play.com/images/tv/cr3PJK6LjqFrAWWyphZSuvv5BjnYyKJsiam2.png",
+"url":"https://demo-live.siamzeed.com/fixtures/19643221",
+"referer": "https://dookeela4.live",
+"info": "VPN 1.1.1",
+"playInNatPlayer": "true"
+},
 
 
 
