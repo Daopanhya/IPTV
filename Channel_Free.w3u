@@ -32,14 +32,7 @@
 "info": "DAO-IPTV",
 "import": false
 },
-{
-"name": "ຊ່ອງກິລາຕ່າງປະເທດ Sports Inter",
-"image":"https://cdn.sportmonks.com/images//soccer/leagues/2/1538.png",
-"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/refs/heads/main/SportsInter.m3u",
-"referer": "xxx",
-"info": "ช่องกีฬาต่างประเทศ",
-"import": false
-},
+
 {
 "name": "ຊ່ອງສາລະຄະດີ Documentary",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgux1OcfXc2r1rWcbnWacC2-Bxn-6W7kXJ-Q&usqp=CAU",
@@ -73,14 +66,7 @@
 "import": false
 },
 
-{
-"name": "ຊ່ອງເພງ Music",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXXUUV2VvmTGIg_G9D5J3wkcNgigvZK3X2Jg&usqp=CAU",
-"url": "https://raw.githubusercontent.com/Daopanhya/IPTV/main/support.w3u",
-"referer": "xxx",
-"info": "DAO-IPTV",
-"import": false
-},
+
 
 {
 "name": "ໜັງ & ຊີຣີ Cinema & Series",
@@ -98,12 +84,7 @@
 "info": "ช่องเพลง",
 "import": false
 },
-{
-"name":"ຊ່ອງທຳມະ Dharma",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dhamma_Cakra.svg/1024px-Dhamma_Cakra.svg.png",
-"url": "https://pastebin.com/hQbEXH2Y",
-"import": false
-},
+
 {
 "name": "ກົດປຸ່ມ ເພື່ອອັບເດດ",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-hbnXjcjDQAhTfylMT9F3jDL7qXDxfuAszWsr1mIkA&s",
