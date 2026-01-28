@@ -43,25 +43,25 @@
 "playInNatPlayer": "true"},
 
 
-{name:"Discover SD",
-image:"https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png",
-url:"https://dookeela4.live/live-tv/discovery",
+{"name":"Discover SD",
+"image":"https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png",
+"url":"https://dookeela4.live/live-tv/discovery",
 "referer": " ",
 "info": "Dook",
 "playInNatPlayer": "true"
 },
 {
-name:"History",
-image:"https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",
-url:"https://dookeela4.live/live-tv/knowledge-tank",
+"name":"History",
+"image":"https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",
+"url":"https://dookeela4.live/live-tv/knowledge-tank",
 "referer": " ",
 "info": "Dook",
 "playInNatPlayer": "true"
 },
 {
-name:"สำรวจโลกสำรวจโลก",
-image:"https://dookeela4.live/uploads/1705536821.png",
-url:"https://dookeela4.live/live-tv/samrujlok",
+"name":"สำรวจโลกสำรวจโลก",
+"image":"https://dookeela4.live/uploads/1705536821.png",
+"url":"https://dookeela4.live/live-tv/samrujlok",
 "referer": " ",
 "info": "Dook",
 "playInNatPlayer": "true"
