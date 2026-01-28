@@ -8,7 +8,10 @@
 
    "stations": [
 
-{"name": "FWDoc","image": "https://img.inwiptv.net/postor/20240617204638FWDoc.jpg","url": "https://inwiptv.com/player_demo.php?channel=91303", "referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
+{"name": "FWDoc",
+"image": "https://img.inwiptv.net/postor/20240617204638FWDoc.jpg",
+"url": "https://inwiptv.com/player_demo.php?channel=91303",
+"referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
 
 {"name": "ANIMAL SHOW","image": "https://dookeela4.live/uploads/1705537126.png",
 "url": "https://dookeela4.live/live-tv/animalshow",
@@ -40,7 +43,7 @@
 "playInNatPlayer": "true"},
 
 
-name:"Discover SD",
+{name:"Discover SD",
 image:"https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png",
 url:"https://dookeela4.live/live-tv/discovery",
 "referer": " ",
