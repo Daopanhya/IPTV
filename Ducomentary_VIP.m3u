@@ -10,62 +10,55 @@
 
 {"name": "FWDoc","image": "https://img.inwiptv.net/postor/20240617204638FWDoc.jpg","url": "https://inwiptv.com/player_demo.php?channel=91303", "referer": "","info":"Create By Gojek","playInNatPlayer": "true"},
 
-{"name": "ANIMAL PLANET","image": "https://cms.dmpcdn.com/livetv/2024/03/01/1f7642c0-d79f-11ee-afcd-214a368edc48_webp_original.webp",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueANIMALPLANET.m3u8",
+{"name": "ANIMAL SHOW","image": "https://dookeela4.live/uploads/1705537126.png",
+"url": "https://dookeela4.live/live-tv/animalshow",
 "referer": "",
-"info":"HD 3bb",
+"info":"Dook",
 "playInNatPlayer": "true"},
 
 
-{"name": "BBC LIFESTYLE",
-"image": "https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueBBCLIFESTYLE.m3u8", 
+{"name": "Lovenature4k",
+"image": "https://dookeela4.live/uploads/1729286214.png",
+"url": "https://dookeela4.live/live-tv/lovenature4k", 
 "referer": "",
-"info":"HD 3bb",
+"info":"Dook",
 "playInNatPlayer": "true"},
 
-{"name": "Outdoor",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2TAK4Rc3H3uUIUHhFiUWB9IRAfZVs077QeA&usqp=CAU",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/outdoor.m3u8", 
+{"name": "Animal-Planet",
+"image": "https://dookeela4.live/uploads/1706112700.png",
+"url": "https://dookeela4.live/live-tv/animal-planet", 
 "referer": "",
-"info":"HD 3bb",
+"info":"Dook",
 "playInNatPlayer": "true"},
 
 
 {"name": "DiscoverASIA",
 "image": "https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/DiscoverASIA.m3u8", 
+"url": "https://dookeela4.live/live-tv/discovery-asia", 
 "referer": "",
-"info":"HD 3bb",
+"info":"Dook",
 "playInNatPlayer": "true"},
 
 
-{"name": "aisDiscover",
-"image": "https://cms.dmpcdn.com/livetv/2024/12/13/05fdd920-b971-11ef-9ff3-970a2933a4a7_webp_original.webp",
-"url": "https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/aisDiscover.m3u8", 
-"referer": "",
-"info":"HD 3bb",
-"playInNatPlayer": "true"},
-{
 name:"Discover SD",
 image:"https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truesci.m3u8",
+url:"https://dookeela4.live/live-tv/discovery",
 "referer": " ",
-"info": "HD",
+"info": "Dook",
 "playInNatPlayer": "true"
 },
 {
 name:"History",
 image:"https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",
-url:"https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truehistroy.m3u8",
+url:"https://dookeela4.live/live-tv/knowledge-tank",
 "referer": " ",
-"info": "HD",
+"info": "Dook",
 "playInNatPlayer": "true"
 },
 {
 name:"สำรวจโลกสำรวจโลก",
 image:"https://dookeela4.live/uploads/1705536821.png",
-url:"https://live2.stream.liveplayback.net/dookeela/samrujlok/chunks.m3u8?nimblesessionid=98265811&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDI2LCA2OjI4OjM1IEFNJmhhc2hfdmFsdWU9RjVaMkVoa0Z4UUxqQW9wNHB6amI1QT09JnZhbGlkbWludXRlcz0xJmlkPWNiOTAyMTgzMzVhYjliZDRlZGQwMDA4NTYwMmViNTg0JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOA==",
+url:"https://dookeela4.live/live-tv/samrujlok",
 "referer": " ",
 "info": "Dook",
 "playInNatPlayer": "true"
