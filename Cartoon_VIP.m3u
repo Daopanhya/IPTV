@@ -4,71 +4,59 @@
 "author": "by DAO-IPTV (อัพเดท 10/6/2025)",
   "info": "DAO-IPTV",
 		"stations":[
+
 {
-"name":"FW CARTOON",
-"image":"https://img.inwiptv.net/postor/20240429213651FWTOON.jpg",
-"url": "",
-"info": "HD",
+"name":"Cartooniot",
+"image":"https://dookeela4.live/uploads/1704039063.png",
+"url": "https://dookeela4.live/live-tv/cartoonito",
+"info": "Dook",
 "playInNatPlayer": "true"
 },
-{
-"name":"Cartoon Club",
-"image":"https://www.i-pic.info/i/UvFp328533.jpg",
-"url": "",
-"info": "SD",
-"playInNatPlayer": "true"
-},
-{
-"name":"Boom Cartoon",
-"image":"https://media-mvtv.imgix.net/channel/188_y_SHbpOor8a2ClM0g3LFcsT5I4GkRmu6q9.jpg",
-"url": "",
-"info": "HD",
-"playInNatPlayer": "true"
-},
+
 {
 "name":"Boomerang",
 "image":"https://media-mvtv-app.imgix.net/uploads/channel/153_y_xD7XpVB69n0eicFrUaNMAl1dmtvZSuY5.png",
 "url": "https://edge2a.v2h-cdn.com/boom-boom/boomerang.stream/playlist.m3u8",
-"info": "HD",
+"info": "MVTV",
 "playInNatPlayer": "true"
 },
 {
-"name":"BOOM ANIME",
-"image":"https://media-mvtv-app.imgix.net/uploads/channel/174_y_FLSV93BN1q5kyrxQ0DuzYhfORs768Ao4.png",
-"url": "",
-"info": "HD",
+"name":"ANIMEMAX",
+"image":"https://dookeela4.live/uploads/1704038567.png",
+"url": "https://dookeela4.live/live-tv/animax",
+"info": "Dook",
 "playInNatPlayer": "true"
 },
 {
 name:"Sparkplay",
 image:"https://cms.dmpcdn.com/livetv/2024/01/16/cdd2cd90-b44d-11ee-bbdb-077300b4f5a1_webp_original.webp",
-url:"",
+url:"https://dookeela4.live/live-tv/truesparkplay",
 "referer": " ",
-"info": "HD",
+"info": "Dook",
 "playInNatPlayer": "true"
 },
 {
 name:"Nicklodeon",
 image:"https://cms.dmpcdn.com/livetv/2024/02/04/a1d68100-c37a-11ee-b1bf-63790d8d492b_webp_original.webp",
-url:"",
+url:"https://dookeela4.live/live-tv/nickelodeon",
 "referer": " ",
-"info": "HD",
+"info": "Dook",
 "playInNatPlayer": "true"
 },
 {
 name:"cartoon-network",
 image:"https://cms.dmpcdn.com/livetv/2023/05/26/df4ff010-fb8a-11ed-85ca-7d9b373a85e7_webp_original.png",
-url:"",
+url:"https://dookeela4.live/live-tv/cartoon-network",
 "referer": " ",
-"info": "HD",
+"info": "Dook",
 "playInNatPlayer": "true"
 },
 {
 name:"Dreamworks",
 image:"https://cms.dmpcdn.com/livetv/2021/09/28/0495d070-2012-11ec-9629-7dc4459cd94d_webp_original.png",
-url:"",
+url:"https://dookeela4.live/live-tv/dreamworks",
 "referer": " ",
-"info": "HD",
+"info": "Dook",
 "playInNatPlayer": "true"
 },
 
