@@ -172,7 +172,22 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "siam",
 "playInNatPlayer": "true"
 },
-
+{
+"name":"MonoMax 1",
+"image":"https://dookeela4.live/uploads/1753517049.png",
+"url":"https://dookeela4.live/live-tv/monomax1",
+"referer": " ",
+"info": "Dook",
+"playInNatPlayer": "true"
+},
+{
+"name":"MonoMax 2",
+"image":"https://dookeela4.live/uploads/1755093093.png",
+"url":"https://dookeela4.live/live-tv/monomax-2",
+"referer": " ",
+"info": "Dook",
+"playInNatPlayer": "true"
+},
 {
 "name":"MonoMax 1",
 "image":"https://image.thai-play.com/images/tv/mono-1.jpg",
