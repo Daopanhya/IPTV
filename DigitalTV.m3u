@@ -126,7 +126,7 @@
 "url": "https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8",
 "referer": "https://www.thairath.co.th",
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-"info": "HD",
+"info": "Thairath",
 "playInNatPlayer": "true"
 },
 {
@@ -135,7 +135,7 @@
 "url": "https://ch3-33-web.cdn.byteark.com/live/playlist_1080p/index.m3u8",
 "referer": "https://ch3plus.com/",
 "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-"info": "HD",
+"info": "Ch3plus",
 "playInNatPlayer": "true"
 },
 {
@@ -159,8 +159,8 @@
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": " ",
-"info": "",
-"url": "https://www.adintrend.tv/hd/m/ch25",
+"info": "Dook",
+"url": "https://dookeela4.live/live-tv/pptv",
 "playInNatPlayer": "true"
 },
 
@@ -168,7 +168,7 @@
 "name": "TOP News HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG",
 "referer": " ",
-"info": "HD",
+"info": "Topnews",
 "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
 "playInNatPlayer": "true"
 },
