@@ -54,15 +54,7 @@
 "info": "Dook",
 "playInNatPlayer": "true"
 },
-{
-"name": "Nation TV FHD",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
-"url": "https://www.nationtv.tv/category/nationtv/live",
-"userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
-"referer": "https://www.nationtv.tv",
-"info": "NationTV ",
-"playInNatPlayer": "true"
-},
+
 
 {
 "name": "Nation TV FHD",
