@@ -87,15 +87,7 @@
 "info": "HD",
 "playInNatPlayer": "true"
 },
-{
-"name": "CH 8 HD",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
-"url": "psilive3.sky-cdn.com:1935/ch8_2025/psi-ch8.stream/chunklist_w506327638_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE3NzA4NjYwODUmZG9vc3RyZWFtZW5kdGltZT0xNzcwODY5Njg1JmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPUFsdG1ZbG1DVGI3N2pfbnl2MUJ3dU5QSnBuQV9MdDRTZWVCMGV2QUVDbzQ9.m3u8",
-"referer": "",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-"info": "PSI",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "CH 8 HD",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
