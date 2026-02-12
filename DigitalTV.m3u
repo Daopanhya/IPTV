@@ -40,10 +40,10 @@
 {
 "name": "T Sports 7 HD",
 "image": "https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
 "referer": "",
-"url": "https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8",
-"info": "HD"
+"url": "https://dookeela4.live/live-tv/tsports7",
+"info": "Dook",
+"playInNatPlayer": "true"
 },
 {
 "name": "TPTV HD",
@@ -56,9 +56,9 @@
 {
 "name": "TNN 16 HD",
 "image": "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp",
-"url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8",
+"url": "https://dookeela4.live/live-tv/tnn",
 "referer": "",
-"info": "HD",
+"info": "Dook",
 "playInNatPlayer": "true"
 },
 {
@@ -107,6 +107,14 @@
 "url": "psilive3.sky-cdn.com:1935/ch8_2025/psi-ch8.stream/chunklist_w506327638_tkZG9vc3RyZWFtc3RhcnR0aW1lPTE3NzA4NjYwODUmZG9vc3RyZWFtZW5kdGltZT0xNzcwODY5Njg1JmRvb3N0cmVhbUN1c3RvbVBhcmFtZXRlcj1wc2lmaXhpdCZkb29zdHJlYW1oYXNoPUFsdG1ZbG1DVGI3N2pfbnl2MUJ3dU5QSnBuQV9MdDRTZWVCMGV2QUVDbzQ9.m3u8",
 "referer": "",
 "info": "PSI",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH 8 HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
+"url": "https://dookeela4.live/live-tv/ch8",
+"referer": "",
+"info": "Dook",
 "playInNatPlayer": "true"
 },
 {
