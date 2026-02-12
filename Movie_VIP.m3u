@@ -6,6 +6,22 @@
 "stations" : [
 
 {
+name:"Mix",
+image:"https://media-mvtv7.imgix.net/channel/194_y_9BUVhAoK5Dzxwjdu2rgXWP8Sb7JOnFRt.png",
+url:"https://edge2a.v2h-cdn.com/ttd/mix/playlist.m3u8",
+"referer": "",
+"info": "Mvtv",
+"playInNatPlayer": "true"
+},
+{
+name:"BTV",
+image:"https://media-mvtv10.imgix.net/channel/196_y_cga1S5Y9WvxBPVKGhqIUtbyT6feCmoEk.jpg",
+url:"https://edge2a.v2h-cdn.com/ttd/tvb/playlist.m3u8",
+"referer": "",
+"info": "Mvtv",
+"playInNatPlayer": "true"
+},
+{
 name:"Channel 8",
 image:"https://img2.pic.in.th/pic/-17a3ffa4868584a33d.jpeg",
 url:"http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
