@@ -65,9 +65,17 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 {
 "name": "Spotv 1",
 "image": "https://image.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
-"referer": "https://www.madoohd.com",
-"url": "https://demo-live.siamzeed.com/fixtures/19577405",
-"info": "siam",
+"referer": " ",
+"url": "https://dookeela4.live/live-tv/spotv",
+"info": "Dook",
+"playInNatPlayer": "true"
+},
+{
+"name": "Spotv 2",
+"image": "https://dookeela4.live/uploads/1664529575.png",
+"referer": " ",
+"url": "https://dookeela4.live/live-tv/spotv2",
+"info": "Dook",
 "playInNatPlayer": "true"
 },
 
