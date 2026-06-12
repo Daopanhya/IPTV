@@ -19,6 +19,16 @@ url: "https://sport.trueid.net/premier-league/fixtures",
  "embed":"true"
  },
 {
+"name": "FOOBALL TV",
+"image": " ",
+"referer": "",
+"url": "https://laotv.la/live.html?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExdWtuQTJoeXhCWWo4UlI4OXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR44fOc8JGwqiUfSn-C15Rw0AyWqtZK-YGd9Tg8TyrQtjFi-ltE-p7sY-9UtOw_aem_PQeHxncWxrKCCvA-5xD1Mg",
+"info": "Dook",
+"playInNatPlayer": "true"
+},
+
+
+{
 "name": "TPF 3",
 "image": "https://dookeela4.live/uploads/1664499681.png",
 "referer": "",
