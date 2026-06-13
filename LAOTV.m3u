@@ -12,6 +12,64 @@ url:"https://tv.laoid.net/web/#/tv?id=744a9bd7cda340ea852fc8b8885c5ac6&serverId=
 "playInNatPlayer": "true"
 },
 {
+name:"LNTV 3",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=61c37b0561504d41b0334c2ffafd549e&serverId=ae485a61c1ca4c5b917e484f6d85fa86",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"LATV",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=5c3dc9ca90a248758e8454434c3ddc47&serverId=ae485a61c1ca4c5b917e484f6d85fa86",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"MVLAO",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=ccb97839a6e74606865634504eedbd61&serverId=ae485a61c1ca4c5b917e484f6d85fa86",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+
+{
+name:"LAO ESTV",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=29c6349963d241aeb2a4853b86ac34ce&serverId=ae485a61c1ca4c5b917e484f6d85fa86",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"VTE 9",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=4e6e4dfeff204f37add0ef7eaef792c0&serverId=ae485a61c1ca4c5b917e484f6d85fa86",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"PSTV",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=41e7b40c4f0249fb98746e1cd656fd3a&serverId=ae485a61c1ca4c5b917e484f6d85fa86 Hu",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"EN TV",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=60e90c8fdf6241fe85072114012bf8fa&serverId=ae485a61c1ca4c5b917e484f6d85fa86 Hu",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"Sport TV",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=205c0184635041febc045b172481aab7&serverId=ae485a61c1ca4c5b917e484f6d85fa86 Hu",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+
+{
 name:"MVLAO HD",
 image:"https://media-mvtv-app.imgix.net/uploads/channel/33_y_nqRCYpyBg3L8WMfV6hk1zbxKZoEl0ISO.png",
 url:"https://edge2a.v2h-cdn.com/live_mvhub/mvlao.stream/playlist.m3u8",
