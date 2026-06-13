@@ -68,14 +68,43 @@ url:"https://tv.laoid.net/web/#/tv?id=205c0184635041febc045b172481aab7&serverId=
 "info": "HD",
 "playInNatPlayer": "true"
 },
-
 {
-name:"MVLAO HD",
-image:"https://media-mvtv-app.imgix.net/uploads/channel/33_y_nqRCYpyBg3L8WMfV6hk1zbxKZoEl0ISO.png",
-url:"https://edge2a.v2h-cdn.com/live_mvhub/mvlao.stream/playlist.m3u8",
+name:"Sport2 TV",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=4cedeb2042234861af65445cf78a5bd6&serverId=ae485a61c1ca4c5b917e484f6d85fa86 Hu",
 "info": "HD",
 "playInNatPlayer": "true"
 },
+{
+name:"Genz TV",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=068bd5b072d24ec8ae691c1da3be4a3c&serverId=ae485a61c1ca4c5b917e484f6d85fa86 Hu",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"Dramas TV",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=fa6ffca358c445e2b61de9ea621ce765&serverId=ae485a61c1ca4c5b917e484f6d85fa86 Hu",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"Show TV",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=c63614e883134582a68f929672a76a33&serverId=ae485a61c1ca4c5b917e484f6d85fa86 Hu",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
+name:"LaoADS TV",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=2a83dceac57d4512acb39c12ee569b7f&serverId=ae485a61c1ca4c5b917e484f6d85fa86 Hu",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+
+
 
 {
 name:"FM103",
