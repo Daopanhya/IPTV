@@ -5,6 +5,13 @@
   "info": "DAO-IPTV",
 "stations" : [
 {
+name:"LNTV 1",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=744a9bd7cda340ea852fc8b8885c5ac6&serverId=ae485a61c1ca4c5b917e484f6d85fa86",
+"info": "HD",
+"playInNatPlayer": "true"
+},
+{
 name:"MVLAO HD",
 image:"https://media-mvtv-app.imgix.net/uploads/channel/33_y_nqRCYpyBg3L8WMfV6hk1zbxKZoEl0ISO.png",
 url:"https://edge2a.v2h-cdn.com/live_mvhub/mvlao.stream/playlist.m3u8",
