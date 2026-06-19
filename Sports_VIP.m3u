@@ -74,6 +74,33 @@ url:"https://blive99.github.io/m3u8/sporttv/monomax3.m3u8",
 "userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
 },
 {
+name:"bein1",
+image:"https://image.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png",
+url:"http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8",
+"referer": "https://streamx-web.cc",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+},
+{
+name:"bein2",
+image:"https://image.thai-play.com/images/tv/bein-sport-th-2.png",
+url:"http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8",
+"referer": "https://streamx-web.cc",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+},
+{
+name:"bein3",
+image:"https://image.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png",
+url:"http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8",
+"referer": "https://streamx-web.cc",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+},
+{
 "name": "TPF 3",
 "image": "https://dookeela4.live/uploads/1664499681.png",
 "referer": "",
@@ -101,7 +128,7 @@ url:"https://blive99.github.io/m3u8/sporttv/monomax3.m3u8",
 
 {
 "name": "True Sports 1 HD",
-"image": "https://dookeela4.live/uploads/1664802455.png",
+"image": "",
 "referer": "",
 "url": "https://dookeela4.live/live-tv/tsp1",
 "info": "Dook",
@@ -174,215 +201,8 @@ url:"https://blive99.github.io/m3u8/sporttv/monomax3.m3u8",
 },
 
 
-{
-"name": "beIN SPORTS 1 HD",
-"image": "https://image.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png",
-"referer": "",
-"url": "https://demo-live.siamzeed.com/fixtures/19439387",
-"info": "siam",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "beIN SPORTS 2 HD",
-"image": "https://image.thai-play.com/images/tv/bein-sport-th-2.png",
-"referer": "",
-"url": "https://demo-live.siamzeed.com/fixtures/19439395",
-"info": "siam",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 3 HD",
-"image": "https://image.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png",
-"referer": "",
-"url": "https://demo-live.siamzeed.com/fixtures/19443050",
-"info": "siam",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 4 HD",
-"image": "https://image.thai-play.com/images/tv/bein-4.png",
-"referer": "",
-"url": "https://demo-live.siamzeed.com/fixtures/19433583",
-"info": "siam",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 5 HD",
-"image": "https://image.thai-play.com/images/tv/bein-5.png",
-"referer": "",
-"url": "https://demo-live.siamzeed.com/fixtures/19439399",
-"info": "siam",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 6 HD",
-"image": "https://image.thai-play.com/images/tv/bein-6.png",
-"referer": "",
-"url": "https://demo-live.siamzeed.com/fixtures/19433584",
-"info": "siam",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 7 HD",
-"image": "https://image.thai-play.com/images/tv/bein-7.png",
-"referer": "",
-"url": "https://demo-live.siamzeed.com/fixtures/19433587",
-"info": "siam",
-"playInNatPlayer": "true"
-},
-{
-"name": "beIN SPORTS 8 HD",
-"image": "https://image.thai-play.com/images/tv/bein-8.png",
-"referer": "",
-"url": "https://demo-live.siamzeed.com/fixtures/19433591",
-"info": "siam",
-"playInNatPlayer": "true"
-},
 
 
-
-{
-"name": "AIS 1",
-"image": "https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19427590",
-"referer": "https://doolive4k.tv",
-"info": "siam",
-"playInNatPlayer": "true"
-},
- {
-"name": "AIS 2",
-"image": "https://api-soccer.thai-play.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19427587",
-"referer": "https://doolive4k.tv",
-"info": "siam1",
-"playInNatPlayer": "true"
-},
- {
-"name": "AIS 3",
-"image": "https://api-soccer.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19427594",
-"referer": "https://doolive4k.tv",
-"info": "siam",
-"playInNatPlayer": "true"
-},
- {
-"name": "AIS 4",
-"image": "https://image.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19427589",
-"referer": "https://doolive4k.tv",
-"info": "siam",
-"playInNatPlayer": "true"
-},
-{
-"name":"MonoMax 1",
-"image":"https://dookeela4.live/uploads/1753517049.png",
-"url":"https://dookeela4.live/live-tv/monomax1",
-"referer": " ",
-"info": "Dook",
-"playInNatPlayer": "true"
-},
-{
-"name":"MonoMax 2",
-"image":"https://dookeela4.live/uploads/1755093093.png",
-"url":"https://dookeela4.live/live-tv/monomax-2",
-"referer": " ",
-"info": "Dook",
-"playInNatPlayer": "true"
-},
-{
-"name":"MonoMax 1",
-"image":"https://image.thai-play.com/images/tv/mono-1.jpg",
-"url":" ",
-"referer": "https://dookeela4.live",
-"info": "VPN 1.1.1",
-"playInNatPlayer": "true"
-},
-{
-"name":"MonoMax 2",
-"image":"https://image.thai-play.com/images/tv/mono-2.jpg",
-"url":"https://demo-live.siamzeed.com/fixtures/19427676",
-"referer": "https://dookeela4.live",
-"info": "siam",
-"playInNatPlayer": "true"},
-
-{
-"name":"MonoMax 3",
-"image":"https://image.thai-play.com/images/tv/mono-3.jpg",
-"url":" ",
-"info": "VPN 1.1.1",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"MonoMax 4",
-"image":"https://image.thai-play.com/images/tv/mono-4.jpg",
-"url":"https://dookeela4.live/live-tv/monomax4",
-"info": "VPN 1.1.1",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"MonoMax 5",
-"image":"https://image.thai-play.com/images/tv/mono-5.jpg",
-"url":"https://demo-live.siamzeed.com/fixtures/19427681",
-"info": "siam",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-
-{
-"name":"MonoMax 6",
-"image":"https://image.thai-play.com/images/tv/mono-6.jpg",
-"url":"https://dookeela4.live/live-tv/monomax6",
-"info": "VPN 1.1.1",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-{
-"name":"MonoMax 7",
-"image":"https://image.thai-play.com/images/tv/mono-6.jpg",
-"url":"https://dookeela4.live/live-tv/monomax7",
-"info": "VPN 1.1.1",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-
-{
-"name":"SIAM-1",
-"image":"https://image.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19643220",
-"referer": "https://dookeela4.live",
-"info": "siam",
-"playInNatPlayer": "true"
-},
-{
-"name":"SIAM-2",
-"image":"https://image.thai-play.com/images/tv/cr3PJK6LjqFrAWWyphZSuvv5BjnYyKJsiam2.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19643219",
-"referer": "https://dookeela4.live",
-"info": "siam",
-"playInNatPlayer": "true"
-},
-{
-"name":"SIAM-3",
-"image":"https://image.thai-play.com/images/tv/u09TcaaBHclPY21DkjnQUs15KnEVvJpsiam3.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19643221",
-"referer": "https://dookeela4.live",
-"info": "siam",
-"playInNatPlayer": "true"
-},
-{
-"name":"SIAM-4",
-"image":"https://image.thai-play.com/images/tv/KuYqPsrL6rIxvBK6cOxT56K5kj4uAV8siam4.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19643224",
-"referer": "https://dookeela4.live",
-"info": "siam",
-"playInNatPlayer": "true"
-},
-{
-"name":"SIAM-5",
-"image":"https://image.thai-play.com/images/tv/DfF41JK9gkvbOlfl6ZAbXDqq6hUmGT2siam5.png",
-"url":"https://demo-live.siamzeed.com/fixtures/19643223",
-"referer": "https://dookeela4.live",
-"info": "siam",
-"playInNatPlayer": "true"
-},
 
 
 
