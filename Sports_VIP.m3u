@@ -101,13 +101,13 @@ url:"http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8",
 "userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
 },
 {
-name:"Sports1",
+name:"Sports1.",
 image:"https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png",
 url:"https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8",
 "referer": "",
 "info": " ",
 "embed": " ",
-"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+"userAgent": ""
 },
 {
 name:"Sports2",
@@ -116,7 +116,7 @@ url:"https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8",
 "referer": "",
 "info": " ",
 "embed": " ",
-"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+"userAgent": ""
 },
 {
 name:"Sports3",
@@ -125,7 +125,7 @@ url:"https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8",
 "referer": "",
 "info": " ",
 "embed": " ",
-"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+"userAgent": ""
 },
 {
 name:"Sports4",
@@ -134,7 +134,7 @@ url:"https://www.livedoomovies.com:4431/02_sport4_720p/playlist.m3u8",
 "referer": "",
 "info": " ",
 "embed": " ",
-"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+"userAgent": ""
 },
 {
 name:"Sports5",
@@ -143,7 +143,7 @@ url:"https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8",
 "referer": "https://streamx-web.cc",
 "info": " ",
 "embed": " ",
-"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+"userAgent": ""
 },
 {
 name:"Sports7",
@@ -152,7 +152,7 @@ url:"https://www.livedoomovies.com:4431/02_sport7_720p/playlist.m3u8",
 "referer": "",
 "info": " ",
 "embed": " ",
-"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+"userAgent": ""
 },
 
 
