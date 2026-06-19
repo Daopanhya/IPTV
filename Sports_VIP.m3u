@@ -1,7 +1,7 @@
 {
 "name": "Sports",
 "image"             :     "https://play-lh.googleusercontent.com/me4WG3oD2p2JSkG3cmzq3AQj_zMWFTEaj_O4eCN7ZzyAkG_3U2r_96d9kH5mVrPnp7_W=w200",
-"author": "by DAO-IPTV   (ອັບເດດ 9/5/2026)",
+"author": "by DAO-IPTV   (ອັບເດດ 19/6/2026)",
   "info": "DAO-IPTV",
 "stations" : [
 {
@@ -46,7 +46,33 @@ url:"https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8",
 "embed": " ",
 "userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
 },
-
+{
+name:"MONOMAX 1",
+image:"https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+url:"https://blive99.github.io/m3u8/sporttv/monomax1.m3u8",
+"referer": "https://github.com",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+},
+{
+name:"MONOMAX 2",
+image:"https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+url:"https://blive99.github.io/m3u8/sporttv/monomax2.m3u8",
+"referer": "https://github.com",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+},
+{
+name:"MONOMAX 3",
+image:"https://img.utdstc.com/icon/2d7/9d3/2d79d3e9064d818d12d30b94b0ea769c81f6bb7de39f15be544de462a233ab6d:200",
+url:"https://blive99.github.io/m3u8/sporttv/monomax3.m3u8",
+"referer": "https://github.com",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+},
 {
 "name": "TPF 3",
 "image": "https://dookeela4.live/uploads/1664499681.png",
