@@ -103,7 +103,15 @@ url:"https://tv.laoid.net/web/#/tv?id=2a83dceac57d4512acb39c12ee569b7f&serverId=
 "info": "HD",
 "playInNatPlayer": "true"
 },
-
+{
+name:"FIFA World Cup MONOMAX 1",
+image:"",
+url:"https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8",
+"referer": "",
+"info": " ",
+"embed": "true",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+},
 
 
 {
