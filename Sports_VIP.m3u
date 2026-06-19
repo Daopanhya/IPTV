@@ -26,7 +26,33 @@ url: "https://sport.trueid.net/premier-league/fixtures",
 "info": "Dook",
 "playInNatPlayer": "true"
 },
-
+{
+name:"FIFA World Cup MONOMAX 1",
+image:"https://external-preview.redd.it/world-cup-2026-thirteen-different-kick-off-times-at-next-v0-s0Zd2DdEoOFjGgZ2ymNk13dr6S1qP08hDS9EO-Ni18s.jpeg?width=640&crop=smart&auto=webp&s=0552046dae189d38c9d1ac1ee02c959dd9ac7715",
+url:"https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8",
+"referer": "",
+"info": " ",
+"embed": "true",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+},
+{
+name:"FIFA World Cup MONOMAX 2",
+image:"https://external-preview.redd.it/world-cup-2026-thirteen-different-kick-off-times-at-next-v0-s0Zd2DdEoOFjGgZ2ymNk13dr6S1qP08hDS9EO-Ni18s.jpeg?width=640&crop=smart&auto=webp&s=0552046dae189d38c9d1ac1ee02c959dd9ac7715",
+url:"https://yyi7tewa2x.3ppnkog.com/xstream/monomax-2/playlist.m3u8",
+"referer": "",
+"info": " ",
+"embed": "true",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+},
+{
+name:"FIFA World Cup MONOMAX 3",
+image:"https://external-preview.redd.it/world-cup-2026-thirteen-different-kick-off-times-at-next-v0-s0Zd2DdEoOFjGgZ2ymNk13dr6S1qP08hDS9EO-Ni18s.jpeg?width=640&crop=smart&auto=webp&s=0552046dae189d38c9d1ac1ee02c959dd9ac7715",
+url:"https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8",
+"referer": "",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+},
 
 {
 "name": "TPF 3",
