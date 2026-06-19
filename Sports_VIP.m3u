@@ -101,108 +101,59 @@ url:"http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8",
 "userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
 },
 {
-"name": "TPF 3",
-"image": "https://dookeela4.live/uploads/1664499681.png",
-"referer": "",
-"url": "https://dookeela4.live/live-tv/tpf3",
-"info": "Dook",
-"playInNatPlayer": "true"
+name:"Sports1",
+image:"https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png",
+url:"https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8",
+"referer": "https://streamx-web.cc",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
 },
 {
-"name": "TPF 4",
-"image": "https://dookeela4.live/uploads/1664499692.png",
-"referer": "",
-"url": "https://dookeela4.live/live-tv/tpf4",
-"info": "Dook",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "TPF 5",
-"image": "https://dookeela4.live/uploads/1664499700.png",
-"referer": "",
-"url": "https://dookeela4.live/live-tv/tpf5",
-"info": "Dook",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "True Sports 1 HD",
-"image": "",
-"referer": "",
-"url": "https://dookeela4.live/live-tv/tsp1",
-"info": "Dook",
-"playInNatPlayer": "true"
+name:"Sports2",
+image:"https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",
+url:"https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8",
+"referer": "https://streamx-web.cc",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
 },
 {
-"name": "True Sports 2 HD",
-"image": "https://dookeela4.live/uploads/1664499966.png",
-"referer": "",
-"url": "https://dookeela4.live/live-tv/tsp2",
-"info": "Dook",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "True Sports 3 HD",
-"image": "https://dookeela4.live/uploads/1664802480.png",
-"referer": "",
-"url": "https://dookeela4.live/live-tv/tsp3",
-"info": "Dook",
-"playInNatPlayer": "true"
+name:"Sports3",
+image:"https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",
+url:"https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8",
+"referer": "https://streamx-web.cc",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
 },
 {
-"name": "True Sports 4 HD",
-"image": "https://dookeela4.live/uploads/1717396131.png",
-"referer": "",
-"url": "https://dookeela4.live/live-tv/tsp4",
-"info": "Dook",
-"playInNatPlayer": "true"
+name:"Sports4",
+image:"https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
+url:"https://www.livedoomovies.com:4431/02_sport4_720p/playlist.m3u8",
+"referer": "https://streamx-web.cc",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
 },
 {
-"name": "True Sports 5",
-"image": "https://dookeela4.live/uploads/1664847910.png",
-"referer": " ",
-"url": "https://dookeela4.live/live-tv/tsp5",
-"info": "Dook",
-"playInNatPlayer": "true"
+name:"Sports5",
+image:"https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",
+url:"https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8",
+"referer": "https://streamx-web.cc",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
 },
 {
-"name": "True Sports 7",
-"image": "https://dookeela4.live/uploads/1664847921.png",
-"referer": " ",
-"url": "https://dookeela4.live/live-tv/tsp7",
-"info": "Dook",
-"playInNatPlayer": "true"
+name:"Sports7",
+image:"https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+url:"https://www.livedoomovies.com:4431/02_sport7_720p/playlist.m3u8",
+"referer": "https://streamx-web.cc",
+"info": " ",
+"embed": " ",
+"userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
 },
-{
-"name": "trueidsports1",
-"image": "https://dookeela4.live/uploads/1743311087.png",
-"referer": " ",
-"url": "https://dookeela4.live/live-tv/trueidsports1",
-"info": "Dook",
-"playInNatPlayer": "true"
-},
-{
-"name": "Spotv 1",
-"image": "https://dookeela4.live/uploads/1664529562.png",
-"referer": " ",
-"url": "https://dookeela4.live/live-tv/spotv",
-"info": "Dook",
-"playInNatPlayer": "true"
-},
-{
-"name": "Spotv 2",
-"image": "https://dookeela4.live/uploads/1664529575.png",
-"referer": " ",
-"url": "https://dookeela4.live/live-tv/spotv2",
-"info": "Dook",
-"playInNatPlayer": "true"
-},
-
-
-
-
 
 
 
