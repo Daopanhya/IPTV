@@ -68,13 +68,7 @@ url:"https://tv.laoid.net/web/#/tv?id=205c0184635041febc045b172481aab7&serverId=
 "info": "HD",
 "playInNatPlayer": "true"
 },
-{
-name:"Sport2 TV",
-image:" ",
-url:"https://tv.laoid.net/web/#/tv?id=4cedeb2042234861af65445cf78a5bd6&serverId=ae485a61c1ca4c5b917e484f6d85fa86 Hu",
-"info": "HD",
-"playInNatPlayer": "true"
-},
+
 {
 name:"Genz TV",
 image:" ",
@@ -103,7 +97,13 @@ url:"https://tv.laoid.net/web/#/tv?id=2a83dceac57d4512acb39c12ee569b7f&serverId=
 "info": "HD",
 "playInNatPlayer": "true"
 },
-
+{
+name:"DRM TV",
+image:" ",
+url:"https://tv.laoid.net/web/#/tv?id=6daa82b5babf4c30b19279103295d56d&serverId=ae485a61c1ca4c5b917e484f6d85fa86 Hu",
+"info": "HD",
+"playInNatPlayer": "true"
+},
 
 {
 name:"FM103",
